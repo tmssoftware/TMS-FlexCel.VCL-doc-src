@@ -1,0 +1,30 @@
+---
+uid: THex2OctImpl
+description: THex2OctImpl
+---
+
+# THex2OctImpl Class
+
+Implements the Hex2Oct Excel function\. Look at Excel documentation for more information\.
+
+
+## Syntax
+
+**Unit:** [FlexCel.AddinFunctions](../index.md)
+
+<pre><code class="lang-delphi hljs">THex2OctImpl = class(<a href="../TBaseBinHexImpl/index.md">TBaseBinHexImpl</a>);</code></pre>
+
+## Constructors
+
+|Name|Description|
+|---|---|
+|[Create](Create.md)|Creates a new implementation\.<br />|
+
+
+## Methods
+
+|Name|Description|
+|---|---|
+|[Calc](Calc.md)|Implement this method to specialize BaseBinHexImpl class\.<br />|
+
+

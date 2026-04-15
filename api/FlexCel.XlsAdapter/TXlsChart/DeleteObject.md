@@ -1,0 +1,53 @@
+---
+uid: TXlsChart.DeleteObject
+description: TXlsChart.DeleteObject
+---
+
+# TXlsChart\.DeleteObject Method
+
+## Overloads
+
+* [TXlsChart\.DeleteObject\(Integer\)](#txlschartdeleteobjectinteger)
+* [TXlsChart\.DeleteObject\(Integer, string\)](#txlschartdeleteobjectinteger-string)
+
+# TXlsChart\.DeleteObject\(Integer\)
+Deletes the graphic object at objectIndex\. Use it with care, there are some graphics objects you **don't** want to remove \(like comment boxes when you don't delete the associated comment\.\)
+
+## Syntax
+
+**Unit:** [FlexCel.XlsAdapter](../index.md)
+
+<pre><code class="lang-delphi hljs">procedure <a href="../TXlsChart/index.md">TXlsChart</a>.DeleteObject(const objectIndex: Integer); overload; override;</code></pre>
+
+## Parameters
+
+|<->|Parameter|Type|Description|
+|---|---|---|---|
+|const|**objectIndex**|Integer|Index of the object \(1 based\)\.|
+
+
+## See also
+
+* [TXlsChart](../TXlsChart/index.md)
+
+# TXlsChart\.DeleteObject\(Integer, string\)
+Deletes the graphic object at objectIndex\. Use it with care, there are some graphics objects you **don't** want to remove \(like comment boxes when you don't delete the associated comment\.\)
+
+## Syntax
+
+**Unit:** [FlexCel.XlsAdapter](../index.md)
+
+<pre><code class="lang-delphi hljs">procedure <a href="../TXlsChart/index.md">TXlsChart</a>.DeleteObject(const objectIndex: Integer; const objectPath: string); overload; override;</code></pre>
+
+## Parameters
+
+|<->|Parameter|Type|Description|
+|---|---|---|---|
+|const|**objectIndex**|Integer|Index of the object \(1 based\)\.|
+|const|**objectPath**|string|Index to the child object you want to change the property\.<br />If it is a simple object, you can use String\.Empty here, if not you need to get the ObjectPath from [TXlsBaseChart.GetObjectProperties](../TXlsBaseChart/GetObjectProperties.md)<br />If it is "absolute"\(it starts with "\\\\"\), then the path includes the objectIndex, and the objectIndex is not used\. An object path of "\\\\1\\\\2\\\\3" is exactly the same as using objectIndex = 1 and objectPath = "2\\\\3"|
+
+
+## See also
+
+* [TXlsChart](../TXlsChart/index.md)
+

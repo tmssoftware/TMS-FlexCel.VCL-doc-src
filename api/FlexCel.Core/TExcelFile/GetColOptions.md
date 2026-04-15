@@ -1,0 +1,42 @@
+---
+uid: TExcelFile.GetColOptions
+description: TExcelFile.GetColOptions
+---
+
+# TExcelFile\.GetColOptions Method
+
+Returns all Column options at once \(if the column is hidden, etc\)\.
+
+
+## Remarks
+
+To get individual values, use the corresponding methods \(i\.e\. [GetColHidden](GetColHidden.md)\) Use this method only to copy the options from one column to another\.
+
+
+## Syntax
+
+**Unit:** [FlexCel.Core](../index.md)
+
+<pre><code class="lang-delphi hljs">function <a href="../TExcelFile/index.md">TExcelFile</a>.GetColOptions(const col: Integer): Integer; virtual; abstract;</code></pre>
+
+## Parameters
+
+|<->|Parameter|Type|Description|
+|---|---|---|---|
+|const|**col**|Integer|Column Index \(1 based\)|
+
+
+## Examples
+
+To copy all the column options from column 1 to 2, use
+
+<pre class="shiki shiki-themes light-plus dark-plus" style="background-color:#FFFFFF;--shiki-dark-bg:#1E1E1E;color:#000000;--shiki-dark:#D4D4D4" tabindex="0"><code><span class="line"><span style="color:#000000;--shiki-dark:#D4D4D4">  xls.SetColOptions(</span><span style="color:#098658;--shiki-dark:#B5CEA8">2</span><span style="color:#000000;--shiki-dark:#D4D4D4">, xls.GetColOptions(</span><span style="color:#098658;--shiki-dark:#B5CEA8">1</span><span style="color:#000000;--shiki-dark:#D4D4D4">));</span></span>
+<span class="line"></span></code></pre>
+
+This is faster and simpler than assigning each option alone\.
+
+
+## See also
+
+* [TExcelFile](../TExcelFile/index.md)
+

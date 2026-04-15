@@ -1,0 +1,20 @@
+---
+uid: TExcelFile.NeedsRecalc
+description: TExcelFile.NeedsRecalc
+---
+
+# TExcelFile.NeedsRecalc Property
+
+True if the file has been modified after loading\.
+
+
+## Syntax
+
+**Unit:** [FlexCel.Core](../index.md)
+
+<pre><code class="lang-delphi hljs">property <a href="../TExcelFile/index.md">TExcelFile</a>.NeedsRecalc: Boolean</code></pre>
+
+## See also
+
+* [TExcelFile](../TExcelFile/index.md)
+

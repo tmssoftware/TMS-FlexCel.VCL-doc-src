@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1707 777" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g transform="matrix(1,0,0,1,-91,-112)">
+        <g transform="matrix(1,0,0,1,-7.56973,-0.0111238)">
+            <g transform="matrix(1,0,0,0.824232,1192.69,457.536)">
+                <path d="M528.937,234.728C528.937,208.932 511.675,187.989 490.413,187.989L175.987,187.989C154.725,187.989 137.463,208.932 137.463,234.728L137.463,446.419C137.463,472.215 154.725,493.158 175.987,493.158L490.413,493.158C511.675,493.158 528.937,472.215 528.937,446.419L528.937,234.728Z" style="fill:rgb(89,166,98);"/>
+            </g>
+            <g transform="matrix(1,0,0,1,421.877,510.043)">
+                <text x="1037.34px" y="243.337px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:60px;fill:white;">Cells</text>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,380.966,-1.86316)">
+            <g transform="matrix(1,0,0,0.776262,804.158,81.2098)">
+                <path d="M528.937,234.728C528.937,208.932 512.68,187.989 492.655,187.989L173.745,187.989C153.72,187.989 137.463,208.932 137.463,234.728L137.463,446.419C137.463,472.215 153.72,493.158 173.745,493.158L492.655,493.158C512.68,493.158 528.937,472.215 528.937,446.419L528.937,234.728Z" style="fill:rgb(89,166,98);"/>
+            </g>
+            <g transform="matrix(1,0,0,1,33.341,55.4163)">
+                <text x="1022.31px" y="243.337px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:60px;fill:white;">Model</text>
+                <text x="1008.96px" y="305.3px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:60px;fill:white;">without</text>
+                <text x="1044px" y="367.263px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:60px;fill:white;">cells</text>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,11.8185,58.5055)">
+            <text x="191.347px" y="297.2px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:60px;fill:white;">Excel File</text>
+        </g>
+        <g transform="matrix(1.9641,0,0,1.17049,-666.952,-78.7796)">
+            <path d="M558.8,409.611L558.8,462.137L558.8,357.084L558.8,252.032L558.8,304.558L976.805,304.558L976.805,252.032L1039.41,357.084L976.805,462.137L976.805,409.611L558.8,409.611Z" style="fill:rgb(230,169,26);"/>
+        </g>
+        <g transform="matrix(1.9641,0,0,1.17049,-669.855,327.071)">
+            <path d="M840.486,412.245L656.219,62.124L752.708,59.813L888.401,306.801L976.805,304.558L976.805,252.032L1039.41,357.084L976.805,462.137L976.805,409.611L840.486,412.245Z" style="fill:rgb(230,169,26);"/>
+        </g>
+        <path d="M528.937,236.741C528.937,209.834 507.092,187.989 480.185,187.989L186.215,187.989C159.308,187.989 137.463,209.834 137.463,236.741L137.463,444.407C137.463,471.313 159.308,493.158 186.215,493.158L480.185,493.158C507.092,493.158 528.937,471.313 528.937,444.407L528.937,236.741Z" style="fill:rgb(64,124,191);"/>
+        <g transform="matrix(1,0,0,1,11.8185,58.5055)">
+            <text x="191.347px" y="297.2px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:60px;fill:white;">Excel File</text>
+        </g>
+        <g transform="matrix(1,0,0,1,212.216,22.528)">
+            <text x="369.756px" y="333.579px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:60px;fill:white;">ExcelFile.Open</text>
+        </g>
+        <g transform="matrix(0.683575,0.729881,-0.729881,0.683575,720.131,-48.4675)">
+            <text x="365.288px" y="333.579px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:60px;fill:white;">V<tspan x="404.224px 417.554px " y="333.579px 333.579px ">ir</tspan>tualCellRead</text>
+        </g>
+    </g>
+</svg>
