@@ -25,9 +25,9 @@ Represents the line style characteristics\.
 
 |Name|Description|
 |---|---|
+|[Add](Add.md)|Adds a new LineStyle to the collection\. Line styles must be added in order, first is "Subtle", second is "Moderate", third is "Intense" and there could be new definitions in newer versions of Excel\.<br />|
 |[Clone](Clone.md)|Returns a deep copy of the object\.<br />|
 |[GetRealFillStyle](GetRealFillStyle.md)|Returns the line color that results from applying the formatting type to a color\.<br />|
-|[Add](Add.md)|Adds a new LineStyle to the collection\. Line styles must be added in order, first is "Subtle", second is "Moderate", third is "Intense" and there could be new definitions in newer versions of Excel\.<br />|
 
 
 ## Properties

@@ -3,7 +3,7 @@ uid: TPdfGlyphNotInFontError.MissingChar
 description: TPdfGlyphNotInFontError.MissingChar
 ---
 
-# TPdfGlyphNotInFontError.MissingChar Property
+# TPdfGlyphNotInFontError\.MissingChar Property
 
 Character missing in the font\.
 

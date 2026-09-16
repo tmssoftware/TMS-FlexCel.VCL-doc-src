@@ -3,7 +3,7 @@ uid: TDataConnectionParameters.Item[const_index]
 description: TDataConnectionParameters.Item[const index]
 ---
 
-# TDataConnectionParameters.Item[const index] Property
+# TDataConnectionParameters\.Item\[const index\] Property
 
 Gets or sets the parameter at position index \(0 based\)\.
 

@@ -3,7 +3,7 @@ uid: TUIRectangle.Y
 description: TUIRectangle.Y
 ---
 
-# TUIRectangle.Y Property
+# TUIRectangle\.Y Property
 
 Top coordinate of the rectangle\.
 

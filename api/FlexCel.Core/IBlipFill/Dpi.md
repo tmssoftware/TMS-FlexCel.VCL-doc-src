@@ -3,7 +3,7 @@ uid: IBlipFill.Dpi
 description: IBlipFill.Dpi
 ---
 
-# IBlipFill.Dpi Property
+# IBlipFill\.Dpi Property
 
 Specifies the DPI \(dots per inch\) used to calculate the size of the blip\. If not present or zero, the DPI in the blip is used\.
 

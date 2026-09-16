@@ -3,7 +3,7 @@ uid: IShapeProperties.ShapeThemeEffects
 description: IShapeProperties.ShapeThemeEffects
 ---
 
-# IShapeProperties.ShapeThemeEffects Property
+# IShapeProperties\.ShapeThemeEffects Property
 
 Returns the theme effects applied to the shape\.
 

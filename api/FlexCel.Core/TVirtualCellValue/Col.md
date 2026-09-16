@@ -3,7 +3,7 @@ uid: TVirtualCellValue.Col
 description: TVirtualCellValue.Col
 ---
 
-# TVirtualCellValue.Col Property
+# TVirtualCellValue\.Col Property
 
 Column where the cell was read\. \(1 based\)
 

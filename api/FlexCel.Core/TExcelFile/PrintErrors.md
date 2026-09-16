@@ -3,7 +3,7 @@ uid: TExcelFile.PrintErrors
 description: TExcelFile.PrintErrors
 ---
 
-# TExcelFile.PrintErrors Property
+# TExcelFile\.PrintErrors Property
 
 Determines how the errors will be printed\.
 

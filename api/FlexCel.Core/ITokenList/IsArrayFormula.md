@@ -3,7 +3,7 @@ uid: ITokenList.IsArrayFormula
 description: ITokenList.IsArrayFormula
 ---
 
-# ITokenList.IsArrayFormula Property
+# ITokenList\.IsArrayFormula Property
 
 If true, the tokens in this list refer to an array formula\.
 

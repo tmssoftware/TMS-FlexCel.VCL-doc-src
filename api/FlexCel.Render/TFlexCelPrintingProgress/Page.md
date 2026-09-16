@@ -3,7 +3,7 @@ uid: TFlexCelPrintingProgress.Page
 description: TFlexCelPrintingProgress.Page
 ---
 
-# TFlexCelPrintingProgress.Page Property
+# TFlexCelPrintingProgress\.Page Property
 
 The page that is being written\.
 

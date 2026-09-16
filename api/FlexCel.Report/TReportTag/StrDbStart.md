@@ -3,7 +3,7 @@ uid: TReportTag.StrDbStart
 description: TReportTag.StrDbStart
 ---
 
-# TReportTag.StrDbStart Property
+# TReportTag\.StrDbStart Property
 
 "\["
 

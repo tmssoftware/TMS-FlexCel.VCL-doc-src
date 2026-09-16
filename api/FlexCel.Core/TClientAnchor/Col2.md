@@ -3,7 +3,7 @@ uid: TClientAnchor.Col2
 description: TClientAnchor.Col2
 ---
 
-# TClientAnchor.Col2 Property
+# TClientAnchor\.Col2 Property
 
 Last column of object\.
 

@@ -3,7 +3,7 @@ uid: TCondFmtApplyBorders.Bottom
 description: TCondFmtApplyBorders.Bottom
 ---
 
-# TCondFmtApplyBorders.Bottom Property
+# TCondFmtApplyBorders\.Bottom Property
 
 Bottom border\.
 

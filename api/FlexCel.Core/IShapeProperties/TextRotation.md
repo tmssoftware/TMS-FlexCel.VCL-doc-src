@@ -3,7 +3,7 @@ uid: IShapeProperties.TextRotation
 description: IShapeProperties.TextRotation
 ---
 
-# IShapeProperties.TextRotation Property
+# IShapeProperties\.TextRotation Property
 
 Text rotation: 0 means horizontal, 1 means vertical text, 2 means rotated \-90 degrees clockwise, 3 means rotated 90 degrees clockwise\.
 This method uses the xls way to set text rotation\.

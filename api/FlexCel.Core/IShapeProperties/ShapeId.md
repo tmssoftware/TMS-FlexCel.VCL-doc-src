@@ -3,7 +3,7 @@ uid: IShapeProperties.ShapeId
 description: IShapeProperties.ShapeId
 ---
 
-# IShapeProperties.ShapeId Property
+# IShapeProperties\.ShapeId Property
 
 This is an internal identified for the shape\. It will remain the same once the file is loaded, but it might change when you load the same file at different times\.
 

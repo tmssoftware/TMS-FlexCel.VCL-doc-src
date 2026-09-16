@@ -3,7 +3,7 @@ uid: TXlsFile.PrintOverThenDown
 description: TXlsFile.PrintOverThenDown
 ---
 
-# TXlsFile.PrintOverThenDown Property
+# TXlsFile\.PrintOverThenDown Property
 
 If true, the pages will be printed to the right, then down\. Otherwise pages will be printed down, then to the right\.
 

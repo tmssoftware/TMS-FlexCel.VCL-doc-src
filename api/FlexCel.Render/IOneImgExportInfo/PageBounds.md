@@ -3,7 +3,7 @@ uid: IOneImgExportInfo.PageBounds
 description: IOneImgExportInfo.PageBounds
 ---
 
-# IOneImgExportInfo.PageBounds Property
+# IOneImgExportInfo\.PageBounds Property
 
 Limits of the page in inches/100\.
 

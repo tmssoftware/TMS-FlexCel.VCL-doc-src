@@ -3,7 +3,7 @@ uid: IThemeColorScheme.Item[const_themeColor]
 description: IThemeColorScheme.Item[const themeColor]
 ---
 
-# IThemeColorScheme.Item[const themeColor] Property
+# IThemeColorScheme\.Item\[const themeColor\] Property
 
 Returns a color definition for a themed color\.
 

@@ -25,10 +25,10 @@ Holds the properties for an object\.
 
 |Name|Description|
 |---|---|
-|[ShapeFill](ShapeFill.md)|Fill style used to fill the background of the comment\. If you are using a solid color, only Indexed colors or RGB are allowed here, if you specify something else, the color will be converted to RGB\. It might be a gradient fill or a texture too\. If null, default fill style will be used\.<br />|
-|[InvertedFill](InvertedFill.md)|Fill style used to fill the background of bars in bar charts when the value is negative and "invert negative colors" is true\.<br />|
-|[ShapeBorder](ShapeBorder.md)|Line style for the object\.<br />|
 |[EffectStyle](EffectStyle.md)|Effects for the object, like inner shadow or glow\.<br />|
+|[InvertedFill](InvertedFill.md)|Fill style used to fill the background of bars in bar charts when the value is negative and "invert negative colors" is true\.<br />|
 |[IsWebAddin](IsWebAddin.md)|Returns true if the object is a web addin\.<br />|
+|[ShapeBorder](ShapeBorder.md)|Line style for the object\.<br />|
+|[ShapeFill](ShapeFill.md)|Fill style used to fill the background of the comment\. If you are using a solid color, only Indexed colors or RGB are allowed here, if you specify something else, the color will be converted to RGB\. It might be a gradient fill or a texture too\. If null, default fill style will be used\.<br />|
 
 

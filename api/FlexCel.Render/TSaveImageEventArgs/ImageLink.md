@@ -3,7 +3,7 @@ uid: TSaveImageEventArgs.ImageLink
 description: TSaveImageEventArgs.ImageLink
 ---
 
-# TSaveImageEventArgs.ImageLink Property
+# TSaveImageEventArgs\.ImageLink Property
 
 The link that will be inserted in the html file\.
 

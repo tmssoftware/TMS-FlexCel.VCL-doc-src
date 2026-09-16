@@ -3,7 +3,7 @@ uid: TExcelColor.Index
 description: TExcelColor.Index
 ---
 
-# TExcelColor.Index Property
+# TExcelColor\.Index Property
 
 Returns the color when this structure contains an indexed color \(1 based\)\. This property is for compatibility with xls files \(Excel 2003 or older\), but if you are not changing the color palette, even for older files, it is preferred to use [RGB](RGB.md) or [Theme](Theme.md) instead\.
 

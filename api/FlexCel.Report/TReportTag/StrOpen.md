@@ -3,7 +3,7 @@ uid: TReportTag.StrOpen
 description: TReportTag.StrOpen
 ---
 
-# TReportTag.StrOpen Property
+# TReportTag\.StrOpen Property
 
 Open a Tag\.
 

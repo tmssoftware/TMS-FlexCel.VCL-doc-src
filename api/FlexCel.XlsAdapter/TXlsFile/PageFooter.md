@@ -3,7 +3,7 @@ uid: TXlsFile.PageFooter
 description: TXlsFile.PageFooter
 ---
 
-# TXlsFile.PageFooter Property
+# TXlsFile\.PageFooter Property
 
 Page footer on the active sheet\. For a description on the format of the string, see [TExcelFile.PageHeader](../../FlexCel.Core/TExcelFile/PageHeader.md)
 

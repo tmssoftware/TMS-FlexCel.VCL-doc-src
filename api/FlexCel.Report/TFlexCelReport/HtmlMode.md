@@ -3,7 +3,7 @@ uid: TFlexCelReport.HtmlMode
 description: TFlexCelReport.HtmlMode
 ---
 
-# TFlexCelReport.HtmlMode Property
+# TFlexCelReport\.HtmlMode Property
 
 When true, FlexCel will interpret the text as HTML, and honor the tags that it can understand\.
 Note that when in HtmlMode, many consecutive spaces will be interpreted as one, and carriage returns will be interpreted as spaces\. To enter real carriage returns you need to enter a

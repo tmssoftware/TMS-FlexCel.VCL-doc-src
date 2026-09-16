@@ -33,13 +33,13 @@ Files are case\-insensitive, even if running in Linux\. "a\.xls" is the same as 
 
 |Name|Description|
 |---|---|
-|[OnLoadLinkedFile](OnLoadLinkedFile.md)|Replace this event when creating a custom descendant of TWorkspace\. See also [LoadLinkedFile](LoadLinkedFile.md)|
 |[Add](Add.md)|Adds a file to the workspace\. Whenever you recalculate any file in this workspace, all linked files will be recalculated too\.<br />**Note that you can't add two files with the same name or same reference twice to this collection\.**|
-|[GetFile](GetFile.md)|Returns the file at index\.<br />|
 |[Clear](Clear.md)|Removes all files from the workspace\.<br />|
+|[GetEnumerator](GetEnumerator.md)|Returns an enumerator with all the files in the Workspace\.<br />|
+|[GetFile](GetFile.md)|Returns the file at index\.<br />|
+|[OnLoadLinkedFile](OnLoadLinkedFile.md)|Replace this event when creating a custom descendant of TWorkspace\. See also [LoadLinkedFile](LoadLinkedFile.md)|
 |[Recalc](Recalc.md)|Use this method to force a recalculation of all the spreadsheets in the workspace\. This is the same as calling Recalc\(\) in any of the files in the workspace\.<br />|
 |[RecalcAndVerify](RecalcAndVerify.md)|This method will do the same as [TExcelFile.&#8203;Recalc&#8203;AndVerify](../TExcelFile/RecalcAndVerify.md), but for a workspace of files\.<br />|
-|[GetEnumerator](GetEnumerator.md)|Returns an enumerator with all the files in the Workspace\.<br />|
 
 
 ## Properties

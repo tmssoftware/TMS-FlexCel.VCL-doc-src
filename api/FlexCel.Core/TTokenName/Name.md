@@ -3,7 +3,7 @@ uid: TTokenName.Name
 description: TTokenName.Name
 ---
 
-# TTokenName.Name Property
+# TTokenName\.Name Property
 
 Named range represented by this token\.
 

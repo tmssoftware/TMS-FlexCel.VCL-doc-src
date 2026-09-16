@@ -3,7 +3,7 @@ uid: IConditionalExpressionRule.Formula
 description: IConditionalExpressionRule.Formula
 ---
 
-# IConditionalExpressionRule.Formula Property
+# IConditionalExpressionRule\.Formula Property
 
 The formula to be evaluated\. The conditional format will be applied when it evaluates to true\.
 

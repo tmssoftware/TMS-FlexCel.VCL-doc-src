@@ -3,7 +3,7 @@ uid: TBlipFillTile.ScaleX
 description: TBlipFillTile.ScaleX
 ---
 
-# TBlipFillTile.ScaleX Property
+# TBlipFillTile\.ScaleX Property
 
 Indicates the amount to horizontally scale the source rectangle\.
 

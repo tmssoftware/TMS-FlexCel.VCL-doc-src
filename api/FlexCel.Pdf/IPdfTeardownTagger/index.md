@@ -5,7 +5,7 @@ description: IPdfTeardownTagger
 
 # IPdfTeardownTagger Interface
 
-Implement this interface in order to tag a pdf file created by TPdfWriter\. This interface will be called after every the document is finished, and allows youto write global tags\. Note that FlexCelPdfExport already implements it so there is no need to define it again\.
+Implement this interface to tag a PDF file created by TPdfWriter\. This interface will be called after every document is finished and allows you to write global tags\. Note that FlexCelPdfExport already implements it, so there is no need to define it again\.
 
 
 ## Syntax

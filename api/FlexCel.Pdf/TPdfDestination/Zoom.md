@@ -3,7 +3,7 @@ uid: TPdfDestination.Zoom
 description: TPdfDestination.Zoom
 ---
 
-# TPdfDestination.Zoom Property
+# TPdfDestination\.Zoom Property
 
 Zoom to show at the destination\. A negative or 0 number means keep the default\.
 This value is only used if ZoomOptions is Zoom\.

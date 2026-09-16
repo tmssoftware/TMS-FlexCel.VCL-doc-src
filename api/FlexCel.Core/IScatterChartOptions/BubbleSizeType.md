@@ -3,7 +3,7 @@ uid: IScatterChartOptions.BubbleSizeType
 description: IScatterChartOptions.BubbleSizeType
 ---
 
-# IScatterChartOptions.BubbleSizeType Property
+# IScatterChartOptions\.BubbleSizeType Property
 
 What the bubble size represents\.
 

@@ -3,7 +3,7 @@ uid: TTableApplyBorders.Top
 description: TTableApplyBorders.Top
 ---
 
-# TTableApplyBorders.Top Property
+# TTableApplyBorders\.Top Property
 
 Top border of the full section of the table\. Does not apply to the borders of cells inside the section\.
 

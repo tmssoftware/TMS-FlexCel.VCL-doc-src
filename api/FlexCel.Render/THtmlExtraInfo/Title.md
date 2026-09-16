@@ -3,7 +3,7 @@ uid: THtmlExtraInfo.Title
 description: THtmlExtraInfo.Title
 ---
 
-# THtmlExtraInfo.Title Property
+# THtmlExtraInfo\.Title Property
 
 Title of the HTML file\. If left null, the title of the page will be used\.
 

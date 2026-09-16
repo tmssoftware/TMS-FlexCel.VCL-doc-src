@@ -3,7 +3,7 @@ uid: TPdfWriter.FontSubset
 description: TPdfWriter.FontSubset
 ---
 
-# TPdfWriter.FontSubset Property
+# TPdfWriter\.FontSubset Property
 
 When [FontEmbed](FontEmbed.md) is set to embed the fonts, this setting determines if the full font will be embedded, or only the characters used in the document\. If the full font is embedded the resulting file will be larger, but  it will be possible to edit it with a third party tool once it has been generated\.
 

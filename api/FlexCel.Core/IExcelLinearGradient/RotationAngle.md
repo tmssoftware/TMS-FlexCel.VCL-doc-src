@@ -3,7 +3,7 @@ uid: IExcelLinearGradient.RotationAngle
 description: IExcelLinearGradient.RotationAngle
 ---
 
-# IExcelLinearGradient.RotationAngle Property
+# IExcelLinearGradient\.RotationAngle Property
 
 Rotation angle of the gradient in degrees\.
 

@@ -3,7 +3,7 @@ uid: IGradientFill.Flip
 description: IGradientFill.Flip
 ---
 
-# IGradientFill.Flip Property
+# IGradientFill\.Flip Property
 
 Specifies the direction\(s\) in which to flip the gradient while tiling\.
 

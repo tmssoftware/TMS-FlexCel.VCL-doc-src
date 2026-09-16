@@ -3,7 +3,7 @@ uid: TRichString.Value
 description: TRichString.Value
 ---
 
-# TRichString.Value Property
+# TRichString\.Value Property
 
 Text of the string without formatting\. Might be null\.
 

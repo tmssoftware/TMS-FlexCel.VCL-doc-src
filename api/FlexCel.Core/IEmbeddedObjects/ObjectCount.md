@@ -3,7 +3,7 @@ uid: IEmbeddedObjects.ObjectCount
 description: IEmbeddedObjects.ObjectCount
 ---
 
-# IEmbeddedObjects.ObjectCount Property
+# IEmbeddedObjects\.ObjectCount Property
 
 The number of objects that are embedded inside this object\.
 

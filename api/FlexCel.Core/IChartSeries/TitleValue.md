@@ -3,7 +3,7 @@ uid: IChartSeries.TitleValue
 description: IChartSeries.TitleValue
 ---
 
-# IChartSeries.TitleValue Property
+# IChartSeries\.TitleValue Property
 
 Evaluated text of the title\.
 

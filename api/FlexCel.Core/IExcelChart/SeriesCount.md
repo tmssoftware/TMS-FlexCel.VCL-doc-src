@@ -3,7 +3,7 @@ uid: IExcelChart.SeriesCount
 description: IExcelChart.SeriesCount
 ---
 
-# IExcelChart.SeriesCount Property
+# IExcelChart\.SeriesCount Property
 
 Returns the count of series on this chart\.
 

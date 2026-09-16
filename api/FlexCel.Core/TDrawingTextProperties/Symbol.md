@@ -3,7 +3,7 @@ uid: TDrawingTextProperties.Symbol
 description: TDrawingTextProperties.Symbol
 ---
 
-# TDrawingTextProperties.Symbol Property
+# TDrawingTextProperties\.Symbol Property
 
 This element specifies that a symbol script font be used for a specific run of text\. This font is specified with a  typeface attribute much like the others but is specifically classified as a symbol script font\.
 

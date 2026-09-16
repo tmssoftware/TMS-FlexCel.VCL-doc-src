@@ -3,7 +3,7 @@ uid: TDataConnectionTable.TableIndex
 description: TDataConnectionTable.TableIndex
 ---
 
-# TDataConnectionTable.TableIndex Property
+# TDataConnectionTable\.TableIndex Property
 
 Index of the HTML table that is going to be imported\. this is used if no [TableName](TableName.md) is specified\.
 \. If neither this property or [TableName](TableName.md) are given, the table is considered missing\.

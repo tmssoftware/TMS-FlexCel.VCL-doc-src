@@ -3,7 +3,7 @@ uid: ILineStyle.Join
 description: ILineStyle.Join
 ---
 
-# ILineStyle.Join Property
+# ILineStyle\.Join Property
 
 How the line joins with the next\. If null, default from the theme will be used\.
 

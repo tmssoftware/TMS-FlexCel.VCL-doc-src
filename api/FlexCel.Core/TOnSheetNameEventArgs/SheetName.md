@@ -3,7 +3,7 @@ uid: TOnSheetNameEventArgs.SheetName
 description: TOnSheetNameEventArgs.SheetName
 ---
 
-# TOnSheetNameEventArgs.SheetName Property
+# TOnSheetNameEventArgs\.SheetName Property
 
 Use this property to return the new name that you want to use when creating a filename instead of the real sheet name\.
 

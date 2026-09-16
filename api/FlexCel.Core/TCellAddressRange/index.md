@@ -22,8 +22,8 @@ A class with 2 TCellAddress objects marking the start and end of a cell range\.
 |[Equals](Equals.md)|Returns true if both objects have the same data\.<br />|
 |[GetHashCode](GetHashCode.md)|HashCode for the object|
 |[HasValidAddress](HasValidAddress.md)|Returns true if row1 and col1 are > 0, row2 and col2 >= col1 and row2 and col2 \<= MaxRow and MaxCol|
-|[IsNull](IsNull.md)|Returns true if the record doesn't have a defined value\.<br />|
 |[HasValue](HasValue.md)|Returns true if the record has a defined value\. This is the inverse of [IsNull](IsNull.md)|
+|[IsNull](IsNull.md)|Returns true if the record doesn't have a defined value\.<br />|
 
 
 ## Operators
@@ -38,7 +38,7 @@ A class with 2 TCellAddress objects marking the start and end of a cell range\.
 
 |Name|Description|
 |---|---|
-|[TopLeft](TopLeft.md)|The cell at the top left position in the range\. It can't be null\.<br />|
 |[BottomRight](BottomRight.md)|The cell at the bottom right position in the range\. It can't be null\.<br />|
+|[TopLeft](TopLeft.md)|The cell at the top left position in the range\. It can't be null\.<br />|
 
 

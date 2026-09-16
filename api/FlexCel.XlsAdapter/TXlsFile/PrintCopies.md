@@ -3,7 +3,7 @@ uid: TXlsFile.PrintCopies
 description: TXlsFile.PrintCopies
 ---
 
-# TXlsFile.PrintCopies Property
+# TXlsFile\.PrintCopies Property
 
 Number of copies to print\.
 

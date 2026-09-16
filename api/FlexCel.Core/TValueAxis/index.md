@@ -24,11 +24,11 @@ Information about an Axis of values\. \(normally the y axis\)
 
 |Name|Description|
 |---|---|
-|[Min](Min.md)|Minimum value for the axis, when not set to automatic in [AxisOptions](AxisOptions.md)\.<br />|
-|[Max](Max.md)|Maximum value for the axis, when not set to automatic in [AxisOptions](AxisOptions.md)\.<br />|
-|[Major](Major.md)|Value for the major unit, when not set to automatic in [AxisOptions](AxisOptions.md)\.<br />|
-|[Minor](Minor.md)|Value for the minor unit, when not set to automatic in [AxisOptions](AxisOptions.md)\.<br />|
-|[CrossValue](CrossValue.md)|Value where the other Axis will cross this one, when not set to automatic in [AxisOptions](AxisOptions.md)\.<br />|
 |[AxisOptions](AxisOptions.md)|Enumerates which of the other options contain valid values or are automatic\.<br />|
+|[CrossValue](CrossValue.md)|Value where the other Axis will cross this one, when not set to automatic in [AxisOptions](AxisOptions.md)\.<br />|
+|[Major](Major.md)|Value for the major unit, when not set to automatic in [AxisOptions](AxisOptions.md)\.<br />|
+|[Max](Max.md)|Maximum value for the axis, when not set to automatic in [AxisOptions](AxisOptions.md)\.<br />|
+|[Min](Min.md)|Minimum value for the axis, when not set to automatic in [AxisOptions](AxisOptions.md)\.<br />|
+|[Minor](Minor.md)|Value for the minor unit, when not set to automatic in [AxisOptions](AxisOptions.md)\.<br />|
 
 

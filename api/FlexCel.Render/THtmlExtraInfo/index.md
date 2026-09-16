@@ -18,12 +18,12 @@ Stores extra data to write in the HTML file\.
 
 |Name|Description|
 |---|---|
-|[Title](Title.md)|Title of the HTML file\. If left null, the title of the page will be used\.<br />|
-|[Meta](Meta.md)|Extra strings to be added in the meta section of the header\. You could specify keywords here, for example\.<br />|
-|[HeadStart](HeadStart.md)|Extra strings to be added after the opening \<head> tag\.<br />|
-|[HeadEnd](HeadEnd.md)|Extra strings to be added before the closing \</head> tag\.<br />|
-|[BodyStart](BodyStart.md)|Extra strings to be added after the opening \<body> tag and before the table data\.<br />|
 |[BodyEnd](BodyEnd.md)|Extra strings to be added before the closing \</body> tag and after the table data\.<br />|
+|[BodyStart](BodyStart.md)|Extra strings to be added after the opening \<body> tag and before the table data\.<br />|
+|[HeadEnd](HeadEnd.md)|Extra strings to be added before the closing \</head> tag\.<br />|
+|[HeadStart](HeadStart.md)|Extra strings to be added after the opening \<head> tag\.<br />|
+|[Meta](Meta.md)|Extra strings to be added in the meta section of the header\. You could specify keywords here, for example\.<br />|
 |[PrintAreaSeparator](PrintAreaSeparator.md)|Extra strings to be added after each section of a non\-contiguous print area has been exported\.<br />Note that normally print areas are square, and in that case this property has no effect\. This property only works when the print area has more than one section\.<br />|
+|[Title](Title.md)|Title of the HTML file\. If left null, the title of the page will be used\.<br />|
 
 

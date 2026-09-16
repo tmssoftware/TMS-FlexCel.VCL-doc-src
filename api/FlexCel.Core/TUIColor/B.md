@@ -3,7 +3,7 @@ uid: TUIColor.B
 description: TUIColor.B
 ---
 
-# TUIColor.B Property
+# TUIColor\.B Property
 
 Blue component, between 0 and 255
 

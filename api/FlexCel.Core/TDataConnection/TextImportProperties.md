@@ -3,7 +3,7 @@ uid: TDataConnection.TextImportProperties
 description: TDataConnection.TextImportProperties
 ---
 
-# TDataConnection.TextImportProperties Property
+# TDataConnection\.TextImportProperties Property
 
 This element contains all of the text import settings\.
 

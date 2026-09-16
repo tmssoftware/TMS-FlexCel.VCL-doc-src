@@ -3,7 +3,7 @@ uid: TPdfDestination.PageNumber
 description: TPdfDestination.PageNumber
 ---
 
-# TPdfDestination.PageNumber Property
+# TPdfDestination\.PageNumber Property
 
 Page where the destination will point to\. \(1 based\)
 

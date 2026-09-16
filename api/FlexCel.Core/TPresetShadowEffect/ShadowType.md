@@ -3,7 +3,7 @@ uid: TPresetShadowEffect.ShadowType
 description: TPresetShadowEffect.ShadowType
 ---
 
-# TPresetShadowEffect.ShadowType Property
+# TPresetShadowEffect\.ShadowType Property
 
 Preset shadow type\.
 

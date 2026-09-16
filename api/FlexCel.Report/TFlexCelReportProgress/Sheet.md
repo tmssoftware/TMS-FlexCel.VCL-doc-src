@@ -3,7 +3,7 @@ uid: TFlexCelReportProgress.Sheet
 description: TFlexCelReportProgress.Sheet
 ---
 
-# TFlexCelReportProgress.Sheet Property
+# TFlexCelReportProgress\.Sheet Property
 
 The Sheet we are working on\.
 

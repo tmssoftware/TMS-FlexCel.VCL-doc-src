@@ -35,9 +35,9 @@ An inner shadow effect\.
 
 |Name|Description|
 |---|---|
-|[ShadowColor](ShadowColor.md)|Color for the shadow\.<br />|
 |[BlurRadius](BlurRadius.md)|Blur radius\.<br />|
-|[Distance](Distance.md)|Distance of the shadow\.<br />|
 |[Direction](Direction.md)|Rotation of the shadow\.<br />|
+|[Distance](Distance.md)|Distance of the shadow\.<br />|
+|[ShadowColor](ShadowColor.md)|Color for the shadow\.<br />|
 
 

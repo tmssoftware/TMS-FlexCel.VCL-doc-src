@@ -3,7 +3,7 @@ uid: TExcelColor.IsAutomatic
 description: TExcelColor.IsAutomatic
 ---
 
-# TExcelColor.IsAutomatic Property
+# TExcelColor\.IsAutomatic Property
 
 Returns true if this instance has an automatic color\.
 

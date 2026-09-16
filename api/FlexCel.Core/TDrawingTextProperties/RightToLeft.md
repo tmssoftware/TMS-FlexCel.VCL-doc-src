@@ -3,7 +3,7 @@ uid: TDrawingTextProperties.RightToLeft
 description: TDrawingTextProperties.RightToLeft
 ---
 
-# TDrawingTextProperties.RightToLeft Property
+# TDrawingTextProperties\.RightToLeft Property
 
 This element specifies whether the contents of this run shall have right\-to\-left characteristics\.
 

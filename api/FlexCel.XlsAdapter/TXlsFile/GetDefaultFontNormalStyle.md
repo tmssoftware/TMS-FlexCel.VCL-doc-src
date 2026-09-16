@@ -3,7 +3,7 @@ uid: TXlsFile.GetDefaultFontNormalStyle
 description: TXlsFile.GetDefaultFontNormalStyle
 ---
 
-# TXlsFile.GetDefaultFontNormalStyle Property
+# TXlsFile\.GetDefaultFontNormalStyle Property
 
 Returns Excel font for the "normal" style\. This style is used to draw the row and column headings\.
 

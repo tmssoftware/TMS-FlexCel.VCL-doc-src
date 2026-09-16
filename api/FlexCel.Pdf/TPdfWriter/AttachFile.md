@@ -29,7 +29,7 @@ You can remove all the attachments in the file by calling [ClearAttachments](Cle
 |const|**fileName**|string|Name on disk of the file to attach\. This will also be the name of the file in  the pdf\. If you want to specify a different name in the pdf than the name on disk, use [AttachFile\(string, string, string, TDateTime, TPdfAttachmentKind, TPdfAttachmentDataProviderDelegate\)](AttachFile.md#tpdfwriterattachfilestring-string-string-tdatetime-tpdfattachmentkind-tpdfattachmentdataproviderdelegate)|
 |const|**mimeType**|string|Mime type of the file being attached\.<br />You can use [TStandardMimeType](../../FlexCel.Core/TStandardMimeType/index.md) for predefined types\.<br />Note that while this might be null or Empty for standard pdf files, for PDF/A3 mime type is required\.<br />If you don't know the mime type, you must specify StandardMimeType\.OctectStream\.<br />|
 |const|**description**|string|Description of the file that the pdf reader will show in the attachment pane\.<br />While not required by PDF/A\-3, it is recommended to provide a description for the file\.|
-|const|**attachmentKind**|[TPdfAttachmentKind](../TPdfAttachmentKind.md)|How the attachment relates to the pdf file\. This is required by PDF/A\-3\.|
+|const|**attachmentKind**|[TPdfAttachmentKind](../TPdfAttachmentKind.md)|How the attachment relates to the pdf file\. This is required by PDF/A\.|
 
 
 ## See also

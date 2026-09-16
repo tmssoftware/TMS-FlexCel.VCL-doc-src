@@ -3,7 +3,7 @@ uid: IBaseImageProperties.Brightness
 description: IBaseImageProperties.Brightness
 ---
 
-# IBaseImageProperties.Brightness Property
+# IBaseImageProperties\.Brightness Property
 
 Brightness of the image\. [TFlxConsts.DefaultBrightness](../TFlxConsts/DefaultBrightness.md) is the default Brightness\.
 

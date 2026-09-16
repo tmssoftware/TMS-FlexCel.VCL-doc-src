@@ -3,7 +3,7 @@ uid: TLoopOverUsedRangeParameters.Value
 description: TLoopOverUsedRangeParameters.Value
 ---
 
-# TLoopOverUsedRangeParameters.Value Property
+# TLoopOverUsedRangeParameters\.Value Property
 
 Value of the cell at \(Row, Column\)\.
 

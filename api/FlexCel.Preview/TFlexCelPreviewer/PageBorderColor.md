@@ -3,7 +3,7 @@ uid: TFlexCelPreviewer.PageBorderColor
 description: TFlexCelPreviewer.PageBorderColor
 ---
 
-# TFlexCelPreviewer.PageBorderColor Property
+# TFlexCelPreviewer\.PageBorderColor Property
 
 Border color for the pages in the preview\.
 

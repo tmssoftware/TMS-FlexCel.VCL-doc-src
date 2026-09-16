@@ -3,7 +3,7 @@ uid: TPageEventArgs.CurrentPage
 description: TPageEventArgs.CurrentPage
 ---
 
-# TPageEventArgs.CurrentPage Property
+# TPageEventArgs\.CurrentPage Property
 
 Page currently printing\.
 

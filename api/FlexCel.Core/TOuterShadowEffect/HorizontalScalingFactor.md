@@ -3,7 +3,7 @@ uid: TOuterShadowEffect.HorizontalScalingFactor
 description: TOuterShadowEffect.HorizontalScalingFactor
 ---
 
-# TOuterShadowEffect.HorizontalScalingFactor Property
+# TOuterShadowEffect\.HorizontalScalingFactor Property
 
 Horizontal scaling factor\. Negative scaling causes a flip\.
 

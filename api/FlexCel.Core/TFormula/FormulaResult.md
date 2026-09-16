@@ -3,7 +3,7 @@ uid: TFormula.FormulaResult
 description: TFormula.FormulaResult
 ---
 
-# TFormula.FormulaResult Property
+# TFormula\.FormulaResult Property
 
 The formula result\.
 

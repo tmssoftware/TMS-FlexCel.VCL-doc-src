@@ -3,7 +3,7 @@ uid: TDataLabelOptions.ShowPercents
 description: TDataLabelOptions.ShowPercents
 ---
 
-# TDataLabelOptions.ShowPercents Property
+# TDataLabelOptions\.ShowPercents Property
 
 If true and this label [DataType](DataType.md) is SeriesInfo, this label will display the percentage of the total data\. This value only applies to PIE charts\.
 

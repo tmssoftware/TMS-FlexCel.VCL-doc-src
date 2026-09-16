@@ -3,7 +3,7 @@ uid: TBaseAxis.AxisLineOptions
 description: TBaseAxis.AxisLineOptions
 ---
 
-# TBaseAxis.AxisLineOptions Property
+# TBaseAxis\.AxisLineOptions Property
 
 Linestyles for the different lines of this axis\.
 

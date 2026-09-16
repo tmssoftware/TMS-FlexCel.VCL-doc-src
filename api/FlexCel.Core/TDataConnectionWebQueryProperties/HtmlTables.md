@@ -3,7 +3,7 @@ uid: TDataConnectionWebQueryProperties.HtmlTables
 description: TDataConnectionWebQueryProperties.HtmlTables
 ---
 
-# TDataConnectionWebQueryProperties.HtmlTables Property
+# TDataConnectionWebQueryProperties\.HtmlTables Property
 
 Flag indicating whether web queries should only work on HTML tables\.
 

@@ -3,7 +3,7 @@ uid: TPdfSignature.SignerFactory
 description: TPdfSignature.SignerFactory
 ---
 
-# TPdfSignature.SignerFactory Property
+# TPdfSignature\.SignerFactory Property
 
 Object that implements the actual signing\.
 

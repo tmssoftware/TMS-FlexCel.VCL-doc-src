@@ -3,7 +3,7 @@ uid: TDrawingRichString.Length
 description: TDrawingRichString.Length
 ---
 
-# TDrawingRichString.Length Property
+# TDrawingRichString\.Length Property
 
 Length of the DrawingRichString\.
 

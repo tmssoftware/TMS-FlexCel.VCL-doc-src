@@ -3,7 +3,7 @@ uid: TDataConnectionDbProperties.CommandType
 description: TDataConnectionDbProperties.CommandType
 ---
 
-# TDataConnectionDbProperties.CommandType Property
+# TDataConnectionDbProperties\.CommandType Property
 
 Specifies the custom data source command type\. Values are passed to the custom data source provider and their meaning might change depending on the provider\.
 

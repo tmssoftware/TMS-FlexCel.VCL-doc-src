@@ -3,7 +3,7 @@ uid: IGradientFill.RotateWithShape
 description: IGradientFill.RotateWithShape
 ---
 
-# IGradientFill.RotateWithShape Property
+# IGradientFill\.RotateWithShape Property
 
 Specifies that the fill should rotate with the shape\.
 

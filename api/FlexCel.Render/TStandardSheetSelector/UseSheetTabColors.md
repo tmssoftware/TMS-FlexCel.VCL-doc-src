@@ -3,7 +3,7 @@ uid: TStandardSheetSelector.UseSheetTabColors
 description: TStandardSheetSelector.UseSheetTabColors
 ---
 
-# TStandardSheetSelector.UseSheetTabColors Property
+# TStandardSheetSelector\.UseSheetTabColors Property
 
 When true \(the default\) and the sheets have a tab color defined in Excel, FlexCel will use this color to render the sheet tabs\.
 If false, the default tab color will be used\. Note that if the sheets don't have a color defined in Excel, also the default tab color will be used\.

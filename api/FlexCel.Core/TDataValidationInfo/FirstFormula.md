@@ -3,7 +3,7 @@ uid: TDataValidationInfo.FirstFormula
 description: TDataValidationInfo.FirstFormula
 ---
 
-# TDataValidationInfo.FirstFormula Property
+# TDataValidationInfo\.FirstFormula Property
 
 Formula for the first condition of the data validation\. The text of the formula is limited to 255 characters\.
 If [ExplicitList](ExplicitList.md) is true, this formula can contain a list of values\.

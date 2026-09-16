@@ -3,7 +3,7 @@ uid: TReplaceAction.Row
 description: TReplaceAction.Row
 ---
 
-# TReplaceAction.Row Property
+# TReplaceAction\.Row Property
 
 Row of the replaced cell\.
 

@@ -3,7 +3,7 @@ uid: TOnPasswordEventArgs.Xls
 description: TOnPasswordEventArgs.Xls
 ---
 
-# TOnPasswordEventArgs.Xls Property
+# TOnPasswordEventArgs\.Xls Property
 
 Excel file we are trying to open\.
 

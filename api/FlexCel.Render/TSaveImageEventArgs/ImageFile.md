@@ -3,7 +3,7 @@ uid: TSaveImageEventArgs.ImageFile
 description: TSaveImageEventArgs.ImageFile
 ---
 
-# TSaveImageEventArgs.ImageFile Property
+# TSaveImageEventArgs\.ImageFile Property
 
 The file where the image is expected to be saved\.
 

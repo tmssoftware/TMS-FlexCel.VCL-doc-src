@@ -3,7 +3,7 @@ uid: TFlexCelImgExport.BeforePaint
 description: TFlexCelImgExport.BeforePaint
 ---
 
-# TFlexCelImgExport.BeforePaint Event
+# TFlexCelImgExport\.BeforePaint Event
 
 Fires before drawing the image, allowing to modify it or to modify the XlsFile associated\.
 
@@ -12,7 +12,7 @@ Fires before drawing the image, allowing to modify it or to modify the XlsFile a
 
 **Unit:** [FlexCel.Render](../index.md)
 
-<pre><code class="lang-delphi hljs">property <a href="../TFlexCelImgExport/index.md">TFlexCelImgExport</a>.BeforePaint: TPaintEventHandler</code></pre>
+<pre><code class="lang-delphi hljs">property <a href="../TFlexCelImgExport/index.md">TFlexCelImgExport</a>.BeforePaint: <a href="../TPaintEventHandler.md">TPaintEventHandler</a></code></pre>
 
 ## See also
 

@@ -3,7 +3,7 @@ uid: TAxisLineOptions.MinorGridLines
 description: TAxisLineOptions.MinorGridLines
 ---
 
-# TAxisLineOptions.MinorGridLines Property
+# TAxisLineOptions\.MinorGridLines Property
 
 Line options for the minor gridlines along the axis\.
 

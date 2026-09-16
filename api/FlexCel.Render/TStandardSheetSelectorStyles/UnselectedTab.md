@@ -3,7 +3,7 @@ uid: TStandardSheetSelectorStyles.UnselectedTab
 description: TStandardSheetSelectorStyles.UnselectedTab
 ---
 
-# TStandardSheetSelectorStyles.UnselectedTab Property
+# TStandardSheetSelectorStyles\.UnselectedTab Property
 
 Style to be applied to a tab when it is not the Active one\.
 

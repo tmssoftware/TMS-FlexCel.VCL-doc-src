@@ -3,7 +3,7 @@ uid: TUITextureBrush.TransformElements
 description: TUITextureBrush.TransformElements
 ---
 
-# TUITextureBrush.TransformElements Property
+# TUITextureBrush\.TransformElements Property
 
 Transform matrix\.
 

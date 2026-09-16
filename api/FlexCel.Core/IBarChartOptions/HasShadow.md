@@ -3,7 +3,7 @@ uid: IBarChartOptions.HasShadow
 description: IBarChartOptions.HasShadow
 ---
 
-# IBarChartOptions.HasShadow Property
+# IBarChartOptions\.HasShadow Property
 
 True if the bars have shadows\.
 

@@ -3,7 +3,7 @@ uid: TExcelFile.ActiveSheetByName
 description: TExcelFile.ActiveSheetByName
 ---
 
-# TExcelFile.ActiveSheetByName Property
+# TExcelFile\.ActiveSheetByName Property
 
 The sheet where we are working on, referred by name instead of by index\.
 To change the active sheet name, use [SheetName](SheetName.md)

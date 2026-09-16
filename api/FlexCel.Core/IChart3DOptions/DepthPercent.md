@@ -3,7 +3,7 @@ uid: IChart3DOptions.DepthPercent
 description: IChart3DOptions.DepthPercent
 ---
 
-# IChart3DOptions.DepthPercent Property
+# IChart3DOptions\.DepthPercent Property
 
 Depth of the 3\-D plot area as a percentage of its width\. Must be between 1 and 2000\.
 

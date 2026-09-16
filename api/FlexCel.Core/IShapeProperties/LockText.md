@@ -3,7 +3,7 @@ uid: IShapeProperties.LockText
 description: IShapeProperties.LockText
 ---
 
-# IShapeProperties.LockText Property
+# IShapeProperties\.LockText Property
 
 True if the Lock Text option is on \(Format Text Box dialog box, Protection tab\)\. When changing this property, the value of [TextFlags](TextFlags.md), will change too\.
 

@@ -3,7 +3,7 @@ uid: TDrawingColor.Transparent
 description: TDrawingColor.Transparent
 ---
 
-# TDrawingColor.Transparent Property
+# TDrawingColor\.Transparent Property
 
 Returns the transparent color\.
 

@@ -3,7 +3,7 @@ uid: TXlsFile.ActiveSheetByName
 description: TXlsFile.ActiveSheetByName
 ---
 
-# TXlsFile.ActiveSheetByName Property
+# TXlsFile\.ActiveSheetByName Property
 
 The sheet where we are working on, referred by name instead of by index\.
 To change the active sheet name, use [TExcelFile.SheetName](../../FlexCel.Core/TExcelFile/SheetName.md)

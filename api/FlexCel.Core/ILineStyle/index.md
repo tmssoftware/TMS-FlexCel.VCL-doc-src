@@ -26,15 +26,15 @@ Definition for a Drawing line style\.
 
 |Name|Description|
 |---|---|
-|[Fill](Fill.md)|Line color and/or fill\.<br />|
-|[Width](Width.md)|Width of the line in EMUs \(1 pt = 12700 EMUs\)\. If null, width of the theme will be used\.<br />|
-|[PenAlign](PenAlign.md)|Specifies the alignment to be used for the underline stroke\. If null, default from the theme will be used\.<br />|
-|[LineCap](LineCap.md)|How the line ends\. If null, default from the theme will be used\.<br />|
 |[CompoundLineType](CompoundLineType.md)|Compound line style\. If null, default from the theme will be used\.<br />|
 |[Dashing](Dashing.md)|Line dashing\. If null, default from the theme will be used\.<br />|
-|[Join](Join.md)|How the line joins with the next\. If null, default from the theme will be used\.<br />|
-|[MiterLim](MiterLim.md)|The amount by which lines is extended to form a miter join, when [Join](Join.md) is [TLineJoin.Miter](../TLineJoin.md)\.<br />|
+|[Fill](Fill.md)|Line color and/or fill\.<br />|
 |[HeadArrow](HeadArrow.md)|Head arrow if it has one\. If null, default from the theme will be used\.<br />|
+|[Join](Join.md)|How the line joins with the next\. If null, default from the theme will be used\.<br />|
+|[LineCap](LineCap.md)|How the line ends\. If null, default from the theme will be used\.<br />|
+|[MiterLim](MiterLim.md)|The amount by which lines is extended to form a miter join, when [Join](Join.md) is [TLineJoin.Miter](../TLineJoin.md)\.<br />|
+|[PenAlign](PenAlign.md)|Specifies the alignment to be used for the underline stroke\. If null, default from the theme will be used\.<br />|
 |[TailArrow](TailArrow.md)|Tail arrow if it has one\. If null, default from the theme will be used\.<br />|
+|[Width](Width.md)|Width of the line in EMUs \(1 pt = 12700 EMUs\)\. If null, width of the theme will be used\.<br />|
 
 

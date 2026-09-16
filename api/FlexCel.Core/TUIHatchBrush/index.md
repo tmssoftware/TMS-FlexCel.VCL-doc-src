@@ -25,8 +25,8 @@ A class representing a platform independent hatch brush\.
 
 |Name|Description|
 |---|---|
-|[ForegroundColor](ForegroundColor.md)|Foreground color for the pattern\.<br />|
 |[BackgroundColor](BackgroundColor.md)|Background color for the pattern\.<br />|
+|[ForegroundColor](ForegroundColor.md)|Foreground color for the pattern\.<br />|
 |[HatchStyle](HatchStyle.md)|Hatch style for the pattern\.<br />|
 
 

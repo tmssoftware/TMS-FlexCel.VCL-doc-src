@@ -3,7 +3,7 @@ uid: TEffectList.Glow
 description: TEffectList.Glow
 ---
 
-# TEffectList.Glow Property
+# TEffectList\.Glow Property
 
 Glow effect\.
 

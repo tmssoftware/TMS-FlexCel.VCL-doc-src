@@ -3,7 +3,7 @@ uid: TXlsxChart.Background
 description: TXlsxChart.Background
 ---
 
-# TXlsxChart.Background Property
+# TXlsxChart\.Background Property
 
 Options for the background of the full chart\. If this member is null, the options for the Autoshape will be used\.
 

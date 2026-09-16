@@ -3,7 +3,7 @@ uid: THtmlHotTrack.Enabled
 description: THtmlHotTrack.Enabled
 ---
 
-# THtmlHotTrack.Enabled Property
+# THtmlHotTrack\.Enabled Property
 
 Sets if the tracking is enabled or not\.
 

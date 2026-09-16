@@ -3,7 +3,7 @@ uid: TVirtualDataTableState.TableData
 description: TVirtualDataTableState.TableData
 ---
 
-# TVirtualDataTableState.TableData Property
+# TVirtualDataTableState\.TableData Property
 
 The VirtualDataTable that created this instance\.
 

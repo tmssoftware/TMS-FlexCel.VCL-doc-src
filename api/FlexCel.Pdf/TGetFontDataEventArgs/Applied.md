@@ -3,7 +3,7 @@ uid: TGetFontDataEventArgs.Applied
 description: TGetFontDataEventArgs.Applied
 ---
 
-# TGetFontDataEventArgs.Applied Property
+# TGetFontDataEventArgs\.Applied Property
 
 Set Applied = false if the font is not being processed by the event\.
 

@@ -3,7 +3,7 @@ uid: TPdfWriter.GetFontFolderGlobal
 description: TPdfWriter.GetFontFolderGlobal
 ---
 
-# TPdfWriter.GetFontFolderGlobal Event
+# TPdfWriter\.GetFontFolderGlobal Event
 
 Use this event if you want to provide your own font folder for the full application\.
 Note that if you assign [GetFontFolder](GetFontFolder.md) for a particular object instance it will be used instead\.
@@ -22,7 +22,7 @@ In Android, we use a "@folder" syntax to refer to assets\. So for example to spe
 
 **Unit:** [FlexCel.Pdf](../index.md)
 
-<pre><code class="lang-delphi hljs">property <a href="../TPdfWriter/index.md">TPdfWriter</a>.GetFontFolderGlobal: TGetFontFolderEventHandler</code></pre>
+<pre><code class="lang-delphi hljs">property <a href="../TPdfWriter/index.md">TPdfWriter</a>.GetFontFolderGlobal: <a href="../TGetFontFolderEventHandler.md">TGetFontFolderEventHandler</a></code></pre>
 
 ## See also
 

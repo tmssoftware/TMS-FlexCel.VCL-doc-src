@@ -3,7 +3,7 @@ uid: TExcelFile.CellMergedListCount
 description: TExcelFile.CellMergedListCount
 ---
 
-# TExcelFile.CellMergedListCount Property
+# TExcelFile\.CellMergedListCount Property
 
 For using with [CellMergedList](CellMergedList.md) on a loop: for \(int i=1;i \<= CellMergedListCount;i\+\+\) DoSomething\(CellMergedList\(i\)\)\.\.\.
 

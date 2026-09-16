@@ -3,7 +3,7 @@ uid: IShapeProperties.StartShapeConnection
 description: IShapeProperties.StartShapeConnection
 ---
 
-# IShapeProperties.StartShapeConnection Property
+# IShapeProperties\.StartShapeConnection Property
 
 This property only applies to connector shapes\. It identifies the first shape where the connector is attached to\.
 

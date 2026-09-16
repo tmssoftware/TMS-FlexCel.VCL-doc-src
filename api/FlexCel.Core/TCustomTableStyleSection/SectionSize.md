@@ -3,7 +3,7 @@ uid: TCustomTableStyleSection.SectionSize
 description: TCustomTableStyleSection.SectionSize
 ---
 
-# TCustomTableStyleSection.SectionSize Property
+# TCustomTableStyleSection\.SectionSize Property
 
 This property only applies to strides\. It defines how much rows or columns are in each stride\.
 For other sections like headers, it is ignored\.

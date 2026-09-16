@@ -3,7 +3,7 @@ uid: TSheetSelectorEntryEventArgs.ActiveSheet
 description: TSheetSelectorEntryEventArgs.ActiveSheet
 ---
 
-# TSheetSelectorEntryEventArgs.ActiveSheet Property
+# TSheetSelectorEntryEventArgs\.ActiveSheet Property
 
 Sheet index of the entry\. This is equivalent to [Workbook](Workbook.md)\.ActiveSheet
 

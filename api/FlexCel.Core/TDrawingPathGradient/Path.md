@@ -3,7 +3,7 @@ uid: TDrawingPathGradient.Path
 description: TDrawingPathGradient.Path
 ---
 
-# TDrawingPathGradient.Path Property
+# TDrawingPathGradient\.Path Property
 
 Specifies the shape of the path to follow\.
 

@@ -3,7 +3,7 @@ uid: ITheme.IsStandard2007
 description: ITheme.IsStandard2007
 ---
 
-# ITheme.IsStandard2007 Property
+# ITheme\.IsStandard2007 Property
 
 Returns true if the theme is standard as saved by Excel 2007\. Note that Excel versions bigger than 2010 use different standard themes\.
 

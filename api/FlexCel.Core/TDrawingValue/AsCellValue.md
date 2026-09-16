@@ -3,7 +3,7 @@ uid: TDrawingValue.AsCellValue
 description: TDrawingValue.AsCellValue
 ---
 
-# TDrawingValue.AsCellValue Property
+# TDrawingValue\.AsCellValue Property
 
 Cell value if the object contains a TCellValue\. Will raise an exception if it doesn't\.
 

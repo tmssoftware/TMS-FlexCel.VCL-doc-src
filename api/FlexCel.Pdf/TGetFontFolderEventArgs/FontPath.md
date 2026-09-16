@@ -3,7 +3,7 @@ uid: TGetFontFolderEventArgs.FontPath
 description: TGetFontFolderEventArgs.FontPath
 ---
 
-# TGetFontFolderEventArgs.FontPath Property
+# TGetFontFolderEventArgs\.FontPath Property
 
 Return here the font path to the "Fonts" folder where ttf files are located\.
 

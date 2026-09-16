@@ -3,7 +3,7 @@ uid: TUnsupportedFormula.ErrorType
 description: TUnsupportedFormula.ErrorType
 ---
 
-# TUnsupportedFormula.ErrorType Property
+# TUnsupportedFormula\.ErrorType Property
 
 Type of error\.
 

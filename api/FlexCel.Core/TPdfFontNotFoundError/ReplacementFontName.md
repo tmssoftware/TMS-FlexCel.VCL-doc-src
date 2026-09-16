@@ -3,7 +3,7 @@ uid: TPdfFontNotFoundError.ReplacementFontName
 description: TPdfFontNotFoundError.ReplacementFontName
 ---
 
-# TPdfFontNotFoundError.ReplacementFontName Property
+# TPdfFontNotFoundError\.ReplacementFontName Property
 
 Font that was used to replace [FontName](FontName.md)\.
 

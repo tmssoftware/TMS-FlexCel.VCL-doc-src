@@ -3,7 +3,7 @@ uid: TCustomXmlPart.Xml
 description: TCustomXmlPart.Xml
 ---
 
-# TCustomXmlPart.Xml Property
+# TCustomXmlPart\.Xml Property
 
 Xml content of the part\.
 

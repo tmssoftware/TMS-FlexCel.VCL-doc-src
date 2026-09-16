@@ -3,7 +3,7 @@ uid: TAxisTickOptions.Rotation
 description: TAxisTickOptions.Rotation
 ---
 
-# TAxisTickOptions.Rotation Property
+# TAxisTickOptions\.Rotation Property
 
 Text Rotation in degrees\.
 

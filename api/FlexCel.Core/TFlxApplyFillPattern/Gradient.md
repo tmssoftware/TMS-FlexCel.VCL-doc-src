@@ -3,7 +3,7 @@ uid: TFlxApplyFillPattern.Gradient
 description: TFlxApplyFillPattern.Gradient
 ---
 
-# TFlxApplyFillPattern.Gradient Property
+# TFlxApplyFillPattern\.Gradient Property
 
 Defines if to apply a gradient to a cell\. Only valid in Excel 2007 or newer\.
 

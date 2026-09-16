@@ -3,7 +3,7 @@ uid: THyperLink.FullUrl
 description: THyperLink.FullUrl
 ---
 
-# THyperLink.FullUrl Property
+# THyperLink\.FullUrl Property
 
 Returns [BaseUrl](BaseUrl.md) combined with [Text](Text.md) when Text is not an absolute Uri\.
 

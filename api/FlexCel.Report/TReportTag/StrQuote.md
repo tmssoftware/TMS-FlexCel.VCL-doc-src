@@ -3,7 +3,7 @@ uid: TReportTag.StrQuote
 description: TReportTag.StrQuote
 ---
 
-# TReportTag.StrQuote Property
+# TReportTag\.StrQuote Property
 
 Quote\.
 

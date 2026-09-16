@@ -3,7 +3,7 @@ uid: IBlip.SVGBlip
 description: IBlip.SVGBlip
 ---
 
-# IBlip.SVGBlip Property
+# IBlip\.SVGBlip Property
 
 If the blip contains an SVG image, then the actual data of the SVG image is here\. In this case, PictureData contains a PNG render of the SVG image\.
 

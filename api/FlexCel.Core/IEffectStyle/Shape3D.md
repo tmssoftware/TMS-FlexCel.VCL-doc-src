@@ -3,7 +3,7 @@ uid: IEffectStyle.Shape3D
 description: IEffectStyle.Shape3D
 ---
 
-# IEffectStyle.Shape3D Property
+# IEffectStyle\.Shape3D Property
 
 Shape 3D effects\. Currently this is an xml string, in the future it might change to a parsed class\.
 

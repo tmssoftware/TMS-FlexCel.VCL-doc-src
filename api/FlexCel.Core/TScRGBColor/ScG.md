@@ -3,7 +3,7 @@ uid: TScRGBColor.ScG
 description: TScRGBColor.ScG
 ---
 
-# TScRGBColor.ScG Property
+# TScRGBColor\.ScG Property
 
 ScGreen component\. \(between 0 and 1\)
 

@@ -3,7 +3,7 @@ uid: TXlsxChart.Chart3DOptions
 description: TXlsxChart.Chart3DOptions
 ---
 
-# TXlsxChart.Chart3DOptions Property
+# TXlsxChart\.Chart3DOptions Property
 
 Returns the 3D options for the chart, or null if the chart isn't 3D\.
 

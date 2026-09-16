@@ -3,7 +3,7 @@ uid: TDrawingTextProperties.Fill
 description: TDrawingTextProperties.Fill
 ---
 
-# TDrawingTextProperties.Fill Property
+# TDrawingTextProperties\.Fill Property
 
 Fill style for the text\.
 

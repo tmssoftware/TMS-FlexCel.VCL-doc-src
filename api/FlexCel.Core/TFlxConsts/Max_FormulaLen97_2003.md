@@ -3,7 +3,7 @@ uid: TFlxConsts.Max_FormulaLen97_2003
 description: TFlxConsts.Max_FormulaLen97_2003
 ---
 
-# TFlxConsts.Max_FormulaLen97_2003 Property
+# TFlxConsts\.Max\_FormulaLen97\_2003 Property
 
 Maximum number of characters in a Formula for an Excel 97 to 2003 spreadsheet\.
 

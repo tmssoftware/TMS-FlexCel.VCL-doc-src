@@ -3,7 +3,7 @@ uid: IBaseImageProperties.PreferRelativeSize
 description: IBaseImageProperties.PreferRelativeSize
 ---
 
-# IBaseImageProperties.PreferRelativeSize Property
+# IBaseImageProperties\.PreferRelativeSize Property
 
 Specifies whether the original size of an object is saved after reformatting\.
 If true, the original size of the object is stored and all resizing is based on a  percentage of that original size\.  Otherwise, each resizing resets the scale to 100%%\.

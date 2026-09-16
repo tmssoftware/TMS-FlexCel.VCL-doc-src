@@ -3,7 +3,7 @@ uid: TXlsFile.OptionsSaveExternalLinkValues
 description: TXlsFile.OptionsSaveExternalLinkValues
 ---
 
-# TXlsFile.OptionsSaveExternalLinkValues Property
+# TXlsFile\.OptionsSaveExternalLinkValues Property
 
 This property has the value of the corresponding option on Excel options\.
 

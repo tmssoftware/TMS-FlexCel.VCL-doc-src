@@ -3,7 +3,7 @@ uid: TUIPen.TailArrow
 description: TUIPen.TailArrow
 ---
 
-# TUIPen.TailArrow Property
+# TUIPen\.TailArrow Property
 
 Defines a start arrow for the lines\.
 

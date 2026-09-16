@@ -3,7 +3,7 @@ uid: IShapeFill.ThemeColor
 description: IShapeFill.ThemeColor
 ---
 
-# IShapeFill.ThemeColor Property
+# IShapeFill\.ThemeColor Property
 
 Fill taken from a theme\. If [FillStyle](FillStyle.md) is null, this color here will be used along with the current theme\.
 

@@ -3,7 +3,7 @@ uid: TExcelFile.FontCount
 description: TExcelFile.FontCount
 ---
 
-# TExcelFile.FontCount Property
+# TExcelFile\.FontCount Property
 
 Number of fonts defined in all the sheet\. When calling GetFont\(fontIndex\), 0\<=fontIndex\<FormatCount\.
 

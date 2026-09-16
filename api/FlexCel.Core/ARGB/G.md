@@ -3,7 +3,7 @@ uid: ARGB.G
 description: ARGB.G
 ---
 
-# ARGB.G Property
+# ARGB\.G Property
 
 Green component, between 0 and 255
 

@@ -3,7 +3,7 @@ uid: TUIPathGradientBrush.IsRectangular
 description: TUIPathGradientBrush.IsRectangular
 ---
 
-# TUIPathGradientBrush.IsRectangular Property
+# TUIPathGradientBrush\.IsRectangular Property
 
 If true, this gradient is rectangular, else it is radial\.
 

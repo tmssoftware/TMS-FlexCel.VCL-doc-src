@@ -18,22 +18,22 @@ Border style for a cell\.
 
 |Name|Description|
 |---|---|
-|[Left](Left.md)|Left border\.<br />|
-|[Right](Right.md)|Right border\.<br />|
-|[Top](Top.md)|Top border\.<br />|
 |[Bottom](Bottom.md)|Bottom border\.<br />|
 |[Diagonal](Diagonal.md)|Diagonal border\.<br />|
 |[DiagonalStyle](DiagonalStyle.md)|When defined, there will be one or two diagonal lines across the cell\.<br />|
+|[Left](Left.md)|Left border\.<br />|
+|[Right](Right.md)|Right border\.<br />|
+|[Top](Top.md)|Top border\.<br />|
 
 
 ## Methods
 
 |Name|Description|
 |---|---|
-|[SetAllBorders](SetAllBorders.md)|Sets all borders to a linestyle and color\. Diagonal borders are not changed\.<br />|
 |[Clone](Clone.md)|Returns a deep copy of the border\.<br />|
 |[Equals](Equals.md)|Returns true if both borders are the same\.<br />|
 |[GetHashCode](GetHashCode.md)|Returns the hashcode for the border\.<br />|
+|[SetAllBorders](SetAllBorders.md)|Sets all borders to a linestyle and color\. Diagonal borders are not changed\.<br />|
 
 
 ## Operators

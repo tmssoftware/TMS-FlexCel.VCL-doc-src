@@ -3,7 +3,7 @@ uid: TPdfSignature.Reason
 description: TPdfSignature.Reason
 ---
 
-# TPdfSignature.Reason Property
+# TPdfSignature\.Reason Property
 
 The reason for the signing, such as "I agree\.\.\."\. Leave it null if you do not want to specify a reason\.
 

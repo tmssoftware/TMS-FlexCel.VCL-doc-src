@@ -3,7 +3,7 @@ uid: TChartSeriesPieOptions.SliceDistance
 description: TChartSeriesPieOptions.SliceDistance
 ---
 
-# TChartSeriesPieOptions.SliceDistance Property
+# TChartSeriesPieOptions\.SliceDistance Property
 
 Distance of the pie slice from the center on percent of the pie diameter\.
 

@@ -3,7 +3,7 @@ uid: TXlsxInvalidNameError.FileName
 description: TXlsxInvalidNameError.FileName
 ---
 
-# TXlsxInvalidNameError.FileName Property
+# TXlsxInvalidNameError\.FileName Property
 
 File with the invalid name\.
 

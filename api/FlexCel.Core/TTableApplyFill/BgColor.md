@@ -3,7 +3,7 @@ uid: TTableApplyFill.BgColor
 description: TTableApplyFill.BgColor
 ---
 
-# TTableApplyFill.BgColor Property
+# TTableApplyFill\.BgColor Property
 
 Color for the background of the pattern\.  If the pattern is solid, has no effect\.
 

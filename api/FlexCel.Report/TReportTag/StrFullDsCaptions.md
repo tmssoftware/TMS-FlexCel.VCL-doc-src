@@ -3,7 +3,7 @@ uid: TReportTag.StrFullDsCaptions
 description: TReportTag.StrFullDsCaptions
 ---
 
-# TReportTag.StrFullDsCaptions Property
+# TReportTag\.StrFullDsCaptions Property
 
 "\*\*"
 

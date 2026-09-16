@@ -3,7 +3,7 @@ uid: IConditionalFormatRule.Kind
 description: IConditionalFormatRule.Kind
 ---
 
-# IConditionalFormatRule.Kind Property
+# IConditionalFormatRule\.Kind Property
 
 Defines which kind of conditional rule this object contains\. FormatDef will contain a subclass that must match the kind here\.
 

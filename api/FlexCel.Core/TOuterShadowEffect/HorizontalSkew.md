@@ -3,7 +3,7 @@ uid: TOuterShadowEffect.HorizontalSkew
 description: TOuterShadowEffect.HorizontalSkew
 ---
 
-# TOuterShadowEffect.HorizontalSkew Property
+# TOuterShadowEffect\.HorizontalSkew Property
 
 Horizontal skew angle\.
 

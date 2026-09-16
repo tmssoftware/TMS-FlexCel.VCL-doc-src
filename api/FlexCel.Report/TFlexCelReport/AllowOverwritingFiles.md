@@ -3,7 +3,7 @@ uid: TFlexCelReport.AllowOverwritingFiles
 description: TFlexCelReport.AllowOverwritingFiles
 ---
 
-# TFlexCelReport.AllowOverwritingFiles Property
+# TFlexCelReport\.AllowOverwritingFiles Property
 
 Determines if FlexCel will automatically delete existing files or not\.
 

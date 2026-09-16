@@ -3,7 +3,7 @@ uid: IShapeProperties.ChildrenCount
 description: IShapeProperties.ChildrenCount
 ---
 
-# IShapeProperties.ChildrenCount Property
+# IShapeProperties\.ChildrenCount Property
 
 Number of shapes that are inside this shape\.
 

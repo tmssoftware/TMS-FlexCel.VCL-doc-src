@@ -3,7 +3,7 @@ uid: TDrawingLinearGradient.Scaled
 description: TDrawingLinearGradient.Scaled
 ---
 
-# TDrawingLinearGradient.Scaled Property
+# TDrawingLinearGradient\.Scaled Property
 
 Whether the gradient angle scales with the fill region\. Mathematically, if this flag is true,  then the gradient vector \( cos x , sin x \) is scaled by the width \(w\) and height \(h\) of the fill  region, so that the vector becomes \( w cos x, h sin x \) \(before normalization\)\.
 

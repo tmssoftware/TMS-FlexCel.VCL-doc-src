@@ -3,7 +3,7 @@ uid: TAxisTickOptions.BackgroundMode
 description: TAxisTickOptions.BackgroundMode
 ---
 
-# TAxisTickOptions.BackgroundMode Property
+# TAxisTickOptions\.BackgroundMode Property
 
 How the background of text will be rendered\.
 

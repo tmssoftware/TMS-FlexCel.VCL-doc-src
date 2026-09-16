@@ -3,7 +3,7 @@ uid: TTokenCellRange.Col1Absolute
 description: TTokenCellRange.Col1Absolute
 ---
 
-# TTokenCellRange.Col1Absolute Property
+# TTokenCellRange\.Col1Absolute Property
 
 True if the reference is absolute \(as in $A$1\)\.
 

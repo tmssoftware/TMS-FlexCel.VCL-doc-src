@@ -3,7 +3,7 @@ uid: TXlsFile.SheetWindowOptions
 description: TXlsFile.SheetWindowOptions
 ---
 
-# TXlsFile.SheetWindowOptions Property
+# TXlsFile\.SheetWindowOptions Property
 
 This property groups a lot of properties of all the sheets in the workbook, like for example if the sheet tab bar at the bottom is visible\.
 Look also at [TExcelFile.SheetOptions](../../FlexCel.Core/TExcelFile/SheetOptions.md) for options that affect only the active sheet\.

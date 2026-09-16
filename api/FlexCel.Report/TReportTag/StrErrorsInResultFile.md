@@ -3,7 +3,7 @@ uid: TReportTag.StrErrorsInResultFile
 description: TReportTag.StrErrorsInResultFile
 ---
 
-# TReportTag.StrErrorsInResultFile Property
+# TReportTag\.StrErrorsInResultFile Property
 
 ERRORSINRESULTFILE
 

@@ -3,7 +3,7 @@ uid: ICssInformation.Data
 description: ICssInformation.Data
 ---
 
-# ICssInformation.Data Property
+# ICssInformation\.Data Property
 
 TTextWriter where an external CSS file will be stored\. If null, no CSS file will be created\. A link to a CSS file might be still included if you set the Url to a non null value\.
 

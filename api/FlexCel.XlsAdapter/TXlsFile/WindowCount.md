@@ -3,7 +3,7 @@ uid: TXlsFile.WindowCount
 description: TXlsFile.WindowCount
 ---
 
-# TXlsFile.WindowCount Property
+# TXlsFile\.WindowCount Property
 
 Returns the number of windows in the file\. **Note that this isn't the sheet count,** but the number of views of the workbook\. Most Excel documents have only one window\.
 

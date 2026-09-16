@@ -3,7 +3,7 @@ uid: ICommentProperties.TextProperties
 description: ICommentProperties.TextProperties
 ---
 
-# ICommentProperties.TextProperties Property
+# ICommentProperties\.TextProperties Property
 
 Properties of the text in the object\.
 

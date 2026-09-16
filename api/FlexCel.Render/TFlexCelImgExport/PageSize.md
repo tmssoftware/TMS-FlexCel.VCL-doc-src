@@ -3,7 +3,7 @@ uid: TFlexCelImgExport.PageSize
 description: TFlexCelImgExport.PageSize
 ---
 
-# TFlexCelImgExport.PageSize Property
+# TFlexCelImgExport\.PageSize Property
 
 Image page size\. Set it to null to use the paper size on the xls file\.
 

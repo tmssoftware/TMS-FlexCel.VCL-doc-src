@@ -3,7 +3,7 @@ uid: TDrawingTextAttributes.Err
 description: TDrawingTextAttributes.Err
 ---
 
-# TDrawingTextAttributes.Err Property
+# TDrawingTextAttributes\.Err Property
 
 Specifies that when this run of text was checked for spelling, grammar, etc\. that a mistake was indeed found\.
 

@@ -3,7 +3,7 @@ uid: TStandardSheetSelectorStyles.List
 description: TStandardSheetSelectorStyles.List
 ---
 
-# TStandardSheetSelectorStyles.List Property
+# TStandardSheetSelectorStyles\.List Property
 
 Style of the list used for the different entries in the selector\. this defaults to "list\-style: none", but you can use something like "list\-style: upper\-roman inside" to for example place roman number on each text\.
 

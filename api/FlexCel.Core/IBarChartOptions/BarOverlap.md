@@ -3,7 +3,7 @@ uid: IBarChartOptions.BarOverlap
 description: IBarChartOptions.BarOverlap
 ---
 
-# IBarChartOptions.BarOverlap Property
+# IBarChartOptions\.BarOverlap Property
 
 Space between bars in percent of the bar width\.
 

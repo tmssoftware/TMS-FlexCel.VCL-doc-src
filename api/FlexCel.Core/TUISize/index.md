@@ -5,7 +5,7 @@ description: TUISize
 
 # TUISize Record
 
-A platform independent Size structure\. Width and Height are floating point numbers\.
+A platform\-independent Size structure\. Width and Height are floating point numbers\.
 
 
 ## Syntax
@@ -34,7 +34,7 @@ A platform independent Size structure\. Width and Height are floating point numb
 |Name|Description|
 |---|---|
 |[Empty](Empty.md)|Returns a size with width = 0 and height = 0\.<br />|
-|[Width](Width.md)|Width from the size\.<br />|
 |[Height](Height.md)|Height from the size\.<br />|
+|[Width](Width.md)|Width from the size\.<br />|
 
 

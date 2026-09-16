@@ -3,7 +3,7 @@ uid: TXlsFile.StyleCount
 description: TXlsFile.StyleCount
 ---
 
-# TXlsFile.StyleCount Property
+# TXlsFile\.StyleCount Property
 
 Returns the number of named styles in the file\.
 

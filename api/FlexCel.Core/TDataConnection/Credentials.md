@@ -3,7 +3,7 @@ uid: TDataConnection.Credentials
 description: TDataConnection.Credentials
 ---
 
-# TDataConnection.Credentials Property
+# TDataConnection\.Credentials Property
 
 Specifies the authentication method to be used when establishing \(or re\-establishing\) the connection\.
 

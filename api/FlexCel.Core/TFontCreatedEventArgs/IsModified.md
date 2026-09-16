@@ -3,7 +3,7 @@ uid: TFontCreatedEventArgs.IsModified
 description: TFontCreatedEventArgs.IsModified
 ---
 
-# TFontCreatedEventArgs.IsModified Property
+# TFontCreatedEventArgs\.IsModified Property
 
 Returns true if any properties of the class were modified since the class was created\.
 

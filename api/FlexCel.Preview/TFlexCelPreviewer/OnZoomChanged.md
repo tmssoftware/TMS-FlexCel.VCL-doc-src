@@ -3,7 +3,7 @@ uid: TFlexCelPreviewer.OnZoomChanged
 description: TFlexCelPreviewer.OnZoomChanged
 ---
 
-# TFlexCelPreviewer.OnZoomChanged Event
+# TFlexCelPreviewer\.OnZoomChanged Event
 
 Fires when the Zoom changes\. \(for example, the user uses ctrl\+MouseWeel\)\.
 

@@ -3,7 +3,7 @@ uid: TXlsFile.OptionsRecalcMaxChange
 description: TXlsFile.OptionsRecalcMaxChange
 ---
 
-# TXlsFile.OptionsRecalcMaxChange Property
+# TXlsFile\.OptionsRecalcMaxChange Property
 
 Maximum difference between 2 iterations when calculating circular references \([TExcelFile.OptionsRecalcCircularReferences](../../FlexCel.Core/TExcelFile/OptionsRecalcCircularReferences.md) is true\),
 

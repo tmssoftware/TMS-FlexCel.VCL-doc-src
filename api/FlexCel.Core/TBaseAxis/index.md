@@ -25,14 +25,14 @@ Common ancestor for all Axis types\.
 
 |Name|Description|
 |---|---|
-|[Deleted](Deleted.md)|If true, the axis is not a real axis and must not be drawn\.<br />|
+|[AxisLineOptions](AxisLineOptions.md)|Linestyles for the different lines of this axis\.<br />|
 |[AxisPos](AxisPos.md)|Position of the axis in the chart\.<br />|
-|[LogBase](LogBase.md)|If the axis is logarithmic, the base for the logarithm\.<br />|
+|[Caption](Caption.md)|Axis Caption\.<br />|
+|[Deleted](Deleted.md)|If true, the axis is not a real axis and must not be drawn\.<br />|
 |[Font](Font.md)|Font used on this axis\.<br />|
+|[LogBase](LogBase.md)|If the axis is logarithmic, the base for the logarithm\.<br />|
 |[NumberFormat](NumberFormat.md)|Format for the numbers on this axis\.<br />|
 |[NumberFormat&#8203;Linked&#8203;ToSource](NumberFormatLinkedToSource.md)|True if the format for the numbers on this axis is linked to the format in the cells in the spreadsheet\.<br />|
-|[AxisLineOptions](AxisLineOptions.md)|Linestyles for the different lines of this axis\.<br />|
 |[TickOptions](TickOptions.md)|Options for the ticks and the font used on the labels\.<br />|
-|[Caption](Caption.md)|Axis Caption\.<br />|
 
 

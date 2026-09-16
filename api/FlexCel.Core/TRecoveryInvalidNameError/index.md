@@ -25,8 +25,8 @@ This error happens when in recovery mode and a name has to be ignored because it
 
 |Name|Description|
 |---|---|
+|[ExceptionMsg](ExceptionMsg.md)|Exception error\.<br />|
 |[FileName](FileName.md)|File with the invalid name\.<br />|
 |[NameIndex](NameIndex.md)|Position of the invalid named range in the name table\.<br />|
-|[ExceptionMsg](ExceptionMsg.md)|Exception error\.<br />|
 
 

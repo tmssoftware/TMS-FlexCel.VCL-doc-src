@@ -3,7 +3,7 @@ uid: TUnsupportedFormula.Cell
 description: TUnsupportedFormula.Cell
 ---
 
-# TUnsupportedFormula.Cell Property
+# TUnsupportedFormula\.Cell Property
 
 Cell where the formula is \(1 based\)
 

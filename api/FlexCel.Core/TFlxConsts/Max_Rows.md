@@ -3,7 +3,7 @@ uid: TFlxConsts.Max_Rows
 description: TFlxConsts.Max_Rows
 ---
 
-# TFlxConsts.Max_Rows Property
+# TFlxConsts\.Max\_Rows Property
 
 Maximum row in the spreadsheet\. \(0 based\)\.
 Note that this number is 1 less than the maximum row count, because this value is 0\-based\. You can use [MaxRowCount](MaxRowCount.md) to get the number of columns instead\.

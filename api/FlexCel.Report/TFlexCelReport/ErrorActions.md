@@ -3,7 +3,7 @@ uid: TFlexCelReport.ErrorActions
 description: TFlexCelReport.ErrorActions
 ---
 
-# TFlexCelReport.ErrorActions Property
+# TFlexCelReport\.ErrorActions Property
 
 Determines if FlexCel will throw Exceptions or just ignore errors on specific situations\. When the errors are ignored, they will be logged into the [TFlexCelTrace](../../FlexCel.Core/TFlexCelTrace/index.md) class\.
 

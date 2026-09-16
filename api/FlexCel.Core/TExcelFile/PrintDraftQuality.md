@@ -3,7 +3,7 @@ uid: TExcelFile.PrintDraftQuality
 description: TExcelFile.PrintDraftQuality
 ---
 
-# TExcelFile.PrintDraftQuality Property
+# TExcelFile\.PrintDraftQuality Property
 
 If true, the pages will be printed in draft quality\.
 

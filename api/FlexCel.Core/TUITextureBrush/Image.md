@@ -3,7 +3,7 @@ uid: TUITextureBrush.Image
 description: TUITextureBrush.Image
 ---
 
-# TUITextureBrush.Image Property
+# TUITextureBrush\.Image Property
 
 Image used to paint the brush\.
 

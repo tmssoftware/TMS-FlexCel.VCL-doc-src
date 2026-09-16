@@ -3,7 +3,7 @@ uid: TImplementedFunction.FunctionName
 description: TImplementedFunction.FunctionName
 ---
 
-# TImplementedFunction.FunctionName Property
+# TImplementedFunction\.FunctionName Property
 
 Formula Name\.
 

@@ -3,7 +3,7 @@ uid: TBaseAxis.AxisPos
 description: TBaseAxis.AxisPos
 ---
 
-# TBaseAxis.AxisPos Property
+# TBaseAxis\.AxisPos Property
 
 Position of the axis in the chart\.
 

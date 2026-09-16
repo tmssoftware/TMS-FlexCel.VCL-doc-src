@@ -3,7 +3,7 @@ uid: TReportValue.ValueArray
 description: TReportValue.ValueArray
 ---
 
-# TReportValue.ValueArray Property
+# TReportValue\.ValueArray Property
 
 Array of TCellValue inside this record\. If this record doesn't contain an array of TCellValue, this property will be nil
 

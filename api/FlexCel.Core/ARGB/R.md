@@ -3,7 +3,7 @@ uid: ARGB.R
 description: ARGB.R
 ---
 
-# ARGB.R Property
+# ARGB\.R Property
 
 Red component, between 0 and 255\.
 

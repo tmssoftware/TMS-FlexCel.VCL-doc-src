@@ -3,7 +3,7 @@ uid: IBaseImageProperties.Lock
 description: IBaseImageProperties.Lock
 ---
 
-# IBaseImageProperties.Lock Property
+# IBaseImageProperties\.Lock Property
 
 True if this image can't be selected when the sheet is protected\.
 

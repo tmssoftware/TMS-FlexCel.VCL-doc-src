@@ -3,7 +3,7 @@ uid: TDataValidationInfo.ErrorIcon
 description: TDataValidationInfo.ErrorIcon
 ---
 
-# TDataValidationInfo.ErrorIcon Property
+# TDataValidationInfo\.ErrorIcon Property
 
 Icon to display in the error box\.
 

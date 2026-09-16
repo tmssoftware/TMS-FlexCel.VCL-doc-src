@@ -3,7 +3,7 @@ uid: TColorTransform.Value
 description: TColorTransform.Value
 ---
 
-# TColorTransform.Value Property
+# TColorTransform\.Value Property
 
 Value of the transform\. The meaning of this field depends in the [ColorTransformType](ColorTransformType.md) value\.
 

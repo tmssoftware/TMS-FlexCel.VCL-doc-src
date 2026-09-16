@@ -3,7 +3,7 @@ uid: TExcelFile.RowCount
 description: TExcelFile.RowCount
 ---
 
-# TExcelFile.RowCount Property
+# TExcelFile\.RowCount Property
 
 Number of rows actually used on the sheet\.
 

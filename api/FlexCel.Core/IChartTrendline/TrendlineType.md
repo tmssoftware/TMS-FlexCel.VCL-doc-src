@@ -3,7 +3,7 @@ uid: IChartTrendline.TrendlineType
 description: IChartTrendline.TrendlineType
 ---
 
-# IChartTrendline.TrendlineType Property
+# IChartTrendline\.TrendlineType Property
 
 Type of trendline\.
 

@@ -3,7 +3,7 @@ uid: TXlsFile.FileFormatWhenOpened
 description: TXlsFile.FileFormatWhenOpened
 ---
 
-# TXlsFile.FileFormatWhenOpened Property
+# TXlsFile\.FileFormatWhenOpened Property
 
 Returns the file format that the file had when it was opened\. If the file was created with [TExcelFile.NewFile](../../FlexCel.Core/TExcelFile/NewFile.md), the file format when opened is xls\.
 

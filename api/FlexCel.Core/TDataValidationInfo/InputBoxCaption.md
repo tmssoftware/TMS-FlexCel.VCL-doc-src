@@ -3,7 +3,7 @@ uid: TDataValidationInfo.InputBoxCaption
 description: TDataValidationInfo.InputBoxCaption
 ---
 
-# TDataValidationInfo.InputBoxCaption Property
+# TDataValidationInfo\.InputBoxCaption Property
 
 Caption of the Input Message box\. Note that this text cannot be longer than 32 characters\.
 Extra characters will be truncated\. If this parameter is null, the Input box will display the default message\.

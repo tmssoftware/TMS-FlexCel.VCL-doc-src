@@ -3,7 +3,7 @@ uid: IThemeFormatScheme.EffectStyleList
 description: IThemeFormatScheme.EffectStyleList
 ---
 
-# IThemeFormatScheme.EffectStyleList Property
+# IThemeFormatScheme\.EffectStyleList Property
 
 This element defines a set of three effect styles \(or more\) that create the effect style list for a theme\.
 

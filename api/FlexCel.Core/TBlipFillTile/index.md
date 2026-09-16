@@ -25,10 +25,10 @@ This element specifies that a BLIP should be tiled to fill the available space\.
 
 |Name|Description|
 |---|---|
-|[Equals](Equals.md)|Returns true if this instance has the same data as the object obj\.<br />|
-|[CompareTo](CompareTo.md)|Returns \-1 if obj is bigger than this, 0 if both objects are the same, and 1 if obj is smaller than this\.<br />|
-|[GetHashCode](GetHashCode.md)|Returns the hashcode for this object|
 |[Clone](Clone.md)|Return a deep copy of the object\.<br />|
+|[CompareTo](CompareTo.md)|Returns \-1 if obj is bigger than this, 0 if both objects are the same, and 1 if obj is smaller than this\.<br />|
+|[Equals](Equals.md)|Returns true if this instance has the same data as the object obj\.<br />|
+|[GetHashCode](GetHashCode.md)|Returns the hashcode for this object|
 
 
 ## Properties
@@ -37,9 +37,9 @@ This element specifies that a BLIP should be tiled to fill the available space\.
 |---|---|
 |[Align](Align.md)|Specifies where to align the first tile with respect to the shape\.  Alignment happens after the scaling, but before the additional offset\.<br />|
 |[Flip](Flip.md)|Specifies the direction\(s\) in which to flip the source image while tiling\.  Images can be flipped horizontally, vertically, or in both directions to fill the entire region\.<br />|
-|[Tx](Tx.md)|Specifies an extra horizontal offset after alignment\.<br />|
-|[Ty](Ty.md)|Specifies an extra vertical offset after alignment\.<br />|
 |[ScaleX](ScaleX.md)|Indicates the amount to horizontally scale the source rectangle\.<br />|
 |[ScaleY](ScaleY.md)|Indicates the amount to vertically scale the source rectangle\.<br />|
+|[Tx](Tx.md)|Specifies an extra horizontal offset after alignment\.<br />|
+|[Ty](Ty.md)|Specifies an extra vertical offset after alignment\.<br />|
 
 

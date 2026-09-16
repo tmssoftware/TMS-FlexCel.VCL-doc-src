@@ -3,7 +3,7 @@ uid: TFlexCelPdfExport.FontEmbed
 description: TFlexCelPdfExport.FontEmbed
 ---
 
-# TFlexCelPdfExport.FontEmbed Property
+# TFlexCelPdfExport\.FontEmbed Property
 
 Determines what fonts will be embedded on the generated pdf\. Note that when using UNICODE, fonts will be embedded anyway, no matter what this setting is\.
 

@@ -3,7 +3,7 @@ uid: TScRGBColor.Empty
 description: TScRGBColor.Empty
 ---
 
-# TScRGBColor.Empty Property
+# TScRGBColor\.Empty Property
 
 Returns an empty color\.
 

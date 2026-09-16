@@ -3,7 +3,7 @@ uid: TChartSeriesMarkerOptions.MarkerType
 description: TChartSeriesMarkerOptions.MarkerType
 ---
 
-# TChartSeriesMarkerOptions.MarkerType Property
+# TChartSeriesMarkerOptions\.MarkerType Property
 
 Type of marker\.
 

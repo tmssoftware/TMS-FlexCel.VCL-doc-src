@@ -3,7 +3,7 @@ uid: IChartSeries.TitleDefinition
 description: IChartSeries.TitleDefinition
 ---
 
-# IChartSeries.TitleDefinition Property
+# IChartSeries\.TitleDefinition Property
 
 Formula or text defining the Series caption\. Start with an "=" sign to enter a formula\.
 

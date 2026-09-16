@@ -3,7 +3,7 @@ uid: TVirtualCellValue.Sheet
 description: TVirtualCellValue.Sheet
 ---
 
-# TVirtualCellValue.Sheet Property
+# TVirtualCellValue\.Sheet Property
 
 Sheet where the cell was read\. \(1 based\)
 

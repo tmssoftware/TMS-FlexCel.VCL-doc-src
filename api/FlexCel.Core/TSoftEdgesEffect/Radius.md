@@ -3,7 +3,7 @@ uid: TSoftEdgesEffect.Radius
 description: TSoftEdgesEffect.Radius
 ---
 
-# TSoftEdgesEffect.Radius Property
+# TSoftEdgesEffect\.Radius Property
 
 Radius for the soft edges\.
 

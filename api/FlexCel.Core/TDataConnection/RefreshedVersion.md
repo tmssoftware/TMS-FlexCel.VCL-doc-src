@@ -3,7 +3,7 @@ uid: TDataConnection.RefreshedVersion
 description: TDataConnection.RefreshedVersion
 ---
 
-# TDataConnection.RefreshedVersion Property
+# TDataConnection\.RefreshedVersion Property
 
 For backward compatibility purposes, this attribute indicates the version of the spreadsheet application that last refreshed the connection\.
 

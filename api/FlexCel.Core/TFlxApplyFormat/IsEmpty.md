@@ -3,7 +3,7 @@ uid: TFlxApplyFormat.IsEmpty
 description: TFlxApplyFormat.IsEmpty
 ---
 
-# TFlxApplyFormat.IsEmpty Property
+# TFlxApplyFormat\.IsEmpty Property
 
 Returns true if the format does not apply any setting\.
 

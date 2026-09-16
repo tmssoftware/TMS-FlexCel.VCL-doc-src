@@ -3,7 +3,7 @@ uid: TReportValue.ValueBytes
 description: TReportValue.ValueBytes
 ---
 
-# TReportValue.ValueBytes Property
+# TReportValue\.ValueBytes Property
 
 Value of this record as a byte array, used to represent images\. If this record doesn't contain a byte array, this property will be null\.
 

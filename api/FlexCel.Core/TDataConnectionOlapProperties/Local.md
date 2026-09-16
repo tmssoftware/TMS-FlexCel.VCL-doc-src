@@ -3,7 +3,7 @@ uid: TDataConnectionOlapProperties.Local
 description: TDataConnectionOlapProperties.Local
 ---
 
-# TDataConnectionOlapProperties.Local Property
+# TDataConnectionOlapProperties\.Local Property
 
 Flag indicating whether we should get data from the local cube on refresh versus the original data source\. true if a local cube has been created for OLAP data, and it should be used instead of the server\.
 

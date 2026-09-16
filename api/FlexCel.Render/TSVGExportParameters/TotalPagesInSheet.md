@@ -3,7 +3,7 @@ uid: TSVGExportParameters.TotalPagesInSheet
 description: TSVGExportParameters.TotalPagesInSheet
 ---
 
-# TSVGExportParameters.TotalPagesInSheet Property
+# TSVGExportParameters\.TotalPagesInSheet Property
 
 Number of pages in the sheet we are exporting\. Different from [TotalPages](TotalPages.md), this value is local to the current sheet, and it is reset every time we export a different sheet\. If you are exporting a single sheet \(FlexCelSVGExport\.AllVisibleSheets is false\), then this variable will have the same value as [TotalPages](TotalPages.md)
 

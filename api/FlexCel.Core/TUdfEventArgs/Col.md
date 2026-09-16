@@ -3,7 +3,7 @@ uid: TUdfEventArgs.Col
 description: TUdfEventArgs.Col
 ---
 
-# TUdfEventArgs.Col Property
+# TUdfEventArgs\.Col Property
 
 Column index where the formula is located\. This value only has meaning when evaluating formulas in cells\. \(Not when for example evaluating formulas inside named ranges\)
 

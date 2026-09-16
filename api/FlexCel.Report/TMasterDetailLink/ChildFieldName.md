@@ -3,7 +3,7 @@ uid: TMasterDetailLink.ChildFieldName
 description: TMasterDetailLink.ChildFieldName
 ---
 
-# TMasterDetailLink.ChildFieldName Property
+# TMasterDetailLink\.ChildFieldName Property
 
 Column name on the detail dataset that is related with [ParentField](ParentField.md)
 

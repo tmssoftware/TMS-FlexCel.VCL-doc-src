@@ -3,7 +3,7 @@ uid: TRecoveryInvalidNameError.FileName
 description: TRecoveryInvalidNameError.FileName
 ---
 
-# TRecoveryInvalidNameError.FileName Property
+# TRecoveryInvalidNameError\.FileName Property
 
 File with the invalid name\.
 

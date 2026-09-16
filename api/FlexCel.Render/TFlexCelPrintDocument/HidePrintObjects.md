@@ -3,7 +3,7 @@ uid: TFlexCelPrintDocument.HidePrintObjects
 description: TFlexCelPrintDocument.HidePrintObjects
 ---
 
-# TFlexCelPrintDocument.HidePrintObjects Property
+# TFlexCelPrintDocument\.HidePrintObjects Property
 
 Select which kind of objects should not be printed\.
 

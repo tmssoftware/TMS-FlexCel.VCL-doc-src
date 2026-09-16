@@ -3,7 +3,7 @@ uid: THyperLink.Description
 description: THyperLink.Description
 ---
 
-# THyperLink.Description Property
+# THyperLink\.Description Property
 
 Description of the HyperLink\.
 

@@ -3,7 +3,7 @@ uid: TFlexCelHtmlExport.ImageNaming
 description: TFlexCelHtmlExport.ImageNaming
 ---
 
-# TFlexCelHtmlExport.ImageNaming Property
+# TFlexCelHtmlExport\.ImageNaming Property
 
 This property defines how the images will be named by FlexCel\. You can always override the name using the [GetImageInformation](GetImageInformation.md) event\.
 

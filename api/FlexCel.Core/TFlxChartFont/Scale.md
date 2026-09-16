@@ -3,7 +3,7 @@ uid: TFlxChartFont.Scale
 description: TFlxChartFont.Scale
 ---
 
-# TFlxChartFont.Scale Property
+# TFlxChartFont\.Scale Property
 
 Scale for the font\. Multiply by this value to get the real size in points\.
 

@@ -3,7 +3,7 @@ uid: TFlexCelHtmlExport.HtmlVersion
 description: TFlexCelHtmlExport.HtmlVersion
 ---
 
-# TFlexCelHtmlExport.HtmlVersion Property
+# TFlexCelHtmlExport\.HtmlVersion Property
 
 Version of the HTML generated\.
 

@@ -3,7 +3,7 @@ uid: IXmlMap.SchemaCount
 description: IXmlMap.SchemaCount
 ---
 
-# IXmlMap.SchemaCount Property
+# IXmlMap\.SchemaCount Property
 
 Count of schemas in the class\.
 

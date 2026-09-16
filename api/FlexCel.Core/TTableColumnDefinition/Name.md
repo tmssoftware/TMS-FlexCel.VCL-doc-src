@@ -3,7 +3,7 @@ uid: TTableColumnDefinition.Name
 description: TTableColumnDefinition.Name
 ---
 
-# TTableColumnDefinition.Name Property
+# TTableColumnDefinition\.Name Property
 
 Name of the column\. Note that when the table has a header row, the names will be  read from the cells where the column is, not from this name\. This property is mostly useful if the table doesn't have headers\.
 

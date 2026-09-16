@@ -3,7 +3,7 @@ uid: TValueAxis.Max
 description: TValueAxis.Max
 ---
 
-# TValueAxis.Max Property
+# TValueAxis\.Max Property
 
 Maximum value for the axis, when not set to automatic in [AxisOptions](AxisOptions.md)\.
 

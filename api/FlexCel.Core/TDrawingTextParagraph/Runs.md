@@ -3,7 +3,7 @@ uid: TDrawingTextParagraph.Runs
 description: TDrawingTextParagraph.Runs
 ---
 
-# TDrawingTextParagraph.Runs Property
+# TDrawingTextParagraph\.Runs Property
 
 Returns all the text runs for this paragraph\.
 This creates a copy of the array of runs, so if possible use [TextRun](TextRun.md) instead to avoid memory allocations\.

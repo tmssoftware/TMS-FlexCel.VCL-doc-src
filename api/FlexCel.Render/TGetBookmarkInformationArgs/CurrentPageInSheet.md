@@ -3,7 +3,7 @@ uid: TGetBookmarkInformationArgs.CurrentPageInSheet
 description: TGetBookmarkInformationArgs.CurrentPageInSheet
 ---
 
-# TGetBookmarkInformationArgs.CurrentPageInSheet Property
+# TGetBookmarkInformationArgs\.CurrentPageInSheet Property
 
 Page currently printing, relative to the active sheet\.
 

@@ -3,7 +3,7 @@ uid: IImgExportInfo.CurrentPage
 description: IImgExportInfo.CurrentPage
 ---
 
-# IImgExportInfo.CurrentPage Property
+# IImgExportInfo\.CurrentPage Property
 
 Last page printed\.
 

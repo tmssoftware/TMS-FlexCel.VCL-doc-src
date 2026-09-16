@@ -3,7 +3,7 @@ uid: IFillStyle.FillStyleType
 description: IFillStyle.FillStyleType
 ---
 
-# IFillStyle.FillStyleType Property
+# IFillStyle\.FillStyleType Property
 
 Stores which kind of fill style is used\.
 

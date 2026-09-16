@@ -3,7 +3,7 @@ uid: IChartPlotArea.CalculatedPosition
 description: IChartPlotArea.CalculatedPosition
 ---
 
-# IChartPlotArea.CalculatedPosition Property
+# IChartPlotArea\.CalculatedPosition Property
 
 Returns the position that was last calculated by Excel, if that was saved in the file\.
 Note that only xls files save the last calculated position, so in xlsx files this value will be empty\.

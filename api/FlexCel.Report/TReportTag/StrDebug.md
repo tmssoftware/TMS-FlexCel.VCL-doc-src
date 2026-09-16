@@ -3,7 +3,7 @@ uid: TReportTag.StrDebug
 description: TReportTag.StrDebug
 ---
 
-# TReportTag.StrDebug Property
+# TReportTag\.StrDebug Property
 
 DEBUG
 

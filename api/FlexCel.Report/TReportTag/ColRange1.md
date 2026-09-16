@@ -3,7 +3,7 @@ uid: TReportTag.ColRange1
 description: TReportTag.ColRange1
 ---
 
-# TReportTag.ColRange1 Property
+# TReportTag\.ColRange1 Property
 
 Range delimiter\.
 

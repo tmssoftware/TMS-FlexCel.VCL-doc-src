@@ -3,7 +3,7 @@ uid: TDrawingRichString.ParagraphCount
 description: TDrawingRichString.ParagraphCount
 ---
 
-# TDrawingRichString.ParagraphCount Property
+# TDrawingRichString\.ParagraphCount Property
 
 The count of Paragraphs in this string\.
 

@@ -3,7 +3,7 @@ uid: TExcelFile.OptionsFullRecalcOnLoad
 description: TExcelFile.OptionsFullRecalcOnLoad
 ---
 
-# TExcelFile.OptionsFullRecalcOnLoad Property
+# TExcelFile\.OptionsFullRecalcOnLoad Property
 
 This property tells you if the open file wasn't recalculated when saved\.
 If true, the workbook doesn't have recalculated values and will be recalculated when open in Excel\.

@@ -3,7 +3,7 @@ uid: IShapeProperties.XlsxChartAnchor
 description: IShapeProperties.XlsxChartAnchor
 ---
 
-# IShapeProperties.XlsxChartAnchor Property
+# IShapeProperties\.XlsxChartAnchor Property
 
 If the chart is inside a chart, this member can hold more exact information than [Anchor](Anchor.md)\.
 

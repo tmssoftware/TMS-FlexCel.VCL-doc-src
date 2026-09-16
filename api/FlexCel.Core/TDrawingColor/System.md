@@ -3,7 +3,7 @@ uid: TDrawingColor.System
 description: TDrawingColor.System
 ---
 
-# TDrawingColor.System Property
+# TDrawingColor\.System Property
 
 Returns the color when this structure has a System color\.
 

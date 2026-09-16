@@ -3,7 +3,7 @@ uid: TReflectionEffect.VerticalSkew
 description: TReflectionEffect.VerticalSkew
 ---
 
-# TReflectionEffect.VerticalSkew Property
+# TReflectionEffect\.VerticalSkew Property
 
 Vertical skew angle\.
 

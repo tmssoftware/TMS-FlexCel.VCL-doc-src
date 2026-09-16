@@ -3,7 +3,7 @@ uid: TDrawingHyperlink.HighlightClick
 description: TDrawingHyperlink.HighlightClick
 ---
 
-# TDrawingHyperlink.HighlightClick Property
+# TDrawingHyperlink\.HighlightClick Property
 
 When set to true, the link will be painted in a "Visited" color\.
 

@@ -3,7 +3,7 @@ uid: IChartSeriesFillOptions.InvertNegativeValues
 description: IChartSeriesFillOptions.InvertNegativeValues
 ---
 
-# IChartSeriesFillOptions.InvertNegativeValues Property
+# IChartSeriesFillOptions\.InvertNegativeValues Property
 
 When true and values of the series are negative, foreground and background colors are reversed\.
 

@@ -35,7 +35,7 @@ Represents a color transform that FlexCel currently doesn't know about\.
 
 |Name|Description|
 |---|---|
-|[TransformName](TransformName.md)|Name of the transform\.<br />|
 |[TransformDef](TransformDef.md)|Transform definition as XML\.<br />|
+|[TransformName](TransformName.md)|Name of the transform\.<br />|
 
 

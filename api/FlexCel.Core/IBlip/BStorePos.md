@@ -3,7 +3,7 @@ uid: IBlip.BStorePos
 description: IBlip.BStorePos
 ---
 
-# IBlip.BStorePos Property
+# IBlip\.BStorePos Property
 
 Position of the image in the image store\. Internal use\.
 

@@ -33,8 +33,8 @@ In many cases, arguments will appear as if they were reversed: If you follow the
 
 |Name|Description|
 |---|---|
-|[FunctionName](FunctionName.md)|Name of the function represented by this token\.<br />|
 |[ArgumentCount](ArgumentCount.md)|Number of arguments for this function\. Note that if the function has a fixed number of arguments, this parameter is ignored\.<br />|
+|[FunctionName](FunctionName.md)|Name of the function represented by this token\.<br />|
 |[IsUserDefined](IsUserDefined.md)|If true, the function is used defined, not built\-in in Excel\. Note that some built\-in functions from Excel 2003 like EOMonth, while available in Excel, are implemented as user\-defined functions \(they were available in ToolPacks like the Analysis ToolPack\)\.<br />|
 
 

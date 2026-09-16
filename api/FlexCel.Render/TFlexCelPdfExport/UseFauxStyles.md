@@ -3,7 +3,7 @@ uid: TFlexCelPdfExport.UseFauxStyles
 description: TFlexCelPdfExport.UseFauxStyles
 ---
 
-# TFlexCelPdfExport.UseFauxStyles Property
+# TFlexCelPdfExport\.UseFauxStyles Property
 
 When a font doesn't have a bold, italic or bold\-italic variant, FlexCel can't export bold, italic or bold\-italic characters to the pdf respectively\. When this property is true \(the default\), FlexCel will try to "fake" those missing styles by using a wider pen width for the characters to simulate bold, or doing a slant transform to simulate italics\.
 

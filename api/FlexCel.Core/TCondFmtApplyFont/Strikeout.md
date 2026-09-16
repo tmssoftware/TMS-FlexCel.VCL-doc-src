@@ -3,7 +3,7 @@ uid: TCondFmtApplyFont.Strikeout
 description: TCondFmtApplyFont.Strikeout
 ---
 
-# TCondFmtApplyFont.Strikeout Property
+# TCondFmtApplyFont\.Strikeout Property
 
 If true, the strikeout style of the font will be used\.
 

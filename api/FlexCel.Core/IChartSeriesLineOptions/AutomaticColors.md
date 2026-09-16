@@ -3,7 +3,7 @@ uid: IChartSeriesLineOptions.AutomaticColors
 description: IChartSeriesLineOptions.AutomaticColors
 ---
 
-# IChartSeriesLineOptions.AutomaticColors Property
+# IChartSeriesLineOptions\.AutomaticColors Property
 
 When true, line colors are assigned automatically\.
 

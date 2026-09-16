@@ -3,7 +3,7 @@ uid: ITableDefinition.HasTotalsRow
 description: ITableDefinition.HasTotalsRow
 ---
 
-# ITableDefinition.HasTotalsRow Property
+# ITableDefinition\.HasTotalsRow Property
 
 If true, the table has a Totals row\.
 

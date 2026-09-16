@@ -3,7 +3,7 @@ uid: ITableDefinition.Range
 description: ITableDefinition.Range
 ---
 
-# ITableDefinition.Range Property
+# ITableDefinition\.Range Property
 
 The range of cells used by the table\.
 

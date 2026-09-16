@@ -35,11 +35,11 @@ A rectangle with coordinates used in a drawing\.
 
 |Name|Description|
 |---|---|
-|[Left](Left.md)|Percentage of the left coordinate\. Might be negative\.<br />|
-|[Top](Top.md)|Percentage of the top coordinate\. Might be negative\.<br />|
-|[Right](Right.md)|Percentage of the right coordinate\. Might be negative\.<br />|
 |[Bottom](Bottom.md)|Percentage of the bottom coordinate\. Might be negative\.<br />|
 |[Height](Height.md)|Bottom \- Top|
+|[Left](Left.md)|Percentage of the left coordinate\. Might be negative\.<br />|
+|[Right](Right.md)|Percentage of the right coordinate\. Might be negative\.<br />|
+|[Top](Top.md)|Percentage of the top coordinate\. Might be negative\.<br />|
 |[Width](Width.md)|Right \- Left|
 
 

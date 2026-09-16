@@ -3,7 +3,7 @@ uid: TBookmark.ChildrenCollapsed
 description: TBookmark.ChildrenCollapsed
 ---
 
-# TBookmark.ChildrenCollapsed Property
+# TBookmark\.ChildrenCollapsed Property
 
 If true, all children of this bookmark will be collapsed\.
 

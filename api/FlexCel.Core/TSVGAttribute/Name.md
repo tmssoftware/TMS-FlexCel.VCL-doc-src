@@ -3,7 +3,7 @@ uid: TSVGAttribute.Name
 description: TSVGAttribute.Name
 ---
 
-# TSVGAttribute.Name Property
+# TSVGAttribute\.Name Property
 
 Name of the SVG attribute\.
 

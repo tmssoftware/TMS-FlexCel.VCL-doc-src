@@ -3,7 +3,7 @@ uid: TUIPointF.Empty
 description: TUIPointF.Empty
 ---
 
-# TUIPointF.Empty Property
+# TUIPointF\.Empty Property
 
 Returns a TPointF with X = 0 and Y = 0\.
 

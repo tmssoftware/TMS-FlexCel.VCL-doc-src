@@ -3,7 +3,7 @@ uid: IChartOptions.ChangeColorsOnEachSeries
 description: IChartOptions.ChangeColorsOnEachSeries
 ---
 
-# IChartOptions.ChangeColorsOnEachSeries Property
+# IChartOptions\.ChangeColorsOnEachSeries Property
 
 If false, all series will be the same color\.
 

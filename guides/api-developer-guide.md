@@ -1573,7 +1573,7 @@ locally with full trust.
 > objects hanging around**. Free them as soon as possible.
 
 
-Take also a look at the example [Recalculation of linked files](xref:Recalculation_Of_Linked_Files-Delphi) for more information.
+Take also a look at the example [Recalculation Of Linked Files](xref:Recalculation_Of_Linked_Files-Delphi) for more information.
 
 ## Miscellanea
 

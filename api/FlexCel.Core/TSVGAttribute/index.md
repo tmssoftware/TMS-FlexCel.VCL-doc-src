@@ -36,7 +36,7 @@ Represents an attribute for using in SVG\.
 |Name|Description|
 |---|---|
 |[Name](Name.md)|Name of the SVG attribute\.<br />|
-|[Value](Value.md)|Value of the SVG attribute\.<br />|
 |[Namespace](Namespace.md)|Namespace of the SVG attribute\.<br />|
+|[Value](Value.md)|Value of the SVG attribute\.<br />|
 
 

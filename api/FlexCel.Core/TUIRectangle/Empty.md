@@ -3,7 +3,7 @@ uid: TUIRectangle.Empty
 description: TUIRectangle.Empty
 ---
 
-# TUIRectangle.Empty Property
+# TUIRectangle\.Empty Property
 
 Returns a rectangle with X = 0, Y = 0, Width = 0 and Height = 0\.
 

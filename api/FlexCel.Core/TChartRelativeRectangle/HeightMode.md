@@ -3,7 +3,7 @@ uid: TChartRelativeRectangle.HeightMode
 description: TChartRelativeRectangle.HeightMode
 ---
 
-# TChartRelativeRectangle.HeightMode Property
+# TChartRelativeRectangle\.HeightMode Property
 
 Defines how [Y2](Y2.md) behaves\. When this value is Factor, Y2 is a percent of the height of the rectangle\.
 When this value is Edge, Y2 is the bottom coordinate of the rectangle\.

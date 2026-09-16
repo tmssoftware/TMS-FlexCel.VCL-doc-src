@@ -3,7 +3,7 @@ uid: TReportTag.StrExcludeSheet
 description: TReportTag.StrExcludeSheet
 ---
 
-# TReportTag.StrExcludeSheet Property
+# TReportTag\.StrExcludeSheet Property
 
 "\."
 

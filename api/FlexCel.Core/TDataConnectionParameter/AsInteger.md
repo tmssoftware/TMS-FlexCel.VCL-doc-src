@@ -3,7 +3,7 @@ uid: TDataConnectionParameter.AsInteger
 description: TDataConnectionParameter.AsInteger
 ---
 
-# TDataConnectionParameter.AsInteger Property
+# TDataConnectionParameter\.AsInteger Property
 
 Integer value to use as the query parameter\. Used when [ParameterType](ParameterType.md) = value\.
 

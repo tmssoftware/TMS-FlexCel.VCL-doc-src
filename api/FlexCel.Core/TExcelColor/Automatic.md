@@ -3,7 +3,7 @@ uid: TExcelColor.Automatic
 description: TExcelColor.Automatic
 ---
 
-# TExcelColor.Automatic Property
+# TExcelColor\.Automatic Property
 
 Returns an standard Automatic color\.
 

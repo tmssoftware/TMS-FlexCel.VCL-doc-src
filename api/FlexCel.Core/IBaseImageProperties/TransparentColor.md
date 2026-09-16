@@ -3,7 +3,7 @@ uid: IBaseImageProperties.TransparentColor
 description: IBaseImageProperties.TransparentColor
 ---
 
-# IBaseImageProperties.TransparentColor Property
+# IBaseImageProperties\.TransparentColor Property
 
 Transparent Color\. [TFlxConsts.NoTransparentColor](../TFlxConsts/NoTransparentColor.md) \(~0L\) means no transparent color\.
 

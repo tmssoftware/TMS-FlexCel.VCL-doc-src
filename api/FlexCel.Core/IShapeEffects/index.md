@@ -25,7 +25,7 @@ Contains information for the basic effects of an autoshape \(subtle, none or mod
 
 |Name|Description|
 |---|---|
-|[ThemeStyle](ThemeStyle.md)|Scheme used in the theme\.<br />|
 |[ThemeColor](ThemeColor.md)|Color used for the effects\.<br />|
+|[ThemeStyle](ThemeStyle.md)|Scheme used in the theme\.<br />|
 
 

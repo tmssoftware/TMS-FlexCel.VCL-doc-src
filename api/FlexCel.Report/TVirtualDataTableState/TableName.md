@@ -3,7 +3,7 @@ uid: TVirtualDataTableState.TableName
 description: TVirtualDataTableState.TableName
 ---
 
-# TVirtualDataTableState.TableName Property
+# TVirtualDataTableState\.TableName Property
 
 Returns the table name assigned on the template to this dataset\. Note that this name is the one on the bands in the template\.
 

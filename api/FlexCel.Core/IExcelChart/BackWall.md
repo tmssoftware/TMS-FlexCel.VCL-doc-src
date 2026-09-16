@@ -3,7 +3,7 @@ uid: IExcelChart.BackWall
 description: IExcelChart.BackWall
 ---
 
-# IExcelChart.BackWall Property
+# IExcelChart\.BackWall Property
 
 The wall at the back of a 3D\-chart
 

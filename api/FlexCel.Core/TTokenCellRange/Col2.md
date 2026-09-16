@@ -3,7 +3,7 @@ uid: TTokenCellRange.Col2
 description: TTokenCellRange.Col2
 ---
 
-# TTokenCellRange.Col2 Property
+# TTokenCellRange\.Col2 Property
 
 Last column of the range \(1 based\)\.
 

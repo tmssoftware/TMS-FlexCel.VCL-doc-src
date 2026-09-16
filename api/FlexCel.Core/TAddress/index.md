@@ -18,11 +18,11 @@ Used to summarize a range of cells\. This class is for internal use\.
 
 |Name|Description|
 |---|---|
-|[Xls](Xls.md)|ExcelFile where this Address applies\.<br />|
 |[BookName](BookName.md)|Name of the external workbook\. Null if no external book\.<br />|
-|[Sheet](Sheet.md)|Sheet index \(1 based\) where the address is\.<br />|
-|[Row](Row.md)|Row index \(1 based\) of the address\.<br />|
 |[Col](Col.md)|Column index \(1 based\) of the address\.<br />|
+|[Row](Row.md)|Row index \(1 based\) of the address\.<br />|
+|[Sheet](Sheet.md)|Sheet index \(1 based\) where the address is\.<br />|
+|[Xls](Xls.md)|ExcelFile where this Address applies\.<br />|
 
 
 ## Operators

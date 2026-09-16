@@ -25,9 +25,9 @@ Represents the fonts for a theme\.
 
 |Name|Description|
 |---|---|
-|[Name](Name.md)|Name of the font definition\. This will be shown in Excel UI\.<br />|
+|[IsStandard2007](IsStandard2007.md)|Returns true is this is a standard theme as in office 2007\.<br />|
 |[MajorFont](MajorFont.md)|This element defines the set of major fonts which are to be used under different languages or locals\.<br />|
 |[MinorFont](MinorFont.md)|This element defines the set of minor fonts which are to be used under different languages or locals\.<br />|
-|[IsStandard2007](IsStandard2007.md)|Returns true is this is a standard theme as in office 2007\.<br />|
+|[Name](Name.md)|Name of the font definition\. This will be shown in Excel UI\.<br />|
 
 

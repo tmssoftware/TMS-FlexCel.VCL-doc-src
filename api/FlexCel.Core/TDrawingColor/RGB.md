@@ -3,7 +3,7 @@ uid: TDrawingColor.RGB
 description: TDrawingColor.RGB
 ---
 
-# TDrawingColor.RGB Property
+# TDrawingColor\.RGB Property
 
 Returns the color when this structure has an RGB color, as a 0xRRGGBB integer\.
 

@@ -25,7 +25,7 @@ Implements the YearFrac Excel function\. Look at Excel documentation for more in
 
 |Name|Description|
 |---|---|
-|[Evaluate](Evaluate.md)|Evaluates the function\. Look At Excel docs for parameters\.<br />|
 |[CalcYearFrac](CalcYearFrac.md)|See Excel docs for description of this function\.<br />|
+|[Evaluate](Evaluate.md)|Evaluates the function\. Look At Excel docs for parameters\.<br />|
 
 

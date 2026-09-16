@@ -3,7 +3,7 @@ uid: TExcelFile.FormatCount
 description: TExcelFile.FormatCount
 ---
 
-# TExcelFile.FormatCount Property
+# TExcelFile\.FormatCount Property
 
 Number of custom formats defined in all the file\. When calling GetFormat\(XF\), 0\<=XF\<FormatCount\.
 

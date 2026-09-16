@@ -54,7 +54,7 @@ Returns a named style for the workbook\. You can also use this method to check i
 
 ## Returns
 
-The style definition, or null if the style doesn't exists\.
+The style definition, or null if the style doesn't exist\.
 
 ## See also
 

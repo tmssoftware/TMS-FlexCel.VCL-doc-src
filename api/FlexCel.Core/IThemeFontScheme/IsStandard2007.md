@@ -3,7 +3,7 @@ uid: IThemeFontScheme.IsStandard2007
 description: IThemeFontScheme.IsStandard2007
 ---
 
-# IThemeFontScheme.IsStandard2007 Property
+# IThemeFontScheme\.IsStandard2007 Property
 
 Returns true is this is a standard theme as in office 2007\.
 

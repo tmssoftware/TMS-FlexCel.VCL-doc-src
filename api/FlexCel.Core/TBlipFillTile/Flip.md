@@ -3,7 +3,7 @@ uid: TBlipFillTile.Flip
 description: TBlipFillTile.Flip
 ---
 
-# TBlipFillTile.Flip Property
+# TBlipFillTile\.Flip Property
 
 Specifies the direction\(s\) in which to flip the source image while tiling\.  Images can be flipped horizontally, vertically, or in both directions to fill the entire region\.
 

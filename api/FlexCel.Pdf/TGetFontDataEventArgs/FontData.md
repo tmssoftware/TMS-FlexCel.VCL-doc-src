@@ -3,7 +3,7 @@ uid: TGetFontDataEventArgs.FontData
 description: TGetFontDataEventArgs.FontData
 ---
 
-# TGetFontDataEventArgs.FontData Property
+# TGetFontDataEventArgs\.FontData Property
 
 Return the full font file as a byte array here\.
 

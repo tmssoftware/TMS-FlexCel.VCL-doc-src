@@ -3,7 +3,7 @@ uid: IAreaLineChartOptions.DropBars
 description: IAreaLineChartOptions.DropBars
 ---
 
-# IAreaLineChartOptions.DropBars Property
+# IAreaLineChartOptions\.DropBars Property
 
 If the chart group has drop lines, the line information\. Null otherwise\.
 

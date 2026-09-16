@@ -3,7 +3,7 @@ uid: TFlxFont.Scheme
 description: TFlxFont.Scheme
 ---
 
-# TFlxFont.Scheme Property
+# TFlxFont\.Scheme Property
 
 Font scheme\. This only applies to Excel 2007\. Note that this property takes over other properties like font name: If the scheme is for example "Major" and the theme has a Major font defined as calibri, then the font will be Calibri no matter if you change the font name\.
 

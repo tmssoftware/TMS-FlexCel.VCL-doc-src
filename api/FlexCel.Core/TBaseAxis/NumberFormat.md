@@ -3,7 +3,7 @@ uid: TBaseAxis.NumberFormat
 description: TBaseAxis.NumberFormat
 ---
 
-# TBaseAxis.NumberFormat Property
+# TBaseAxis\.NumberFormat Property
 
 Format for the numbers on this axis\.
 

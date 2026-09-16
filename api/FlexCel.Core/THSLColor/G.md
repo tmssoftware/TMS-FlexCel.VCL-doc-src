@@ -3,7 +3,7 @@ uid: THSLColor.G
 description: THSLColor.G
 ---
 
-# THSLColor.G Property
+# THSLColor\.G Property
 
 Green component in the RGB space\.
 

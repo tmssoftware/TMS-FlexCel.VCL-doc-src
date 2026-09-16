@@ -3,7 +3,7 @@ uid: TReportTag.InternalDB
 description: TReportTag.InternalDB
 ---
 
-# TReportTag.InternalDB Property
+# TReportTag\.InternalDB Property
 
 "\_\_\#\#INT\_RNAL\_"
 

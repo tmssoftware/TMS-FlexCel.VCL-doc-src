@@ -3,7 +3,7 @@ uid: TStandardSheetSelector.CssWhenBottom
 description: TStandardSheetSelector.CssWhenBottom
 ---
 
-# TStandardSheetSelector.CssWhenBottom Property
+# TStandardSheetSelector\.CssWhenBottom Property
 
 Specific style to be applied to the selector when it goes at the bottom\. This style will override the style you specify with [CssGeneral](CssGeneral.md)
 

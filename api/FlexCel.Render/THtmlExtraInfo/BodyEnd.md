@@ -3,7 +3,7 @@ uid: THtmlExtraInfo.BodyEnd
 description: THtmlExtraInfo.BodyEnd
 ---
 
-# THtmlExtraInfo.BodyEnd Property
+# THtmlExtraInfo\.BodyEnd Property
 
 Extra strings to be added before the closing \</body> tag and after the table data\.
 

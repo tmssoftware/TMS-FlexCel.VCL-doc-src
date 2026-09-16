@@ -3,7 +3,7 @@ uid: IPatternFill.Pattern
 description: IPatternFill.Pattern
 ---
 
-# IPatternFill.Pattern Property
+# IPatternFill\.Pattern Property
 
 Type of hatching\.
 

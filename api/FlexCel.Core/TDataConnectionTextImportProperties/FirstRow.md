@@ -3,7 +3,7 @@ uid: TDataConnectionTextImportProperties.FirstRow
 description: TDataConnectionTextImportProperties.FirstRow
 ---
 
-# TDataConnectionTextImportProperties.FirstRow Property
+# TDataConnectionTextImportProperties\.FirstRow Property
 
 Indicates at what row of the file to start the data import\. All unsignedInt values are permitted, although it's possible that firstRow is higher than the number of rows in the text file, in which case no data is imported\.
 

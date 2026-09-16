@@ -3,7 +3,7 @@ uid: TFlexCelHtmlExport.HidePrintObjects
 description: TFlexCelHtmlExport.HidePrintObjects
 ---
 
-# TFlexCelHtmlExport.HidePrintObjects Property
+# TFlexCelHtmlExport\.HidePrintObjects Property
 
 Select which kind of objects should not be exported to html\. By default we do \*not\* export headers and footers, since they are normally not what you want when exporting to HTML\.
 

@@ -3,7 +3,7 @@ uid: TAxisTickOptions.LabelPosition
 description: TAxisTickOptions.LabelPosition
 ---
 
-# TAxisTickOptions.LabelPosition Property
+# TAxisTickOptions\.LabelPosition Property
 
 Position of the label relative to the axis\.
 

@@ -3,7 +3,7 @@ uid: TCondFmtApplyFill.Pattern
 description: TCondFmtApplyFill.Pattern
 ---
 
-# TCondFmtApplyFill.Pattern Property
+# TCondFmtApplyFill\.Pattern Property
 
 Fill style\.
 

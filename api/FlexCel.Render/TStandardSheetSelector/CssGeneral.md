@@ -3,7 +3,7 @@ uid: TStandardSheetSelector.CssGeneral
 description: TStandardSheetSelector.CssGeneral
 ---
 
-# TStandardSheetSelector.CssGeneral Property
+# TStandardSheetSelector\.CssGeneral Property
 
 Style to be applied to the selector\. This is a general setting, you can later further customize the style when the selector is at the Left, Top, Right or Bottom with the corresponding [CssWhenLeft](CssWhenLeft.md), [CssWhenTop](CssWhenTop.md), [CssWhenRight](CssWhenRight.md) and [CssWhenBottom](CssWhenBottom.md) properties\.
 

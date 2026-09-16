@@ -35,9 +35,9 @@ Applies a preset shadow effect\.
 
 |Name|Description|
 |---|---|
+|[Direction](Direction.md)|Rotation of the shadow\.<br />|
+|[Distance](Distance.md)|Distance of the shadow\.<br />|
 |[ShadowColor](ShadowColor.md)|Color for the shadow\.<br />|
 |[ShadowType](ShadowType.md)|Preset shadow type\.<br />|
-|[Distance](Distance.md)|Distance of the shadow\.<br />|
-|[Direction](Direction.md)|Rotation of the shadow\.<br />|
 
 

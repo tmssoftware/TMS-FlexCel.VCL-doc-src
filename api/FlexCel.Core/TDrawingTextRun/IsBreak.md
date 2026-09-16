@@ -3,7 +3,7 @@ uid: TDrawingTextRun.IsBreak
 description: TDrawingTextRun.IsBreak
 ---
 
-# TDrawingTextRun.IsBreak Property
+# TDrawingTextRun\.IsBreak Property
 
 Returns true if this run contains a single line break\.
 

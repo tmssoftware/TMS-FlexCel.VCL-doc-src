@@ -3,7 +3,7 @@ uid: IShapeProperties.IsPrintable
 description: IShapeProperties.IsPrintable
 ---
 
-# IShapeProperties.IsPrintable Property
+# IShapeProperties\.IsPrintable Property
 
 True if the shape should be printed\. Different from [Print](Print.md), this property also looks inside groups\.
 If the shape is a group container, it will return whether the group is printable, not if the container is\.

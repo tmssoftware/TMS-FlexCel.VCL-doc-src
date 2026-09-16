@@ -3,7 +3,7 @@ uid: TChartWallOptions.FillOptions
 description: TChartWallOptions.FillOptions
 ---
 
-# TChartWallOptions.FillOptions Property
+# TChartWallOptions\.FillOptions Property
 
 Fill colors for the walls\.
 

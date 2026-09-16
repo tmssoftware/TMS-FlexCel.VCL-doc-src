@@ -3,7 +3,7 @@ uid: TReportTag.CrossTabRange2
 description: TReportTag.CrossTabRange2
 ---
 
-# TReportTag.CrossTabRange2 Property
+# TReportTag\.CrossTabRange2 Property
 
 Range delimiter\.
 

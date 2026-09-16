@@ -3,7 +3,7 @@ uid: TTableColumnDefinition.TotalsRowLabel
 description: TTableColumnDefinition.TotalsRowLabel
 ---
 
-# TTableColumnDefinition.TotalsRowLabel Property
+# TTableColumnDefinition\.TotalsRowLabel Property
 
 A String to show in the totals row cell for this column\.
 This is ignored unless [TotalsRowFunction](TotalsRowFunction.md) is none\.

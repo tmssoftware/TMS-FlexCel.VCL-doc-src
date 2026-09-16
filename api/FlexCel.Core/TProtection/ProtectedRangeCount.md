@@ -3,7 +3,7 @@ uid: TProtection.ProtectedRangeCount
 description: TProtection.ProtectedRangeCount
 ---
 
-# TProtection.ProtectedRangeCount Property
+# TProtection\.ProtectedRangeCount Property
 
 Returns a the count of protected ranges in the active sheet\.
 

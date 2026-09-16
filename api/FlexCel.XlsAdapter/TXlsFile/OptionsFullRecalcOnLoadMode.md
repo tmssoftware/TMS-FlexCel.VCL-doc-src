@@ -3,7 +3,7 @@ uid: TXlsFile.OptionsFullRecalcOnLoadMode
 description: TXlsFile.OptionsFullRecalcOnLoadMode
 ---
 
-# TXlsFile.OptionsFullRecalcOnLoadMode Property
+# TXlsFile\.OptionsFullRecalcOnLoadMode Property
 
 Defines how FlexCel will identify the files it creates to be calculated by Excel when it opens them\.
 

@@ -3,7 +3,7 @@ uid: TXlsxMissingPartError.PartName
 description: TXlsxMissingPartError.PartName
 ---
 
-# TXlsxMissingPartError.PartName Property
+# TXlsxMissingPartError\.PartName Property
 
 Name of the missing part\.
 

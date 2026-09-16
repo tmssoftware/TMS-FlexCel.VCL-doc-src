@@ -3,7 +3,7 @@ uid: IImageProperties.Title
 description: IImageProperties.Title
 ---
 
-# IImageProperties.Title Property
+# IImageProperties\.Title Property
 
 Specifies the title \(caption\) of the current object\.
 

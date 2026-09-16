@@ -3,7 +3,7 @@ uid: TDrawingHyperlink.BaseUrl
 description: TDrawingHyperlink.BaseUrl
 ---
 
-# TDrawingHyperlink.BaseUrl Property
+# TDrawingHyperlink\.BaseUrl Property
 
 Base URL that will be added to the start of [Url](Url.md) if it is set in the file\. The property [FullUrl](FullUrl.md) contains the combined URL\.
 

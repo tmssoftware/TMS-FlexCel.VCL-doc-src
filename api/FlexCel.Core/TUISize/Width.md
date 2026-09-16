@@ -3,7 +3,7 @@ uid: TUISize.Width
 description: TUISize.Width
 ---
 
-# TUISize.Width Property
+# TUISize\.Width Property
 
 Width from the size\.
 

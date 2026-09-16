@@ -3,7 +3,7 @@ uid: TSheetView.ViewType
 description: TSheetView.ViewType
 ---
 
-# TSheetView.ViewType Property
+# TSheetView\.ViewType Property
 
 Active view mode\.
 

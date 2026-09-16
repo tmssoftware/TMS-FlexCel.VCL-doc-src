@@ -3,7 +3,7 @@ uid: TFlexCelPreviewer.OnStartPageChanged
 description: TFlexCelPreviewer.OnStartPageChanged
 ---
 
-# TFlexCelPreviewer.OnStartPageChanged Event
+# TFlexCelPreviewer\.OnStartPageChanged Event
 
 Fires when the starting page changes\.
 

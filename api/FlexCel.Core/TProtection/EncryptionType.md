@@ -3,9 +3,14 @@ uid: TProtection.EncryptionType
 description: TProtection.EncryptionType
 ---
 
-# TProtection.EncryptionType Property
+# TProtection\.EncryptionType Property
 
-Encryption mode for xls files \.
+Encryption mode for xls files\.
+
+
+**Security note:** xls encryption is provided for legacy compatibility and uses old algorithms\.
+For new confidential files, save as xlsx and use the Agile xlsx encryption instead\.
+
 
 
 ## Syntax

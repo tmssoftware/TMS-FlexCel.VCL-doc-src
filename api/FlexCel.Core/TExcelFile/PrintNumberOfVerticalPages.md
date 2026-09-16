@@ -3,7 +3,7 @@ uid: TExcelFile.PrintNumberOfVerticalPages
 description: TExcelFile.PrintNumberOfVerticalPages
 ---
 
-# TExcelFile.PrintNumberOfVerticalPages Property
+# TExcelFile\.PrintNumberOfVerticalPages Property
 
 If set, the sheet will be printed on at most this number of vertical pages\. Use 0 to have unlimited vertical pages while still limiting the horizontal pages with [PrintNumberOfHorizontalPages](PrintNumberOfHorizontalPages.md)\. \(see ['Preparing for printing' in the Api Developer Guide](xref:ApiDeveloperGuide#preparing-for-printing)\)
 

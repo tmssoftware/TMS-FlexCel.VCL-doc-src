@@ -3,7 +3,7 @@ uid: TXlsFile.HeadingRowHeight
 description: TXlsFile.HeadingRowHeight
 ---
 
-# TXlsFile.HeadingRowHeight Property
+# TXlsFile\.HeadingRowHeight Property
 
 Height that will be used by the added row with column headers when [TExcelFile.PrintHeadings](../../FlexCel.Core/TExcelFile/PrintHeadings.md) is true\.
 The default value \(0\) means to use an automatic value which is fine with normal fonts\.

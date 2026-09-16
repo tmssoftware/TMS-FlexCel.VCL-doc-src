@@ -3,7 +3,7 @@ uid: TXlsxChart.ObjectCount
 description: TXlsxChart.ObjectCount
 ---
 
-# TXlsxChart.ObjectCount Property
+# TXlsxChart\.ObjectCount Property
 
 The number of objects that are embedded inside this chart\.
 

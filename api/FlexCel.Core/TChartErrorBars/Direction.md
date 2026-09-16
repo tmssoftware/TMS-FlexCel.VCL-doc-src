@@ -3,7 +3,7 @@ uid: TChartErrorBars.Direction
 description: TChartErrorBars.Direction
 ---
 
-# TChartErrorBars.Direction Property
+# TChartErrorBars\.Direction Property
 
 Direction of the error bars\.
 

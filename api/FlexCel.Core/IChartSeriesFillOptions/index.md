@@ -19,7 +19,7 @@ Fill options for a series or a point inside a series\.
 |Name|Description|
 |---|---|
 |[AutomaticColors](AutomaticColors.md)|When true, fill colors are assigned automatically\.<br />|
-|[InvertNegativeValues](InvertNegativeValues.md)|When true and values of the series are negative, foreground and background colors are reversed\.<br />|
 |[InvertedFill](InvertedFill.md)|Fill style for the negative bars in bar charts, when "invert if negative" is checked\.<br />|
+|[InvertNegativeValues](InvertNegativeValues.md)|When true and values of the series are negative, foreground and background colors are reversed\.<br />|
 
 

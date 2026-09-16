@@ -3,7 +3,7 @@ uid: TXlsFile.VPageBreakCount
 description: TXlsFile.VPageBreakCount
 ---
 
-# TXlsFile.VPageBreakCount Property
+# TXlsFile\.VPageBreakCount Property
 
 The number of vertical page breaks in the active sheet\.
 

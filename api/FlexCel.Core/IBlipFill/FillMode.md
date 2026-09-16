@@ -3,7 +3,7 @@ uid: IBlipFill.FillMode
 description: IBlipFill.FillMode
 ---
 
-# IBlipFill.FillMode Property
+# IBlipFill\.FillMode Property
 
 Specifies how the blip will be applied to the fill, either by stretching it to cover all the surface, of by tiling it\.
 

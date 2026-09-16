@@ -3,7 +3,7 @@ uid: TOuterShadowEffect.VerticalSkew
 description: TOuterShadowEffect.VerticalSkew
 ---
 
-# TOuterShadowEffect.VerticalSkew Property
+# TOuterShadowEffect\.VerticalSkew Property
 
 Vertical skew angle\.
 

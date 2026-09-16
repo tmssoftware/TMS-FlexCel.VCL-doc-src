@@ -3,7 +3,7 @@ uid: TTokenRelativeCellAddress.ColOffset
 description: TTokenRelativeCellAddress.ColOffset
 ---
 
-# TTokenRelativeCellAddress.ColOffset Property
+# TTokenRelativeCellAddress\.ColOffset Property
 
 The number of columns after or before the current column\. It might be negative\.
 

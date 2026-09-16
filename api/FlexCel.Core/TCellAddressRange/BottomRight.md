@@ -3,7 +3,7 @@ uid: TCellAddressRange.BottomRight
 description: TCellAddressRange.BottomRight
 ---
 
-# TCellAddressRange.BottomRight Property
+# TCellAddressRange\.BottomRight Property
 
 The cell at the bottom right position in the range\. It can't be null\.
 

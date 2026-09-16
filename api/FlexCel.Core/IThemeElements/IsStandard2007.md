@@ -3,7 +3,7 @@ uid: IThemeElements.IsStandard2007
 description: IThemeElements.IsStandard2007
 ---
 
-# IThemeElements.IsStandard2007 Property
+# IThemeElements\.IsStandard2007 Property
 
 Returns true if the elements in this theme are the default ones in Office 2007\.
 

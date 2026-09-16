@@ -3,7 +3,7 @@ uid: TFlexCelReport.ErrorsInResultFile
 description: TFlexCelReport.ErrorsInResultFile
 ---
 
-# TFlexCelReport.ErrorsInResultFile Property
+# TFlexCelReport\.ErrorsInResultFile Property
 
 When true and there is an error reading cells in the template or writing the cells in the report, the error message will be written in the corresponding cell on the generated report\. No Exception will be thrown\.
 

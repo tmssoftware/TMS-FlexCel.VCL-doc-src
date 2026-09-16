@@ -3,7 +3,7 @@ uid: TFlexCelPdfExport.FallbackFontsBoldItalic
 description: TFlexCelPdfExport.FallbackFontsBoldItalic
 ---
 
-# TFlexCelPdfExport.FallbackFontsBoldItalic Property
+# TFlexCelPdfExport\.FallbackFontsBoldItalic Property
 
 A semicolon \(;\) separated list of font names to try when a character is not found in the used font and the font is bold and italic\.
 

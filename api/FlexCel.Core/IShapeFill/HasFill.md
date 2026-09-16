@@ -3,7 +3,7 @@ uid: IShapeFill.HasFill
 description: IShapeFill.HasFill
 ---
 
-# IShapeFill.HasFill Property
+# IShapeFill\.HasFill Property
 
 True if the object has fill, false if it is transparent\.
 

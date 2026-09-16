@@ -3,7 +3,7 @@ uid: TUserDefinedFunction.InternalName
 description: TUserDefinedFunction.InternalName
 ---
 
-# TUserDefinedFunction.InternalName Property
+# TUserDefinedFunction\.InternalName Property
 
 Name that will be used when saving xls \(biff8\) files\. Some functions are saved by Excel 2010 as \.xlfn\_Name when saving xls \(not xlsx\)\. This is the name that should be saved in the xls file, not the real name of the function\.
 

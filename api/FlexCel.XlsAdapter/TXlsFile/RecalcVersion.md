@@ -3,7 +3,7 @@ uid: TXlsFile.RecalcVersion
 description: TXlsFile.RecalcVersion
 ---
 
-# TXlsFile.RecalcVersion Property
+# TXlsFile\.RecalcVersion Property
 
 Defines which version of Excel recalculation engine will be saved in the file\. This affects how Excel will recalculate the file on open\.
 

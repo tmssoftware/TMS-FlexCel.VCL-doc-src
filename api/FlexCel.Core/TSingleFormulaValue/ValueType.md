@@ -3,7 +3,7 @@ uid: TSingleFormulaValue.ValueType
 description: TSingleFormulaValue.ValueType
 ---
 
-# TSingleFormulaValue.ValueType Property
+# TSingleFormulaValue\.ValueType Property
 
 Returns the type of value stored in the formula\. \(a string, a number etc\)\. You can check for this directly or call the helper methods like [IsNumber](IsNumber.md) or [IsBoolean](IsBoolean.md)\. Those methods internally check for ValueType\.
 

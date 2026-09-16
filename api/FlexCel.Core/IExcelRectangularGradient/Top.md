@@ -3,7 +3,7 @@ uid: IExcelRectangularGradient.Top
 description: IExcelRectangularGradient.Top
 ---
 
-# IExcelRectangularGradient.Top Property
+# IExcelRectangularGradient\.Top Property
 
 Top coordinate for the gradient\. This value must be between 0 and 1, and specifies in percent where the first color of the gradient will be placed\.
 

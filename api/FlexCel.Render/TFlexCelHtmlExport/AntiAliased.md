@@ -3,7 +3,7 @@ uid: TFlexCelHtmlExport.AntiAliased
 description: TFlexCelHtmlExport.AntiAliased
 ---
 
-# TFlexCelHtmlExport.AntiAliased Property
+# TFlexCelHtmlExport\.AntiAliased Property
 
 This affects how the text is rendered for example when exporting a chart\. Some modes will look a little blurred but with better quality\.
 Consult the \.NET framework documentation on SmoothingMode for more information

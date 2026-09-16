@@ -3,7 +3,7 @@ uid: TChartPlotAreaPosition.Rectangle
 description: TChartPlotAreaPosition.Rectangle
 ---
 
-# TChartPlotAreaPosition.Rectangle Property
+# TChartPlotAreaPosition\.Rectangle Property
 
 Rectangle where the element is\. If [IsAutomatic](IsAutomatic.md) is true, this rectangle has no meaning\.
 Otherwise, the actual value of the coordinates of the rectangle depend on [LayoutTarget](LayoutTarget.md)\.

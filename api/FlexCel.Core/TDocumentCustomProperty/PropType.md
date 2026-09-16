@@ -3,7 +3,7 @@ uid: TDocumentCustomProperty.PropType
 description: TDocumentCustomProperty.PropType
 ---
 
-# TDocumentCustomProperty.PropType Property
+# TDocumentCustomProperty\.PropType Property
 
 Type of the property\. Note that while you can define any variant, Excel only recognizes the types in this enumeration\.
 

@@ -3,7 +3,7 @@ uid: TSheetSelector.SheetSelectorPosition
 description: TSheetSelector.SheetSelectorPosition
 ---
 
-# TSheetSelector.SheetSelectorPosition Property
+# TSheetSelector\.SheetSelectorPosition Property
 
 An enumerator defining all the positions where the SheetSelector will be drawn\.Read it to know where to draw the selector\.
 

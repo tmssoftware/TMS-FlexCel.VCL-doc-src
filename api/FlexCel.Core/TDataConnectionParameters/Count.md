@@ -3,7 +3,7 @@ uid: TDataConnectionParameters.Count
 description: TDataConnectionParameters.Count
 ---
 
-# TDataConnectionParameters.Count Property
+# TDataConnectionParameters\.Count Property
 
 Count of available parameters\.
 

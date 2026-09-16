@@ -3,7 +3,7 @@ uid: TReportTag.StrOpenHLink2
 description: TReportTag.StrOpenHLink2
 ---
 
-# TReportTag.StrOpenHLink2 Property
+# TReportTag\.StrOpenHLink2 Property
 
 Open an Hyperlink Tag\. As we can't use \# on hyperlink texts, this gives an alternative\.
 

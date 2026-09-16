@@ -3,7 +3,7 @@ uid: TFillStyleList.Item[const_index]
 description: TFillStyleList.Item[const index]
 ---
 
-# TFillStyleList.Item[const index] Property
+# TFillStyleList\.Item\[const index\] Property
 
 Returns the fill style for a given formatting type\. Currently Excel defines only 3 formatting types, but more could be added in the future\.
 If you need to access a formatting type that is not defined in the [TFormattingType](../TFormattingType.md) enumeration, just cast an integer to TFormattingType\.

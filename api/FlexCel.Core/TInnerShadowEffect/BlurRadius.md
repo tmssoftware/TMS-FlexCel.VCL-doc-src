@@ -3,7 +3,7 @@ uid: TInnerShadowEffect.BlurRadius
 description: TInnerShadowEffect.BlurRadius
 ---
 
-# TInnerShadowEffect.BlurRadius Property
+# TInnerShadowEffect\.BlurRadius Property
 
 Blur radius\.
 

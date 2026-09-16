@@ -3,7 +3,7 @@ uid: TDataConnection.WebQueryProperties
 description: TDataConnection.WebQueryProperties
 ---
 
-# TDataConnection.WebQueryProperties Property
+# TDataConnection\.WebQueryProperties Property
 
 This element specifies the properties for a web query source\. A web query will retrieve data from HTML tables, and can also supply HTTP "Get" parameters to be processed by the web server in generating the HTML by including the parameters and parameter elements\.
 

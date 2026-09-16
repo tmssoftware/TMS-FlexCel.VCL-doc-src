@@ -3,7 +3,7 @@ uid: IRadarChartOptions.RadarStyle
 description: IRadarChartOptions.RadarStyle
 ---
 
-# IRadarChartOptions.RadarStyle Property
+# IRadarChartOptions\.RadarStyle Property
 
 Radar style\.
 

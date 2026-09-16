@@ -3,7 +3,7 @@ uid: TSVGExportParameters.PageNumber
 description: TSVGExportParameters.PageNumber
 ---
 
-# TSVGExportParameters.PageNumber Property
+# TSVGExportParameters\.PageNumber Property
 
 Page number we are currently exporting\.
 

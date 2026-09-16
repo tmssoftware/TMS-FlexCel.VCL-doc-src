@@ -3,7 +3,7 @@ uid: TUIFont.Style
 description: TUIFont.Style
 ---
 
-# TUIFont.Style Property
+# TUIFont\.Style Property
 
 Style of the font \(bold, italics, etc\)\.
 

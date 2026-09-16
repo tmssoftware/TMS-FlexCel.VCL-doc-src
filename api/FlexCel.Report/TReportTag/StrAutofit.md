@@ -3,7 +3,7 @@ uid: TReportTag.StrAutofit
 description: TReportTag.StrAutofit
 ---
 
-# TReportTag.StrAutofit Property
+# TReportTag\.StrAutofit Property
 
 "Autofit"
 

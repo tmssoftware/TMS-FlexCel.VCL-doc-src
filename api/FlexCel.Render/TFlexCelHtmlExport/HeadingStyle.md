@@ -3,7 +3,7 @@ uid: TFlexCelHtmlExport.HeadingStyle
 description: TFlexCelHtmlExport.HeadingStyle
 ---
 
-# TFlexCelHtmlExport.HeadingStyle Property
+# TFlexCelHtmlExport\.HeadingStyle Property
 
 Style definition for the gutter cells when printing row numbers or column names\. This text must be  a valid CSS style definition, without including the braces \("\{\}"\)\.
 

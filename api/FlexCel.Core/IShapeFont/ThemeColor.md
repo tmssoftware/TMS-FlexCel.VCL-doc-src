@@ -3,7 +3,7 @@ uid: IShapeFont.ThemeColor
 description: IShapeFont.ThemeColor
 ---
 
-# IShapeFont.ThemeColor Property
+# IShapeFont\.ThemeColor Property
 
 Color used for the font\.
 

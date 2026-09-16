@@ -3,7 +3,7 @@ uid: TXmlMapMap.ShowImportExportValidationErrors
 description: TXmlMapMap.ShowImportExportValidationErrors
 ---
 
-# TXmlMapMap.ShowImportExportValidationErrors Property
+# TXmlMapMap\.ShowImportExportValidationErrors Property
 
 When an XML instance is imported or exported, the schema should be used to validate the instance, and schema errors should be shown to the user\.
 

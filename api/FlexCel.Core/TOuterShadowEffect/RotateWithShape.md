@@ -3,7 +3,7 @@ uid: TOuterShadowEffect.RotateWithShape
 description: TOuterShadowEffect.RotateWithShape
 ---
 
-# TOuterShadowEffect.RotateWithShape Property
+# TOuterShadowEffect\.RotateWithShape Property
 
 If true, the effect rotates with the shape\.
 

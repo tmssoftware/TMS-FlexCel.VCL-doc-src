@@ -3,7 +3,7 @@ uid: TFlexCelConfig.MaxLambdaRecursion
 description: TFlexCelConfig.MaxLambdaRecursion
 ---
 
-# TFlexCelConfig.MaxLambdaRecursion Property
+# TFlexCelConfig\.MaxLambdaRecursion Property
 
 Maximum number of times that a name including a lambda function can refer to itself\.
 

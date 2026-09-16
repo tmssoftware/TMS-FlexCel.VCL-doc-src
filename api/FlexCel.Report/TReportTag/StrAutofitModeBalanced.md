@@ -3,7 +3,7 @@ uid: TReportTag.StrAutofitModeBalanced
 description: TReportTag.StrAutofitModeBalanced
 ---
 
-# TReportTag.StrAutofitModeBalanced Property
+# TReportTag\.StrAutofitModeBalanced Property
 
 "Balanced"
 

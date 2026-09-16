@@ -3,7 +3,7 @@ uid: TDrawingTextProperties.Line
 description: TDrawingTextProperties.Line
 ---
 
-# TDrawingTextProperties.Line Property
+# TDrawingTextProperties\.Line Property
 
 Line style for the text\.
 

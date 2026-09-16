@@ -3,7 +3,7 @@ uid: IShapeProperties.ShapeLine
 description: IShapeProperties.ShapeLine
 ---
 
-# IShapeProperties.ShapeLine Property
+# IShapeProperties\.ShapeLine Property
 
 Line of the shape, for xlsx shapes \(even those which are saved in xls files\)\. This property has a more complete description of the line style than the one you can get by querying [ShapeOptions](ShapeOptions.md), but will be null for xls files saved by Excel 2003 or earlier\.
 

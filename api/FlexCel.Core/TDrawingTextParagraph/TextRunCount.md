@@ -3,7 +3,7 @@ uid: TDrawingTextParagraph.TextRunCount
 description: TDrawingTextParagraph.TextRunCount
 ---
 
-# TDrawingTextParagraph.TextRunCount Property
+# TDrawingTextParagraph\.TextRunCount Property
 
 Returns the number of runs in the paragraph\.
 

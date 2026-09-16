@@ -3,7 +3,7 @@ uid: IConditionalTopNRule.IsBottom
 description: IConditionalTopNRule.IsBottom
 ---
 
-# IConditionalTopNRule.IsBottom Property
+# IConditionalTopNRule\.IsBottom Property
 
 If true then this rule targets the bottom\-n values instead of the top\-n\.
 

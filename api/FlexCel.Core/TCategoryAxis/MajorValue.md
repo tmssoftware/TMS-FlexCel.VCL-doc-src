@@ -3,7 +3,7 @@ uid: TCategoryAxis.MajorValue
 description: TCategoryAxis.MajorValue
 ---
 
-# TCategoryAxis.MajorValue Property
+# TCategoryAxis\.MajorValue Property
 
 Value for the major unit, when not set to automatic in [AxisOptions](AxisOptions.md)\.
 

@@ -3,7 +3,7 @@ uid: ETokenException.Token
 description: ETokenException.Token
 ---
 
-# ETokenException.Token Property
+# ETokenException\.Token Property
 
 Formula token with the error\.
 

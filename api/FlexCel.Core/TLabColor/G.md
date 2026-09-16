@@ -3,7 +3,7 @@ uid: TLabColor.G
 description: TLabColor.G
 ---
 
-# TLabColor.G Property
+# TLabColor\.G Property
 
 Green component in the RGB space\.
 

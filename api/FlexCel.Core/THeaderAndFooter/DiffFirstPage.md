@@ -3,7 +3,7 @@ uid: THeaderAndFooter.DiffFirstPage
 description: THeaderAndFooter.DiffFirstPage
 ---
 
-# THeaderAndFooter.DiffFirstPage Property
+# THeaderAndFooter\.DiffFirstPage Property
 
 When true the first page will have a different header and footer from the rest, and it will be specified in [FirstHeader](FirstHeader.md) and [FirstFooter](FirstFooter.md)\. When false, FirstHeader and FirstFooter have no meaning\.
 

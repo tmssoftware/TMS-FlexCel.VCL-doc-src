@@ -3,7 +3,7 @@ uid: TUIRectangle.Bottom
 description: TUIRectangle.Bottom
 ---
 
-# TUIRectangle.Bottom Property
+# TUIRectangle\.Bottom Property
 
 Bottom coordinate\.
 

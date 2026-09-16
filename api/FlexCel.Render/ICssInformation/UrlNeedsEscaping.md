@@ -3,7 +3,7 @@ uid: ICssInformation.UrlNeedsEscaping
 description: ICssInformation.UrlNeedsEscaping
 ---
 
-# ICssInformation.UrlNeedsEscaping Property
+# ICssInformation\.UrlNeedsEscaping Property
 
 If true \(the default\) the link you provide in [Url](Url.md) is not escaped and will be escaped by FlexCel\.
 So for example, the link "http://my site" will be escaped to "http://my%%20site"\.

@@ -3,7 +3,7 @@ uid: THSLColor.Lum
 description: THSLColor.Lum
 ---
 
-# THSLColor.Lum Property
+# THSLColor\.Lum Property
 
 Color brightness\. \(between 0 and 1\)
 

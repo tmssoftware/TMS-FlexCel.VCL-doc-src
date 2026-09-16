@@ -3,7 +3,7 @@ uid: TLookupFieldDefinition.KeyFields
 description: TLookupFieldDefinition.KeyFields
 ---
 
-# TLookupFieldDefinition.KeyFields Property
+# TLookupFieldDefinition\.KeyFields Property
 
 The key fields in the lookup\.
 

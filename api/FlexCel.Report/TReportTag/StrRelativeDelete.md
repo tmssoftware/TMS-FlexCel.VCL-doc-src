@@ -3,7 +3,7 @@ uid: TReportTag.StrRelativeDelete
 description: TReportTag.StrRelativeDelete
 ---
 
-# TReportTag.StrRelativeDelete Property
+# TReportTag\.StrRelativeDelete Property
 
 "Relative"
 

@@ -3,7 +3,7 @@ uid: TTableApplyFill.IsEmpty
 description: TTableApplyFill.IsEmpty
 ---
 
-# TTableApplyFill.IsEmpty Property
+# TTableApplyFill\.IsEmpty Property
 
 Returns true if the format does not apply any setting\.
 

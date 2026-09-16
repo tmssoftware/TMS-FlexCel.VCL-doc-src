@@ -3,7 +3,7 @@ uid: TDrawingValue.DrawingValueType
 description: TDrawingValue.DrawingValueType
 ---
 
-# TDrawingValue.DrawingValueType Property
+# TDrawingValue\.DrawingValueType Property
 
 Type of value in this object\.
 

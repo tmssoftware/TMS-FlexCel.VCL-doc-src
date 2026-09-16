@@ -3,7 +3,7 @@ uid: TProtection.HasModifyPassword
 description: TProtection.HasModifyPassword
 ---
 
-# TProtection.HasModifyPassword Property
+# TProtection\.HasModifyPassword Property
 
 Returns true if the file has a password to modify\.
 

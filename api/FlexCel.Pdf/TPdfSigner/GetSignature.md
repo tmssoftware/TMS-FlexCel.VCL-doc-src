@@ -5,7 +5,7 @@ description: TPdfSigner.GetSignature
 
 # TPdfSigner\.GetSignature Method
 
-This method is called only once at the end of the pdf creation\. It should release all handles and temporary memory used to calculate the data hash, and return a PKCS7 DER\-encoded signature\.
+This method is called only once at the end of the pdf creation\. It should release all handles and temporary memory used to calculate the data hash, and return a DER\-encoded signature\.
 
 
 ## Syntax

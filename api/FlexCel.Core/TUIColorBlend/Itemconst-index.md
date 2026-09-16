@@ -3,7 +3,7 @@ uid: TUIColorBlend.Item[const_index]
 description: TUIColorBlend.Item[const index]
 ---
 
-# TUIColorBlend.Item[const index] Property
+# TUIColorBlend\.Item\[const index\] Property
 
 Returns a particular stop in the blend\.
 

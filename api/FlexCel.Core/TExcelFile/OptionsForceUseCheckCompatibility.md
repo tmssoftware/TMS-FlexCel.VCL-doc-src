@@ -3,7 +3,7 @@ uid: TExcelFile.OptionsForceUseCheckCompatibility
 description: TExcelFile.OptionsForceUseCheckCompatibility
 ---
 
-# TExcelFile.OptionsForceUseCheckCompatibility Property
+# TExcelFile\.OptionsForceUseCheckCompatibility Property
 
 When the option [OptionsCheckCompatibility](OptionsCheckCompatibility.md) is true, Excel will refuse to austosave the file\.
 To avoid a confusing situation where Excel refuses to autosave the file and shows a vague warning about an "older file format", [OptionsCheckCompatibility](OptionsCheckCompatibility.md) is ignored by FlexCel\.

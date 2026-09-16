@@ -3,7 +3,7 @@ uid: THSLColor.Sat
 description: THSLColor.Sat
 ---
 
-# THSLColor.Sat Property
+# THSLColor\.Sat Property
 
 Color Saturation\. \(between 0 and 1\)
 

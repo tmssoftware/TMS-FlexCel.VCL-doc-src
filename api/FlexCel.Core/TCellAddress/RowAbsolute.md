@@ -3,7 +3,7 @@ uid: TCellAddress.RowAbsolute
 description: TCellAddress.RowAbsolute
 ---
 
-# TCellAddress.RowAbsolute Property
+# TCellAddress\.RowAbsolute Property
 
 True if the row is an absolute reference \(as in A$5\)
 

@@ -3,7 +3,7 @@ uid: TUIPathGradientBrush.SurroundColor
 description: TUIPathGradientBrush.SurroundColor
 ---
 
-# TUIPathGradientBrush.SurroundColor Property
+# TUIPathGradientBrush\.SurroundColor Property
 
 Colors on the ouside of the path\.
 

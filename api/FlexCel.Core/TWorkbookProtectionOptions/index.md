@@ -18,8 +18,8 @@ Options for protecting the workbook\.
 
 |Name|Description|
 |---|---|
-|[Window](Window.md)|Window is protected\.<br />|
 |[Structure](Structure.md)|Structure is protected\.<br />|
+|[Window](Window.md)|Window is protected\.<br />|
 
 
 ## Methods

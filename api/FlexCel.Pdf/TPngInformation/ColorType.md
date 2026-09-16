@@ -3,7 +3,7 @@ uid: TPngInformation.ColorType
 description: TPngInformation.ColorType
 ---
 
-# TPngInformation.ColorType Property
+# TPngInformation\.ColorType Property
 
 Png ColorType \(See png reference for more information\)
 

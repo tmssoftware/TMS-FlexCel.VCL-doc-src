@@ -3,7 +3,7 @@ uid: TPdfSignature.ContactInfo
 description: TPdfSignature.ContactInfo
 ---
 
-# TPdfSignature.ContactInfo Property
+# TPdfSignature\.ContactInfo Property
 
 Information provided by the signer to enable a recipient to contact the signer to verify the signature; for example, a phone number\.
 

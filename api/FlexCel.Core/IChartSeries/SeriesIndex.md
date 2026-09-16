@@ -3,7 +3,7 @@ uid: IChartSeries.SeriesIndex
 description: IChartSeries.SeriesIndex
 ---
 
-# IChartSeries.SeriesIndex Property
+# IChartSeries\.SeriesIndex Property
 
 Index of this series on the file\.
 

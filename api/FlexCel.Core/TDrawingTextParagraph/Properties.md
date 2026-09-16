@@ -3,7 +3,7 @@ uid: TDrawingTextParagraph.Properties
 description: TDrawingTextParagraph.Properties
 ---
 
-# TDrawingTextParagraph.Properties Property
+# TDrawingTextParagraph\.Properties Property
 
 The properties that apply to this paragraph\.
 

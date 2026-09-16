@@ -3,7 +3,7 @@ uid: TChartSeriesOptions.MiscOptions
 description: TChartSeriesOptions.MiscOptions
 ---
 
-# TChartSeriesOptions.MiscOptions Property
+# TChartSeriesOptions\.MiscOptions Property
 
 Other options not related to the specific parts\.
 

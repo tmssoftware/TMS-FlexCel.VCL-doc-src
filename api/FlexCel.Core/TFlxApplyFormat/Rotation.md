@@ -3,7 +3,7 @@ uid: TFlxApplyFormat.Rotation
 description: TFlxApplyFormat.Rotation
 ---
 
-# TFlxApplyFormat.Rotation Property
+# TFlxApplyFormat\.Rotation Property
 
 Text Rotation in degrees\.
 

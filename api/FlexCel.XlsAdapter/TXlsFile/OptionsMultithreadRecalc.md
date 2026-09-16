@@ -3,7 +3,7 @@ uid: TXlsFile.OptionsMultithreadRecalc
 description: TXlsFile.OptionsMultithreadRecalc
 ---
 
-# TXlsFile.OptionsMultithreadRecalc Property
+# TXlsFile\.OptionsMultithreadRecalc Property
 
 Number of threads that can be used at the same time by Excel when recalculating\. Set it to 0 to disable multithread recalculation, and to \-1 to let Excel decide the best number of threads to use\. The maximum value for this property is 1024\.
 

@@ -3,7 +3,7 @@ uid: TProtectedRange.EncryptionAlgorithm
 description: TProtectedRange.EncryptionAlgorithm
 ---
 
-# TProtectedRange.EncryptionAlgorithm Property
+# TProtectedRange\.EncryptionAlgorithm Property
 
 Returns the encryption algorithm used to encrypt the password hash\.
 

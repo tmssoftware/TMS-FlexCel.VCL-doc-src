@@ -1,6 +1,6 @@
 # About
 
-This documentation is for [FlexCel Studio for VCL and FireMonkey v7.26](https://www.tmssoftware.com/site/flexcel.asp)
+This documentation is for [FlexCel Studio for VCL and FireMonkey v7.27](https://www.tmssoftware.com/site/flexcel.asp)
 
 Copyright (c) 2002 - 2026 tmssoftware.com
 

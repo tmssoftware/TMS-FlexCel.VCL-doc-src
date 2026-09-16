@@ -3,7 +3,7 @@ uid: TConditionalFormat.IsPivot
 description: TConditionalFormat.IsPivot
 ---
 
-# TConditionalFormat.IsPivot Property
+# TConditionalFormat\.IsPivot Property
 
 If true, then this is a conditional format for a pivot table\.
 

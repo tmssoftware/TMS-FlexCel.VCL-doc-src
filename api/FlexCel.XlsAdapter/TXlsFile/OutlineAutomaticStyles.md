@@ -3,7 +3,7 @@ uid: TXlsFile.OutlineAutomaticStyles
 description: TXlsFile.OutlineAutomaticStyles
 ---
 
-# TXlsFile.OutlineAutomaticStyles Property
+# TXlsFile\.OutlineAutomaticStyles Property
 
 This handles the setting of Automatic Styles inside the outline options\.
 

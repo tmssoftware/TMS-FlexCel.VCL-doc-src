@@ -3,7 +3,7 @@ uid: TDataConnectionDbProperties.Connection
 description: TDataConnectionDbProperties.Connection
 ---
 
-# TDataConnectionDbProperties.Connection Property
+# TDataConnectionDbProperties\.Connection Property
 
 The string used to initiate a session with a data source\.
 

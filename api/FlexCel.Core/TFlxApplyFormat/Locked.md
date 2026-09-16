@@ -3,7 +3,7 @@ uid: TFlxApplyFormat.Locked
 description: TFlxApplyFormat.Locked
 ---
 
-# TFlxApplyFormat.Locked Property
+# TFlxApplyFormat\.Locked Property
 
 Cell is locked\.
 

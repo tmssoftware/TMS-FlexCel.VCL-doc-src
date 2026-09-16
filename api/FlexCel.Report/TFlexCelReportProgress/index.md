@@ -18,8 +18,8 @@ Indicates how much of the report has been generated\.
 
 |Name|Description|
 |---|---|
-|[Phase](Phase.md)|Phase of the report\.<br />|
 |[Counter](Counter.md)|A meaningless counter that is increased from time to time\. It is not possible to know what is the final count\.<br />|
+|[Phase](Phase.md)|Phase of the report\.<br />|
 |[Sheet](Sheet.md)|The Sheet we are working on\.<br />|
 
 

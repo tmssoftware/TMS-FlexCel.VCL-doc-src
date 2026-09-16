@@ -27,15 +27,15 @@ Defines the XML Map\.
 
 |Name|Description|
 |---|---|
+|[Append](Append.md)|If true when refreshing old data will not be discarded, but new data will be appended to the existing data\.<br />|
+|[AutoFit](AutoFit.md)|Indicates if cells should be autofitted after a refresh\.<br />|
+|[DataBinding](DataBinding.md)|Databinding associated with this map\.<br />|
 |[ID](ID.md)|Identifies the map object\.<br />|
 |[Name](Name.md)|Friendly name of the map object\.<br />|
+|[PreserveFormat](PreserveFormat.md)|Indicates if we will preserve the formats on the cells or re apply them depending in the data\.<br />|
+|[PreserveSortAFLayout](PreserveSortAFLayout.md)|Indicates if to keep filters on tables\.<br />|
 |[RootElement](RootElement.md)|Root element of the XML instance\.<br />|
 |[SchemaID](SchemaID.md)|Which schema collection the map uses\.<br />|
 |[ShowImportExport&#8203;Validation&#8203;Errors](ShowImportExportValidationErrors.md)|When an XML instance is imported or exported, the schema should be used to validate the instance, and schema errors should be shown to the user\.<br />|
-|[AutoFit](AutoFit.md)|Indicates if cells should be autofitted after a refresh\.<br />|
-|[Append](Append.md)|If true when refreshing old data will not be discarded, but new data will be appended to the existing data\.<br />|
-|[PreserveSortAFLayout](PreserveSortAFLayout.md)|Indicates if to keep filters on tables\.<br />|
-|[PreserveFormat](PreserveFormat.md)|Indicates if we will preserve the formats on the cells or re apply them depending in the data\.<br />|
-|[DataBinding](DataBinding.md)|Databinding associated with this map\.<br />|
 
 

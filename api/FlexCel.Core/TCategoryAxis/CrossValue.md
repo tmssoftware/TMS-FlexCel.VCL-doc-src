@@ -3,7 +3,7 @@ uid: TCategoryAxis.CrossValue
 description: TCategoryAxis.CrossValue
 ---
 
-# TCategoryAxis.CrossValue Property
+# TCategoryAxis\.CrossValue Property
 
 Value where the other Axis will cross this one, when not set to automatic in [AxisOptions](AxisOptions.md)\.
 

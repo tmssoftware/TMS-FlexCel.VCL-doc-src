@@ -3,7 +3,7 @@ uid: IChartTrendline.LineOptions
 description: IChartTrendline.LineOptions
 ---
 
-# IChartTrendline.LineOptions Property
+# IChartTrendline\.LineOptions Property
 
 Properties of the line, like the color or width\.
 

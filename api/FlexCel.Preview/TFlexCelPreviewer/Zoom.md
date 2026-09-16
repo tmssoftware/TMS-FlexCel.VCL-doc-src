@@ -3,7 +3,7 @@ uid: TFlexCelPreviewer.Zoom
 description: TFlexCelPreviewer.Zoom
 ---
 
-# TFlexCelPreviewer.Zoom Property
+# TFlexCelPreviewer\.Zoom Property
 
 Zoom preview\.
 

@@ -3,7 +3,7 @@ uid: TDrawingTextProperties.HyperlinkClick
 description: TDrawingTextProperties.HyperlinkClick
 ---
 
-# TDrawingTextProperties.HyperlinkClick Property
+# TDrawingTextProperties\.HyperlinkClick Property
 
 Specifies the on\-click hyperlink information to be applied to a run of text\. When the hyperlink text is clicked the  link is fetched\.
 

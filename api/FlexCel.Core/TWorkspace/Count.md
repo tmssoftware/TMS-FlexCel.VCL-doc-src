@@ -3,7 +3,7 @@ uid: TWorkspace.Count
 description: TWorkspace.Count
 ---
 
-# TWorkspace.Count Property
+# TWorkspace\.Count Property
 
 Number of linked files in this workspace\.
 

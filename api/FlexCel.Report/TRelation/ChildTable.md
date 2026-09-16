@@ -3,7 +3,7 @@ uid: TRelation.ChildTable
 description: TRelation.ChildTable
 ---
 
-# TRelation.ChildTable Property
+# TRelation\.ChildTable Property
 
 Table that acts as a detail on a Master\-Detail relationship\.
 

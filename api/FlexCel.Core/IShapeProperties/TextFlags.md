@@ -3,7 +3,7 @@ uid: IShapeProperties.TextFlags
 description: IShapeProperties.TextFlags
 ---
 
-# IShapeProperties.TextFlags Property
+# IShapeProperties\.TextFlags Property
 
 Option flags for the Text shape\.
 **Important:**Instead of changing this flag, you should use instead [LockText](LockText.md), [TextHorizontalAlignment](TextHorizontalAlignment.md) and  [TextVerticalAlignment](TextVerticalAlignment.md)\. Changing those properties will automatically change the text flags, but in a simpler way\.

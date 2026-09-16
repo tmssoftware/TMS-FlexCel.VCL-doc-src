@@ -3,7 +3,7 @@ uid: TUnsupportedFormula.FunctionName
 description: TUnsupportedFormula.FunctionName
 ---
 
-# TUnsupportedFormula.FunctionName Property
+# TUnsupportedFormula\.FunctionName Property
 
 If the error is [TUnsupportedFormulaErrorType.MissingFunction](../TUnsupportedFormulaErrorType.md) then this is the name of the missing function\.
 If the error is [TUnsupportedFormulaErrorType.ExternalReference](../TUnsupportedFormulaErrorType.md) then this is the name of the file not found\.

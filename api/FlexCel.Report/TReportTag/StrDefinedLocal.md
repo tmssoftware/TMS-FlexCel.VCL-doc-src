@@ -3,7 +3,7 @@ uid: TReportTag.StrDefinedLocal
 description: TReportTag.StrDefinedLocal
 ---
 
-# TReportTag.StrDefinedLocal Property
+# TReportTag\.StrDefinedLocal Property
 
 "Local"
 

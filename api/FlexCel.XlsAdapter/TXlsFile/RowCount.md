@@ -3,7 +3,7 @@ uid: TXlsFile.RowCount
 description: TXlsFile.RowCount
 ---
 
-# TXlsFile.RowCount Property
+# TXlsFile\.RowCount Property
 
 Number of rows actually used on the sheet\.
 

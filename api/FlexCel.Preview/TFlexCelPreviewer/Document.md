@@ -3,7 +3,7 @@ uid: TFlexCelPreviewer.Document
 description: TFlexCelPreviewer.Document
 ---
 
-# TFlexCelPreviewer.Document Property
+# TFlexCelPreviewer\.Document Property
 
 Document to be Previewed\.
 

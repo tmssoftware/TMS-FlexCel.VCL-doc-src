@@ -3,7 +3,7 @@ uid: IShapeProperties.IsInternal
 description: IShapeProperties.IsInternal
 ---
 
-# IShapeProperties.IsInternal Property
+# IShapeProperties\.IsInternal Property
 
 Returns true if the object is an internal object, like a comment or the arrow of an autofilter\.
 Internal objects shouldn't be modified\.

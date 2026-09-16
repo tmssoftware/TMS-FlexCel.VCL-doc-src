@@ -3,7 +3,7 @@ uid: TChartErrorBars.LineOptions
 description: TChartErrorBars.LineOptions
 ---
 
-# TChartErrorBars.LineOptions Property
+# TChartErrorBars\.LineOptions Property
 
 Line options for the error bars, color, line width, etc\. If null, standard options will be used\.
 

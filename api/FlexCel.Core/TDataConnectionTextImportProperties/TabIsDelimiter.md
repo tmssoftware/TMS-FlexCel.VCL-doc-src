@@ -3,7 +3,7 @@ uid: TDataConnectionTextImportProperties.TabIsDelimiter
 description: TDataConnectionTextImportProperties.TabIsDelimiter
 ---
 
-# TDataConnectionTextImportProperties.TabIsDelimiter Property
+# TDataConnectionTextImportProperties\.TabIsDelimiter Property
 
 Flag indicating whether to treat tab characters as field delimiters\. If false, then tabs will not be used as delimiters\.If true or not present, then they are used as delimiters\.
 

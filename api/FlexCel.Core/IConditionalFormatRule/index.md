@@ -18,8 +18,8 @@ A rule specifying a conditional format\. You cannot create instances of this cla
 
 |Name|Description|
 |---|---|
-|[Clone](Clone.md)|Returns a deep copy of the object\.<br />|
 |[CheckIsValid](CheckIsValid.md)|Checks if the rule is valid\. This check will be applied automatically when you try to add a conditional format to a sheet, so there is no need to call this method directly\. But you can use it to know if a conditional format will be rejected when you try to  add it\.<br />|
+|[Clone](Clone.md)|Returns a deep copy of the object\.<br />|
 
 
 ## Properties

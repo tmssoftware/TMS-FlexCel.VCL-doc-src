@@ -3,7 +3,7 @@ uid: TConditionalFormatColorList.Count
 description: TConditionalFormatColorList.Count
 ---
 
-# TConditionalFormatColorList.Count Property
+# TConditionalFormatColorList\.Count Property
 
 Returns the count of objects in the list\.
 

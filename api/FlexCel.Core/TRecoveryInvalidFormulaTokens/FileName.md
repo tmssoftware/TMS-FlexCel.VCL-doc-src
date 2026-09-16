@@ -3,7 +3,7 @@ uid: TRecoveryInvalidFormulaTokens.FileName
 description: TRecoveryInvalidFormulaTokens.FileName
 ---
 
-# TRecoveryInvalidFormulaTokens.FileName Property
+# TRecoveryInvalidFormulaTokens\.FileName Property
 
 File with the invalid formula\.
 

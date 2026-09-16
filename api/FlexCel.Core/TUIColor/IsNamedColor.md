@@ -3,7 +3,7 @@ uid: TUIColor.IsNamedColor
 description: TUIColor.IsNamedColor
 ---
 
-# TUIColor.IsNamedColor Property
+# TUIColor\.IsNamedColor Property
 
 This method returns always false, TUIColor doesn't support named colors\.
 

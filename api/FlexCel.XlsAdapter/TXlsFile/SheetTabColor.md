@@ -3,7 +3,7 @@ uid: TXlsFile.SheetTabColor
 description: TXlsFile.SheetTabColor
 ---
 
-# TXlsFile.SheetTabColor Property
+# TXlsFile\.SheetTabColor Property
 
 Reads/Writes the color of the current sheet tab\. [TExcelColor.Automatic](../../FlexCel.Core/TExcelColor/Automatic.md) to specify no color\.
 

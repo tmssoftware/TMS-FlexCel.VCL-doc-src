@@ -3,7 +3,7 @@ uid: TFlexCelConfig.MaxFontsToCache
 description: TFlexCelConfig.MaxFontsToCache
 ---
 
-# TFlexCelConfig.MaxFontsToCache Property
+# TFlexCelConfig\.MaxFontsToCache Property
 
 Maximum number of fonts that can be cached in memory\.
 

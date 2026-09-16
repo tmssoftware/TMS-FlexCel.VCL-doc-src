@@ -3,7 +3,7 @@ uid: TReportTag.RowFull2
 description: TReportTag.RowFull2
 ---
 
-# TReportTag.RowFull2 Property
+# TReportTag\.RowFull2 Property
 
 Range delimiter\.
 

@@ -32,7 +32,7 @@ An Html string parsed into a C\# string and tags\.
 
 |Name|Description|
 |---|---|
-|[Text](Text.md)|The parsed html text\.<br />|
 |[Tags](Tags.md)|A list of the tags on the parsed string\.<br />|
+|[Text](Text.md)|The parsed html text\.<br />|
 
 

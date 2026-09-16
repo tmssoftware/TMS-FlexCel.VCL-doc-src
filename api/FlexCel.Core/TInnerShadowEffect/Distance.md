@@ -3,7 +3,7 @@ uid: TInnerShadowEffect.Distance
 description: TInnerShadowEffect.Distance
 ---
 
-# TInnerShadowEffect.Distance Property
+# TInnerShadowEffect\.Distance Property
 
 Distance of the shadow\.
 

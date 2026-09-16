@@ -35,10 +35,10 @@ Determines which parts of the font will be applied in the Table\.
 
 |Name|Description|
 |---|---|
-|[Color](Color.md)|Color of the font\.<br />|
 |[BoldAndItalic](BoldAndItalic.md)|If true, both bold and italic will be applied\.<br />|
+|[Color](Color.md)|Color of the font\.<br />|
+|[IsEmpty](IsEmpty.md)|Returns true if the format does not apply any setting\.<br />|
 |[Strikeout](Strikeout.md)|If true, the strikeout style of the font will be used\.<br />|
 |[Underline](Underline.md)|If true, the underline style of the font will be used\.<br />|
-|[IsEmpty](IsEmpty.md)|Returns true if the format does not apply any setting\.<br />|
 
 

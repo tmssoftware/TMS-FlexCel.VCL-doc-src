@@ -3,7 +3,7 @@ uid: TXmlMapMap.SchemaID
 description: TXmlMapMap.SchemaID
 ---
 
-# TXmlMapMap.SchemaID Property
+# TXmlMapMap\.SchemaID Property
 
 Which schema collection the map uses\.
 

@@ -3,7 +3,7 @@ uid: TChartErrorBars.BarType
 description: TChartErrorBars.BarType
 ---
 
-# TChartErrorBars.BarType Property
+# TChartErrorBars\.BarType Property
 
 Positive or negative error bars\.
 

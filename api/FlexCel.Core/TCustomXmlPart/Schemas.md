@@ -3,7 +3,7 @@ uid: TCustomXmlPart.Schemas
 description: TCustomXmlPart.Schemas
 ---
 
-# TCustomXmlPart.Schemas Property
+# TCustomXmlPart\.Schemas Property
 
 A list of schemas associated with the part\. When you set this value the array will be cloned, so you can then modify the original array and it won't modify the part\.
 

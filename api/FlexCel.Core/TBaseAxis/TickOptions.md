@@ -3,7 +3,7 @@ uid: TBaseAxis.TickOptions
 description: TBaseAxis.TickOptions
 ---
 
-# TBaseAxis.TickOptions Property
+# TBaseAxis\.TickOptions Property
 
 Options for the ticks and the font used on the labels\.
 

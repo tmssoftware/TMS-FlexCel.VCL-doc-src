@@ -3,7 +3,7 @@ uid: TCondFmtApplyFont.IsEmpty
 description: TCondFmtApplyFont.IsEmpty
 ---
 
-# TCondFmtApplyFont.IsEmpty Property
+# TCondFmtApplyFont\.IsEmpty Property
 
 Returns true if the format does not apply any setting\.
 

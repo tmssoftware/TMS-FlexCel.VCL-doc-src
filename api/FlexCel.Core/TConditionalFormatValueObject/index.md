@@ -35,7 +35,7 @@ Describes an interpolation point in a gradient scale\.
 |Name|Description|
 |---|---|
 |[GreaterThanOrEqual](GreaterThanOrEqual.md)|If true, then "Greater than or equal" is used as a threshold for applying the rule\.<br />If false, "greater than" is used instead\. This attribute only applies to icon sets\.<br />|
-|[VoType](VoType.md)|Type of value object\.<br />|
 |[Value](Value.md)|Value of the object\.<br />|
+|[VoType](VoType.md)|Type of value object\.<br />|
 
 

@@ -3,7 +3,7 @@ uid: TCondFmtApplyFill.BgColor
 description: TCondFmtApplyFill.BgColor
 ---
 
-# TCondFmtApplyFill.BgColor Property
+# TCondFmtApplyFill\.BgColor Property
 
 Color for the background of the pattern\.  If the pattern is solid, has no effect\.
 

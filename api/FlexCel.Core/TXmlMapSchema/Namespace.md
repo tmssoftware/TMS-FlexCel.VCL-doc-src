@@ -3,7 +3,7 @@ uid: TXmlMapSchema.Namespace
 description: TXmlMapSchema.Namespace
 ---
 
-# TXmlMapSchema.Namespace Property
+# TXmlMapSchema\.Namespace Property
 
 Namespace used by the schema\.
 

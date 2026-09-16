@@ -3,7 +3,7 @@ uid: TFlexCelSVGExport.PrintRangeBottom
 description: TFlexCelSVGExport.PrintRangeBottom
 ---
 
-# TFlexCelSVGExport.PrintRangeBottom Property
+# TFlexCelSVGExport\.PrintRangeBottom Property
 
 Last row to print \(1 based\)\. if this or any other PrintRange property is 0, the range will be automatically calculated\.
 

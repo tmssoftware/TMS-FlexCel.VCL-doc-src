@@ -3,7 +3,7 @@ uid: TCondFmtApplyBorders.Right
 description: TCondFmtApplyBorders.Right
 ---
 
-# TCondFmtApplyBorders.Right Property
+# TCondFmtApplyBorders\.Right Property
 
 Right border\.
 

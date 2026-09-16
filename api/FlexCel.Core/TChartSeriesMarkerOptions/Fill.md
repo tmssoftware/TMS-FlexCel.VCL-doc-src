@@ -3,7 +3,7 @@ uid: TChartSeriesMarkerOptions.Fill
 description: TChartSeriesMarkerOptions.Fill
 ---
 
-# TChartSeriesMarkerOptions.Fill Property
+# TChartSeriesMarkerOptions\.Fill Property
 
 Color of the marker fill\.
 

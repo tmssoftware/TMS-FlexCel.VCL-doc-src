@@ -3,7 +3,7 @@ uid: TChartSeriesMiscOptions.HasShadow
 description: TChartSeriesMiscOptions.HasShadow
 ---
 
-# TChartSeriesMiscOptions.HasShadow Property
+# TChartSeriesMiscOptions\.HasShadow Property
 
 Series has shadow\.
 

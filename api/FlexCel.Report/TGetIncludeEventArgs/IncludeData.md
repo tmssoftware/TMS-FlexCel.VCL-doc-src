@@ -3,7 +3,7 @@ uid: TGetIncludeEventArgs.IncludeData
 description: TGetIncludeEventArgs.IncludeData
 ---
 
-# TGetIncludeEventArgs.IncludeData Property
+# TGetIncludeEventArgs\.IncludeData Property
 
 Here you can return the included file as an array of bytes\.
 If you return null, the filename will be used to search for a file on the disk\.

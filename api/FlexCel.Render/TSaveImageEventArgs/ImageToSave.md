@@ -3,7 +3,7 @@ uid: TSaveImageEventArgs.ImageToSave
 description: TSaveImageEventArgs.ImageToSave
 ---
 
-# TSaveImageEventArgs.ImageToSave Property
+# TSaveImageEventArgs\.ImageToSave Property
 
 Image that will be saved\. You can use it to save it yourself\.
 Note that when saving as SVG, this will be null\.

@@ -3,7 +3,7 @@ uid: TPdfFauxBoldOrItalicsError.FontName
 description: TPdfFauxBoldOrItalicsError.FontName
 ---
 
-# TPdfFauxBoldOrItalicsError.FontName Property
+# TPdfFauxBoldOrItalicsError\.FontName Property
 
 Name of the font that doesn't contain Italics or bold definition\.
 

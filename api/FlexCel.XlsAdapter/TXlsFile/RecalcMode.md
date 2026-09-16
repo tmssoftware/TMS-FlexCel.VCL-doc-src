@@ -3,7 +3,7 @@ uid: TXlsFile.RecalcMode
 description: TXlsFile.RecalcMode
 ---
 
-# TXlsFile.RecalcMode Property
+# TXlsFile\.RecalcMode Property
 
 Set this property to change how the file will be recalculated\. Note that this affects only how FlexCel recalculates the file, but not how Excel will recalculate it\. It doesn't change anything in  the generated file\. To change the options for the file, use [TExcelFile.OptionsRecalcMode](../../FlexCel.Core/TExcelFile/OptionsRecalcMode.md) instead\.
 

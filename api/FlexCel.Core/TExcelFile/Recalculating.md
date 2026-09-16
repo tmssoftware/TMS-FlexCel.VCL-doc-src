@@ -3,7 +3,7 @@ uid: TExcelFile.Recalculating
 description: TExcelFile.Recalculating
 ---
 
-# TExcelFile.Recalculating Property
+# TExcelFile\.Recalculating Property
 
 Returns true if the workbook is being recalculated\.
 

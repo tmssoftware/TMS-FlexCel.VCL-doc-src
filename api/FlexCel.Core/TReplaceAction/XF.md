@@ -3,7 +3,7 @@ uid: TReplaceAction.XF
 description: TReplaceAction.XF
 ---
 
-# TReplaceAction.XF Property
+# TReplaceAction\.XF Property
 
 Format for the replaced cell\. Change it if you want to provide custom format for the cell\.
 

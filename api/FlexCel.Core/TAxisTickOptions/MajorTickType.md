@@ -3,7 +3,7 @@ uid: TAxisTickOptions.MajorTickType
 description: TAxisTickOptions.MajorTickType
 ---
 
-# TAxisTickOptions.MajorTickType Property
+# TAxisTickOptions\.MajorTickType Property
 
 Minor ticks type\.
 

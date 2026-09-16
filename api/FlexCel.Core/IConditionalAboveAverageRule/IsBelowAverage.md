@@ -3,7 +3,7 @@ uid: IConditionalAboveAverageRule.IsBelowAverage
 description: IConditionalAboveAverageRule.IsBelowAverage
 ---
 
-# IConditionalAboveAverageRule.IsBelowAverage Property
+# IConditionalAboveAverageRule\.IsBelowAverage Property
 
 If true, then this rule highlights values below the average instead of above\.
 

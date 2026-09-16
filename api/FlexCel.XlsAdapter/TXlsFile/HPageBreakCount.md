@@ -3,7 +3,7 @@ uid: TXlsFile.HPageBreakCount
 description: TXlsFile.HPageBreakCount
 ---
 
-# TXlsFile.HPageBreakCount Property
+# TXlsFile\.HPageBreakCount Property
 
 The number of horizontal page breaks in the active sheet\.
 

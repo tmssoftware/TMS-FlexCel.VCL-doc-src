@@ -3,7 +3,7 @@ uid: ARGB.IsNamedColor
 description: ARGB.IsNamedColor
 ---
 
-# ARGB.IsNamedColor Property
+# ARGB\.IsNamedColor Property
 
 This method returns always false, TUIColor doesn't support named colors\.
 

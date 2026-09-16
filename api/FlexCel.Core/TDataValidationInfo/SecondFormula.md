@@ -3,7 +3,7 @@ uid: TDataValidationInfo.SecondFormula
 description: TDataValidationInfo.SecondFormula
 ---
 
-# TDataValidationInfo.SecondFormula Property
+# TDataValidationInfo\.SecondFormula Property
 
 Formula for the second condition of the data validation, if it has two conditions\. The text of the formula is limited to 255 characters\.
 

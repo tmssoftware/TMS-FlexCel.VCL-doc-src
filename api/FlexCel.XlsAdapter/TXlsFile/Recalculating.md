@@ -3,7 +3,7 @@ uid: TXlsFile.Recalculating
 description: TXlsFile.Recalculating
 ---
 
-# TXlsFile.Recalculating Property
+# TXlsFile\.Recalculating Property
 
 Internal use\.
 

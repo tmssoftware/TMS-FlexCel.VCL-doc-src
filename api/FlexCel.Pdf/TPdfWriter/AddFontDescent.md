@@ -3,7 +3,7 @@ uid: TPdfWriter.AddFontDescent
 description: TPdfWriter.AddFontDescent
 ---
 
-# TPdfWriter.AddFontDescent Property
+# TPdfWriter\.AddFontDescent Property
 
 When false, \(the default\) text base will be at the y coordinate\. For example, DrawString\(\.\.\., y=100,\.\.\.\) will draw a string with its base at 100\. Font descent \(for example the lower part of a "p"\) will be below 100, and the ascent \(the upper part\) will be above\. This is the standard PDF behavior\.
 When true, all text will be drawn above the y coordinate\. \(both ascent and descent\)\.

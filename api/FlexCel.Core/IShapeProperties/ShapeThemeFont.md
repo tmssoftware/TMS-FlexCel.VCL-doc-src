@@ -3,7 +3,7 @@ uid: IShapeProperties.ShapeThemeFont
 description: IShapeProperties.ShapeThemeFont
 ---
 
-# IShapeProperties.ShapeThemeFont Property
+# IShapeProperties\.ShapeThemeFont Property
 
 Theme Font used for the text in the shape\. This property only affects xlsx files, in xls files the font is always arial black\.
 You can change the font only inside the rich string, not in a global way\. In xls files this will be null\.

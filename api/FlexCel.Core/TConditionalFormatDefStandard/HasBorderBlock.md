@@ -3,7 +3,7 @@ uid: TConditionalFormatDefStandard.HasBorderBlock
 description: TConditionalFormatDefStandard.HasBorderBlock
 ---
 
-# TConditionalFormatDefStandard.HasBorderBlock Property
+# TConditionalFormatDefStandard\.HasBorderBlock Property
 
 Returns true if any border formatting is applied\.
 

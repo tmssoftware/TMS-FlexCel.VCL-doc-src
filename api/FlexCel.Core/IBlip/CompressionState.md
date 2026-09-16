@@ -3,7 +3,7 @@ uid: IBlip.CompressionState
 description: IBlip.CompressionState
 ---
 
-# IBlip.CompressionState Property
+# IBlip\.CompressionState Property
 
 Specifies the compression state with which the picture is stored\. This allows the  application to specify the amount of compression that has been applied to a picture\.
 

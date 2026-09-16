@@ -3,7 +3,7 @@ uid: TMasterDetailLink.ParentDataSource
 description: TMasterDetailLink.ParentDataSource
 ---
 
-# TMasterDetailLink.ParentDataSource Property
+# TMasterDetailLink\.ParentDataSource Property
 
 A table that is acting as a master on a master detail relationship\.
 

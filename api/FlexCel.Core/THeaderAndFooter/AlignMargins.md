@@ -3,7 +3,7 @@ uid: THeaderAndFooter.AlignMargins
 description: THeaderAndFooter.AlignMargins
 ---
 
-# THeaderAndFooter.AlignMargins Property
+# THeaderAndFooter\.AlignMargins Property
 
 Align header footer margins with page margins\. When true, as left/right margins grow and shrink, the header and footer edges stay aligned with the margins\. When false, headers and footers are aligned on the paper edges, regardless of margins\.
 

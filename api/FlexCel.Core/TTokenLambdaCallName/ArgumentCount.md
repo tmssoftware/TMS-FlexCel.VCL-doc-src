@@ -3,7 +3,7 @@ uid: TTokenLambdaCallName.ArgumentCount
 description: TTokenLambdaCallName.ArgumentCount
 ---
 
-# TTokenLambdaCallName.ArgumentCount Property
+# TTokenLambdaCallName\.ArgumentCount Property
 
 The number of arguments for the function\. The last argument is the Name to be called\. For example the function "=MyName\(4,3\) will have 3 arguments: 4, 3, and the name MyName\.
 

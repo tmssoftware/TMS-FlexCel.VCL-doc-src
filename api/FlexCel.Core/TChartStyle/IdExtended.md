@@ -3,7 +3,7 @@ uid: TChartStyle.IdExtended
 description: TChartStyle.IdExtended
 ---
 
-# TChartStyle.IdExtended Property
+# TChartStyle\.IdExtended Property
 
 Returns the Id and adds 100 if is it extended\.
 

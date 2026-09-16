@@ -3,7 +3,7 @@ uid: IShapeProperties.ShapeName
 description: IShapeProperties.ShapeName
 ---
 
-# IShapeProperties.ShapeName Property
+# IShapeProperties\.ShapeName Property
 
 Name of the shape if it is named, null otherwise\.
 

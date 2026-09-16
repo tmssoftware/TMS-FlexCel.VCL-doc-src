@@ -5,7 +5,7 @@ description: IPdfTagger
 
 # IPdfTagger Interface
 
-Base interface for tagging pdf documents\.
+Base interface for tagging PDF documents\.
 
 
 ## Syntax
@@ -18,7 +18,7 @@ Base interface for tagging pdf documents\.
 
 |Name|Description|
 |---|---|
-|[GetObjectIds](GetObjectIds.md)|Reserves count Ids from the file, so you can use them to define your tags\. **IMPORTANT:** You must use all the Ids you reserve\.<br />|
 |[AddStructTag](AddStructTag.md)|Adds a new tag to the structure tree\.<br />|
+|[GetObjectIds](GetObjectIds.md)|Reserves count Ids from the file, so you can use them to define your tags\. **IMPORTANT:** You must use all the Ids you reserve\.<br />|
 
 

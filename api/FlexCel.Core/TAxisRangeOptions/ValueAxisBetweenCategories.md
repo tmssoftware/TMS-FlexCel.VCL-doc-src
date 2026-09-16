@@ -3,7 +3,7 @@ uid: TAxisRangeOptions.ValueAxisBetweenCategories
 description: TAxisRangeOptions.ValueAxisBetweenCategories
 ---
 
-# TAxisRangeOptions.ValueAxisBetweenCategories Property
+# TAxisRangeOptions\.ValueAxisBetweenCategories Property
 
 Specifies if the Y Axis crosses between categories or in the middle of one\. Normally a Column Chart  cross in the middle, and an area chart will cross between\.
 

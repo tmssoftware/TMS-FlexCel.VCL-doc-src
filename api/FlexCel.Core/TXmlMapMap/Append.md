@@ -3,7 +3,7 @@ uid: TXmlMapMap.Append
 description: TXmlMapMap.Append
 ---
 
-# TXmlMapMap.Append Property
+# TXmlMapMap\.Append Property
 
 If true when refreshing old data will not be discarded, but new data will be appended to the existing data\.
 

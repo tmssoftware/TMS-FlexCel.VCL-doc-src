@@ -3,7 +3,7 @@ uid: TXlsFile.DefaultRowHeight
 description: TXlsFile.DefaultRowHeight
 ---
 
-# TXlsFile.DefaultRowHeight Property
+# TXlsFile\.DefaultRowHeight Property
 
 The default height for empty rows, in Excel internal units\. \(1/20th of a point\)\. **IMPORTANT:** For this property to have any effect, you also need to set [TExcelFile.DefaultRowHeightAutomatic](../../FlexCel.Core/TExcelFile/DefaultRowHeightAutomatic.md) = false\.
 To get the real default row height Excel will use when [TExcelFile.DefaultRowHeightAutomatic](../../FlexCel.Core/TExcelFile/DefaultRowHeightAutomatic.md) = true or [TExcelFile.DefaultRowHidden](../../FlexCel.Core/TExcelFile/DefaultRowHidden.md) = true use [TExcelFile.DefaultRowHeightVisual](../../FlexCel.Core/TExcelFile/DefaultRowHeightVisual.md)  See [Excel Internal Units](xref:ExcelInternalUnits) for more information in Excel internal units\.

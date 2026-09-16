@@ -3,7 +3,7 @@ uid: TDrawingValue.IsDrawingRichString
 description: TDrawingValue.IsDrawingRichString
 ---
 
-# TDrawingValue.IsDrawingRichString Property
+# TDrawingValue\.IsDrawingRichString Property
 
 Returns true if the object contains a TDrawingRichString\.
 

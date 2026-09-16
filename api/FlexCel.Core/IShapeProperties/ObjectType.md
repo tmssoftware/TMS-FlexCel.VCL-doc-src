@@ -3,7 +3,7 @@ uid: IShapeProperties.ObjectType
 description: IShapeProperties.ObjectType
 ---
 
-# IShapeProperties.ObjectType Property
+# IShapeProperties\.ObjectType Property
 
 Type of object\. Note that this is not the same as [ShapeType](ShapeType.md)\.
 A comment might have a ShapeType = TShapeType\.Rectangle, but its object type is TObjectType\.Comment\.

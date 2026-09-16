@@ -3,7 +3,7 @@ uid: ILineStyle.HeadArrow
 description: ILineStyle.HeadArrow
 ---
 
-# ILineStyle.HeadArrow Property
+# ILineStyle\.HeadArrow Property
 
 Head arrow if it has one\. If null, default from the theme will be used\.
 

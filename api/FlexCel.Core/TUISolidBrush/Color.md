@@ -3,7 +3,7 @@ uid: TUISolidBrush.Color
 description: TUISolidBrush.Color
 ---
 
-# TUISolidBrush.Color Property
+# TUISolidBrush\.Color Property
 
 Returns the color of the brush\.
 

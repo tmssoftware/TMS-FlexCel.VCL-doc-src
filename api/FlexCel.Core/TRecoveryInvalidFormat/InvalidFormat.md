@@ -3,7 +3,7 @@ uid: TRecoveryInvalidFormat.InvalidFormat
 description: TRecoveryInvalidFormat.InvalidFormat
 ---
 
-# TRecoveryInvalidFormat.InvalidFormat Property
+# TRecoveryInvalidFormat\.InvalidFormat Property
 
 Format that couldn't be read\.
 

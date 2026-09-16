@@ -3,7 +3,7 @@ uid: TChartErrorBars.StdAvg
 description: TChartErrorBars.StdAvg
 ---
 
-# TChartErrorBars.StdAvg Property
+# TChartErrorBars\.StdAvg Property
 
 Returns the average of the series\. This value is calculated by CalcErrorValues, and only is the error type is StdErr or StdDev\.
 It is used when the error type is StdDev as error bars must be drawn from the average\.

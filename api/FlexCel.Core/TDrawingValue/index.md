@@ -32,10 +32,10 @@ Represents a value inside a cell\.
 
 |Name|Description|
 |---|---|
-|[DrawingValueType](DrawingValueType.md)|Type of value in this object\.<br />|
-|[IsDrawingRichString](IsDrawingRichString.md)|Returns true if the object contains a TDrawingRich&#8203;String\.&#8203;<br />|
-|[IsCellValue](IsCellValue.md)|Returns true if the object contains a TCellValue\.<br />|
 |[AsCellValue](AsCellValue.md)|Cell value if the object contains a TCellValue\. Will raise an exception if it doesn't\.<br />|
 |[AsDrawingRichString](AsDrawingRichString.md)|Drawing RichString if the object contains a TDrawingRichString\. Will raise an exception if it doesn't\.<br />|
+|[DrawingValueType](DrawingValueType.md)|Type of value in this object\.<br />|
+|[IsCellValue](IsCellValue.md)|Returns true if the object contains a TCellValue\.<br />|
+|[IsDrawingRichString](IsDrawingRichString.md)|Returns true if the object contains a TDrawingRich&#8203;String\.&#8203;<br />|
 
 

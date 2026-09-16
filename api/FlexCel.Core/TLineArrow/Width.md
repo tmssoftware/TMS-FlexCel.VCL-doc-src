@@ -3,7 +3,7 @@ uid: TLineArrow.Width
 description: TLineArrow.Width
 ---
 
-# TLineArrow.Width Property
+# TLineArrow\.Width Property
 
 Width of the arrow\.
 

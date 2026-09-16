@@ -3,7 +3,7 @@ uid: TCondFmtApplyBorders.Top
 description: TCondFmtApplyBorders.Top
 ---
 
-# TCondFmtApplyBorders.Top Property
+# TCondFmtApplyBorders\.Top Property
 
 Top border\.
 

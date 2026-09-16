@@ -3,7 +3,7 @@ uid: TGetIncludeEventArgs.FileName
 description: TGetIncludeEventArgs.FileName
 ---
 
-# TGetIncludeEventArgs.FileName Property
+# TGetIncludeEventArgs\.FileName Property
 
 File we are trying to include\. you can modify it to point to other place\.
 If the including file is a real file \(not an stream\) and FileName is relative, it will be relative to the including file path\.

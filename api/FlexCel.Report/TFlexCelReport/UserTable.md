@@ -3,7 +3,7 @@ uid: TFlexCelReport.UserTable
 description: TFlexCelReport.UserTable
 ---
 
-# TFlexCelReport.UserTable Event
+# TFlexCelReport\.UserTable Event
 
 Fires on each \<\#USER TABLE> tag in the config sheet, allowing to add your own datasets to the report\.
 
@@ -12,7 +12,7 @@ Fires on each \<\#USER TABLE> tag in the config sheet, allowing to add your own 
 
 **Unit:** [FlexCel.Report](../index.md)
 
-<pre><code class="lang-delphi hljs">property <a href="../TFlexCelReport/index.md">TFlexCelReport</a>.UserTable: TUserTableEventHandler</code></pre>
+<pre><code class="lang-delphi hljs">property <a href="../TFlexCelReport/index.md">TFlexCelReport</a>.UserTable: <a href="../TUserTableEventHandler.md">TUserTableEventHandler</a></code></pre>
 
 ## See also
 

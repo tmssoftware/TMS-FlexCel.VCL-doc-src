@@ -3,7 +3,7 @@ uid: IExcelChart.Background
 description: IExcelChart.Background
 ---
 
-# IExcelChart.Background Property
+# IExcelChart\.Background Property
 
 Returns the chart background if there is one defined, or null if there is none\.
 

@@ -3,7 +3,7 @@ uid: TXlsFile.PrintOptions
 description: TXlsFile.PrintOptions
 ---
 
-# TXlsFile.PrintOptions Property
+# TXlsFile\.PrintOptions Property
 
 All print options in a single place\. You will normally want to set individual properties like [TExcelFile.PrintLandscape](../../FlexCel.Core/TExcelFile/PrintLandscape.md)
 

@@ -3,7 +3,7 @@ uid: TXlsFile.ActiveSheet
 description: TXlsFile.ActiveSheet
 ---
 
-# TXlsFile.ActiveSheet Property
+# TXlsFile\.ActiveSheet Property
 
 The Sheet where we are working on, 1\-based\(First sheet is 1, not 0\)\.
 Always set this property before working on a file\.

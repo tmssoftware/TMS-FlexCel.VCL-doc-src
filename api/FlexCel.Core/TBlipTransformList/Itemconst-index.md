@@ -3,7 +3,7 @@ uid: TBlipTransformList.Item[const_index]
 description: TBlipTransformList.Item[const index]
 ---
 
-# TBlipTransformList.Item[const index] Property
+# TBlipTransformList\.Item\[const index\] Property
 
 Returns element index of the transform\.
 

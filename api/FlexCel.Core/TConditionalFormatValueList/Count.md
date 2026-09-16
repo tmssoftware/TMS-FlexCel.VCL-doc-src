@@ -3,7 +3,7 @@ uid: TConditionalFormatValueList.Count
 description: TConditionalFormatValueList.Count
 ---
 
-# TConditionalFormatValueList.Count Property
+# TConditionalFormatValueList\.Count Property
 
 Returns the count of objects in the list\.
 

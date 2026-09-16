@@ -3,7 +3,7 @@ uid: TReportTag.ColFull1
 description: TReportTag.ColFull1
 ---
 
-# TReportTag.ColFull1 Property
+# TReportTag\.ColFull1 Property
 
 Range delimiter\.
 

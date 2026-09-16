@@ -3,7 +3,7 @@ uid: TDrawingParagraphProperties.HangingPunct
 description: TDrawingParagraphProperties.HangingPunct
 ---
 
-# TDrawingParagraphProperties.HangingPunct Property
+# TDrawingParagraphProperties\.HangingPunct Property
 
 Specifies whether punctuation is to be forcefully laid out on a line of text or put on a different line of text\.
 

@@ -3,7 +3,7 @@ uid: IConditionalDataBarRule.FormatDef
 description: IConditionalDataBarRule.FormatDef
 ---
 
-# IConditionalDataBarRule.FormatDef Property
+# IConditionalDataBarRule\.FormatDef Property
 
 Format to apply when the rule evaluates to true\.
 

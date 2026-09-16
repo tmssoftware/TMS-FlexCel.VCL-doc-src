@@ -3,7 +3,7 @@ uid: TUIFont.Bold
 description: TUIFont.Bold
 ---
 
-# TUIFont.Bold Property
+# TUIFont\.Bold Property
 
 Returns true if the font is bold\.
 

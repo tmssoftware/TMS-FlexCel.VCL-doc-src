@@ -18,8 +18,8 @@ A conditional format rule which highlights cells which are below or above the av
 
 |Name|Description|
 |---|---|
-|[IsBelowAverage](IsBelowAverage.md)|If true, then this rule highlights values below the average instead of above\.<br />|
 |[IncludeAverage](IncludeAverage.md)|If true, the average value itself will be highlighted\.<br />|
+|[IsBelowAverage](IsBelowAverage.md)|If true, then this rule highlights values below the average instead of above\.<br />|
 |[StdDev](StdDev.md)|The number of standard deviations to include above or below the average\.<br />|
 
 

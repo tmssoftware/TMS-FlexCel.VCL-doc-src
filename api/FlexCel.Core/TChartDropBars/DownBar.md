@@ -3,7 +3,7 @@ uid: TChartDropBars.DownBar
 description: TChartDropBars.DownBar
 ---
 
-# TChartDropBars.DownBar Property
+# TChartDropBars\.DownBar Property
 
 The data for the down drop bar\.
 

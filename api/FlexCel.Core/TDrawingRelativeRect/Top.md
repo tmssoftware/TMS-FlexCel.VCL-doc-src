@@ -3,7 +3,7 @@ uid: TDrawingRelativeRect.Top
 description: TDrawingRelativeRect.Top
 ---
 
-# TDrawingRelativeRect.Top Property
+# TDrawingRelativeRect\.Top Property
 
 Percentage of the top coordinate\. Might be negative\.
 

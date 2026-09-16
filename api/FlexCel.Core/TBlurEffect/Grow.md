@@ -3,7 +3,7 @@ uid: TBlurEffect.Grow
 description: TBlurEffect.Grow
 ---
 
-# TBlurEffect.Grow Property
+# TBlurEffect\.Grow Property
 
 If true, the blur can extend outside the bounds of the object\.
 

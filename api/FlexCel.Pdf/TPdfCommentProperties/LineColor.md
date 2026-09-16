@@ -3,7 +3,7 @@ uid: TPdfCommentProperties.LineColor
 description: TPdfCommentProperties.LineColor
 ---
 
-# TPdfCommentProperties.LineColor Property
+# TPdfCommentProperties\.LineColor Property
 
 Line color for the comment\. Only visible if [CommentType](CommentType.md) is NOT Text
 

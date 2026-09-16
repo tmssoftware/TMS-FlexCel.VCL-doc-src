@@ -3,7 +3,7 @@ uid: IShapeProperties.TextVerticalAlignment
 description: IShapeProperties.TextVerticalAlignment
 ---
 
-# IShapeProperties.TextVerticalAlignment Property
+# IShapeProperties\.TextVerticalAlignment Property
 
 This property gets or sets the vertical alignment for the text\.
 

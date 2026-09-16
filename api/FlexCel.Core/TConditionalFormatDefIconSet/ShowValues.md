@@ -3,7 +3,7 @@ uid: TConditionalFormatDefIconSet.ShowValues
 description: TConditionalFormatDefIconSet.ShowValues
 ---
 
-# TConditionalFormatDefIconSet.ShowValues Property
+# TConditionalFormatDefIconSet\.ShowValues Property
 
 If false the cell values will not be shown\.
 

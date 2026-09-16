@@ -3,7 +3,7 @@ uid: TReportTag.StrCopyCols
 description: TReportTag.StrCopyCols
 ---
 
-# TReportTag.StrCopyCols Property
+# TReportTag\.StrCopyCols Property
 
 "C"
 

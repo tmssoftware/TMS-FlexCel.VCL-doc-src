@@ -3,7 +3,7 @@ uid: TDrawingTextRun.FieldId
 description: TDrawingTextRun.FieldId
 ---
 
-# TDrawingTextRun.FieldId Property
+# TDrawingTextRun\.FieldId Property
 
 Id for the Field that this text run holds\. It must be an unique GUID per field which has different linked cells\.
 Two shapes with the same linked cell can share the same FieldId\.

@@ -3,7 +3,7 @@ uid: TReflectionEffect.Direction
 description: TReflectionEffect.Direction
 ---
 
-# TReflectionEffect.Direction Property
+# TReflectionEffect\.Direction Property
 
 Rotation of the reflection\.
 

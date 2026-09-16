@@ -3,7 +3,7 @@ uid: TUIFont.FontCreated
 description: TUIFont.FontCreated
 ---
 
-# TUIFont.FontCreated Event
+# TUIFont\.FontCreated Event
 
 Fires after a font has been created\. You can use this event to handle fonts that don't exist in your system and are replaced by a different font by the OS\.
 Note that this event is static and it applies to the whole app\.
@@ -15,7 +15,7 @@ It is not going to have a big impact in performance, but if possible use the [Fo
 
 **Unit:** [FlexCel.Core](../index.md)
 
-<pre><code class="lang-delphi hljs">property <a href="../TUIFont/index.md">TUIFont</a>.FontCreated: TFontCreatedEventHandler</code></pre>
+<pre><code class="lang-delphi hljs">property <a href="../TUIFont/index.md">TUIFont</a>.FontCreated: <a href="../TFontCreatedEventHandler.md">TFontCreatedEventHandler</a></code></pre>
 
 ## See also
 

@@ -3,7 +3,7 @@ uid: IChartTextOptions.TextColor
 description: IChartTextOptions.TextColor
 ---
 
-# IChartTextOptions.TextColor Property
+# IChartTextOptions\.TextColor Property
 
 Color of the text\.
 

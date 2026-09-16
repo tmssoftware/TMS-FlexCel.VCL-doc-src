@@ -26,9 +26,11 @@ Error Codes\. We use this and not actual strings to make sure all are correctly 
 |ErrTryingToSignStartedDocument|7|A pdf file must be signed before calling BeginDoc\.<br />|
 |ErrNoDotsInSigName|8|Signature names cannot contain dots\.<br />|
 |ErrSigningLengthToSmall|9|The estimated size for the signature was smaller than the final size\.<br />|
-|ErrUnassingedSignerFactory|10|There is no signer associated with the signature\.<br />|
-|ErrInvalidAllowedChanges|11|AllowedChanges value is invalid\.<br />|
-|CannotAttachFilesInPDFA1OrA2|12|A PDF/A\-1 or PDF/A\-2 file can't have attached files\. Use PDF/A\-3 for allowing embedding files\.<br />|
-|ErrInvalidUnicodeConversion|13|A glyph in the pdf file cannot be mapped back to an Unicode character\.<br />|
+|ErrEmptyTimestampResponse|10|The Time Stamping Authority didn't return an answer\.<br />|
+|ErrUnassingedSignerFactory|11|There is no signer associated with the signature\.<br />|
+|ErrInvalidAllowedChanges|12|AllowedChanges value is invalid\.<br />|
+|CannotAttachFilesInPDFA1OrA2|13|A PDF/A\-1 or PDF/A\-2 file can't have attached files\. Use PDF/A\-3 for allowing embedding files\.<br />|
+|ErrInvalidUnicodeConversion|14|A glyph in the PDF file cannot be mapped back to an Unicode character\.<br />|
+|ErrInvalidPdfSubType|15|The PDF/A subtype must be compatible with the current PDF/A type\.<br />|
 
 

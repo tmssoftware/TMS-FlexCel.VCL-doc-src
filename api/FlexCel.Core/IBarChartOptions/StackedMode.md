@@ -3,7 +3,7 @@ uid: IBarChartOptions.StackedMode
 description: IBarChartOptions.StackedMode
 ---
 
-# IBarChartOptions.StackedMode Property
+# IBarChartOptions\.StackedMode Property
 
 [TStackedMode](../TStackedMode.md) of the chart\.
 

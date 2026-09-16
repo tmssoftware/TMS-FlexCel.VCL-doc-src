@@ -3,7 +3,7 @@ uid: TExcelFile.ShowGridLines
 description: TExcelFile.ShowGridLines
 ---
 
-# TExcelFile.ShowGridLines Property
+# TExcelFile\.ShowGridLines Property
 
 True if the gray grid lines are shown on the Active sheet\. You can also set this option with [SheetOptions](SheetOptions.md) This property can work in different windows depending on the value of [ActiveWindow](ActiveWindow.md)
 

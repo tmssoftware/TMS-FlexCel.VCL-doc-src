@@ -3,7 +3,7 @@ uid: TPdfSignature.SignDate
 description: TPdfSignature.SignDate
 ---
 
-# TPdfSignature.SignDate Property
+# TPdfSignature\.SignDate Property
 
 Sign Date\. Use DateTime\.MinValue to use the current date\.
 

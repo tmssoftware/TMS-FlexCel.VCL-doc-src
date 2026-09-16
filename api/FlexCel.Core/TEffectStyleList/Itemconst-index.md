@@ -3,7 +3,7 @@ uid: TEffectStyleList.Item[const_index]
 description: TEffectStyleList.Item[const index]
 ---
 
-# TEffectStyleList.Item[const index] Property
+# TEffectStyleList\.Item\[const index\] Property
 
 Returns the effect at position index\. First item is Subtle, second Moderate and third Intense\.
 

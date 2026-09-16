@@ -34,7 +34,7 @@ A blur effect applied to the whole shape\.
 
 |Name|Description|
 |---|---|
-|[Radius](Radius.md)|Radius of the blur\.<br />|
 |[Grow](Grow.md)|If true, the blur can extend outside the bounds of the object\.<br />|
+|[Radius](Radius.md)|Radius of the blur\.<br />|
 
 

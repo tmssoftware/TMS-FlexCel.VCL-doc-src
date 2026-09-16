@@ -3,7 +3,7 @@ uid: TDataConnectionTextField.FieldType
 description: TDataConnectionTextField.FieldType
 ---
 
-# TDataConnectionTextField.FieldType Property
+# TDataConnectionTextField\.FieldType Property
 
 Specifies the field Type\. When text is imported into cells in the worksheet, the data in the cells are converted to the field type defined here\.
 Types can be specified by the user, or determined algorithmically via heuristics\.

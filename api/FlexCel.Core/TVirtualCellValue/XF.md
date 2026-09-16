@@ -3,7 +3,7 @@ uid: TVirtualCellValue.XF
 description: TVirtualCellValue.XF
 ---
 
-# TVirtualCellValue.XF Property
+# TVirtualCellValue\.XF Property
 
 Format of the cell\.
 

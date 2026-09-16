@@ -18,12 +18,12 @@ A list of conditional value colors\.
 
 |Name|Description|
 |---|---|
+|[Add](Add.md)|Adds a color to the list\.<br />|
+|[Clear](Clear.md)|Clears the list\.<br />|
 |[Clone](Clone.md)|Returns a deep copy of the list of value objects\.<br />|
 |[CopyFrom](CopyFrom.md)|Copies the values from other list\. If this list has values, they will be deleted\.<br />|
 |[Equals](Equals.md)|Returns true if both lists are the same\.<br />|
 |[GetHashCode](GetHashCode.md)|Returns a hashcode for the list\.<br />|
-|[Add](Add.md)|Adds a color to the list\.<br />|
-|[Clear](Clear.md)|Clears the list\.<br />|
 
 
 ## Properties

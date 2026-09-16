@@ -3,7 +3,7 @@ uid: TXmlMapMap.RootElement
 description: TXmlMapMap.RootElement
 ---
 
-# TXmlMapMap.RootElement Property
+# TXmlMapMap\.RootElement Property
 
 Root element of the XML instance\.
 

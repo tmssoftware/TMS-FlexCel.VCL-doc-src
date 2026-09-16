@@ -3,7 +3,7 @@ uid: TExcelObjectList.IncludeCopies
 description: TExcelObjectList.IncludeCopies
 ---
 
-# TExcelObjectList.IncludeCopies Property
+# TExcelObjectList\.IncludeCopies Property
 
 If this property is true, all shape ids from the copies made will be stored in the Copies property\.
 

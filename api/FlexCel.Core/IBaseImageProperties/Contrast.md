@@ -3,7 +3,7 @@ uid: IBaseImageProperties.Contrast
 description: IBaseImageProperties.Contrast
 ---
 
-# IBaseImageProperties.Contrast Property
+# IBaseImageProperties\.Contrast Property
 
 Contrast of the image\. [TFlxConsts.DefaultContrast](../TFlxConsts/DefaultContrast.md) is the default Contrast\.
 

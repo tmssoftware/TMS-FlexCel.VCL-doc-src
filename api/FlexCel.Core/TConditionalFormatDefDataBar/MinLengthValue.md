@@ -3,7 +3,7 @@ uid: TConditionalFormatDefDataBar.MinLengthValue
 description: TConditionalFormatDefDataBar.MinLengthValue
 ---
 
-# TConditionalFormatDefDataBar.MinLengthValue Property
+# TConditionalFormatDefDataBar\.MinLengthValue Property
 
 A condition that specifies the value that corresponds with the minimum length of the databar\.
 

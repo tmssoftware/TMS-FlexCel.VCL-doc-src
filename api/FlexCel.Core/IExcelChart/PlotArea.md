@@ -3,7 +3,7 @@ uid: IExcelChart.PlotArea
 description: IExcelChart.PlotArea
 ---
 
-# IExcelChart.PlotArea Property
+# IExcelChart\.PlotArea Property
 
 Returns or sets the plot area definition for the chart\. Note: Setting the plot area only works in xlsx files\.
 

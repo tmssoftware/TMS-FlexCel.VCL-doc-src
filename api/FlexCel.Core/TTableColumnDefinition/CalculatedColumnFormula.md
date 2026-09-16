@@ -3,7 +3,7 @@ uid: TTableColumnDefinition.CalculatedColumnFormula
 description: TTableColumnDefinition.CalculatedColumnFormula
 ---
 
-# TTableColumnDefinition.CalculatedColumnFormula Property
+# TTableColumnDefinition\.CalculatedColumnFormula Property
 
 Stores the formula that is used to perform the calculation for each cell in this column\.
 Note that the column can have different formulas from this one, but this is normally not the case\.

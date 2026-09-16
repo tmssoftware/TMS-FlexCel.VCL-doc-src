@@ -3,7 +3,7 @@ uid: IChartSeries.HorizontalErrorBars
 description: IChartSeries.HorizontalErrorBars
 ---
 
-# IChartSeries.HorizontalErrorBars Property
+# IChartSeries\.HorizontalErrorBars Property
 
 Returns the horizontal error bar options, if the chart has error bars\. If the chart doesn't have them, then null will be returned\.
 

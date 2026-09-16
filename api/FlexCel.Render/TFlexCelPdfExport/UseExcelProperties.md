@@ -3,7 +3,7 @@ uid: TFlexCelPdfExport.UseExcelProperties
 description: TFlexCelPdfExport.UseExcelProperties
 ---
 
-# TFlexCelPdfExport.UseExcelProperties Property
+# TFlexCelPdfExport\.UseExcelProperties Property
 
 When this property is true, the properties of the Excel file will be used when the property is null or empty\.
 

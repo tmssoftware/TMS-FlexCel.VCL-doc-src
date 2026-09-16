@@ -3,7 +3,7 @@ uid: TXlsFile.GetDefaultFont
 description: TXlsFile.GetDefaultFont
 ---
 
-# TXlsFile.GetDefaultFont Property
+# TXlsFile\.GetDefaultFont Property
 
 Returns Excel standard font for an empty cell\.
 

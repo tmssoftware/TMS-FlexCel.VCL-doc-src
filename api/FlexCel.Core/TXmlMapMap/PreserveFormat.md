@@ -3,7 +3,7 @@ uid: TXmlMapMap.PreserveFormat
 description: TXmlMapMap.PreserveFormat
 ---
 
-# TXmlMapMap.PreserveFormat Property
+# TXmlMapMap\.PreserveFormat Property
 
 Indicates if we will preserve the formats on the cells or re apply them depending in the data\.
 

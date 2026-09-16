@@ -3,7 +3,7 @@ uid: TTokenDataArray.Data
 description: TTokenDataArray.Data
 ---
 
-# TTokenDataArray.Data Property
+# TTokenDataArray\.Data Property
 
 Data represented by this token\.
 

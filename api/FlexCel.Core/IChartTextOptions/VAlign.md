@@ -3,7 +3,7 @@ uid: IChartTextOptions.VAlign
 description: IChartTextOptions.VAlign
 ---
 
-# IChartTextOptions.VAlign Property
+# IChartTextOptions\.VAlign Property
 
 Vertical alignment for the text\.
 

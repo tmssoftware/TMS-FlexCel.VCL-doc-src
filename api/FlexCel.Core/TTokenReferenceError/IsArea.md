@@ -3,7 +3,7 @@ uid: TTokenReferenceError.IsArea
 description: TTokenReferenceError.IsArea
 ---
 
-# TTokenReferenceError.IsArea Property
+# TTokenReferenceError\.IsArea Property
 
 Returns true if this is a reference to an area of cells\.
 

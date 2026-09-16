@@ -3,7 +3,7 @@ uid: TFlxApplyFillPattern.FgColor
 description: TFlxApplyFillPattern.FgColor
 ---
 
-# TFlxApplyFillPattern.FgColor Property
+# TFlxApplyFillPattern\.FgColor Property
 
 Color for the foreground of the pattern\.
 

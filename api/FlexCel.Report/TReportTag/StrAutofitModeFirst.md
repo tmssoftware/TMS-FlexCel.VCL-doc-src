@@ -3,7 +3,7 @@ uid: TReportTag.StrAutofitModeFirst
 description: TReportTag.StrAutofitModeFirst
 ---
 
-# TReportTag.StrAutofitModeFirst Property
+# TReportTag\.StrAutofitModeFirst Property
 
 "First"
 

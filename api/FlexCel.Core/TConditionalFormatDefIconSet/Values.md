@@ -3,7 +3,7 @@ uid: TConditionalFormatDefIconSet.Values
 description: TConditionalFormatDefIconSet.Values
 ---
 
-# TConditionalFormatDefIconSet.Values Property
+# TConditionalFormatDefIconSet\.Values Property
 
 A list of definitions and colors for the Icon Set\. It must have the same number of values as the count of the icons in the set \- 1\.
 

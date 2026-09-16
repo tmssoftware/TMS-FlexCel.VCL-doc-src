@@ -3,7 +3,7 @@ uid: TCondFmtApplyFont.BoldAndItalic
 description: TCondFmtApplyFont.BoldAndItalic
 ---
 
-# TCondFmtApplyFont.BoldAndItalic Property
+# TCondFmtApplyFont\.BoldAndItalic Property
 
 If true, both bold and italic will be applied\.
 

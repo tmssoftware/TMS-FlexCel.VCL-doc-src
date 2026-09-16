@@ -3,7 +3,7 @@ uid: TExcelFile.KeepMaxRowsAndColumnsWhenUpdating
 description: TExcelFile.KeepMaxRowsAndColumnsWhenUpdating
 ---
 
-# TExcelFile.KeepMaxRowsAndColumnsWhenUpdating Property
+# TExcelFile\.KeepMaxRowsAndColumnsWhenUpdating Property
 
 Defines what FlexCel will do when it finds a reference to the last row or column in an Excel 97\-2003 spreadsheet, and it is upgrading to Excel 2007\.
 If false \(the default\) row 65536 will be updated to row 1048576, and column 256 to column 16384\.

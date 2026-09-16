@@ -3,7 +3,7 @@ uid: TDrawingParagraphProperties.MarR
 description: TDrawingParagraphProperties.MarR
 ---
 
-# TDrawingParagraphProperties.MarR Property
+# TDrawingParagraphProperties\.MarR Property
 
 Specifies the right margin of the paragraph\.
 

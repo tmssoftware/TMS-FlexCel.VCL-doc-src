@@ -3,7 +3,7 @@ uid: TUIPen.Zoom100
 description: TUIPen.Zoom100
 ---
 
-# TUIPen.Zoom100 Property
+# TUIPen\.Zoom100 Property
 
 Zoom used in the page\. This is used to calculate the minimum arrow size\.
 

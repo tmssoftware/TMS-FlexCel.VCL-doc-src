@@ -3,7 +3,7 @@ uid: TDrawingColor.ScRGB
 description: TDrawingColor.ScRGB
 ---
 
-# TDrawingColor.ScRGB Property
+# TDrawingColor\.ScRGB Property
 
 Returns the color when this structure has an scRGB color\.
 

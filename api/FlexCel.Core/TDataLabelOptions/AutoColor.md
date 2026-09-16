@@ -3,7 +3,7 @@ uid: TDataLabelOptions.AutoColor
 description: TDataLabelOptions.AutoColor
 ---
 
-# TDataLabelOptions.AutoColor Property
+# TDataLabelOptions\.AutoColor Property
 
 True if this label will use automatic coloring, false if the color is user defined\.
 

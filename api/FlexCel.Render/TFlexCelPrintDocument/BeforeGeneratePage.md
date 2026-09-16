@@ -3,7 +3,7 @@ uid: TFlexCelPrintDocument.BeforeGeneratePage
 description: TFlexCelPrintDocument.BeforeGeneratePage
 ---
 
-# TFlexCelPrintDocument.BeforeGeneratePage Event
+# TFlexCelPrintDocument\.BeforeGeneratePage Event
 
 Fires after each new page is printed, but before any content is written to the page\. \(The page is blank\) You can use this event to add a watermark or a background image\.
 

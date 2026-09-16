@@ -3,7 +3,7 @@ uid: TDataBarColors.NegativeBorderColor
 description: TDataBarColors.NegativeBorderColor
 ---
 
-# TDataBarColors.NegativeBorderColor Property
+# TDataBarColors\.NegativeBorderColor Property
 
 Color for the border of negative bars\.
 

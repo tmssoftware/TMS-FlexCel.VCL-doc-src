@@ -3,7 +3,7 @@ uid: TUIRectangle.X
 description: TUIRectangle.X
 ---
 
-# TUIRectangle.X Property
+# TUIRectangle\.X Property
 
 Left coordinate of the rectangle\.
 

@@ -3,7 +3,7 @@ uid: TXlsChart.PlotEmptyCells
 description: TXlsChart.PlotEmptyCells
 ---
 
-# TXlsChart.PlotEmptyCells Property
+# TXlsChart\.PlotEmptyCells Property
 
 Defines how null cells will be plotted on the chart\.
 

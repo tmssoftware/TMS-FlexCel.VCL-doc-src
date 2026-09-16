@@ -3,7 +3,7 @@ uid: TCategoryAxis.BaseUnit
 description: TCategoryAxis.BaseUnit
 ---
 
-# TCategoryAxis.BaseUnit Property
+# TCategoryAxis\.BaseUnit Property
 
 Base units for the axis, when not set to automatic in [AxisOptions](AxisOptions.md)\.
 

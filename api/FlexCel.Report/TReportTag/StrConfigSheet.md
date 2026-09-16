@@ -3,7 +3,7 @@ uid: TReportTag.StrConfigSheet
 description: TReportTag.StrConfigSheet
 ---
 
-# TReportTag.StrConfigSheet Property
+# TReportTag\.StrConfigSheet Property
 
 CONFIG
 

@@ -3,7 +3,7 @@ uid: TFlexCelHtmlExport.ExportNamedRanges
 description: TFlexCelHtmlExport.ExportNamedRanges
 ---
 
-# TFlexCelHtmlExport.ExportNamedRanges Property
+# TFlexCelHtmlExport\.ExportNamedRanges Property
 
 When true FlexCel will insert a span in the first cell of every named range with "id" = the name of the range\.
 You can access then this with javascript\.

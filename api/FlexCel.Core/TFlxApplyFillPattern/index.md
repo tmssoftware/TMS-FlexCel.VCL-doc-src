@@ -18,9 +18,9 @@ Fill pattern and color for the background of a cell\.
 
 |Name|Description|
 |---|---|
+|[Apply](Apply.md)|This method will modify existingFormat with the properties from newFormat that are specified on this class|
 |[Create](Create.md)|Creates the record setting all members to true or false\.<br />|
 |[SetAllMembers](SetAllMembers.md)|Sets all members to true or false|
-|[Apply](Apply.md)|This method will modify existingFormat with the properties from newFormat that are specified on this class|
 
 
 ## Operators
@@ -35,10 +35,10 @@ Fill pattern and color for the background of a cell\.
 
 |Name|Description|
 |---|---|
-|[Pattern](Pattern.md)|Fill style\.<br />|
-|[FgColor](FgColor.md)|Color for the foreground of the pattern\.<br />|
 |[BgColor](BgColor.md)|Color for the background of the pattern\.  If the pattern is solid, has no effect\.<br />|
+|[FgColor](FgColor.md)|Color for the foreground of the pattern\.<br />|
 |[Gradient](Gradient.md)|Defines if to apply a gradient to a cell\. Only valid in Excel 2007 or newer\.<br />|
 |[IsEmpty](IsEmpty.md)|Returns true if the format does not apply any setting\.<br />|
+|[Pattern](Pattern.md)|Fill style\.<br />|
 
 

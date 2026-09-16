@@ -3,7 +3,7 @@ uid: TFlexCelErrorInfo.Message
 description: TFlexCelErrorInfo.Message
 ---
 
-# TFlexCelErrorInfo.Message Property
+# TFlexCelErrorInfo\.Message Property
 
 Error message with detailed information on what happened\.
 

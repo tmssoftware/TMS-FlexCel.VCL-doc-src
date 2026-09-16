@@ -3,7 +3,7 @@ uid: TXlsCellRange.ColCount
 description: TXlsCellRange.ColCount
 ---
 
-# TXlsCellRange.ColCount Property
+# TXlsCellRange\.ColCount Property
 
 Number of columns on the range\.
 

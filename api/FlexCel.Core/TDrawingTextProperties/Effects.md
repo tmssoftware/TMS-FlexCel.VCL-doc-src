@@ -3,7 +3,7 @@ uid: TDrawingTextProperties.Effects
 description: TDrawingTextProperties.Effects
 ---
 
-# TDrawingTextProperties.Effects Property
+# TDrawingTextProperties\.Effects Property
 
 Effects applied to the text\.
 

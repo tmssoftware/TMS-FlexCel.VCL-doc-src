@@ -3,7 +3,7 @@ uid: IImageProperties.IsCameraObject
 description: IImageProperties.IsCameraObject
 ---
 
-# IImageProperties.IsCameraObject Property
+# IImageProperties\.IsCameraObject Property
 
 Returns true if this is a camera object
 

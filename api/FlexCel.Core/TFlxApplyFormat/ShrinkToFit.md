@@ -3,7 +3,7 @@ uid: TFlxApplyFormat.ShrinkToFit
 description: TFlxApplyFormat.ShrinkToFit
 ---
 
-# TFlxApplyFormat.ShrinkToFit Property
+# TFlxApplyFormat\.ShrinkToFit Property
 
 Shrink to fit\.
 

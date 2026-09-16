@@ -3,7 +3,7 @@ uid: TConditionalFormatDefDataBar.Direction
 description: TConditionalFormatDefDataBar.Direction
 ---
 
-# TConditionalFormatDefDataBar.Direction Property
+# TConditionalFormatDefDataBar\.Direction Property
 
 Direction of the databar\.
 

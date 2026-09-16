@@ -3,7 +3,7 @@ uid: TDrawingHyperlink.Url
 description: TDrawingHyperlink.Url
 ---
 
-# TDrawingHyperlink.Url Property
+# TDrawingHyperlink\.Url Property
 
 Url for the link \(including the prefix like "file:///"\)\. Note that if the file has a [BaseUrl](BaseUrl.md), the final URL is given by [FullUrl](FullUrl.md)
 

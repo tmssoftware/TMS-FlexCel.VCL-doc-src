@@ -3,7 +3,7 @@ uid: TTableFormula.Formula
 description: TTableFormula.Formula
 ---
 
-# TTableFormula.Formula Property
+# TTableFormula\.Formula Property
 
 String with the formula\.
 

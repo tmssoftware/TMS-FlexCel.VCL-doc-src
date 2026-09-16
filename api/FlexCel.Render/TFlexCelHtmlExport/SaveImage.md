@@ -3,7 +3,7 @@ uid: TFlexCelHtmlExport.SaveImage
 description: TFlexCelHtmlExport.SaveImage
 ---
 
-# TFlexCelHtmlExport.SaveImage Event
+# TFlexCelHtmlExport\.SaveImage Event
 
 Use this event to save the images into other place\. Note that this event only fires when saving HTML, not MTHML\.
 
@@ -12,7 +12,7 @@ Use this event to save the images into other place\. Note that this event only f
 
 **Unit:** [FlexCel.Render](../index.md)
 
-<pre><code class="lang-delphi hljs">property <a href="../TFlexCelHtmlExport/index.md">TFlexCelHtmlExport</a>.SaveImage: TSaveImageEventHandler</code></pre>
+<pre><code class="lang-delphi hljs">property <a href="../TFlexCelHtmlExport/index.md">TFlexCelHtmlExport</a>.SaveImage: <a href="../TSaveImageEventHandler.md">TSaveImageEventHandler</a></code></pre>
 
 ## See also
 

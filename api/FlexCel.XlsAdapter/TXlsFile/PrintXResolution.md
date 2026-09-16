@@ -3,7 +3,7 @@ uid: TXlsFile.PrintXResolution
 description: TXlsFile.PrintXResolution
 ---
 
-# TXlsFile.PrintXResolution Property
+# TXlsFile\.PrintXResolution Property
 
 Horizontal printer resolution on DPI\.
 

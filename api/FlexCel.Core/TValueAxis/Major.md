@@ -3,7 +3,7 @@ uid: TValueAxis.Major
 description: TValueAxis.Major
 ---
 
-# TValueAxis.Major Property
+# TValueAxis\.Major Property
 
 Value for the major unit, when not set to automatic in [AxisOptions](AxisOptions.md)\.
 

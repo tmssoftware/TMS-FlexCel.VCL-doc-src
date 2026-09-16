@@ -3,7 +3,7 @@ uid: TTableApplyFont.IsEmpty
 description: TTableApplyFont.IsEmpty
 ---
 
-# TTableApplyFont.IsEmpty Property
+# TTableApplyFont\.IsEmpty Property
 
 Returns true if the format does not apply any setting\.
 

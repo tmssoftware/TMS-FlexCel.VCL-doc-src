@@ -3,7 +3,7 @@ uid: IShapeProperties.TextRotated
 description: IShapeProperties.TextRotated
 ---
 
-# IShapeProperties.TextRotated Property
+# IShapeProperties\.TextRotated Property
 
 This methods gets or sets [TextRotation](TextRotation.md) in a simpler way\. As with all FlexCel methods, it uses the xls, not the xlsx way to apply the rotation\.
 

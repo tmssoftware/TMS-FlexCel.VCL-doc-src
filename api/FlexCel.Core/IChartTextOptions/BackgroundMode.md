@@ -3,7 +3,7 @@ uid: IChartTextOptions.BackgroundMode
 description: IChartTextOptions.BackgroundMode
 ---
 
-# IChartTextOptions.BackgroundMode Property
+# IChartTextOptions\.BackgroundMode Property
 
 Background mode, transparent or opaque\.
 

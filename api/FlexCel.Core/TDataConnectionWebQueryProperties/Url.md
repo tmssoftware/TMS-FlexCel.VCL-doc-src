@@ -3,7 +3,7 @@ uid: TDataConnectionWebQueryProperties.Url
 description: TDataConnectionWebQueryProperties.Url
 ---
 
-# TDataConnectionWebQueryProperties.Url Property
+# TDataConnectionWebQueryProperties\.Url Property
 
 URL to use to refresh external data\.
 

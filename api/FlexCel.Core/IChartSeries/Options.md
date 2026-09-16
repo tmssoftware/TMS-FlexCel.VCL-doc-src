@@ -3,7 +3,7 @@ uid: IChartSeries.Options
 description: IChartSeries.Options
 ---
 
-# IChartSeries.Options Property
+# IChartSeries\.Options Property
 
 Options for this series and their data points\. \-1 means the whole series, and n is options for the n\-point\.
 

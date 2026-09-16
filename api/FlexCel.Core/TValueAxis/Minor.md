@@ -3,7 +3,7 @@ uid: TValueAxis.Minor
 description: TValueAxis.Minor
 ---
 
-# TValueAxis.Minor Property
+# TValueAxis\.Minor Property
 
 Value for the minor unit, when not set to automatic in [AxisOptions](AxisOptions.md)\.
 

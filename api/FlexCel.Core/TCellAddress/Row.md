@@ -3,7 +3,7 @@ uid: TCellAddress.Row
 description: TCellAddress.Row
 ---
 
-# TCellAddress.Row Property
+# TCellAddress\.Row Property
 
 Row index for this reference \(1\-based\)\.
 

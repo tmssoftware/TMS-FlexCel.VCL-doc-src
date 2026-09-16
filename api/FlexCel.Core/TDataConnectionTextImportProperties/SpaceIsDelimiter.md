@@ -3,7 +3,7 @@ uid: TDataConnectionTextImportProperties.SpaceIsDelimiter
 description: TDataConnectionTextImportProperties.SpaceIsDelimiter
 ---
 
-# TDataConnectionTextImportProperties.SpaceIsDelimiter Property
+# TDataConnectionTextImportProperties\.SpaceIsDelimiter Property
 
 Flag indicating whether to treat space characters as field delimiters\.
 

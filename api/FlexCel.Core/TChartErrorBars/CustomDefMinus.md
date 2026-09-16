@@ -3,7 +3,7 @@ uid: TChartErrorBars.CustomDefMinus
 description: TChartErrorBars.CustomDefMinus
 ---
 
-# TChartErrorBars.CustomDefMinus Property
+# TChartErrorBars\.CustomDefMinus Property
 
 Returns the formula text used for a custom error bar for the \- values\.
 

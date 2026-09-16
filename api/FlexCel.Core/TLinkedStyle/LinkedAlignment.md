@@ -3,7 +3,7 @@ uid: TLinkedStyle.LinkedAlignment
 description: TLinkedStyle.LinkedAlignment
 ---
 
-# TLinkedStyle.LinkedAlignment Property
+# TLinkedStyle\.LinkedAlignment Property
 
 If true, the alignment will be linked to the parent style, and it will change when you change the style\.
 If false the alignment not change even if you change it in the base style\.

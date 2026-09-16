@@ -3,7 +3,7 @@ uid: IShapeFill.FillStyle
 description: IShapeFill.FillStyle
 ---
 
-# IShapeFill.FillStyle Property
+# IShapeFill\.FillStyle Property
 
 Fill for the shape\. If this value is null, the fill specified in the theme will be used instead\.
 To know the real fill style used even if this value is null, use [GetFill](GetFill.md)

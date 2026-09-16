@@ -3,7 +3,7 @@ uid: TDataConnectionWebQueryProperties.Tables
 description: TDataConnectionWebQueryProperties.Tables
 ---
 
-# TDataConnectionWebQueryProperties.Tables Property
+# TDataConnectionWebQueryProperties\.Tables Property
 
 A collection of tables in the HTML file\. This property is never null, and by modifying it you modify the parent WebQueryProperties too\.
 

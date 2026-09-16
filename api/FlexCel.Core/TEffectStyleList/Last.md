@@ -3,7 +3,7 @@ uid: TEffectStyleList.Last
 description: TEffectStyleList.Last
 ---
 
-# TEffectStyleList.Last Property
+# TEffectStyleList\.Last Property
 
 Returns the last element in the list, or null if the list has no elements\.
 

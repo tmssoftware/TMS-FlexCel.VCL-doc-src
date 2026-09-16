@@ -3,7 +3,7 @@ uid: TDrawingTextProperties.HyperlinkMouseOver
 description: TDrawingTextProperties.HyperlinkMouseOver
 ---
 
-# TDrawingTextProperties.HyperlinkMouseOver Property
+# TDrawingTextProperties\.HyperlinkMouseOver Property
 
 Specifies the mouse\-over hyperlink information to be applied to a run of text\. When the mouse is hovered over  this hyperlink text the link is fetched\.
 

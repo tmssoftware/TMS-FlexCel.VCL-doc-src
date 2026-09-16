@@ -3,7 +3,7 @@ uid: TUITextDecoration.Underline
 description: TUITextDecoration.Underline
 ---
 
-# TUITextDecoration.Underline Property
+# TUITextDecoration\.Underline Property
 
 Defines the style of text underlining\.
 

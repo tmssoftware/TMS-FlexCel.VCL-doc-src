@@ -10,7 +10,7 @@ For example, you could define "EDATE" since it is a custom formula defined in th
 Note that if a custom formula with the name already exists, it will be replaced\. Names are Case insensitive \("Date" is the same as "DATE"\)\.
 
 Also note that some user defined functions come already built in FlexCel, so you might not need to define them\.
-For more information on adding Custom Formulas make sure you read ['Using Excel's user defined functions (UDF)' in the Api Developer Guide](xref:ApiDeveloperGuide#using-excels-user-defined-functions-udf) and take a look at the [Excel User Defined Functions Delphi](xref:Excel_User_Defined_Functions-Delphi) example\.
+For more information on adding Custom Formulas make sure you read ['Using Excel's user defined functions (UDF)' in the Api Developer Guide](xref:ApiDeveloperGuide#using-excels-user-defined-functions-udf) and take a look at the at the [Excel User Defined Functions](xref:Excel_User_Defined_Functions-Delphi) example\.
 
 
 ## Syntax

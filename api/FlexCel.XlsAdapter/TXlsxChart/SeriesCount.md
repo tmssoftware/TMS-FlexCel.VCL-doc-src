@@ -3,7 +3,7 @@ uid: TXlsxChart.SeriesCount
 description: TXlsxChart.SeriesCount
 ---
 
-# TXlsxChart.SeriesCount Property
+# TXlsxChart\.SeriesCount Property
 
 Returns the count of series on this chart\.
 

@@ -3,7 +3,7 @@ uid: IConditionalTopNRule.IsPercent
 description: IConditionalTopNRule.IsPercent
 ---
 
-# IConditionalTopNRule.IsPercent Property
+# IConditionalTopNRule\.IsPercent Property
 
 If true, then this rule targets top n%% instead of top n values\.
 

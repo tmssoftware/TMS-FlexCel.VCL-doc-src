@@ -3,7 +3,7 @@ uid: TGetImageDataEventArgs.ImageData
 description: TGetImageDataEventArgs.ImageData
 ---
 
-# TGetImageDataEventArgs.ImageData Property
+# TGetImageDataEventArgs\.ImageData Property
 
 The data of the image\. You can modify it to return another image format\.
 

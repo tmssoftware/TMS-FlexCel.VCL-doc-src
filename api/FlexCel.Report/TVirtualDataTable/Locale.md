@@ -3,7 +3,7 @@ uid: TVirtualDataTable.Locale
 description: TVirtualDataTable.Locale
 ---
 
-# TVirtualDataTable.Locale Property
+# TVirtualDataTable\.Locale Property
 
 Locale for this dataset\. This might be needed to create datatables with data and the same locale\.
 

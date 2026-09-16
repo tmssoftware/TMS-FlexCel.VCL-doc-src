@@ -3,7 +3,7 @@ uid: TExcelFile.OptionsRecalcMode
 description: TExcelFile.OptionsRecalcMode
 ---
 
-# TExcelFile.OptionsRecalcMode Property
+# TExcelFile\.OptionsRecalcMode Property
 
 Reads and writes the recalculating options in the file\.
 **Note that this only affects the file and how Excel will recalculate, not how FlexCel does its recalculation\.** FlexCel ignores this setting and uses [RecalcMode](RecalcMode.md) instead\.

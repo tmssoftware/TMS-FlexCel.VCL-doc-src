@@ -25,8 +25,8 @@ Describes a visible signature in a PDF file\. For an invisible signature, see [T
 
 |Name|Description|
 |---|---|
+|[ImageData](ImageData.md)|The image that will be shown in the signature as an array of bytes\.<br />|
 |[Page](Page.md)|Page where the signature will go\. \(1 based\)\. Use 0 to place the signature at the last page\.<br />|
 |[Rect](Rect.md)|Rectangle where the signature will go in the page\. It is measured in points \(1/72 of an inch\) from the left lower corner of the page\.<br />|
-|[ImageData](ImageData.md)|The image that will be shown in the signature as an array of bytes\.<br />|
 
 

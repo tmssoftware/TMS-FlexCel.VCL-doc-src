@@ -3,7 +3,7 @@ uid: TFlexCelHtmlExport.AllowOverwritingFiles
 description: TFlexCelHtmlExport.AllowOverwritingFiles
 ---
 
-# TFlexCelHtmlExport.AllowOverwritingFiles Property
+# TFlexCelHtmlExport\.AllowOverwritingFiles Property
 
 Determines if FlexCel will automatically delete existing HTML and image files or not\.
 

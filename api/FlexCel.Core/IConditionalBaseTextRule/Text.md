@@ -3,7 +3,7 @@ uid: IConditionalBaseTextRule.Text
 description: IConditionalBaseTextRule.Text
 ---
 
-# IConditionalBaseTextRule.Text Property
+# IConditionalBaseTextRule\.Text Property
 
 Text to search for\. If it starts with "=" it will be considered a formula\.
 

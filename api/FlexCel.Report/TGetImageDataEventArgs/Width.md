@@ -3,7 +3,7 @@ uid: TGetImageDataEventArgs.Width
 description: TGetImageDataEventArgs.Width
 ---
 
-# TGetImageDataEventArgs.Width Property
+# TGetImageDataEventArgs\.Width Property
 
 The width of the image in pixels\. Change it to resize the image\.
 

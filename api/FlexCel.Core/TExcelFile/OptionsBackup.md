@@ -3,7 +3,7 @@ uid: TExcelFile.OptionsBackup
 description: TExcelFile.OptionsBackup
 ---
 
-# TExcelFile.OptionsBackup Property
+# TExcelFile\.OptionsBackup Property
 
 Defines whether to save a backup copy of the workbook or not\.
 

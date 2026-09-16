@@ -3,7 +3,7 @@ uid: TDataLabelOptions.ShowDataLabelsRange
 description: TDataLabelOptions.ShowDataLabelsRange
 ---
 
-# TDataLabelOptions.ShowDataLabelsRange Property
+# TDataLabelOptions\.ShowDataLabelsRange Property
 
 If true and this label [DataType](DataType.md) is SeriesInfo, this label will display the values specified in "Value from Cells" \.
 

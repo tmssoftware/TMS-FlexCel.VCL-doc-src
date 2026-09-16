@@ -3,7 +3,7 @@ uid: TUIPen.MiterLimit
 description: TUIPen.MiterLimit
 ---
 
-# TUIPen.MiterLimit Property
+# TUIPen\.MiterLimit Property
 
 Gets or sets the miter limit for the pen\.
 

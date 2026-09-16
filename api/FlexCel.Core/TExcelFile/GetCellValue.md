@@ -57,7 +57,7 @@ This method will return the real value stored on the cell\. For example, if you 
 
 ## Returns
 
-Object with the value\. It can be null, a double, a string, a boolean, a [TFormula](../TFormula/index.md), a [TFlxFormulaErrorValue](../TFlxFormulaErrorValue.md) or [TRichString](../TRichString/index.md)\. Dates are returned as doubles\. See the Reading Files demo to know how to use each type of the objects returned\.
+Object with the value\. It can be null, a double, a string, a boolean, a [TFormula](../TFormula/index.md), a [TFlxFormulaErrorValue](../TFlxFormulaErrorValue.md) or [TRichString](../TRichString/index.md)\. Dates are returned as doubles\. See the [Reading Files](xref:Reading_Files-Delphi) demo to know how to use each type of the objects returned\.
 
 ## See also
 
@@ -84,7 +84,7 @@ Reads a Cell Value and Format\.
 
 ## Returns
 
-Object with the value\. It can be null, a double, a string, a boolean, a [TFormula](../TFormula/index.md), a [TFlxFormulaErrorValue](../TFlxFormulaErrorValue.md) or a [TRichString](../TRichString/index.md)\. Dates are returned as doubles\. See the Reading Files demo to know how to use each type of the objects returned\.
+Object with the value\. It can be null, a double, a string, a boolean, a [TFormula](../TFormula/index.md), a [TFlxFormulaErrorValue](../TFlxFormulaErrorValue.md) or a [TRichString](../TRichString/index.md)\. Dates are returned as doubles\. See the [Reading Files](xref:Reading_Files-Delphi) demo to know how to use each type of the objects returned\.
 
 ## See also
 
@@ -112,7 +112,7 @@ Reads a Cell Value and Format from a sheet that is not the active sheet\.
 
 ## Returns
 
-Object with the value\. It can be null, a double, a string, a boolean, a [TFormula](../TFormula/index.md), a [TFlxFormulaErrorValue](../TFlxFormulaErrorValue.md) or a [TRichString](../TRichString/index.md)\. Dates are returned as doubles\. See the Reading Files demo to know how to use each type of the objects returned\.
+Object with the value\. It can be null, a double, a string, a boolean, a [TFormula](../TFormula/index.md), a [TFlxFormulaErrorValue](../TFlxFormulaErrorValue.md) or a [TRichString](../TRichString/index.md)\. Dates are returned as doubles\. See the [Reading Files](xref:Reading_Files-Delphi) demo to know how to use each type of the objects returned\.
 
 ## See also
 

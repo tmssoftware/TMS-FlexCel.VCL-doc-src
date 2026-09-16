@@ -3,7 +3,7 @@ uid: IShapeProperties.IsOleObject
 description: IShapeProperties.IsOleObject
 ---
 
-# IShapeProperties.IsOleObject Property
+# IShapeProperties\.IsOleObject Property
 
 Returns true if the object is an embedded ole object\.
 

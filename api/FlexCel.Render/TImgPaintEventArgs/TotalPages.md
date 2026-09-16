@@ -3,7 +3,7 @@ uid: TImgPaintEventArgs.TotalPages
 description: TImgPaintEventArgs.TotalPages
 ---
 
-# TImgPaintEventArgs.TotalPages Property
+# TImgPaintEventArgs\.TotalPages Property
 
 Gets the total number of pages available to export\.
 

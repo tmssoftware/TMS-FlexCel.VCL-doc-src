@@ -3,7 +3,7 @@ uid: TFlexCelPdfExport.Canceled
 description: TFlexCelPdfExport.Canceled
 ---
 
-# TFlexCelPdfExport.Canceled Property
+# TFlexCelPdfExport\.Canceled Property
 
 If true the export has been canceled with [Cancel](Cancel.md) method\.
 You can't set this variable to false, and setting it true is the same as calling [Cancel](Cancel.md)\.

@@ -3,7 +3,7 @@ uid: TDrawingValue.IsCellValue
 description: TDrawingValue.IsCellValue
 ---
 
-# TDrawingValue.IsCellValue Property
+# TDrawingValue\.IsCellValue Property
 
 Returns true if the object contains a TCellValue\.
 

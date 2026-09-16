@@ -3,7 +3,7 @@ uid: TUIHatchBrush.BackgroundColor
 description: TUIHatchBrush.BackgroundColor
 ---
 
-# TUIHatchBrush.BackgroundColor Property
+# TUIHatchBrush\.BackgroundColor Property
 
 Background color for the pattern\.
 

@@ -3,7 +3,7 @@ uid: TExcelFile.PrintOverThenDown
 description: TExcelFile.PrintOverThenDown
 ---
 
-# TExcelFile.PrintOverThenDown Property
+# TExcelFile\.PrintOverThenDown Property
 
 If true, the pages will be printed to the right, then down\. Otherwise pages will be printed down, then to the right\.
 

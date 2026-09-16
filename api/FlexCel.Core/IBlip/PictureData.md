@@ -3,7 +3,7 @@ uid: IBlip.PictureData
 description: IBlip.PictureData
 ---
 
-# IBlip.PictureData Property
+# IBlip\.PictureData Property
 
 Image data\.
 

@@ -3,7 +3,7 @@ uid: TFlexCelReport.DebugExpressions
 description: TFlexCelReport.DebugExpressions
 ---
 
-# TFlexCelReport.DebugExpressions Property
+# TFlexCelReport\.DebugExpressions Property
 
 Set this value to true if you want to analyze how FlexCel is evaluating the tags in a file\. When true, a full stack trace will be written in the cell instead of the tag values\. See ['Debugging reports' in the Reports Designer Guide](xref:ReportsDesignerGuide#debugging-reports) for information on how to use those stack traces\.
 

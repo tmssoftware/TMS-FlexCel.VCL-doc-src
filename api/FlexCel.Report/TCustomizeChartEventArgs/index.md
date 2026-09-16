@@ -24,8 +24,8 @@ Arguments passed on [TFlexCelReport.CustomizeChart](../TFlexCelReport/CustomizeC
 
 |Name|Description|
 |---|---|
-|[DataFile](DataFile.md)|The file with the chart\.<br />|
 |[Chart](Chart.md)|Chart that is being processed\. Modify its properties in this event\.<br />|
 |[ChartName](ChartName.md)|Name of the chart\. If this is a chart sheet, then it is the name of the sheet\. Otherwise is the name of the object\.<br />|
+|[DataFile](DataFile.md)|The file with the chart\.<br />|
 
 

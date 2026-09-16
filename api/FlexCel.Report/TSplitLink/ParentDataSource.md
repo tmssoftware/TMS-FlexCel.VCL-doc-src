@@ -3,7 +3,7 @@ uid: TSplitLink.ParentDataSource
 description: TSplitLink.ParentDataSource
 ---
 
-# TSplitLink.ParentDataSource Property
+# TSplitLink\.ParentDataSource Property
 
 Table that acts as a parent on the split relationship\. Read its [TVirtualDataTableState.Position](../TVirtualDataTableState/Position.md) to know which group of splitted records to return\.
 

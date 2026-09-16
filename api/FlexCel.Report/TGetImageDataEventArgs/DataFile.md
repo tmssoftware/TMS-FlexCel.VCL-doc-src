@@ -3,7 +3,7 @@ uid: TGetImageDataEventArgs.DataFile
 description: TGetImageDataEventArgs.DataFile
 ---
 
-# TGetImageDataEventArgs.DataFile Property
+# TGetImageDataEventArgs\.DataFile Property
 
 The file with the report data\.
 

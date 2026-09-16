@@ -3,7 +3,7 @@ uid: TSVGBlip.IsEmpty
 description: TSVGBlip.IsEmpty
 ---
 
-# TSVGBlip.IsEmpty Property
+# TSVGBlip\.IsEmpty Property
 
 Returns true if this svg doesn't have data\.
 

@@ -3,7 +3,7 @@ uid: IBaseImageProperties.BiLevel
 description: IBaseImageProperties.BiLevel
 ---
 
-# IBaseImageProperties.BiLevel Property
+# IBaseImageProperties\.BiLevel Property
 
 If true, the image will display in 2 color black and white\.
 

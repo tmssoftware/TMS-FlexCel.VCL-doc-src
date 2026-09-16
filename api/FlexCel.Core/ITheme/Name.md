@@ -3,7 +3,7 @@ uid: ITheme.Name
 description: ITheme.Name
 ---
 
-# ITheme.Name Property
+# ITheme\.Name Property
 
 Name of the theme definition\. This will be shown in Excel UI\.
 

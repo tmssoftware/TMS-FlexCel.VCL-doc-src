@@ -3,7 +3,7 @@ uid: TTokenFunction.ArgumentCount
 description: TTokenFunction.ArgumentCount
 ---
 
-# TTokenFunction.ArgumentCount Property
+# TTokenFunction\.ArgumentCount Property
 
 Number of arguments for this function\. Note that if the function has a fixed number of arguments, this parameter is ignored\.
 

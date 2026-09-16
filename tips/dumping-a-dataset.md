@@ -8,7 +8,7 @@ And the answer is no, we don’t include such a method because it would be too l
 
    As an added advantage reports allow you to easily modify the resulting sheets without modifying the code at all, so even the final user can do it.  
 
-   From reports, the most similar thing to "DumpDataset" is to create an empty spreadsheet, write **"&lt;#mydataset.\*>"** on it, save it, and then run the report against your dataset. You can find an example of this in the demos [Generic Reports](xref:Generic_Reports-Delphi) and [Generic Reports 2](xref:Generic_Reports_2-Delphi) 
+   From reports, the most similar thing to "DumpDataset" is to create an empty spreadsheet, write **"&lt;#mydataset.\*>"** on it, save it, and then run the report against your dataset. You can find an example of this in the demos [Generic Reports](xref:Generic_Reports-Delphi) and [Generic Reports 2](xref:Generic_Reports_2-Delphi)
 
    Of course those 2 demos focus in “generic” datasets which you don’t know beforehand. If you know what data you are outputting, then you can just write &lt;#dataset.field> in the cells where you want that field written, and format each field as you want. 
 

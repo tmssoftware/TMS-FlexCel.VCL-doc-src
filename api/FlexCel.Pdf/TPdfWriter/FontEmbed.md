@@ -3,7 +3,7 @@ uid: TPdfWriter.FontEmbed
 description: TPdfWriter.FontEmbed
 ---
 
-# TPdfWriter.FontEmbed Property
+# TPdfWriter\.FontEmbed Property
 
 Determines what fonts will be embedded on the generated pdf\.
 Note that when using UNICODE fonts WILL BE EMBEDDED no matter the value of this property\. Also if creating PDF/A files\.

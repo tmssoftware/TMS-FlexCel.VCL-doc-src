@@ -3,7 +3,7 @@ uid: TPdfVisibleSignature.ImageData
 description: TPdfVisibleSignature.ImageData
 ---
 
-# TPdfVisibleSignature.ImageData Property
+# TPdfVisibleSignature\.ImageData Property
 
 The image that will be shown in the signature as an array of bytes\.
 

@@ -3,7 +3,7 @@ uid: TFlexCelReport.RecalcVersion
 description: TFlexCelReport.RecalcVersion
 ---
 
-# TFlexCelReport.RecalcVersion Property
+# TFlexCelReport\.RecalcVersion Property
 
 **Before changing this property, look at [TExcelFile.RecalcVersion](../../FlexCel.Core/TExcelFile/RecalcVersion.md)** Determines if the formulas will be recalculated when Excel opens them\.
 

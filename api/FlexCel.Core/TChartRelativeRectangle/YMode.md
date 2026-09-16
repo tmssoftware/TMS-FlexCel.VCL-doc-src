@@ -3,7 +3,7 @@ uid: TChartRelativeRectangle.YMode
 description: TChartRelativeRectangle.YMode
 ---
 
-# TChartRelativeRectangle.YMode Property
+# TChartRelativeRectangle\.YMode Property
 
 Defines how [Y1](Y1.md) behaves\. When this value is Factor, Y1 is a percent of offset from the default position\.
 When this value is Edge, Y1 is the top coordinate of the point\.

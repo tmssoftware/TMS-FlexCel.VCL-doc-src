@@ -3,7 +3,7 @@ uid: TFlexCelReport.RecalcMode
 description: TFlexCelReport.RecalcMode
 ---
 
-# TFlexCelReport.RecalcMode Property
+# TFlexCelReport\.RecalcMode Property
 
 Determines if the report will be recalculated before saving\.
 See [TExcelFile.RecalcMode](../../FlexCel.Core/TExcelFile/RecalcMode.md) for more info\.

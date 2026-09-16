@@ -3,7 +3,7 @@ uid: TPdfWriter.UnlicensedReplacementFont
 description: TPdfWriter.UnlicensedReplacementFont
 ---
 
-# TPdfWriter.UnlicensedReplacementFont Property
+# TPdfWriter\.UnlicensedReplacementFont Property
 
 When trying to embed a font that isn't licensed for embedding, and [UnlicensedFontAction](UnlicensedFontAction.md) is TUnlicensedFontAction\.Replace this property specifies the font that will be used to replace it\. If null or empty, Arial will be used\.
 

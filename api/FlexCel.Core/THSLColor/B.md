@@ -3,7 +3,7 @@ uid: THSLColor.B
 description: THSLColor.B
 ---
 
-# THSLColor.B Property
+# THSLColor\.B Property
 
 Blue component in the RGB space\.
 

@@ -3,7 +3,7 @@ uid: TFlexCelPdfExport.OnFontEmbed
 description: TFlexCelPdfExport.OnFontEmbed
 ---
 
-# TFlexCelPdfExport.OnFontEmbed Event
+# TFlexCelPdfExport\.OnFontEmbed Event
 
 Use this event if you want to manually specify which fonts to embed into the pdf document\.
 
@@ -15,7 +15,7 @@ Note that this property applies only to this object\. To change the property for
 
 **Unit:** [FlexCel.Render](../index.md)
 
-<pre><code class="lang-delphi hljs">property <a href="../TFlexCelPdfExport/index.md">TFlexCelPdfExport</a>.OnFontEmbed: TFontEmbedEventHandler</code></pre>
+<pre><code class="lang-delphi hljs">property <a href="../TFlexCelPdfExport/index.md">TFlexCelPdfExport</a>.OnFontEmbed: <a href="../../FlexCel.Pdf/TFontEmbedEventHandler.md">TFontEmbedEventHandler</a></code></pre>
 
 ## See also
 

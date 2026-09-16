@@ -3,7 +3,7 @@ uid: IChartTrendline.DisplayRSquared
 description: IChartTrendline.DisplayRSquared
 ---
 
-# IChartTrendline.DisplayRSquared Property
+# IChartTrendline\.DisplayRSquared Property
 
 Determines if the value of R\-squared is displayed on the chart\.
 

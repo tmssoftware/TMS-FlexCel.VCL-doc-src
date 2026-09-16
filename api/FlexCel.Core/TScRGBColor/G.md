@@ -3,7 +3,7 @@ uid: TScRGBColor.G
 description: TScRGBColor.G
 ---
 
-# TScRGBColor.G Property
+# TScRGBColor\.G Property
 
 Green component in the RGB space\. \(0\-255\)
 

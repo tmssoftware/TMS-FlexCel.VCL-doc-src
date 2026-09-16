@@ -3,7 +3,7 @@ uid: TColorChangeBlipTransform.UseAlpha
 description: TColorChangeBlipTransform.UseAlpha
 ---
 
-# TColorChangeBlipTransform.UseAlpha Property
+# TColorChangeBlipTransform\.UseAlpha Property
 
 If false, the alpha components of ColorFrom and ColorTo will be ignored\.
 

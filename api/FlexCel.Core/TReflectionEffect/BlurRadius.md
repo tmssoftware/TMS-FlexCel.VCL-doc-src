@@ -3,7 +3,7 @@ uid: TReflectionEffect.BlurRadius
 description: TReflectionEffect.BlurRadius
 ---
 
-# TReflectionEffect.BlurRadius Property
+# TReflectionEffect\.BlurRadius Property
 
 Blur radius\.
 

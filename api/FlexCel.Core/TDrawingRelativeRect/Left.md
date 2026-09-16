@@ -3,7 +3,7 @@ uid: TDrawingRelativeRect.Left
 description: TDrawingRelativeRect.Left
 ---
 
-# TDrawingRelativeRect.Left Property
+# TDrawingRelativeRect\.Left Property
 
 Percentage of the left coordinate\. Might be negative\.
 

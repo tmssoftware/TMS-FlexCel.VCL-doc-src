@@ -3,7 +3,7 @@ uid: TFormula.Text
 description: TFormula.Text
 ---
 
-# TFormula.Text Property
+# TFormula\.Text Property
 
 The formula text, as it is written on Excel\. It must begin with "=" or "\{" for array formulas\.
 

@@ -3,7 +3,7 @@ uid: TThemeTextFont.Scheme
 description: TThemeTextFont.Scheme
 ---
 
-# TThemeTextFont.Scheme Property
+# TThemeTextFont\.Scheme Property
 
 Returns the scheme for the font, if there is one\.
 

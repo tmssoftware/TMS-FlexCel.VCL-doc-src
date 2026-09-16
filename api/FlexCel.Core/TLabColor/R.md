@@ -3,7 +3,7 @@ uid: TLabColor.R
 description: TLabColor.R
 ---
 
-# TLabColor.R Property
+# TLabColor\.R Property
 
 Red component in the RGB space\.
 

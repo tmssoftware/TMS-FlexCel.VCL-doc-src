@@ -175,7 +175,7 @@ Error Codes used in Exceptions\.
 |ErrFontNotSupported|156|Font is not supported\.<br />|
 |ErrInvalidEmptyName|157|Name cannot be empty\.<br />|
 |ErrNameTooLong|158|Name is too long\.<br />|
-|ErrStyleDoesntExists|159|Named style doesn't exists\.<br />|
+|ErrStyleDoesntExists|159|Named style doesn't exist\.<br />|
 |ErrStyleAlreadyExists|160|Style already exists\.<br />|
 |ErrCantRenameBuiltInStyle|161|Built\-in styles can't be renamed\.<br />|
 |ErrCantDeleteBuiltInStyle|162|Built\-in styles can't be deleted\.<br />|

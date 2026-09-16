@@ -3,7 +3,7 @@ uid: IChartSeries.SeriesNumber
 description: IChartSeries.SeriesNumber
 ---
 
-# IChartSeries.SeriesNumber Property
+# IChartSeries\.SeriesNumber Property
 
 Series number as shown on the Legend box\. This might be different from the [SeriesIndex](SeriesIndex.md) if the order of the series is changed\.
 

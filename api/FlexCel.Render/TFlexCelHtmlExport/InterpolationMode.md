@@ -3,7 +3,7 @@ uid: TFlexCelHtmlExport.InterpolationMode
 description: TFlexCelHtmlExport.InterpolationMode
 ---
 
-# TFlexCelHtmlExport.InterpolationMode Property
+# TFlexCelHtmlExport\.InterpolationMode Property
 
 This affects how the images, charts, etc are rendered for the image file\. Some modes will look a little blurred but with better quality\.
 Consult the \.NET framework documentation on SmoothingMode for more information

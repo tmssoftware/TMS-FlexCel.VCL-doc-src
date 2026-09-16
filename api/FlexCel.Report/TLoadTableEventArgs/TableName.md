@@ -3,7 +3,7 @@ uid: TLoadTableEventArgs.TableName
 description: TLoadTableEventArgs.TableName
 ---
 
-# TLoadTableEventArgs.TableName Property
+# TLoadTableEventArgs\.TableName Property
 
 The table that needs to be loaded on demand\.
 

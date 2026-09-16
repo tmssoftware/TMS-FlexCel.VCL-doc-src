@@ -3,7 +3,7 @@ uid: TUnknownBlipTransform.TransformName
 description: TUnknownBlipTransform.TransformName
 ---
 
-# TUnknownBlipTransform.TransformName Property
+# TUnknownBlipTransform\.TransformName Property
 
 Name of the transform\.
 

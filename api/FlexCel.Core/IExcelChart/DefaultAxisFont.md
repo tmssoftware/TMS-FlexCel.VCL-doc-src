@@ -3,7 +3,7 @@ uid: IExcelChart.DefaultAxisFont
 description: IExcelChart.DefaultAxisFont
 ---
 
-# IExcelChart.DefaultAxisFont Property
+# IExcelChart\.DefaultAxisFont Property
 
 Returns the default font for Axis in the chart that do not have a font defined\.
 

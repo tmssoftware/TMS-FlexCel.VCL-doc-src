@@ -3,7 +3,7 @@ uid: TReportTag.StrCopyRows
 description: TReportTag.StrCopyRows
 ---
 
-# TReportTag.StrCopyRows Property
+# TReportTag\.StrCopyRows Property
 
 "R"
 

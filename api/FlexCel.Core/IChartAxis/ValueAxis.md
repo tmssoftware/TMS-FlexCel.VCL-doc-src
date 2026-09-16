@@ -3,7 +3,7 @@ uid: IChartAxis.ValueAxis
 description: IChartAxis.ValueAxis
 ---
 
-# IChartAxis.ValueAxis Property
+# IChartAxis\.ValueAxis Property
 
 Returns information about the Value Axis \(Y\-Axis on a non rotated chart\)\.
 

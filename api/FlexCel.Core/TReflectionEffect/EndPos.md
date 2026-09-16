@@ -3,7 +3,7 @@ uid: TReflectionEffect.EndPos
 description: TReflectionEffect.EndPos
 ---
 
-# TReflectionEffect.EndPos Property
+# TReflectionEffect\.EndPos Property
 
 Ending position of the Alpha value\.
 

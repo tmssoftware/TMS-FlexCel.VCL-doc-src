@@ -3,7 +3,7 @@ uid: TOuterShadowEffect.ShadowAlignment
 description: TOuterShadowEffect.ShadowAlignment
 ---
 
-# TOuterShadowEffect.ShadowAlignment Property
+# TOuterShadowEffect\.ShadowAlignment Property
 
 Shadow Alignment\.
 

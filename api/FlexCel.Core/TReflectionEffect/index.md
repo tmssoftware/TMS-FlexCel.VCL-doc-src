@@ -36,18 +36,18 @@ Applies a reflection effect\.
 |Name|Description|
 |---|---|
 |[BlurRadius](BlurRadius.md)|Blur radius\.<br />|
-|[StartAlpha](StartAlpha.md)|Starting reflection opacity\.<br />|
-|[StartPos](StartPos.md)|Starting position of the Alpha value\.<br />|
+|[Direction](Direction.md)|Rotation of the reflection\.<br />|
+|[Distance](Distance.md)|Distance of the reflection\.<br />|
 |[EndAlpha](EndAlpha.md)|Ending reflection opacity\.<br />|
 |[EndPos](EndPos.md)|Ending position of the Alpha value\.<br />|
-|[Distance](Distance.md)|Distance of the reflection\.<br />|
-|[Direction](Direction.md)|Rotation of the reflection\.<br />|
 |[FadeDirection](FadeDirection.md)|Direction to offset the reflection\.<br />|
 |[HorizontalScaling&#8203;Factor](HorizontalScalingFactor.md)|Horizontal scaling factor\. Negative scaling causes a flip\.<br />|
-|[VerticalScaling&#8203;Factor](VerticalScalingFactor.md)|Vertical scaling factor\. Negative scaling causes a flip\.<br />|
 |[HorizontalSkew](HorizontalSkew.md)|Horizontal skew angle\.<br />|
-|[VerticalSkew](VerticalSkew.md)|Vertical skew angle\.<br />|
-|[ShadowAlignment](ShadowAlignment.md)|Shadow Alignment\.<br />|
 |[RotateWithShape](RotateWithShape.md)|If true, the effect rotates with the shape\.<br />|
+|[ShadowAlignment](ShadowAlignment.md)|Shadow Alignment\.<br />|
+|[StartAlpha](StartAlpha.md)|Starting reflection opacity\.<br />|
+|[StartPos](StartPos.md)|Starting position of the Alpha value\.<br />|
+|[VerticalScaling&#8203;Factor](VerticalScalingFactor.md)|Vertical scaling factor\. Negative scaling causes a flip\.<br />|
+|[VerticalSkew](VerticalSkew.md)|Vertical skew angle\.<br />|
 
 

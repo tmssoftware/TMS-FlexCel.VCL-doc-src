@@ -3,7 +3,7 @@ uid: TUnknownBlipTransform.TransformDef
 description: TUnknownBlipTransform.TransformDef
 ---
 
-# TUnknownBlipTransform.TransformDef Property
+# TUnknownBlipTransform\.TransformDef Property
 
 Transform definition as XML\.
 

@@ -3,7 +3,7 @@ uid: TDrawingRelativeRect.Width
 description: TDrawingRelativeRect.Width
 ---
 
-# TDrawingRelativeRect.Width Property
+# TDrawingRelativeRect\.Width Property
 
 Right \- Left
 

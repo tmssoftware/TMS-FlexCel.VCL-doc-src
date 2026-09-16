@@ -3,7 +3,7 @@ uid: IShapeProperties.Text
 description: IShapeProperties.Text
 ---
 
-# IShapeProperties.Text Property
+# IShapeProperties\.Text Property
 
 Text of the shape if is has some, null otherwise\.
 

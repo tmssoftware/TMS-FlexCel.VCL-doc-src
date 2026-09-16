@@ -3,7 +3,7 @@ uid: TWorkspace.Item[const_fileName]
 description: TWorkspace.Item[const fileName]
 ---
 
-# TWorkspace.Item[const fileName] Property
+# TWorkspace\.Item\[const fileName\] Property
 
 Returns the Excel file with the given name\. To get the file at a given position, use [GetFile](GetFile.md)
 

@@ -3,7 +3,7 @@ uid: TDataConnectionParameter.AsBoolean
 description: TDataConnectionParameter.AsBoolean
 ---
 
-# TDataConnectionParameter.AsBoolean Property
+# TDataConnectionParameter\.AsBoolean Property
 
 Boolean value to use as the query parameter\. Used only when [ParameterType](ParameterType.md) = value\.
 

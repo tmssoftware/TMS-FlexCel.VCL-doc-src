@@ -3,7 +3,7 @@ uid: IGradientFill.GradientStops
 description: IGradientFill.GradientStops
 ---
 
-# IGradientFill.GradientStops Property
+# IGradientFill\.GradientStops Property
 
 The list of gradient stops that specifies the gradient colors and their relative positions in the color band\.
 

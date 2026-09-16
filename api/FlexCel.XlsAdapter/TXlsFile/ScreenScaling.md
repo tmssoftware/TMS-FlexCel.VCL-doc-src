@@ -3,7 +3,7 @@ uid: TXlsFile.ScreenScaling
 description: TXlsFile.ScreenScaling
 ---
 
-# TXlsFile.ScreenScaling Property
+# TXlsFile\.ScreenScaling Property
 
 This property lets you specify the screen scaling that FlexCel will assume for reading xlsx files in  percent\. \(default is 100 which means 100%%\)\. The values can be between 100 and 500\.
 

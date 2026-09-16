@@ -3,7 +3,7 @@ uid: IOneImgExportInfo.PaintClipRect
 description: IOneImgExportInfo.PaintClipRect
 ---
 
-# IOneImgExportInfo.PaintClipRect Property
+# IOneImgExportInfo\.PaintClipRect Property
 
 Coordinates to print\. One per every isolated range in the print area of the sheet\.
 

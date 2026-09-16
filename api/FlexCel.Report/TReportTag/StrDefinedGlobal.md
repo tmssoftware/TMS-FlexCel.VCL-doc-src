@@ -3,7 +3,7 @@ uid: TReportTag.StrDefinedGlobal
 description: TReportTag.StrDefinedGlobal
 ---
 
-# TReportTag.StrDefinedGlobal Property
+# TReportTag\.StrDefinedGlobal Property
 
 "Global"
 

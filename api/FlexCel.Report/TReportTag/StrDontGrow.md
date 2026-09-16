@@ -3,7 +3,7 @@ uid: TReportTag.StrDontGrow
 description: TReportTag.StrDontGrow
 ---
 
-# TReportTag.StrDontGrow Property
+# TReportTag\.StrDontGrow Property
 
 "DontGrow"
 

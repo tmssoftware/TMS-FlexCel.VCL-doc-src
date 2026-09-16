@@ -3,7 +3,7 @@ uid: TReportTag.KeepColsTogether
 description: TReportTag.KeepColsTogether
 ---
 
-# TReportTag.KeepColsTogether Property
+# TReportTag\.KeepColsTogether Property
 
 Named Range starting with KeepColumns\_
 

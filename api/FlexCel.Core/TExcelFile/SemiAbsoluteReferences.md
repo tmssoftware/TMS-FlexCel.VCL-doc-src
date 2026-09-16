@@ -3,7 +3,7 @@ uid: TExcelFile.SemiAbsoluteReferences
 description: TExcelFile.SemiAbsoluteReferences
 ---
 
-# TExcelFile.SemiAbsoluteReferences Property
+# TExcelFile\.SemiAbsoluteReferences Property
 
 When this property is false, inserting and copying ranges will behave the same as it does in Excel\.
 When this property is true, absolute references to cells inside the block being copied will be treated as relative\.

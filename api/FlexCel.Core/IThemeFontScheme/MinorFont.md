@@ -3,7 +3,7 @@ uid: IThemeFontScheme.MinorFont
 description: IThemeFontScheme.MinorFont
 ---
 
-# IThemeFontScheme.MinorFont Property
+# IThemeFontScheme\.MinorFont Property
 
 This element defines the set of minor fonts which are to be used under different languages or locals\.
 

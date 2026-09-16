@@ -3,7 +3,7 @@ uid: TDrawingRelativeRect.Bottom
 description: TDrawingRelativeRect.Bottom
 ---
 
-# TDrawingRelativeRect.Bottom Property
+# TDrawingRelativeRect\.Bottom Property
 
 Percentage of the bottom coordinate\. Might be negative\.
 

@@ -3,7 +3,7 @@ uid: TXmlMapDataBinding.DataBindingLoadMode
 description: TXmlMapDataBinding.DataBindingLoadMode
 ---
 
-# TXmlMapDataBinding.DataBindingLoadMode Property
+# TXmlMapDataBinding\.DataBindingLoadMode Property
 
 Loading mode for this databinding\.
 

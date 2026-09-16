@@ -3,7 +3,7 @@ uid: TFlxConsts.Max_FormulaStringConstant
 description: TFlxConsts.Max_FormulaStringConstant
 ---
 
-# TFlxConsts.Max_FormulaStringConstant Property
+# TFlxConsts\.Max\_FormulaStringConstant Property
 
 Maximum length of a direct string inside a formula, as in ' = "my long string\.\.\."
 

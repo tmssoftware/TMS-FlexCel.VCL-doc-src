@@ -3,7 +3,7 @@ uid: TFlxApplyFormat.VAlignment
 description: TFlxApplyFormat.VAlignment
 ---
 
-# TFlxApplyFormat.VAlignment Property
+# TFlxApplyFormat\.VAlignment Property
 
 Vertical align on the cell\.
 

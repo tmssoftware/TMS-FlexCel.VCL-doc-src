@@ -3,7 +3,7 @@ uid: TXlsFile.SheetCountVisible
 description: TXlsFile.SheetCountVisible
 ---
 
-# TXlsFile.SheetCountVisible Property
+# TXlsFile\.SheetCountVisible Property
 
 Number of visible sheets in the file\.
 

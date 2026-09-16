@@ -3,7 +3,7 @@ uid: TDataLabelOptions.ShowLegendKey
 description: TDataLabelOptions.ShowLegendKey
 ---
 
-# TDataLabelOptions.ShowLegendKey Property
+# TDataLabelOptions\.ShowLegendKey Property
 
 If true, the legend key will be shown along with the label\.
 

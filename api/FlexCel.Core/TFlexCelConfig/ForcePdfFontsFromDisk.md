@@ -3,7 +3,7 @@ uid: TFlexCelConfig.ForcePdfFontsFromDisk
 description: TFlexCelConfig.ForcePdfFontsFromDisk
 ---
 
-# TFlexCelConfig.ForcePdfFontsFromDisk Property
+# TFlexCelConfig\.ForcePdfFontsFromDisk Property
 
 If true, FlexCel will always try to load the fonts for rendering PDF Files from the disk\.
 This allows you to use events like GetFontFolder or GetFontData to tell FlexCel where the fonts are\.

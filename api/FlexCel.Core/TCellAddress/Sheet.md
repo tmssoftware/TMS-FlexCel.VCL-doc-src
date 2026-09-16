@@ -3,7 +3,7 @@ uid: TCellAddress.Sheet
 description: TCellAddress.Sheet
 ---
 
-# TCellAddress.Sheet Property
+# TCellAddress\.Sheet Property
 
 Sheet name of the reference\.
 

@@ -3,7 +3,7 @@ uid: TExcelFile.GetDefaultFormat
 description: TExcelFile.GetDefaultFormat
 ---
 
-# TExcelFile.GetDefaultFormat Property
+# TExcelFile\.GetDefaultFormat Property
 
 Returns Excel standard format for an empty cell\. \(NORMAL format\)
 

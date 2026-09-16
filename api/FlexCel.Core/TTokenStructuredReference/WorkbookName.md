@@ -3,7 +3,7 @@ uid: TTokenStructuredReference.WorkbookName
 description: TTokenStructuredReference.WorkbookName
 ---
 
-# TTokenStructuredReference.WorkbookName Property
+# TTokenStructuredReference\.WorkbookName Property
 
 Name of the file where the referenced table is\. If this value is empty, then the table  is in the same file as the reference\.
 

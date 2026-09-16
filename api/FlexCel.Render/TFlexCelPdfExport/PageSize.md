@@ -3,7 +3,7 @@ uid: TFlexCelPdfExport.PageSize
 description: TFlexCelPdfExport.PageSize
 ---
 
-# TFlexCelPdfExport.PageSize Property
+# TFlexCelPdfExport\.PageSize Property
 
 Pdf page size\. Set it to null to use the paper size on the xls file\.
 

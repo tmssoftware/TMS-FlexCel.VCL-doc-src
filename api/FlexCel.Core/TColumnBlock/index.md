@@ -20,8 +20,8 @@ This class represents a block of columns with the same formatting, options and w
 |---|---|
 |[FirstCol](FirstCol.md)|First column of the range \(1 based\)\.<br />|
 |[LastCol](LastCol.md)|Last column of the range \(1 based\)\.<br />|
-|[Width](Width.md)|Width of the columns\.<br />|
 |[Options](Options.md)|Options of the columns\.<br />|
+|[Width](Width.md)|Width of the columns\.<br />|
 |[XF](XF.md)|Format of the columns\.<br />|
 
 

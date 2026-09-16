@@ -3,7 +3,7 @@ uid: TTableColumnDefinition.DataCellStyle
 description: TTableColumnDefinition.DataCellStyle
 ---
 
-# TTableColumnDefinition.DataCellStyle Property
+# TTableColumnDefinition\.DataCellStyle Property
 
 Style for the cells in the column, if they don't have a given cell style\.
 This property has more priority than the table cell style, but less than the cell style\.

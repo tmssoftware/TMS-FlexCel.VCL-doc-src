@@ -3,7 +3,7 @@ uid: TScRGBColor.ScR
 description: TScRGBColor.ScR
 ---
 
-# TScRGBColor.ScR Property
+# TScRGBColor\.ScR Property
 
 ScRed component\. \(between 0 and 1\)
 

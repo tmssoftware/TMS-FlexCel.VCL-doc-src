@@ -3,7 +3,7 @@ uid: TXlsFile.PrintScale
 description: TXlsFile.PrintScale
 ---
 
-# TXlsFile.PrintScale Property
+# TXlsFile\.PrintScale Property
 
 Percent to grow/shrink the sheet when printing\. 100 means a page scale of 100%%\.
 

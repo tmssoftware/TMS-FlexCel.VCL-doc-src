@@ -3,7 +3,7 @@ uid: TChartDropBars.HiLoLines
 description: TChartDropBars.HiLoLines
 ---
 
-# TChartDropBars.HiLoLines Property
+# TChartDropBars\.HiLoLines Property
 
 Line style for the High\-Low lines if they exist, null otherwise\.
 

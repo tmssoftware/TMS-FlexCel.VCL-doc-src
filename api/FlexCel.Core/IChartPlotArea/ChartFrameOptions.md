@@ -3,7 +3,7 @@ uid: IChartPlotArea.ChartFrameOptions
 description: IChartPlotArea.ChartFrameOptions
 ---
 
-# IChartPlotArea.ChartFrameOptions Property
+# IChartPlotArea\.ChartFrameOptions Property
 
 Line and fill style for this PlotArea\.
 

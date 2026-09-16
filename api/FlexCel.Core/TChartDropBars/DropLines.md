@@ -3,7 +3,7 @@ uid: TChartDropBars.DropLines
 description: TChartDropBars.DropLines
 ---
 
-# TChartDropBars.DropLines Property
+# TChartDropBars\.DropLines Property
 
 Line style for the drop lines if they exist, null otherwise\.
 

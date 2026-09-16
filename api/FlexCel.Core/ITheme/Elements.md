@@ -3,7 +3,7 @@ uid: ITheme.Elements
 description: ITheme.Elements
 ---
 
-# ITheme.Elements Property
+# ITheme\.Elements Property
 
 Elements of the theme\.
 

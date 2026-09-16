@@ -17,9 +17,9 @@ Contains a list of HTML entities and their values
 
 |Name|Description|
 |---|---|
-|[TryNameToCode](TryNameToCode.md)|Converts an Html entity like "amp" into the unicode code for the character\. The input string can also  be a \# code, in decimal or hexadecimal\. \(for example &amp;\#64\)\.<br />|
-|[GetTag](GetTag.md)|Returns the identifier of a tag\.<br />|
 |[EncodeAsHtml](EncodeAsHtml.md)|**Overloaded<br />**  [EncodeAsHtml\(string, THtmlVersion, TEncoding\)](EncodeAsHtml.md#thtmlentitiesencodeashtmlstring-thtmlversion-tencoding)<br />  [EncodeAsHtml\(string, THtmlVersion, TEncoding, TEnterStyle\)](EncodeAsHtml.md#thtmlentitiesencodeashtmlstring-thtmlversion-tencoding-tenterstyle)<br />|
+|[GetTag](GetTag.md)|Returns the identifier of a tag\.<br />|
+|[TryNameToCode](TryNameToCode.md)|Converts an Html entity like "amp" into the unicode code for the character\. The input string can also  be a \# code, in decimal or hexadecimal\. \(for example &amp;\#64\)\.<br />|
 
 
 ## Properties

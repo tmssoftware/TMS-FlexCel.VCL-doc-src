@@ -3,7 +3,7 @@ uid: TXlsFile.NeedsRecalc
 description: TXlsFile.NeedsRecalc
 ---
 
-# TXlsFile.NeedsRecalc Property
+# TXlsFile\.NeedsRecalc Property
 
 Internal use\.
 

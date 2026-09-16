@@ -3,7 +3,7 @@ uid: TVirtualCellValue.Value
 description: TVirtualCellValue.Value
 ---
 
-# TVirtualCellValue.Value Property
+# TVirtualCellValue\.Value Property
 
 Value of the cell\. The possible objects here are the same as the returned by [TExcelFile.GetCellValue\(Integer, Integer, Integer\)](../TExcelFile/GetCellValue.md#texcelfilegetcellvalueinteger-integer-integer)
 

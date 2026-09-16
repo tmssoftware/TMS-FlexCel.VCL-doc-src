@@ -3,7 +3,7 @@ uid: TLookupFieldDefinition.ResultField
 description: TLookupFieldDefinition.ResultField
 ---
 
-# TLookupFieldDefinition.ResultField Property
+# TLookupFieldDefinition\.ResultField Property
 
 The result field for the lookup\.
 

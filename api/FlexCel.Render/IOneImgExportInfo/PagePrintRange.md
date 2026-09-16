@@ -3,7 +3,7 @@ uid: IOneImgExportInfo.PagePrintRange
 description: IOneImgExportInfo.PagePrintRange
 ---
 
-# IOneImgExportInfo.PagePrintRange Property
+# IOneImgExportInfo\.PagePrintRange Property
 
 Range that has been printed\. Note that before printing, the values here are invalid and you should use [PrintRanges](PrintRanges.md)
 

@@ -3,7 +3,7 @@ uid: TReportTag.RowRange2
 description: TReportTag.RowRange2
 ---
 
-# TReportTag.RowRange2 Property
+# TReportTag\.RowRange2 Property
 
 Range delimiter\.
 

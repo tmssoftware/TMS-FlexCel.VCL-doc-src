@@ -3,7 +3,7 @@ uid: TLoopOverUsedRangeParameters.Col
 description: TLoopOverUsedRangeParameters.Col
 ---
 
-# TLoopOverUsedRangeParameters.Col Property
+# TLoopOverUsedRangeParameters\.Col Property
 
 Column where the value is \(1\-based\)\.
 

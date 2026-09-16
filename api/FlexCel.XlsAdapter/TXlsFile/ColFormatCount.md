@@ -3,7 +3,7 @@ uid: TXlsFile.ColFormatCount
 description: TXlsFile.ColFormatCount
 ---
 
-# TXlsFile.ColFormatCount Property
+# TXlsFile\.ColFormatCount Property
 
 Returns the number of formatted columns in the file\. Note that in xlsx files this number can be very big\.
 

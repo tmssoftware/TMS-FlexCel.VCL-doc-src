@@ -3,7 +3,7 @@ uid: TExcelFile.TableCountInWorkbook
 description: TExcelFile.TableCountInWorkbook
 ---
 
-# TExcelFile.TableCountInWorkbook Property
+# TExcelFile\.TableCountInWorkbook Property
 
 Returns the number of tables in the whole workbook\. \(Not just the active sheet\)
 

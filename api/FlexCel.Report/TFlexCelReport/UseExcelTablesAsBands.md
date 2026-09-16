@@ -3,7 +3,7 @@ uid: TFlexCelReport.UseExcelTablesAsBands
 description: TFlexCelReport.UseExcelTablesAsBands
 ---
 
-# TFlexCelReport.UseExcelTablesAsBands Property
+# TFlexCelReport\.UseExcelTablesAsBands Property
 
 Determines if FlexCel will use Tables named as "\_\_table\_\_" or similar as band definitions\.
 

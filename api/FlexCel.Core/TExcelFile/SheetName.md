@@ -3,7 +3,7 @@ uid: TExcelFile.SheetName
 description: TExcelFile.SheetName
 ---
 
-# TExcelFile.SheetName Property
+# TExcelFile\.SheetName Property
 
 Reads and changes the name of the active sheet\. To switch to another sheet by its name, use [ActiveSheetByName](ActiveSheetByName.md)
 

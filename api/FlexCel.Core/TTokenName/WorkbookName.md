@@ -3,7 +3,7 @@ uid: TTokenName.WorkbookName
 description: TTokenName.WorkbookName
 ---
 
-# TTokenName.WorkbookName Property
+# TTokenName\.WorkbookName Property
 
 Workbook where the name is, if this is an external name\. If then name is in the same file as the reference, this value will be null or empty\.
 

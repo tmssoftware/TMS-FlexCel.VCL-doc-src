@@ -3,7 +3,7 @@ uid: TCellAddress.CellRef
 description: TCellAddress.CellRef
 ---
 
-# TCellAddress.CellRef Property
+# TCellAddress\.CellRef Property
 
 Cell address in Excel A1 notation\. \(For example "A5"\)\.
 Absolute references \($A$5\) will work too\.

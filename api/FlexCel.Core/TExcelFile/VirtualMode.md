@@ -3,7 +3,7 @@ uid: TExcelFile.VirtualMode
 description: TExcelFile.VirtualMode
 ---
 
-# TExcelFile.VirtualMode Property
+# TExcelFile\.VirtualMode Property
 
 Set this value to true to turn Virtual Mode on\. Look at ['Virtual mode' in the Performance Guide](xref:PerformanceGuide#virtual-mode) for more information\.
 

@@ -3,7 +3,7 @@ uid: TDataConnectionTextImportProperties.SemicolonIsDelimiter
 description: TDataConnectionTextImportProperties.SemicolonIsDelimiter
 ---
 
-# TDataConnectionTextImportProperties.SemicolonIsDelimiter Property
+# TDataConnectionTextImportProperties\.SemicolonIsDelimiter Property
 
 Flag indicating whether to treat semicolon characters as field delimiters\.
 

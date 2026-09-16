@@ -3,7 +3,7 @@ uid: TVirtualCellReadEventArgs.SheetNames
 description: TVirtualCellReadEventArgs.SheetNames
 ---
 
-# TVirtualCellReadEventArgs.SheetNames Property
+# TVirtualCellReadEventArgs\.SheetNames Property
 
 Array with all the sheet names in the file\. You can use this array and [Cell](Cell.md)\.Sheet to know the current and next sheet names\.
 

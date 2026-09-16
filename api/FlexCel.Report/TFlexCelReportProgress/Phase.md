@@ -3,7 +3,7 @@ uid: TFlexCelReportProgress.Phase
 description: TFlexCelReportProgress.Phase
 ---
 
-# TFlexCelReportProgress.Phase Property
+# TFlexCelReportProgress\.Phase Property
 
 Phase of the report\.
 

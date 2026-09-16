@@ -3,7 +3,7 @@ uid: TDataConnectionWebQueryProperties.HtmlFormat
 description: TDataConnectionWebQueryProperties.HtmlFormat
 ---
 
-# TDataConnectionWebQueryProperties.HtmlFormat Property
+# TDataConnectionWebQueryProperties\.HtmlFormat Property
 
 How to handle formatting from the HTML source when bringing web query data into the worksheet\. Relevant when SourceData is True\.
 

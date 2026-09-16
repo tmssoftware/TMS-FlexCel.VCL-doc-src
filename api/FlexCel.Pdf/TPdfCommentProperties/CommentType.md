@@ -3,7 +3,7 @@ uid: TPdfCommentProperties.CommentType
 description: TPdfCommentProperties.CommentType
 ---
 
-# TPdfCommentProperties.CommentType Property
+# TPdfCommentProperties\.CommentType Property
 
 Type of comment\.
 

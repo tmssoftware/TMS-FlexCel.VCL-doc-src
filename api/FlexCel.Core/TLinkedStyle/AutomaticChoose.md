@@ -3,7 +3,7 @@ uid: TLinkedStyle.AutomaticChoose
 description: TLinkedStyle.AutomaticChoose
 ---
 
-# TLinkedStyle.AutomaticChoose Property
+# TLinkedStyle\.AutomaticChoose Property
 
 When this property is true \(the default\) FlexCel will automatically choose which linked properties to apply depending on what changes from the base style\. For example, if this style has a different font than the basic style, the font will be not linked, and when you change the base style it will keep the same\.
 Excel behaves this way when it adds styles\. To manually choose what the format will affect, set this to none\.

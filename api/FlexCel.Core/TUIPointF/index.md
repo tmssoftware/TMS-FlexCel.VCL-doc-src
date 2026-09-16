@@ -28,8 +28,8 @@ Platform independent point
 |Name|Description|
 |---|---|
 |[Equality](op_Equality.md)|Adapts the = operator so it returns true when both instances have the same values\.|
-|[Inequality](op_Inequality.md)|Adapts the \<> operator so it returns true when both instances have different values\.|
 |[Explicit Conversion](op_Explicit.md)|**Overloaded<br />**  [Explicit conversion from TUIPointF to TPointF](op_Explicit.md#explicit-conversion-from-tuipointf-to-tpointf)<br />  [Explicit conversion from TPointF to TUIPointF](op_Explicit.md#explicit-conversion-from-tpointf-to-tuipointf)<br />|
+|[Inequality](op_Inequality.md)|Adapts the \<> operator so it returns true when both instances have different values\.|
 
 
 ## Properties

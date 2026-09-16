@@ -3,7 +3,7 @@ uid: TFormulaSpan.RowSpan
 description: TFormulaSpan.RowSpan
 ---
 
-# TFormulaSpan.RowSpan Property
+# TFormulaSpan\.RowSpan Property
 
 How many rows the formula will use\.
 

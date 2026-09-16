@@ -3,7 +3,7 @@ uid: TTableApplyFont.Color
 description: TTableApplyFont.Color
 ---
 
-# TTableApplyFont.Color Property
+# TTableApplyFont\.Color Property
 
 Color of the font\.
 

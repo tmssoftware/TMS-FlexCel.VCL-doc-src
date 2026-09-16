@@ -3,7 +3,7 @@ uid: TBaseAxis.NumberFormatLinkedToSource
 description: TBaseAxis.NumberFormatLinkedToSource
 ---
 
-# TBaseAxis.NumberFormatLinkedToSource Property
+# TBaseAxis\.NumberFormatLinkedToSource Property
 
 True if the format for the numbers on this axis is linked to the format in the cells in the spreadsheet\.
 

@@ -3,7 +3,7 @@ uid: TReportTag.StrAlignLeft
 description: TReportTag.StrAlignLeft
 ---
 
-# TReportTag.StrAlignLeft Property
+# TReportTag\.StrAlignLeft Property
 
 "LEFT"
 

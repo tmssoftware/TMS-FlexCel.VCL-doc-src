@@ -3,7 +3,7 @@ uid: TPdfWriter.InitialZoomAndPage
 description: TPdfWriter.InitialZoomAndPage
 ---
 
-# TPdfWriter.InitialZoomAndPage Property
+# TPdfWriter\.InitialZoomAndPage Property
 
 Sets the default zoom and initial page when opening the document\.
 

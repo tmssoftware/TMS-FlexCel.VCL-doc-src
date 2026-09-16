@@ -3,7 +3,7 @@ uid: TExcelFile.GridLinesColor
 description: TExcelFile.GridLinesColor
 ---
 
-# TExcelFile.GridLinesColor Property
+# TExcelFile\.GridLinesColor Property
 
 Color of the grid separator lines\.
 This property can work in different windows depending on the value of [ActiveWindow](ActiveWindow.md)

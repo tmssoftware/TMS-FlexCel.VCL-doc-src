@@ -3,7 +3,7 @@ uid: TFlexCelHtmlExportProgress.SheetNumber
 description: TFlexCelHtmlExportProgress.SheetNumber
 ---
 
-# TFlexCelHtmlExportProgress.SheetNumber Property
+# TFlexCelHtmlExportProgress\.SheetNumber Property
 
 The sheet we are exporting\.
 

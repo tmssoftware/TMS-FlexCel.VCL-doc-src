@@ -3,7 +3,7 @@ uid: TDrawingColor.ColorType
 description: TDrawingColor.ColorType
 ---
 
-# TDrawingColor.ColorType Property
+# TDrawingColor\.ColorType Property
 
 Identifies which kind of color is the one to apply in this structure\.
 

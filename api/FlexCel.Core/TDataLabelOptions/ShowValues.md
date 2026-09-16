@@ -3,7 +3,7 @@ uid: TDataLabelOptions.ShowValues
 description: TDataLabelOptions.ShowValues
 ---
 
-# TDataLabelOptions.ShowValues Property
+# TDataLabelOptions\.ShowValues Property
 
 If true and this label [DataType](DataType.md) is SeriesInfo, this label will display the actual value of the data\.
 

@@ -3,7 +3,7 @@ uid: TTokenReferenceError.Is3D
 description: TTokenReferenceError.Is3D
 ---
 
-# TTokenReferenceError.Is3D Property
+# TTokenReferenceError\.Is3D Property
 
 Returns true if this is a reference to multiple sheets\.
 

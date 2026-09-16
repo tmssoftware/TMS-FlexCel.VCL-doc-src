@@ -3,7 +3,7 @@ uid: TReportTag.StrRowPosColumn
 description: TReportTag.StrRowPosColumn
 ---
 
-# TReportTag.StrRowPosColumn Property
+# TReportTag\.StrRowPosColumn Property
 
 "\#RecordPos"
 

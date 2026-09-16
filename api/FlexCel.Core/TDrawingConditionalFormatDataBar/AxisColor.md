@@ -3,7 +3,7 @@ uid: TDrawingConditionalFormatDataBar.AxisColor
 description: TDrawingConditionalFormatDataBar.AxisColor
 ---
 
-# TDrawingConditionalFormatDataBar.AxisColor Property
+# TDrawingConditionalFormatDataBar\.AxisColor Property
 
 Color for the axis where the databar crosses 0\. If this is TUIColor\.Empty, no axis should be drawn\.
 

@@ -3,7 +3,7 @@ uid: IChartTrendline.Name
 description: IChartTrendline.Name
 ---
 
-# IChartTrendline.Name Property
+# IChartTrendline\.Name Property
 
 Name for the trendline\. Make it null to make it automatic\.
 

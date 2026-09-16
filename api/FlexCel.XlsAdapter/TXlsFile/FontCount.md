@@ -3,7 +3,7 @@ uid: TXlsFile.FontCount
 description: TXlsFile.FontCount
 ---
 
-# TXlsFile.FontCount Property
+# TXlsFile\.FontCount Property
 
 Number of fonts defined in all the sheet\. When calling GetFont\(fontIndex\), 0\<=fontIndex\<FormatCount\.
 

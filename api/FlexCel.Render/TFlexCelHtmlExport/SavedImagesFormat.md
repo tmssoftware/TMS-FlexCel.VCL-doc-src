@@ -3,7 +3,7 @@ uid: TFlexCelHtmlExport.SavedImagesFormat
 description: TFlexCelHtmlExport.SavedImagesFormat
 ---
 
-# TFlexCelHtmlExport.SavedImagesFormat Property
+# TFlexCelHtmlExport\.SavedImagesFormat Property
 
 File format in which the images will be saved\. Note that Ie6 does not support transparency in PNGs by default, so if you have transparent images and you want to make you page compatible with IE6, you should save as gif or use [FixIE6TransparentPngSupport](FixIE6TransparentPngSupport.md)
 

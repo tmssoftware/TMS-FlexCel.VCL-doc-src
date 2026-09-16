@@ -3,7 +3,7 @@ uid: TFlexCelPreviewer.CacheSize
 description: TFlexCelPreviewer.CacheSize
 ---
 
-# TFlexCelPreviewer.CacheSize Property
+# TFlexCelPreviewer\.CacheSize Property
 
 The cache size in number of pages stored at 100%% zoom\. For larger zoom actual number of pages is decreased by \(Zoom\*Zoom\)
 

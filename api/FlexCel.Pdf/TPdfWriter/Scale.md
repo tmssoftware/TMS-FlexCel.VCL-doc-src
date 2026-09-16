@@ -3,7 +3,7 @@ uid: TPdfWriter.Scale
 description: TPdfWriter.Scale
 ---
 
-# TPdfWriter.Scale Property
+# TPdfWriter\.Scale Property
 
 A scale factor to change X and Y coordinates\. When Scale=1, the using is the point \(1/72 of an inch\)\.
 Font size is not affected by scale, it is always in points\.

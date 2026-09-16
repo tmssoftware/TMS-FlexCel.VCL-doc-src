@@ -3,7 +3,7 @@ uid: TDataConnectionParameter.Name
 description: TDataConnectionParameter.Name
 ---
 
-# TDataConnectionParameter.Name Property
+# TDataConnectionParameter\.Name Property
 
 The name of the parameter\.
 

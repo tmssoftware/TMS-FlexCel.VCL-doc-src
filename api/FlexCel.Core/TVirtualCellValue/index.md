@@ -33,9 +33,9 @@ Represents a cell, including the row, column and sheet where it was read\.
 
 |Name|Description|
 |---|---|
-|[Sheet](Sheet.md)|Sheet where the cell was read\. \(1 based\)|
-|[Row](Row.md)|Row where the cell was read\. \(1 based\)|
 |[Col](Col.md)|Column where the cell was read\. \(1 based\)|
+|[Row](Row.md)|Row where the cell was read\. \(1 based\)|
+|[Sheet](Sheet.md)|Sheet where the cell was read\. \(1 based\)|
 |[Value](Value.md)|Value of the cell\. The possible objects here are the same as the returned by [TExcelFile.&#8203;Get&#8203;Cell&#8203;Value\(&#8203;&#8203;Integer, Integer, Integer\)](../TExcelFile/GetCellValue.md#texcelfilegetcellvalueinteger-integer-integer)|
 |[XF](XF.md)|Format of the cell\.<br />|
 

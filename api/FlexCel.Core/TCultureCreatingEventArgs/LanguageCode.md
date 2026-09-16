@@ -3,7 +3,7 @@ uid: TCultureCreatingEventArgs.LanguageCode
 description: TCultureCreatingEventArgs.LanguageCode
 ---
 
-# TCultureCreatingEventArgs.LanguageCode Property
+# TCultureCreatingEventArgs\.LanguageCode Property
 
 Language code for the culture we want to create\.
 

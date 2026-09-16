@@ -3,7 +3,7 @@ uid: IConditionalAboveAverageRule.IncludeAverage
 description: IConditionalAboveAverageRule.IncludeAverage
 ---
 
-# IConditionalAboveAverageRule.IncludeAverage Property
+# IConditionalAboveAverageRule\.IncludeAverage Property
 
 If true, the average value itself will be highlighted\.
 

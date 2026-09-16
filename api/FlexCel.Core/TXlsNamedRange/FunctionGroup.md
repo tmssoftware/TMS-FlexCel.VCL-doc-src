@@ -3,7 +3,7 @@ uid: TXlsNamedRange.FunctionGroup
 description: TXlsNamedRange.FunctionGroup
 ---
 
-# TXlsNamedRange.FunctionGroup Property
+# TXlsNamedRange\.FunctionGroup Property
 
 Specifies the function group index if the defined name refers to a function\. The function group defines the general category for the function\. This attribute is used when there is an add\-in or other code project associated with the file\.
 

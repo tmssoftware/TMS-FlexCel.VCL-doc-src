@@ -3,7 +3,7 @@ uid: IChartAxis.Index
 description: IChartAxis.Index
 ---
 
-# IChartAxis.Index Property
+# IChartAxis\.Index Property
 
 Axis Index\. 0 means primary, 1 secondary\.
 

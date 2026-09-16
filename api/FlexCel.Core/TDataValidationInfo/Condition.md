@@ -3,7 +3,7 @@ uid: TDataValidationInfo.Condition
 description: TDataValidationInfo.Condition
 ---
 
-# TDataValidationInfo.Condition Property
+# TDataValidationInfo\.Condition Property
 
 Condition used to apply the data validation\.
 

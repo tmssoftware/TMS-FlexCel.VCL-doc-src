@@ -3,7 +3,7 @@ uid: TExcelFile.OptionsFullRecalcOnLoadMode
 description: TExcelFile.OptionsFullRecalcOnLoadMode
 ---
 
-# TExcelFile.OptionsFullRecalcOnLoadMode Property
+# TExcelFile\.OptionsFullRecalcOnLoadMode Property
 
 Defines how FlexCel will identify the files it creates to be calculated by Excel when it opens them\.
 

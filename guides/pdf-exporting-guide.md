@@ -18,7 +18,7 @@ FlexCel provides two ways to create a PDF file. At a higher level, you can use *
 
 But it can be used standalone to create a PDF file for scratch, or most likely to **modify the output from TFlexCelPdfExport using one of the [TFlexCelPdfExport.BeforeGeneratePage](~/api/FlexCel.Render/TFlexCelPdfExport/BeforeGeneratePage.md) or [TFlexCelPdfExport.AfterGeneratePage](~/api/FlexCel.Render/TFlexCelPdfExport/AfterGeneratePage.md) events**.
 
-We will not cover it in detail here since methods are documented in [TPdfWriter](~/api/FlexCel.Pdf/TPdfWriter/index.md), but it is worth mentioning that there is also an example to get you started in the [API Demos](xref:Creating_Pdf_Files_With_PDF_API-Delphi).
+We will not cover it in detail here since methods are documented in [TPdfWriter](~/api/FlexCel.Pdf/TPdfWriter/index.md), but it is worth mentioning that there is also an example to get you started in the [Creating Pdf Files With PDF API](xref:Creating_Pdf_Files_With_PDF_API-Delphi) demo.
 
 ### Using FlexCelPdfExport
 
@@ -364,34 +364,55 @@ As it is an important accessibility feature, since FlexCel 6.5 files are tagged 
 
 > [!Important]
 > 
-> Tagged pdfs can be much bigger than normal ones, so this might be a reason to turn tagging off. If your files are big, try saving with and without tagging to compare the sizes; then decide if tagging is worth. For small documents, tagging should be kept on.
+> Tagged PDFs can be much bigger than normal ones, so this might be a reason to turn tagging off. If your files are big, try saving with and without tagging to compare the sizes; then decide if tagging is worth. For small documents, tagging should be kept on.
 
 
 ## Creating PDF/A files
 
-PDF/A files are files designed specifically for archiving. FlexCel has full support for the variations of the standard: **PDF/A1a**, **PDF/A1b**, **PDF/A2a**, **PDF/A2b**, **PDF/A3a** and **PDF/A3b**.
+PDF/A files are files designed specifically for archiving. FlexCel has full support for the variations of the standard: **PDF/A1a**, **PDF/A1b**, **PDF/A2a**, **PDF/A2b**, **PDF/A2u**, **PDF/A3a**, **PDF/A3b**, **PDF/A3u**, **PDF/A4** and **PDF/A4f**.
 
-If you need to choose a version, we would recommend PDF/A2 or PDF/A3. PDF/A1 is a little too restrictive, and lacks some features that FlexCel could use to generate better files: It doesn’t support transparency and it doesn’t allow compressing the tags in the document. Due to the lack of transparency, if you have any transparent image in your file it might look wrong. Due to the lack of tag compression, files will be much bigger than PDF/A2.
+If you need to choose a version, at this moment we would recommend PDF/A2 or PDF/A3. PDF/A1 is a little too restrictive, and lacks some features that FlexCel could use to generate better files: It doesn’t support transparency and it doesn’t allow compressing the tags in the document. Due to the lack of transparency, if you have any transparent image in your file it might look wrong. Due to the lack of tag compression, files will be much bigger than PDF/A2. On the other side, at the time of this writing, PDF/A4 isn't widely adopted, and doesn't provide a lot of advantages over PDF/A2 and 3. 
 
-In order to create PDFA files, you need to set PdfWriter or FlexCelPdfExport property **[TFlexCelPdfExport.PdfType](~/api/FlexCel.Render/TFlexCelPdfExport/PdfType.md)** to the correct version. For example:
+In order to create PDF/A files, you need to set PdfWriter or FlexCelPdfExport property **[TFlexCelPdfExport.PdfType](~/api/FlexCel.Render/TFlexCelPdfExport/PdfType.md)** to the correct version. For example:
 
 pdf.[PdfType](~/api/FlexCel.Render/TFlexCelPdfExport//PdfType.md) := [TPdfType](~/api/FlexCel.Pdf/TPdfType.md).PDFA1
 
-Then you need to choose if you want to generate “a” (PDF/A1**a**, PDF/A2**a**, PDF/A3**a**) or “b” (PDF/A1**b**, PDF/A2**b**, PDF/A3**b**) files. “a” files are the most complete, and they require you to tag the file. "b" files don't require tagging, so they can be smaller if the documents have a lot of pages.
+### PDF/A1, 2, and 3: 
+You need to choose if you want to generate “a” (PDF/A1**a**, PDF/A2**a**, PDF/A3**a**) or “b” (PDF/A1**b**, PDF/A2**b**, PDF/A3**b**) files. “a” files are the most complete, and they require you to tag the file. "b" files don't require tagging, so they can be smaller if the documents have a lot of pages. 
 
 When using FlexCelPdfExport, you would just set the correct option by changing the **[TFlexCelPdfExport.TagMode](~/api/FlexCel.Render/TFlexCelPdfExport/TagMode.md)** property:
 
 pdf.[TagMode](~/api/FlexCel.Render/TFlexCelPdfExport//TagMode.md) := [TTagMode](~/api/FlexCel.Pdf/TTagMode.md).None; //Generates “b” files
 
-As the TagMode is Full by default, FlexCel by default generates “a” files.
+As the TagMode is `Full` by default, FlexCel by default generates “a” files.
 
 When using [TPdfWriter](~/api/FlexCel.Pdf/TPdfWriter/index.md), you need to manually tag the files, as FlexCel can’t know the structure from the drawing commands. You need to use the methods [TPdfWriter.TagContentBegin](~/api/FlexCel.Pdf/TPdfWriter/TagContentBegin.md) and [TPdfWriter.TagContentEnd](~/api/FlexCel.Pdf/TPdfWriter/TagContentEnd.md) to specify the blocks of text you want to tag, and then set the TagActions property to specify how that tagged content relates to the structure of the file. Tagging in PdfWriter is an advanced topic outside the scope of this document. Due to the way PdfWriter is designed, it won’t keep tags in memory and you need to write them directly to the file as you are creating it.
 
+> [!Note]
+> 
+> FlexCel can also generate **PDF/A2u** and **PDF/A3u** files, but those are identical to the **b** variants, except for the identifier in the generated file that will say it is a **u** file. The b variants FlexCel generates are also valid u variants. To make the files identify as u instead of b, set the property [TFlexCelPdfExport.PdfSubType](~/api/FlexCel.Render/TFlexCelPdfExport/PdfSubType.md) to **TPdfSubType.PDFA2_or_A3u**
+
+
+### PDF/A4
+
+PDF/A4 gets rid of the **a**, **b** and **u** variants in the previous PDF/A releases. But it introduces two new variants: **f** and **e**.
+
+* **e** is used for engineering, and none of the things that it adds apply to exporting, so we don't generate **e** files specifically. Still, any PDF/A4 file is also a PDF/A4e file.
+
+* **f** is used to embed files which are not PDF/As themselves. In a way, the difference between PDF/A4 and PDF/A4f is the same as the one between PDF/A2 and PDF/A3. FlexCel will automatically generate PDF/A4f files if you embed files in your PDF, or plain PDF/A4 files otherwise.
+
+> [!Note]
+> 
+> The automatic switch that FlexCel does between PDF/A4 and PDF/A4f when you embed a file means that if you embed a PDF/A file inside your PDF, the generated PDF will be PDF/A4f instead of plain PDF/A4. 
+> 
+> This is not incorrect, but you might also set the file to be a plain PDF/A4 if all embeds are PDF/A. If you want to do so, you can set [TFlexCelPdfExport.PdfSubType](~/api/FlexCel.Render/TFlexCelPdfExport/PdfSubType.md) to **PDFA4Only**. In that case, FlexCel will just set the file to PDF/A4. **It won't check that the embedded files are PDF/A or not, so it is up to you to ensure the files are correct**  
+
+
 ## Signing PDF Files
 
-FlexCel allows you to sign your PDF files with a certificate, so any change to the file will invalidate it. This is how a signature looks like in Acrobat DC:
+FlexCel allows you to sign your PDF files with a certificate, so any change to the file will invalidate it. This is how a signature looks like in Acrobat:
 
-<img alt = "acrobat sign panel" src = "../images/acrobat-sign-panel.png" width = "476" height = "361"/>
+<img alt = "acrobat sign panel" src = "../images/acrobat-sign-panel.png" width = "449" height = "381"/>
 
 
 > [!Important]
@@ -401,16 +422,40 @@ FlexCel allows you to sign your PDF files with a certificate, so any change to t
 
 It is also worth noting that users will still be able to see the generated files in Acrobat 5, 6 or 7, but they will get a warning when opening them and the signature will not validate.
 
-Concepts of signing are outside the scope of this document, but you can find a lot of information in signing in the Acrobat documentation or just in Internet. A good place to start might be:
-
-[http://msdn.microsoft.com/msdnmag/issues/07/03/NETSecurity](http://msdn.microsoft.com/msdnmag/issues/07/03/NETSecurity/)
+Concepts of signing are outside the scope of this document, but you can find a lot of information in signing in the Acrobat documentation or just in Internet.
 
 And you can look at the [Signing Pdfs](xref:Signing_Pdfs-Delphi) example to see how to sign a PDF with FlexCel.
+
+### Types of Signatures supported by FlexCel
+
+FlexCel supports `adbe.pkcs7.detached` and [PAdES-compliant](https://en.wikipedia.org/wiki/PAdES) (`ETSI.CAdES.detached`) signature standards. PAdES Baselines PAdES-B-B and PAdES-B-T are supported (the other two baselines require to sign after the document is completed, so they are better done with a dedicated tool)
+
+ * adbe.pkcs7.detached: Older, more widely supported standard.
+ * ETSI.CAdES.detached: Newer, more modern standard, required by EU.
+
+ To see how to choose between them, make sure to look at the [Signing Pdfs](xref:Signing_Pdfs-Delphi) example.
+
+#### Timestamped signatures (PAdES B-T)
+
+A `B-T` signature is a `B-B` signature plus a timestamp from a Time Stamping Authority (TSA). The timestamp proves *when* the document was signed, instead of the reader having to trust the clock of the machine that signed it.
+
+**FlexCel never connects to the internet by itself.** It creates the RFC 3161 request and reads the answer the TSA returns, but the code that actually talks to the TSA is yours: you write it and pass it to FlexCel in a `TPdfTimestampSettings` object when you create the signer factory. That way you can be sure that no part of FlexCel will ever reach the network unless you let it.
+
+Note that FlexCel has to reserve the space for the signature before it knows how big the timestamp is going to be, so the first document you sign will ask the TSA for one extra token in order to measure it. The size is remembered afterwards, and you can avoid even that first extra call by telling FlexCel the size if you already know it.
+
+
+#### Certifying and approval signatures
+
+By default, signing a document also **certifies** it: the signature says who is responsible for the document and which changes are allowed in it afterwards. Only the first signature of a document can certify it, and only one signature in a document can.
+
+Sometimes that is not what you want. An **approval** signature just says that whoever signed agrees with what the document says at that moment, and a document can have as many of them as you need. Set the `Certify` property of the signature to false to create an approval signature instead of a certifying one.
 
 
 ### Customizing the Signing Engine
 
 FlexCel comes with a built-in signing implementation, but it allows you to change it by your own in case you have a better signer implementation. 
+
+The main reason you might want to do that is that the built-in implementation signs with **CryptoAPI, so it works only in Windows**. To sign in other platforms you can write your own engine calling the native crypto functions of that platform, the same way FlexCel calls CryptoAPI in Windows.
 
 If you decide to create your own Signer class, you need to implement two simple abstract classes:
 
@@ -436,4 +481,4 @@ Other reason why recalculation might now work is because you are using [User def
 
 And the last common cause why FlexCel could fail to recalculate is if you have [linked files](xref:ApiDeveloperGuide#recalculating-linked-files) and you haven't set a [TWorkspace](~/api/FlexCel.Core/TWorkspace/index.md) object to calculate those links.
 
-FlexCel comes with a little utility, the demo “**[Validate Recalc](xref:Validate_Recalc-Delphi)**” that will allow you to check if all the formulas on an Excel file are ok to use. And of course you can use the code on this demo inside your own application to tell your users when they use a not supported formula.
+FlexCel comes with a little utility, the demo **[Validate Recalc](xref:Validate_Recalc-Delphi)** that will allow you to check if all the formulas on an Excel file are ok to use. And of course you can use the code on this demo inside your own application to tell your users when they use a not supported formula.

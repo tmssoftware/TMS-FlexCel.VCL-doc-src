@@ -3,7 +3,7 @@ uid: TUIPointF.Y
 description: TUIPointF.Y
 ---
 
-# TUIPointF.Y Property
+# TUIPointF\.Y Property
 
 Y coord\.
 

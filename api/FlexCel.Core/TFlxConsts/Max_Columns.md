@@ -3,7 +3,7 @@ uid: TFlxConsts.Max_Columns
 description: TFlxConsts.Max_Columns
 ---
 
-# TFlxConsts.Max_Columns Property
+# TFlxConsts\.Max\_Columns Property
 
 Maximum column in the spreadsheet\. \(0 based\)\.
 Note that this number is 1 less than the maximum column count, because this value is 0\-based\. You can use [MaxColCount](MaxColCount.md) to get the number of columns instead\.

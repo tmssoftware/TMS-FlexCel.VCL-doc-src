@@ -3,7 +3,7 @@ uid: ARGB.A
 description: ARGB.A
 ---
 
-# ARGB.A Property
+# ARGB\.A Property
 
 Alpha component, between 0 and 255\.
 

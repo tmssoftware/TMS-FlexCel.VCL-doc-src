@@ -3,7 +3,7 @@ uid: TExcelFile.PrintCopies
 description: TExcelFile.PrintCopies
 ---
 
-# TExcelFile.PrintCopies Property
+# TExcelFile\.PrintCopies Property
 
 Number of copies to print\.
 

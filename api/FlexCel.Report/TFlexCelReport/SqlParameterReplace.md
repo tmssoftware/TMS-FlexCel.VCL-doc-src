@@ -3,7 +3,7 @@ uid: TFlexCelReport.SqlParameterReplace
 description: TFlexCelReport.SqlParameterReplace
 ---
 
-# TFlexCelReport.SqlParameterReplace Property
+# TFlexCelReport\.SqlParameterReplace Property
 
 Format string for replacing the standard parameter names on DIRECT SQL commands\. You can leave it empty for ODBC, OLEDB or SQLSERVER databases\.
 See Also [SqlParametersType](SqlParametersType.md)

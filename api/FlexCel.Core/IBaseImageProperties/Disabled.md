@@ -3,7 +3,7 @@ uid: IBaseImageProperties.Disabled
 description: IBaseImageProperties.Disabled
 ---
 
-# IBaseImageProperties.Disabled Property
+# IBaseImageProperties\.Disabled Property
 
 If true, the object is disabled\.
 

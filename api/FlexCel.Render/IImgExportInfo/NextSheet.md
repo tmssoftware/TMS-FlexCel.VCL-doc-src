@@ -3,7 +3,7 @@ uid: IImgExportInfo.NextSheet
 description: IImgExportInfo.NextSheet
 ---
 
-# IImgExportInfo.NextSheet Property
+# IImgExportInfo\.NextSheet Property
 
 Sheet of the next page to print\.
 

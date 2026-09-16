@@ -328,7 +328,7 @@ If you name a sheet **<#=(Sheet2!A1)>** the sheet name will be replaced by whate
 
 #### Parameters
 
-* **file**: Filename to include. The path is relative to where the current template is. If you are inserting from a stream (for example from a database) you need to assign the GetInclude event. See [Templates In The Exe](xref:Templates_In_The_Exe-CPlusPlus) demo for more info.
+* **file**: Filename to include. The path is relative to where the current template is. If you are inserting from a stream (for example from a database) you need to assign the GetInclude event. See [Templates In The Exe](xref:Templates_In_The_Exe-Delphi) demo for more info.
 
 * **named range**: Named range on the included file that determines which cells will be included. If you leave this parameter empty, the full used range in the active sheet will be included.
 

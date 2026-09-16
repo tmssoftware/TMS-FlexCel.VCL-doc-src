@@ -3,7 +3,7 @@ uid: TFlexCelPreviewer.PageYSeparation
 description: TFlexCelPreviewer.PageYSeparation
 ---
 
-# TFlexCelPreviewer.PageYSeparation Property
+# TFlexCelPreviewer\.PageYSeparation Property
 
 Separation \(in display units\) between a page an the next\.
 

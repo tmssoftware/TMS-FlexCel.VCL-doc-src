@@ -3,7 +3,7 @@ uid: TBlipTransform.TransformType
 description: TBlipTransform.TransformType
 ---
 
-# TBlipTransform.TransformType Property
+# TBlipTransform\.TransformType Property
 
 The type of transformation\.
 

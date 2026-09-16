@@ -3,7 +3,7 @@ uid: TFlexCelPdfExportProgress.Page
 description: TFlexCelPdfExportProgress.Page
 ---
 
-# TFlexCelPdfExportProgress.Page Property
+# TFlexCelPdfExportProgress\.Page Property
 
 The page that is being written\.
 

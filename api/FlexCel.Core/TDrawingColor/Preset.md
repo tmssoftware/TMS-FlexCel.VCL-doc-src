@@ -3,7 +3,7 @@ uid: TDrawingColor.Preset
 description: TDrawingColor.Preset
 ---
 
-# TDrawingColor.Preset Property
+# TDrawingColor\.Preset Property
 
 Returns the color when this structure has a Preset color\.
 

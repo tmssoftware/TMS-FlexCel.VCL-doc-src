@@ -26,8 +26,8 @@ Use this event to provide font information for embedding\.
 
 |Name|Description|
 |---|---|
-|[FontData](FontData.md)|Return the full font file as a byte array here\.<br />|
 |[Applied](Applied.md)|Set Applied = false if the font is not being processed by the event\.<br />|
+|[FontData](FontData.md)|Return the full font file as a byte array here\.<br />|
 |[InputFont](InputFont.md)|The font for which you need to return the data\.<br />|
 
 

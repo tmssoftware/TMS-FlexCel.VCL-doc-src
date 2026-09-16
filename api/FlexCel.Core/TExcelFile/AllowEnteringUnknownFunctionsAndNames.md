@@ -3,7 +3,7 @@ uid: TExcelFile.AllowEnteringUnknownFunctionsAndNames
 description: TExcelFile.AllowEnteringUnknownFunctionsAndNames
 ---
 
-# TExcelFile.AllowEnteringUnknownFunctionsAndNames Property
+# TExcelFile\.AllowEnteringUnknownFunctionsAndNames Property
 
 Whenever you try to use an unknown function in a formula, like "=MYFUNCTION\(\)", FlexCel will raise an Exception\. Same happens with unknown names\.
 This is normally the expected behavior, so you don't enter a misspelled name by mistake, and you can add used defined function to FlexCel so it understands it\.

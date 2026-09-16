@@ -3,7 +3,7 @@ uid: TScRGBColor.B
 description: TScRGBColor.B
 ---
 
-# TScRGBColor.B Property
+# TScRGBColor\.B Property
 
 Blue component in the RGB space\. \(0\-255\)
 

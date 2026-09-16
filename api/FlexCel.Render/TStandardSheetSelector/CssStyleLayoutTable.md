@@ -3,7 +3,7 @@ uid: TStandardSheetSelector.CssStyleLayoutTable
 description: TStandardSheetSelector.CssStyleLayoutTable
 ---
 
-# TStandardSheetSelector.CssStyleLayoutTable Property
+# TStandardSheetSelector\.CssStyleLayoutTable Property
 
 Style to be applied to the layout table if [LayoutTable](LayoutTable.md) is true\.
 

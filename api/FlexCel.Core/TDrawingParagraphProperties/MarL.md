@@ -3,7 +3,7 @@ uid: TDrawingParagraphProperties.MarL
 description: TDrawingParagraphProperties.MarL
 ---
 
-# TDrawingParagraphProperties.MarL Property
+# TDrawingParagraphProperties\.MarL Property
 
 Specifies the left margin of the paragraph\.
 

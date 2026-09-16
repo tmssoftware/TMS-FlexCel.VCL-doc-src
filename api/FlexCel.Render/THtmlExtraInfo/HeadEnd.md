@@ -3,7 +3,7 @@ uid: THtmlExtraInfo.HeadEnd
 description: THtmlExtraInfo.HeadEnd
 ---
 
-# THtmlExtraInfo.HeadEnd Property
+# THtmlExtraInfo\.HeadEnd Property
 
 Extra strings to be added before the closing \</head> tag\.
 

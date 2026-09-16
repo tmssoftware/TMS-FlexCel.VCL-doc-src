@@ -3,7 +3,7 @@ uid: TUIImage.HeightInPoints
 description: TUIImage.HeightInPoints
 ---
 
-# TUIImage.HeightInPoints Property
+# TUIImage\.HeightInPoints Property
 
 Height of the image in Points \(1/72 of an inch\)
 

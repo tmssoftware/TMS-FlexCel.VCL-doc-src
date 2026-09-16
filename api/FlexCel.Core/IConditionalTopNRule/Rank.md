@@ -3,7 +3,7 @@ uid: IConditionalTopNRule.Rank
 description: IConditionalTopNRule.Rank
 ---
 
-# IConditionalTopNRule.Rank Property
+# IConditionalTopNRule\.Rank Property
 
 The value of N in Top\-N
 

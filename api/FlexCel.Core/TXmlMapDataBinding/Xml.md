@@ -3,7 +3,7 @@ uid: TXmlMapDataBinding.Xml
 description: TXmlMapDataBinding.Xml
 ---
 
-# TXmlMapDataBinding.Xml Property
+# TXmlMapDataBinding\.Xml Property
 
 Actual data defining the databinding\.
 

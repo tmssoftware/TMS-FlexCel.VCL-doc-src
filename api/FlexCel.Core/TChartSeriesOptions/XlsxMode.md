@@ -3,7 +3,7 @@ uid: TChartSeriesOptions.XlsxMode
 description: TChartSeriesOptions.XlsxMode
 ---
 
-# TChartSeriesOptions.XlsxMode Property
+# TChartSeriesOptions\.XlsxMode Property
 
 If true, the chart was created by an xlsx\-capable Excel version \(2007 or newer\) and so has different defaults\.
 For example, it will have different automatic colors for the series\.

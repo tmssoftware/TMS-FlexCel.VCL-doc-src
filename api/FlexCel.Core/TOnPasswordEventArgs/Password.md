@@ -3,7 +3,7 @@ uid: TOnPasswordEventArgs.Password
 description: TOnPasswordEventArgs.Password
 ---
 
-# TOnPasswordEventArgs.Password Property
+# TOnPasswordEventArgs\.Password Property
 
 The password needed to open the file\.
 

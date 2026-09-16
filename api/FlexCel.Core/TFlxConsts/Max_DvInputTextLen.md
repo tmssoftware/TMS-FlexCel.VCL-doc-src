@@ -3,7 +3,7 @@ uid: TFlxConsts.Max_DvInputTextLen
 description: TFlxConsts.Max_DvInputTextLen
 ---
 
-# TFlxConsts.Max_DvInputTextLen Property
+# TFlxConsts\.Max\_DvInputTextLen Property
 
 Maximum number of characters in an Input text for a Data Validation\.
 

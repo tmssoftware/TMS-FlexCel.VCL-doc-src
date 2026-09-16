@@ -3,7 +3,7 @@ uid: IThemeElements.ColorScheme
 description: IThemeElements.ColorScheme
 ---
 
-# IThemeElements.ColorScheme Property
+# IThemeElements\.ColorScheme Property
 
 Color Scheme in the theme\.
 

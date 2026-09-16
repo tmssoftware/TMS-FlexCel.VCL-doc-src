@@ -3,7 +3,7 @@ uid: TReportTag.StrAbsoluteReferences
 description: TReportTag.StrAbsoluteReferences
 ---
 
-# TReportTag.StrAbsoluteReferences Property
+# TReportTag\.StrAbsoluteReferences Property
 
 ABSOLUTEREFERENCES
 

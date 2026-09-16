@@ -3,7 +3,7 @@ uid: TFlxFormat.NotNullParentStyle
 description: TFlxFormat.NotNullParentStyle
 ---
 
-# TFlxFormat.NotNullParentStyle Property
+# TFlxFormat\.NotNullParentStyle Property
 
 This is similar to [ParentStyle](ParentStyle.md) but will return "Normal" when the parent is null\.
 

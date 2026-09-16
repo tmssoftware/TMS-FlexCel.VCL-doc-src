@@ -3,7 +3,7 @@ uid: TDrawingTextAttributes.Underline
 description: TDrawingTextAttributes.Underline
 ---
 
-# TDrawingTextAttributes.Underline Property
+# TDrawingTextAttributes\.Underline Property
 
 Specifies whether a run of text is formatted as underlined text\.  A null value means to use the parent's settings\.
 

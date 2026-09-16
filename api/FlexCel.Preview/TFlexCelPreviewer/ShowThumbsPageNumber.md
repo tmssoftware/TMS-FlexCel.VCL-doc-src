@@ -3,7 +3,7 @@ uid: TFlexCelPreviewer.ShowThumbsPageNumber
 description: TFlexCelPreviewer.ShowThumbsPageNumber
 ---
 
-# TFlexCelPreviewer.ShowThumbsPageNumber Property
+# TFlexCelPreviewer\.ShowThumbsPageNumber Property
 
 If true, the thumbnails will display the page number\. Note that this property only affects the thumbnails, not the main preview\.
 

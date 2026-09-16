@@ -3,7 +3,7 @@ uid: TDrawingParagraphProperties.IsEmpty
 description: TDrawingParagraphProperties.IsEmpty
 ---
 
-# TDrawingParagraphProperties.IsEmpty Property
+# TDrawingParagraphProperties\.IsEmpty Property
 
 Returns true if no members are set\.
 

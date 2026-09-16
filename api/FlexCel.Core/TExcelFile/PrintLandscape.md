@@ -3,7 +3,7 @@ uid: TExcelFile.PrintLandscape
 description: TExcelFile.PrintLandscape
 ---
 
-# TExcelFile.PrintLandscape Property
+# TExcelFile\.PrintLandscape Property
 
 If true, page will be printed landscape, else portrait\.
 

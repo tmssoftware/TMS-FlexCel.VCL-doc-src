@@ -3,7 +3,7 @@ uid: TDataConnectionOlapProperties.ServerFontColor
 description: TDataConnectionOlapProperties.ServerFontColor
 ---
 
-# TDataConnectionOlapProperties.ServerFontColor Property
+# TDataConnectionOlapProperties\.ServerFontColor Property
 
 When true a PivotTable based on OLAP source should format the data and aggregate cells in the PivotTable view using the font color from the OLAP source\.When false, OLAP server font colors are ignored, and standard formatting rules within the worksheet are followed\.
 

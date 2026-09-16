@@ -3,7 +3,7 @@ uid: TConditionalFormatDefDataBar.AxisPosition
 description: TConditionalFormatDefDataBar.AxisPosition
 ---
 
-# TConditionalFormatDefDataBar.AxisPosition Property
+# TConditionalFormatDefDataBar\.AxisPosition Property
 
 Position for the axis\.
 

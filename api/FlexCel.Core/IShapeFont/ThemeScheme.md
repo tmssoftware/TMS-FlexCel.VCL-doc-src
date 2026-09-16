@@ -3,7 +3,7 @@ uid: IShapeFont.ThemeScheme
 description: IShapeFont.ThemeScheme
 ---
 
-# IShapeFont.ThemeScheme Property
+# IShapeFont\.ThemeScheme Property
 
 Scheme used in the theme\.
 

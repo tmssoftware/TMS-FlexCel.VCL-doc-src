@@ -3,7 +3,7 @@ uid: TExcelFile.ObjectCount
 description: TExcelFile.ObjectCount
 ---
 
-# TExcelFile.ObjectCount Property
+# TExcelFile\.ObjectCount Property
 
 Count of all graphical objects on the sheet\. They can be charts, images, shapes, etc\.
 

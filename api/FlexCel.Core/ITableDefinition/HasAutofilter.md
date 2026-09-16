@@ -3,7 +3,7 @@ uid: ITableDefinition.HasAutofilter
 description: ITableDefinition.HasAutofilter
 ---
 
-# ITableDefinition.HasAutofilter Property
+# ITableDefinition\.HasAutofilter Property
 
 If true, the table has an autofilter\.
 

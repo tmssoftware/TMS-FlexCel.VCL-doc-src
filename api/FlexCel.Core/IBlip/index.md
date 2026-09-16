@@ -25,11 +25,11 @@ Picture and properties used in a Blip fill\.
 
 |Name|Description|
 |---|---|
-|[CompressionState](CompressionState.md)|Specifies the compression state with which the picture is stored\. This allows the  application to specify the amount of compression that has been applied to a picture\.<br />|
-|[PictureData](PictureData.md)|Image data\.<br />|
-|[ImageFileName](ImageFileName.md)|File name which will be used when saving the file inside the xlsx container\.<br />|
-|[ContentType](ContentType.md)|Content type for the image, like "image/jpeg"\.<br />|
 |[BStorePos](BStorePos.md)|Position of the image in the image store\. Internal use\.<br />|
+|[CompressionState](CompressionState.md)|Specifies the compression state with which the picture is stored\. This allows the  application to specify the amount of compression that has been applied to a picture\.<br />|
+|[ContentType](ContentType.md)|Content type for the image, like "image/jpeg"\.<br />|
+|[ImageFileName](ImageFileName.md)|File name which will be used when saving the file inside the xlsx container\.<br />|
+|[PictureData](PictureData.md)|Image data\.<br />|
 |[SVGBlip](SVGBlip.md)|If the blip contains an SVG image, then the actual data of the SVG image is here\. In this case, PictureData contains a PNG render of the SVG image\.<br />|
 
 

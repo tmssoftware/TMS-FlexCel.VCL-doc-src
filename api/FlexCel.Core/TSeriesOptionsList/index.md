@@ -25,8 +25,8 @@ A list of options for the whole series and for specific data points inside these
 
 |Name|Description|
 |---|---|
-|[GetEnumerator](GetEnumerator.md)|Gets the enumerator for this class\.<br />|
 |[Add](Add.md)|Adds a new option to the list\. If the option is null, nothing will be done\.<br />|
+|[GetEnumerator](GetEnumerator.md)|Gets the enumerator for this class\.<br />|
 |[GetValues](GetValues.md)|Gets all the values of the series\.<br />|
 
 

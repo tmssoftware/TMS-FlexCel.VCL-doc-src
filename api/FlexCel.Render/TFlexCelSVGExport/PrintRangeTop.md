@@ -3,7 +3,7 @@ uid: TFlexCelSVGExport.PrintRangeTop
 description: TFlexCelSVGExport.PrintRangeTop
 ---
 
-# TFlexCelSVGExport.PrintRangeTop Property
+# TFlexCelSVGExport\.PrintRangeTop Property
 
 First row to print \(1 based\)\. if this or any other PrintRange property is 0, the range will be automatically calculated\.
 

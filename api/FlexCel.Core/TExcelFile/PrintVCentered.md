@@ -3,7 +3,7 @@ uid: TExcelFile.PrintVCentered
 description: TExcelFile.PrintVCentered
 ---
 
-# TExcelFile.PrintVCentered Property
+# TExcelFile\.PrintVCentered Property
 
 When true the sheet will print vertically centered on the page\.
 

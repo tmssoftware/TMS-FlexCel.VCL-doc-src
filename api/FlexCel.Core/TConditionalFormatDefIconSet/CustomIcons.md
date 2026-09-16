@@ -3,7 +3,7 @@ uid: TConditionalFormatDefIconSet.CustomIcons
 description: TConditionalFormatDefIconSet.CustomIcons
 ---
 
-# TConditionalFormatDefIconSet.CustomIcons Property
+# TConditionalFormatDefIconSet\.CustomIcons Property
 
 Use this property to mix and match icons from different iconsets\. If null, then only the standard icons from the set will be used\.
 

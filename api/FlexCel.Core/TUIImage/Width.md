@@ -3,7 +3,7 @@ uid: TUIImage.Width
 description: TUIImage.Width
 ---
 
-# TUIImage.Width Property
+# TUIImage\.Width Property
 
 Width of the image in device\-dependent pixels\.
 

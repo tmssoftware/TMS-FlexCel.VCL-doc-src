@@ -3,7 +3,7 @@ uid: TDataConnectionTables.Count
 description: TDataConnectionTables.Count
 ---
 
-# TDataConnectionTables.Count Property
+# TDataConnectionTables\.Count Property
 
 Count of available tables\.
 

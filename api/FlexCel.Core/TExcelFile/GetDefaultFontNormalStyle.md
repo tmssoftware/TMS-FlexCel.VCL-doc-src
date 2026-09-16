@@ -3,7 +3,7 @@ uid: TExcelFile.GetDefaultFontNormalStyle
 description: TExcelFile.GetDefaultFontNormalStyle
 ---
 
-# TExcelFile.GetDefaultFontNormalStyle Property
+# TExcelFile\.GetDefaultFontNormalStyle Property
 
 Returns Excel font for the "normal" style\. This style is used to draw the row and column headings\.
 

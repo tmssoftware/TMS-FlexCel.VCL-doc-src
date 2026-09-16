@@ -3,7 +3,7 @@ uid: IShapeProperties.Visible
 description: IShapeProperties.Visible
 ---
 
-# IShapeProperties.Visible Property
+# IShapeProperties\.Visible Property
 
 True if the shape is visible\.
 

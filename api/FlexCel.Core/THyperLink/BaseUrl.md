@@ -3,7 +3,7 @@ uid: THyperLink.BaseUrl
 description: THyperLink.BaseUrl
 ---
 
-# THyperLink.BaseUrl Property
+# THyperLink\.BaseUrl Property
 
 Base Url that must be combined with Text\. This only happens if the file has a LinkBase property set\.
 

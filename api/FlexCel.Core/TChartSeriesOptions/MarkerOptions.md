@@ -3,7 +3,7 @@ uid: TChartSeriesOptions.MarkerOptions
 description: TChartSeriesOptions.MarkerOptions
 ---
 
-# TChartSeriesOptions.MarkerOptions Property
+# TChartSeriesOptions\.MarkerOptions Property
 
 Color and shape of the markers on Line and Scatter charts\.
 

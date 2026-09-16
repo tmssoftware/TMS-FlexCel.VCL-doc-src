@@ -3,7 +3,7 @@ uid: IChartPlotArea.LayoutAsExcel2003
 description: IChartPlotArea.LayoutAsExcel2003
 ---
 
-# IChartPlotArea.LayoutAsExcel2003 Property
+# IChartPlotArea\.LayoutAsExcel2003 Property
 
 When this property is true, this file was saved with Excel 2003 or older, and the layout of the chart is different\.
 FlexCel uses this property to correctly render charts saved with Excel versions newer or older than Excel 2003\.

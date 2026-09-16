@@ -25,13 +25,13 @@ Properties for an Excel sheet\.
 
 |Name|Description|
 |---|---|
+|[GetAllCustom&#8203;Properties](GetAllCustomProperties.md)|Returns a list of all the names of custom properties in the file\.<br />|
+|[GetCustomProperty](GetCustomProperty.md)|Returns a custom property with a given name\.<br />|
 |[GetStandardProperty](GetStandardProperty.md)|Returns a standard document property \(Like Author, Title, etc\.\)\. This method returns an object that might be:[...[more]](GetStandardProperty.md)|
 |[GetUsedStandard&#8203;Properties](GetUsedStandardProperties.md)|Returns a list of all the standard properties that are set\.<br />|
-|[SetStandardProperty](SetStandardProperty.md)|This method only works in **xlsx** files\. It will set the standard property with the given Id to the specified value\. Set the value to null or empty to clear the property\.<br />|
-|[GetCustomProperty](GetCustomProperty.md)|Returns a custom property with a given name\.<br />|
-|[SetCustomProperty](SetCustomProperty.md)|This method only works in **xlsx** files\. Sets a custom property with a given name\. Set the value to null or empty string to remove the property\.<br />|
-|[GetAllCustom&#8203;Properties](GetAllCustomProperties.md)|Returns a list of all the names of custom properties in the file\.<br />|
 |[RemoveAllProperties](RemoveAllProperties.md)|This method will remove all document properties of the file\. You can use it to be sure you aren't embedding any confidential information on the properties\.<br />|
+|[SetCustomProperty](SetCustomProperty.md)|This method only works in **xlsx** files\. Sets a custom property with a given name\. Set the value to null or empty string to remove the property\.<br />|
+|[SetStandardProperty](SetStandardProperty.md)|This method only works in **xlsx** files\. It will set the standard property with the given Id to the specified value\. Set the value to null or empty to clear the property\.<br />|
 
 
 ## Properties

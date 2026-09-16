@@ -3,9 +3,9 @@ uid: TPdfSignature.AllowedChanges
 description: TPdfSignature.AllowedChanges
 ---
 
-# TPdfSignature.AllowedChanges Property
+# TPdfSignature\.AllowedChanges Property
 
-Specifies which changes are allowed in the signed pdf\.
+Specifies which changes are allowed in the signed pdf\. It is only used when [Certify](Certify.md) is true: an approval signature doesn't declare any policy\.
 
 
 ## Syntax

@@ -3,7 +3,7 @@ uid: IChartAxis.CategoryAxis
 description: IChartAxis.CategoryAxis
 ---
 
-# IChartAxis.CategoryAxis Property
+# IChartAxis\.CategoryAxis Property
 
 Returns information about the Category Axis \(X\-Axis on a non rotated chart\)\. Note that this might be a [TValueAxis](../TValueAxis/index.md) axis for scatter charts, or a [TCategoryAxis](../TCategoryAxis/index.md) for line or bar charts\.
 

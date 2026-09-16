@@ -3,7 +3,7 @@ uid: TChartSeriesOptions.FillOptions
 description: TChartSeriesOptions.FillOptions
 ---
 
-# TChartSeriesOptions.FillOptions Property
+# TChartSeriesOptions\.FillOptions Property
 
 Fill options for the series or point\.
 

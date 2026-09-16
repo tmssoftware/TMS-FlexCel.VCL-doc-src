@@ -3,7 +3,7 @@ uid: THyperLink.Hint
 description: THyperLink.Hint
 ---
 
-# THyperLink.Hint Property
+# THyperLink\.Hint Property
 
 Hint when the mouse hovers over the hyperlink\.
 

@@ -3,7 +3,7 @@ uid: TDocumentCustomProperty.PropTypeStr
 description: TDocumentCustomProperty.PropTypeStr
 ---
 
-# TDocumentCustomProperty.PropTypeStr Property
+# TDocumentCustomProperty\.PropTypeStr Property
 
 Used for unknown prop types, it handles the string with the name\. You shouldn't need to use this\.
 

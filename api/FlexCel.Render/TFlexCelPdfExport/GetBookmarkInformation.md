@@ -3,7 +3,7 @@ uid: TFlexCelPdfExport.GetBookmarkInformation
 description: TFlexCelPdfExport.GetBookmarkInformation
 ---
 
-# TFlexCelPdfExport.GetBookmarkInformation Event
+# TFlexCelPdfExport\.GetBookmarkInformation Event
 
 Use this event to customize what goes inside the bookmarks when exporting multiple sheets of an xls file\.
 
@@ -12,7 +12,7 @@ Use this event to customize what goes inside the bookmarks when exporting multip
 
 **Unit:** [FlexCel.Render](../index.md)
 
-<pre><code class="lang-delphi hljs">property <a href="../TFlexCelPdfExport/index.md">TFlexCelPdfExport</a>.GetBookmarkInformation: TGetBookmarkInformationEventHandler</code></pre>
+<pre><code class="lang-delphi hljs">property <a href="../TFlexCelPdfExport/index.md">TFlexCelPdfExport</a>.GetBookmarkInformation: <a href="../TGetBookmarkInformationEventHandler.md">TGetBookmarkInformationEventHandler</a></code></pre>
 
 ## See also
 

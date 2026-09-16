@@ -3,7 +3,7 @@ uid: TDrawingParagraphProperties.Algn
 description: TDrawingParagraphProperties.Algn
 ---
 
-# TDrawingParagraphProperties.Algn Property
+# TDrawingParagraphProperties\.Algn Property
 
 Specifies the alignment that is to be applied to the paragraph\.
 

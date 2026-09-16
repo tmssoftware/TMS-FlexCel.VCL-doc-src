@@ -3,7 +3,7 @@ uid: TThemeTextFont.Pitch
 description: TThemeTextFont.Pitch
 ---
 
-# TThemeTextFont.Pitch Property
+# TThemeTextFont\.Pitch Property
 
 Specifies the font pitch as well as the font family for the corresponding font\.
 

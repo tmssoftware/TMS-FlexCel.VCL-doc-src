@@ -3,7 +3,7 @@ uid: TProtection.HasSheetPassword
 description: TProtection.HasSheetPassword
 ---
 
-# TProtection.HasSheetPassword Property
+# TProtection\.HasSheetPassword Property
 
 Returns true if the active sheet is protected with a password\.
 

@@ -3,7 +3,7 @@ uid: ITokenList.Count
 description: ITokenList.Count
 ---
 
-# ITokenList.Count Property
+# ITokenList\.Count Property
 
 The number of tokens in the list\.
 

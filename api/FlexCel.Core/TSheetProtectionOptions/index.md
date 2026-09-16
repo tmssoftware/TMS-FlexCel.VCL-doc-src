@@ -18,22 +18,22 @@ Options for protecting a sheet\.
 
 |Name|Description|
 |---|---|
-|[Contents](Contents.md)|Sheet contents are protected|
-|[Objects](Objects.md)|If TRUE, objects on the sheet are protected\. Note that this setting behaves like [Scenarios](Scenarios.md) and opposite from all the rest\.<br />In the other settings, FALSE means that the setting is protected, TRUE that the setting can be changed\.<br />|
-|[Scenarios](Scenarios.md)|If TRUE, scenarios on the sheet are protected\. Note that this setting behaves like [Objects](Objects.md) and opposite from all the rest\.<br />In the other settings, FALSE means that the setting is protected, TRUE that the setting can be changed\.<br />|
 |[CellFormatting](CellFormatting.md)|If TRUE, users are allowed to change this setting\. Set it to FALSE to disable this property\. Only on Excel >= XP\.|
 |[ColumnFormatting](ColumnFormatting.md)|If TRUE, users are allowed to change this setting\. Set it to FALSE to disable this property\. Only on Excel >= XP\.|
-|[RowFormatting](RowFormatting.md)|If TRUE, users are allowed to change this setting\. Set it to FALSE to disable this property\. Only on Excel >= XP\.|
-|[InsertColumns](InsertColumns.md)|If TRUE, users are allowed to change this setting\. Set it to FALSE to disable this property\. Only on Excel >= XP\.|
-|[InsertRows](InsertRows.md)|If TRUE, users are allowed to change this setting\. Set it to FALSE to disable this property\. Only on Excel >= XP\.|
-|[InsertHyperlinks](InsertHyperlinks.md)|If TRUE, users are allowed to change this setting\. Set it to FALSE to disable this property\. Only on Excel >= XP\.|
+|[Contents](Contents.md)|Sheet contents are protected|
 |[DeleteColumns](DeleteColumns.md)|If TRUE, users are allowed to change this setting\. Set it to FALSE to disable this property\. Only on Excel >= XP\.|
 |[DeleteRows](DeleteRows.md)|If TRUE, users are allowed to change this setting\. Set it to FALSE to disable this property\. Only on Excel >= XP\.|
-|[SelectLockedCells](SelectLockedCells.md)|If TRUE, users are allowed to change this setting\. Set it to FALSE to disable this property\. Only on Excel >= XP\.|
-|[SortCellRange](SortCellRange.md)|If TRUE, users are allowed to change this setting\. Set it to FALSE to disable this property\. Only on Excel >= XP\.|
 |[EditAutoFilters](EditAutoFilters.md)|If TRUE, users are allowed to change this setting\. Set it to FALSE to disable this property\. Only on Excel >= XP\.|
 |[EditPivotTables](EditPivotTables.md)|If TRUE, users are allowed to change this setting\. Set it to FALSE to disable this property\. Only on Excel >= XP\.|
+|[InsertColumns](InsertColumns.md)|If TRUE, users are allowed to change this setting\. Set it to FALSE to disable this property\. Only on Excel >= XP\.|
+|[InsertHyperlinks](InsertHyperlinks.md)|If TRUE, users are allowed to change this setting\. Set it to FALSE to disable this property\. Only on Excel >= XP\.|
+|[InsertRows](InsertRows.md)|If TRUE, users are allowed to change this setting\. Set it to FALSE to disable this property\. Only on Excel >= XP\.|
+|[Objects](Objects.md)|If TRUE, objects on the sheet are protected\. Note that this setting behaves like [Scenarios](Scenarios.md) and opposite from all the rest\.<br />In the other settings, FALSE means that the setting is protected, TRUE that the setting can be changed\.<br />|
+|[RowFormatting](RowFormatting.md)|If TRUE, users are allowed to change this setting\. Set it to FALSE to disable this property\. Only on Excel >= XP\.|
+|[Scenarios](Scenarios.md)|If TRUE, scenarios on the sheet are protected\. Note that this setting behaves like [Objects](Objects.md) and opposite from all the rest\.<br />In the other settings, FALSE means that the setting is protected, TRUE that the setting can be changed\.<br />|
+|[SelectLockedCells](SelectLockedCells.md)|If TRUE, users are allowed to change this setting\. Set it to FALSE to disable this property\. Only on Excel >= XP\.|
 |[SelectUnlockedCells](SelectUnlockedCells.md)|If TRUE, users are allowed to change this setting\. Set it to FALSE to disable this property\. Only on Excel >= XP\.|
+|[SortCellRange](SortCellRange.md)|If TRUE, users are allowed to change this setting\. Set it to FALSE to disable this property\. Only on Excel >= XP\.|
 
 
 ## Methods

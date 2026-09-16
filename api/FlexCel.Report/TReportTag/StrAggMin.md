@@ -3,7 +3,7 @@ uid: TReportTag.StrAggMin
 description: TReportTag.StrAggMin
 ---
 
-# TReportTag.StrAggMin Property
+# TReportTag\.StrAggMin Property
 
 "Min"
 

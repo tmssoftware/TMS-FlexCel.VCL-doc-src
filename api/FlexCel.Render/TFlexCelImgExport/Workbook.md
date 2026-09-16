@@ -3,7 +3,7 @@ uid: TFlexCelImgExport.Workbook
 description: TFlexCelImgExport.Workbook
 ---
 
-# TFlexCelImgExport.Workbook Property
+# TFlexCelImgExport\.Workbook Property
 
 The ExcelFile to print\.
 

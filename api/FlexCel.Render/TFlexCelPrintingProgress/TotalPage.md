@@ -3,7 +3,7 @@ uid: TFlexCelPrintingProgress.TotalPage
 description: TFlexCelPrintingProgress.TotalPage
 ---
 
-# TFlexCelPrintingProgress.TotalPage Property
+# TFlexCelPrintingProgress\.TotalPage Property
 
 The total number of pages exporting\.
 

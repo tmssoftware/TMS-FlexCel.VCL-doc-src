@@ -3,7 +3,7 @@ uid: TDataBarColors.BorderColor
 description: TDataBarColors.BorderColor
 ---
 
-# TDataBarColors.BorderColor Property
+# TDataBarColors\.BorderColor Property
 
 Border color for the bar\.
 

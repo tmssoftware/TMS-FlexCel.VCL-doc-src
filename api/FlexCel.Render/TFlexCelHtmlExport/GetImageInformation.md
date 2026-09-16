@@ -3,7 +3,7 @@ uid: TFlexCelHtmlExport.GetImageInformation
 description: TFlexCelHtmlExport.GetImageInformation
 ---
 
-# TFlexCelHtmlExport.GetImageInformation Event
+# TFlexCelHtmlExport\.GetImageInformation Event
 
 Use this event to customize where to save the images when exporting to HTML\.
 
@@ -12,7 +12,7 @@ Use this event to customize where to save the images when exporting to HTML\.
 
 **Unit:** [FlexCel.Render](../index.md)
 
-<pre><code class="lang-delphi hljs">property <a href="../TFlexCelHtmlExport/index.md">TFlexCelHtmlExport</a>.GetImageInformation: TImageInformationEventHandler</code></pre>
+<pre><code class="lang-delphi hljs">property <a href="../TFlexCelHtmlExport/index.md">TFlexCelHtmlExport</a>.GetImageInformation: <a href="../TImageInformationEventHandler.md">TImageInformationEventHandler</a></code></pre>
 
 ## See also
 

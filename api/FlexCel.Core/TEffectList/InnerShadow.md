@@ -3,7 +3,7 @@ uid: TEffectList.InnerShadow
 description: TEffectList.InnerShadow
 ---
 
-# TEffectList.InnerShadow Property
+# TEffectList\.InnerShadow Property
 
 Inner shadow effect\.
 

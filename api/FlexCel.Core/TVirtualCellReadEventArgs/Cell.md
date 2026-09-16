@@ -3,7 +3,7 @@ uid: TVirtualCellReadEventArgs.Cell
 description: TVirtualCellReadEventArgs.Cell
 ---
 
-# TVirtualCellReadEventArgs.Cell Property
+# TVirtualCellReadEventArgs\.Cell Property
 
 Value and position of a cell\.
 

@@ -3,7 +3,7 @@ uid: TChartTrendlineLabel.SourceLinked
 description: TChartTrendlineLabel.SourceLinked
 ---
 
-# TChartTrendlineLabel.SourceLinked Property
+# TChartTrendlineLabel\.SourceLinked Property
 
 If true, the format of the source is linked to the label\.
 

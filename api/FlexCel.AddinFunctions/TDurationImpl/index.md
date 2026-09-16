@@ -26,7 +26,7 @@ Returns the \[modified\] Macauley duration for a security with an assumed par va
 
 |Name|Description|
 |---|---|
-|[Evaluate](Evaluate.md)|Evaluates the DURATION/MDURATION function\. Look At Excel docs for parameters\.<br />|
 |[Calc](Calc.md)|Duration/MDuration implementation\. You can call this method on its own\.<br />|
+|[Evaluate](Evaluate.md)|Evaluates the DURATION/MDURATION function\. Look At Excel docs for parameters\.<br />|
 
 

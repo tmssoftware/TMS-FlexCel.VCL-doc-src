@@ -3,7 +3,7 @@ uid: TXlsFile.TableCountInSheet
 description: TXlsFile.TableCountInSheet
 ---
 
-# TXlsFile.TableCountInSheet Property
+# TXlsFile\.TableCountInSheet Property
 
 Returns the number of tables in the active sheet\. Use [TExcelFile.GetTable\(Integer\)](../../FlexCel.Core/TExcelFile/GetTable.md#texcelfilegettableinteger) to retrieve the tables in the sheet\.
 

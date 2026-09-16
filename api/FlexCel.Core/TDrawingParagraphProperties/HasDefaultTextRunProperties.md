@@ -3,7 +3,7 @@ uid: TDrawingParagraphProperties.HasDefaultTextRunProperties
 description: TDrawingParagraphProperties.HasDefaultTextRunProperties
 ---
 
-# TDrawingParagraphProperties.HasDefaultTextRunProperties Property
+# TDrawingParagraphProperties\.HasDefaultTextRunProperties Property
 
 Returns true if the paragraph has defined [DefaultTextRunProperties](DefaultTextRunProperties.md) even if it is empty\.
 

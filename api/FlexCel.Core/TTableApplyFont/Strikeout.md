@@ -3,7 +3,7 @@ uid: TTableApplyFont.Strikeout
 description: TTableApplyFont.Strikeout
 ---
 
-# TTableApplyFont.Strikeout Property
+# TTableApplyFont\.Strikeout Property
 
 If true, the strikeout style of the font will be used\.
 

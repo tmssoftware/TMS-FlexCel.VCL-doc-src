@@ -3,7 +3,7 @@ uid: IDataLabel.NumberFormatLinkedToSource
 description: IDataLabel.NumberFormatLinkedToSource
 ---
 
-# IDataLabel.NumberFormatLinkedToSource Property
+# IDataLabel\.NumberFormatLinkedToSource Property
 
 True if the format for the numbers on this label is linked to the format in the cells in the spreadsheet\.
 

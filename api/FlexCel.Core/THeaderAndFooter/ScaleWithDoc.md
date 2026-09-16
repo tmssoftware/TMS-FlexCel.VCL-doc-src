@@ -3,7 +3,7 @@ uid: THeaderAndFooter.ScaleWithDoc
 description: THeaderAndFooter.ScaleWithDoc
 ---
 
-# THeaderAndFooter.ScaleWithDoc Property
+# THeaderAndFooter\.ScaleWithDoc Property
 
 Determines if to scale header and footer with document scaling or not\.
 

@@ -3,7 +3,7 @@ uid: TExcelFile.HyperLinkCount
 description: TExcelFile.HyperLinkCount
 ---
 
-# TExcelFile.HyperLinkCount Property
+# TExcelFile\.HyperLinkCount Property
 
 The count of hyperlinks on the active sheet
 

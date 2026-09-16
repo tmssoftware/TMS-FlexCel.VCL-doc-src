@@ -3,7 +3,7 @@ uid: IXmlMap.SelectionNamespaces
 description: IXmlMap.SelectionNamespaces
 ---
 
-# IXmlMap.SelectionNamespaces Property
+# IXmlMap\.SelectionNamespaces Property
 
 Ties the prefix to the actual namespace\. This is used when writing xpath expressions at runtime against the XML instance structures, because the xpath expressions use namespace prefixes instead of the fully spelled out namespace\.
 

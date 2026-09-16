@@ -3,7 +3,7 @@ uid: TReportTag.StrStaticInclude
 description: TReportTag.StrStaticInclude
 ---
 
-# TReportTag.StrStaticInclude Property
+# TReportTag\.StrStaticInclude Property
 
 "Static"
 

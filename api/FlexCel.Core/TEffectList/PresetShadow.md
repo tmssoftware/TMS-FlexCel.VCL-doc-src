@@ -3,7 +3,7 @@ uid: TEffectList.PresetShadow
 description: TEffectList.PresetShadow
 ---
 
-# TEffectList.PresetShadow Property
+# TEffectList\.PresetShadow Property
 
 Preset shadow effect\.
 

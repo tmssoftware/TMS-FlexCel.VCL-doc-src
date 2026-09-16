@@ -3,7 +3,7 @@ uid: TDrawingPathGradient.FillToRect
 description: TDrawingPathGradient.FillToRect
 ---
 
-# TDrawingPathGradient.FillToRect Property
+# TDrawingPathGradient\.FillToRect Property
 
 This element defines the "focus" rectangle for the center shade, specified relative to the fill tile rectangle\.
 

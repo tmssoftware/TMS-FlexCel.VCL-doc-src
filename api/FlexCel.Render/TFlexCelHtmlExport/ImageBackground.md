@@ -3,7 +3,7 @@ uid: TFlexCelHtmlExport.ImageBackground
 description: TFlexCelHtmlExport.ImageBackground
 ---
 
-# TFlexCelHtmlExport.ImageBackground Property
+# TFlexCelHtmlExport\.ImageBackground Property
 
 When this property is set to TUIColor\.Empty \(the default\), images will be rendered with a transparent background\.
 While this is the normal behavior, sometimes you might not want transparent images \(for example to support Internet Explorer 6 without setting [FixIE6TransparentPngSupport](FixIE6TransparentPngSupport.md) to true\), and then you could use Colors\.White here\.

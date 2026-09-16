@@ -3,7 +3,7 @@ uid: TDrawingTextAttributes.Kern
 description: TDrawingTextAttributes.Kern
 ---
 
-# TDrawingTextAttributes.Kern Property
+# TDrawingTextAttributes\.Kern Property
 
 Specifies the minimum font size at which character kerning occurs for this text run\.
 Whole points are specified in increments of 100 starting with 100 being a point size of 1\.

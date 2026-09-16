@@ -35,7 +35,7 @@ Border style and color for one of the 4 sides of a cell\.
 
 |Name|Description|
 |---|---|
-|[Style](Style.md)|Border style\.<br />|
 |[Color](Color.md)|Color of the border\.<br />|
+|[Style](Style.md)|Border style\.<br />|
 
 

@@ -3,7 +3,7 @@ uid: TReportTag.StrInRow
 description: TReportTag.StrInRow
 ---
 
-# TReportTag.StrInRow Property
+# TReportTag\.StrInRow Property
 
 "InRow"
 

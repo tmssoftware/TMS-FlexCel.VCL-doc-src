@@ -3,7 +3,7 @@ uid: TExcelFile.ChartCount
 description: TExcelFile.ChartCount
 ---
 
-# TExcelFile.ChartCount Property
+# TExcelFile\.ChartCount Property
 
 Returns the count of charts on this sheet\. Please take note that this method **will not return the number of embedded objects with charts inside in a sheet, but just the number of charts in the sheet\.**
 In simpler terms, this method will return 0 for all worksheets, and 1 for all chart sheets\.

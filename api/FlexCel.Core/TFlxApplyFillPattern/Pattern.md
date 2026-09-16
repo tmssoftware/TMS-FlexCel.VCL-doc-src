@@ -3,7 +3,7 @@ uid: TFlxApplyFillPattern.Pattern
 description: TFlxApplyFillPattern.Pattern
 ---
 
-# TFlxApplyFillPattern.Pattern Property
+# TFlxApplyFillPattern\.Pattern Property
 
 Fill style\.
 

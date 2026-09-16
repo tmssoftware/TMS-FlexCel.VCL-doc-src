@@ -3,7 +3,7 @@ uid: IPatternFill.BgColor
 description: IPatternFill.BgColor
 ---
 
-# IPatternFill.BgColor Property
+# IPatternFill\.BgColor Property
 
 Background color of a Pattern fill\.
 

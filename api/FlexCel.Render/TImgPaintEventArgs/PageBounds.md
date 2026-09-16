@@ -3,7 +3,7 @@ uid: TImgPaintEventArgs.PageBounds
 description: TImgPaintEventArgs.PageBounds
 ---
 
-# TImgPaintEventArgs.PageBounds Property
+# TImgPaintEventArgs\.PageBounds Property
 
 Gets the rectangle in which to paint\.
 

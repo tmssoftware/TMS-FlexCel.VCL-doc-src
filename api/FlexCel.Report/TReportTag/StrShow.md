@@ -3,7 +3,7 @@ uid: TReportTag.StrShow
 description: TReportTag.StrShow
 ---
 
-# TReportTag.StrShow Property
+# TReportTag\.StrShow Property
 
 "Show"
 

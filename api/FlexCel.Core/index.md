@@ -15,6 +15,7 @@ Core types and utilities used by FlexCel\.
 |[EFlexCelCore&#8203;Exception](EFlexCelCoreException/index.md)|Exception thrown when an exception on the core engine happens\.<br />|
 |[EFlexCelException](EFlexCelException/index.md)|Exception thrown when a specific FlexCel error happens\. Base of all FlexCel hierarchy list\.<br />|
 |[TAlphaModFix&#8203;Blip&#8203;Transform](TAlphaModFixBlipTransform/index.md)|Represents a transform that changes the opacity of the image\.<br />|
+|[TAsnEncodedData&#8203;Collection](TAsnEncodedDataCollection/index.md)|A list of [TAsnEncodedData](TAsnEncodedData/index.md)\.<br />|
 |[TAxisLineOptions](TAxisLineOptions/index.md)|Line options for an Axis\.<br />|
 |[TAxisRangeOptions](TAxisRangeOptions/index.md)|Properties for the ranges of an axis\.<br />|
 |[TAxisTickOptions](TAxisTickOptions/index.md)|Properties for the ticks and labels of an axis\.<br />|
@@ -46,6 +47,8 @@ Core types and utilities used by FlexCel\.
 |[TConditional&#8203;Format&#8203;Value&#8203;AndColor&#8203;List](TConditionalFormatValueAndColorList/index.md)|A list of conditional value objects with their corresponding colors\.<br />|
 |[TConditional&#8203;Format&#8203;Value&#8203;List](TConditionalFormatValueList/index.md)|A list of conditional value objects\.<br />|
 |[TConditional&#8203;Format&#8203;Value&#8203;Object](TConditionalFormatValueObject/index.md)|Describes an interpolation point in a gradient scale\.<br />|
+|[TCryptographic&#8203;Attribute&#8203;Object](TCryptographicAttributeObject/index.md)|An attribute that is signed together with the document, like the ESS signing\-&#8203;certificate\-&#8203;v2 attribute required by CAdES signatures\. It is a set of values sharing the same [TCryptographic&#8203;Attribute&#8203;Object.&#8203;Oid](TCryptographicAttributeObject/Oid.md)\.<br />|
+|[TCryptographic&#8203;Attribute&#8203;Object&#8203;Collection](TCryptographicAttributeObjectCollection/index.md)|A list of [TCryptographic&#8203;Attribute&#8203;Object](TCryptographicAttributeObject/index.md)\. It owns the attributes it contains, and will free them\.<br />|
 |[TCultureCreating&#8203;Event&#8203;Args](TCultureCreatingEventArgs/index.md)|Event when creating a culture\.<br />|
 |[TCustomTable&#8203;Style&#8203;Section](TCustomTableStyleSection/index.md)|Represents the format of a table section \(header, totals, etc\)\.<br />|
 |[TDataBarColors](TDataBarColors/index.md)|Colors which define the databar\.<br />|
@@ -178,6 +181,7 @@ Core types and utilities used by FlexCel\.
 |[Colors](Colors/index.md)|A list of standard colors\.<br />|
 |[TAdaptativeFormats](TAdaptativeFormats/index.md)|Information about characters in a numeric format that need to be adapted when rendering\. For example, if the cell A1 has value 1 and format "\*\_0" it will print as "\_\_\_\_\_\_1" when the cell is wide, and as "\_1" when the cell is shorter\.<br />|
 |[TAddress](TAddress/index.md)|Used to summarize a range of cells\. This class is for internal use\.<br />|
+|[TAsnEncodedData](TAsnEncodedData/index.md)|A DER encoded value, together with the [TOid](TOid/index.md) that says what the value means\.<br />|
 |[TAverageValue](TAverageValue/index.md)|This class is for internal use\. It is used to calculate an average over a range of cells\.<br />|
 |[TCachedFontWidth](TCachedFontWidth/index.md)|A font size cached for speed\.<br />|
 |[TCellAddress](TCellAddress/index.md)|Small class that can convert between a string reference \("A1"\) into row and col integers \(1,1\)\.<br />|
@@ -265,6 +269,7 @@ Core types and utilities used by FlexCel\.
 |[TLabColor](TLabColor/index.md)|Implements a simple representation of a color in CIE\-L\*a\*b\* colorspace\. This colorspace is mostly used for finding distances between colors\.<br />|
 |[TLineArrow](TLineArrow/index.md)|Describes an arrow at the end of a line\. This struct is immutable\.<br />|
 |[TLinkedStyle](TLinkedStyle/index.md)|This class is used as a part of a [TFlxFormat](TFlxFormat/index.md) class, and stores how a cell format is linked to a style\.<br />|
+|[TOid](TOid/index.md)|Holds an ASN\.1 object identifier, like "1\.&#8203;2\.&#8203;840\.&#8203;113549\.&#8203;1\.&#8203;9\.&#8203;16\.&#8203;2\.&#8203;47"&#8203;\.&#8203;<br />|
 |[TPaperDimensions](TPaperDimensions/index.md)|Dimensions of an Excel paper|
 |[TPrinterDriver&#8203;Settings](TPrinterDriverSettings/index.md)|Printer specific settings\. It is a byte array with a Win32 DEVMODE struct\.<br />|
 |[TProtectedRange](TProtectedRange/index.md)|Specifies a protected range in a sheet\. You can define those ranges in Excel 2007 by going to "Review" tab and selecting "Allow Users to Edit Ranges" In Excel 2003, they are available under "Menu\-&#8203;>Tools\-&#8203;>Protection"&#8203;\.&#8203;<br />|
@@ -293,7 +298,7 @@ Core types and utilities used by FlexCel\.
 |[TUIGradientStop](TUIGradientStop/index.md)|A structure describing a gradient point, with its color and position in the gradient\.<br />|
 |[TUIPointF](TUIPointF/index.md)|Platform independent point|
 |[TUIRectangle](TUIRectangle/index.md)|A platform independent rectangle\. Coordinates are floating point numbers\.<br />|
-|[TUISize](TUISize/index.md)|A platform independent Size structure\. Width and Height are floating point numbers\.<br />|
+|[TUISize](TUISize/index.md)|A platform\-&#8203;independent Size structure\. Width and Height are floating point numbers\.<br />|
 |[TUITextDecoration](TUITextDecoration/index.md)|Defines appearance of decorative lines used in text, like underline or strikeout\.<br />|
 |[TVirtualCellValue](TVirtualCellValue/index.md)|Represents a cell, including the row, column and sheet where it was read\.<br />|
 |[TWorkbookProtection&#8203;Options](TWorkbookProtectionOptions/index.md)|Options for protecting the workbook\.<br />|
@@ -474,7 +479,7 @@ Core types and utilities used by FlexCel\.
 |[TDrawingUnderline&#8203;Style](TDrawingUnderlineStyle.md)|Possible underline types in a drawing\.<br />|
 |[TDrawingValueType](TDrawingValueType.md)|Data that can be stored inside a [TDrawingValue](TDrawingValue/index.md)|
 |[TEncryptionAlgorithm](TEncryptionAlgorithm.md)|Encryption algorithms supported in xlsx encrypted files\.<br />|
-|[TEncryptionType](TEncryptionType.md)|How the file is encrypted\. This applies only to xls files\. Xlsx files are encrypted using the Agile xlsx encryption\.<br />|
+|[TEncryptionType](TEncryptionType.md)|How the file is encrypted\. This applies only to xls files\. Xlsx files are encrypted using the Agile xlsx encryption\.<br /><br /><br />**Security note:** All xls encryption modes are legacy compatibility options and should not be used for new confidential files\. Save as xlsx and use Agile xlsx encryption when the file must be protected\.<br /><br />|
 |[TEnterStyle](TEnterStyle.md)|Defines how characters will be converted when encoding a string as Html\.<br />|
 |[TEscherConnectorType](TEscherConnectorType.md)|The type of connector\.<br />|
 |[TExcelFileError&#8203;Actions](TExcelFileErrorActions.md)|Enumerates what to do on different FlexCel error situations\.<br />|
@@ -626,12 +631,12 @@ Core types and utilities used by FlexCel\.
 
 |Name|Description|
 |---|---|
+|[EncryptionFactory](EncryptionFactory.md)|Returns the encryption factory used by FlexCel\. You can use it to sign PDF files|
 |[FlexCelDllInit](FlexCelDllInit.md)|Use this method to initialize FlexCel when encapsulating it in a dll\.<br /><br /><br /><br />Note that you don't normally need to call this method, as FlexCel is initialized automatically\. But when you are hosting FlexCel inside a dll instead of the main application you need to call this method before calling the methods in the dll\. Currently, this method will just initialize GDI\+ when running in Windows, because GDI\+ can't be initialized from the dll itself\. When you use this method, always call [FlexCelDllShutdown](FlexCelDllShutdown.md) before closing your app\.<br /><br /><br />|
 |[FlexCelDllShutdown](FlexCelDllShutdown.md)|This method shutdowns FlexCel, and is designed to be used when you are using FlexCel inside a dll\. for more information, take a look at [FlexCelDllInit](FlexCelDllInit.md)\.<br />|
-|[TUISmoothing&#8203;Mode\_&#8203;FlexCel&#8203;Default](TUISmoothingMode_FlexCelDefault.md)|Default mode used by FlexCel\. You can change this value with TUIInterpolation&#8203;Mode\_&#8203;Set&#8203;FlexCel&#8203;Default\.&#8203;<br />|
 |[TUIInterpolation&#8203;Mode\_&#8203;FlexCel&#8203;Default](TUIInterpolationMode_FlexCelDefault.md)|Default mode used by FlexCel\. You can change this value with TUIInterpolation&#8203;Mode\_&#8203;Set&#8203;FlexCel&#8203;Default\.&#8203;<br />|
-|[TUISmoothing&#8203;Mode\_&#8203;Set&#8203;FlexCel&#8203;Default](TUISmoothingMode_SetFlexCelDefault.md)|Sets the default mode used by FlexCel\. You can change this in your application to change how FlexCel will render the images\.<br />|
 |[TUIInterpolation&#8203;Mode\_&#8203;Set&#8203;FlexCel&#8203;Default](TUIInterpolationMode_SetFlexCelDefault.md)|Sets the default mode used by FlexCel\. You can change this in your application to change how FlexCel will render the images\.<br />|
-|[EncryptionFactory](EncryptionFactory.md)|Returns the encryption factory used by FlexCel\. You can use it to sign PDF files|
+|[TUISmoothing&#8203;Mode\_&#8203;FlexCel&#8203;Default](TUISmoothingMode_FlexCelDefault.md)|Default mode used by FlexCel\. You can change this value with TUIInterpolation&#8203;Mode\_&#8203;Set&#8203;FlexCel&#8203;Default\.&#8203;<br />|
+|[TUISmoothing&#8203;Mode\_&#8203;Set&#8203;FlexCel&#8203;Default](TUISmoothingMode_SetFlexCelDefault.md)|Sets the default mode used by FlexCel\. You can change this in your application to change how FlexCel will render the images\.<br />|
 
 

@@ -3,7 +3,7 @@ uid: TBookmarkList.Item[const_index]
 description: TBookmarkList.Item[const index]
 ---
 
-# TBookmarkList.Item[const index] Property
+# TBookmarkList\.Item\[const index\] Property
 
 Returns item at position index on the list\.
 

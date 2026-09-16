@@ -3,7 +3,7 @@ uid: TFlexCelHtmlExport.ExtraInfo
 description: TFlexCelHtmlExport.ExtraInfo
 ---
 
-# TFlexCelHtmlExport.ExtraInfo Property
+# TFlexCelHtmlExport\.ExtraInfo Property
 
 Extra information to be added to the HTML file\.
 

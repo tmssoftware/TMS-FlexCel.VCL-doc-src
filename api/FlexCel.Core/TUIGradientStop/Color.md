@@ -3,7 +3,7 @@ uid: TUIGradientStop.Color
 description: TUIGradientStop.Color
 ---
 
-# TUIGradientStop.Color Property
+# TUIGradientStop\.Color Property
 
 Color for this stop in the gradient\.
 

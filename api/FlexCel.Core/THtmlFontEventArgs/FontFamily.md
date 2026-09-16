@@ -3,7 +3,7 @@ uid: THtmlFontEventArgs.FontFamily
 description: THtmlFontEventArgs.FontFamily
 ---
 
-# THtmlFontEventArgs.FontFamily Property
+# THtmlFontEventArgs\.FontFamily Property
 
 Use this property to return the new font you want for the cell, if you need to replace it\.
 Note that you can return more than one font here, and the format for this string is the format on a font selector "font\-family" in a CSS stylesheet\.

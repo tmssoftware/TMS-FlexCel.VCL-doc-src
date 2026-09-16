@@ -3,7 +3,7 @@ uid: IThemeFormatScheme.Name
 description: IThemeFormatScheme.Name
 ---
 
-# IThemeFormatScheme.Name Property
+# IThemeFormatScheme\.Name Property
 
 Name of the format definition\. This will be shown in Excel UI\.
 

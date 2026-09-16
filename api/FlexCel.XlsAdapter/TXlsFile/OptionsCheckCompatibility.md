@@ -3,7 +3,7 @@ uid: TXlsFile.OptionsCheckCompatibility
 description: TXlsFile.OptionsCheckCompatibility
 ---
 
-# TXlsFile.OptionsCheckCompatibility Property
+# TXlsFile\.OptionsCheckCompatibility Property
 
 Whether the "Check for compatibility" dialog will pop up when saving as xls in Excel 2007 or newer\.
 This option only applies to Excel 2007 or newer\.

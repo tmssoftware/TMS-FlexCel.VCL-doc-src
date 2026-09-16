@@ -3,7 +3,7 @@ uid: TDrawingParagraphProperties.DefaultTextRunProperties
 description: TDrawingParagraphProperties.DefaultTextRunProperties
 ---
 
-# TDrawingParagraphProperties.DefaultTextRunProperties Property
+# TDrawingParagraphProperties\.DefaultTextRunProperties Property
 
 Default text properties for the text inside a paragraph\.
 

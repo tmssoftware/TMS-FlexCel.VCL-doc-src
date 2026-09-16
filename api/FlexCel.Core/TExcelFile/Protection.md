@@ -3,7 +3,7 @@ uid: TExcelFile.Protection
 description: TExcelFile.Protection
 ---
 
-# TExcelFile.Protection Property
+# TExcelFile\.Protection Property
 
 Protection data for the file\. Modify its properties to open and read encrypted files\.
 

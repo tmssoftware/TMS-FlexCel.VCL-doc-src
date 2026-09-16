@@ -3,7 +3,7 @@ uid: TFillOverlayEffect.Blend
 description: TFillOverlayEffect.Blend
 ---
 
-# TFillOverlayEffect.Blend Property
+# TFillOverlayEffect\.Blend Property
 
 How the fill blends with the image\.
 

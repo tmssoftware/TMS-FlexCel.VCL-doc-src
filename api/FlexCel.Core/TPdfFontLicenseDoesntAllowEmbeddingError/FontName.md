@@ -3,7 +3,7 @@ uid: TPdfFontLicenseDoesntAllowEmbeddingError.FontName
 description: TPdfFontLicenseDoesntAllowEmbeddingError.FontName
 ---
 
-# TPdfFontLicenseDoesntAllowEmbeddingError.FontName Property
+# TPdfFontLicenseDoesntAllowEmbeddingError\.FontName Property
 
 Font whose license doesn't allow embedding\.
 

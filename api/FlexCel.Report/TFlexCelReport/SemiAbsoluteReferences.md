@@ -3,7 +3,7 @@ uid: TFlexCelReport.SemiAbsoluteReferences
 description: TFlexCelReport.SemiAbsoluteReferences
 ---
 
-# TFlexCelReport.SemiAbsoluteReferences Property
+# TFlexCelReport\.SemiAbsoluteReferences Property
 
 When this property is set to true, absolute references to cells inside bands being copied will be treated as relative\.
 This way, if you have "=$A$1" inside a band and cell A1 is also inside the band, it will change to A2,A3\.\.etc when the band is copied down\.

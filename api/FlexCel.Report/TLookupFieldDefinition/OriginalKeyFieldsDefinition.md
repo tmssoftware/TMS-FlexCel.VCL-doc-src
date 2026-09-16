@@ -3,7 +3,7 @@ uid: TLookupFieldDefinition.OriginalKeyFieldsDefinition
 description: TLookupFieldDefinition.OriginalKeyFieldsDefinition
 ---
 
-# TLookupFieldDefinition.OriginalKeyFieldsDefinition Property
+# TLookupFieldDefinition\.OriginalKeyFieldsDefinition Property
 
 The key fields definition as it is written in the lookup tag\. You will normally not need this data\.
 

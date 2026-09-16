@@ -3,7 +3,7 @@ uid: IExcelChart.Floor
 description: IExcelChart.Floor
 ---
 
-# IExcelChart.Floor Property
+# IExcelChart\.Floor Property
 
 The floor in a 3D\-chart\.
 

@@ -3,7 +3,7 @@ uid: TFlxFont.Size20
 description: TFlxFont.Size20
 ---
 
-# TFlxFont.Size20 Property
+# TFlxFont\.Size20 Property
 
 Height of the font \(in units of 1/20th of a point\)\. A Size20 = 200 means 10 points\.
 

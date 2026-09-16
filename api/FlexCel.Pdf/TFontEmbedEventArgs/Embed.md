@@ -3,7 +3,7 @@ uid: TFontEmbedEventArgs.Embed
 description: TFontEmbedEventArgs.Embed
 ---
 
-# TFontEmbedEventArgs.Embed Property
+# TFontEmbedEventArgs\.Embed Property
 
 Return true if you want to embed this font, false if you don't want to\. If you don't modify this value, the default will be used\.
 

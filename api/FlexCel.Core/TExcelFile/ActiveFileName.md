@@ -3,7 +3,7 @@ uid: TExcelFile.ActiveFileName
 description: TExcelFile.ActiveFileName
 ---
 
-# TExcelFile.ActiveFileName Property
+# TExcelFile\.ActiveFileName Property
 
 The file we are working on\. When we save the file with another name, it changes\.
 When we open a stream, it is set to ""\.

@@ -3,7 +3,7 @@ uid: IBlip.ImageFileName
 description: IBlip.ImageFileName
 ---
 
-# IBlip.ImageFileName Property
+# IBlip\.ImageFileName Property
 
 File name which will be used when saving the file inside the xlsx container\.
 

@@ -3,7 +3,7 @@ uid: TFlexCelPreviewer.EndPreviewAtLastPage
 description: TFlexCelPreviewer.EndPreviewAtLastPage
 ---
 
-# TFlexCelPreviewer.EndPreviewAtLastPage Property
+# TFlexCelPreviewer\.EndPreviewAtLastPage Property
 
 When true, the preview will stop at the last page, and if you are showing more than one page at the same time you won't be able to select the last page\. When false, FlexCelPreview will add enough space after the last page so all pages are selectable\.
 Note that in normal cases this won't make a difference, this property only applies if zoom is so small that you can see more than one page in the preview\.

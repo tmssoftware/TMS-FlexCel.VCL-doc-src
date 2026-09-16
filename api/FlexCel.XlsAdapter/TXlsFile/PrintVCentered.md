@@ -3,7 +3,7 @@ uid: TXlsFile.PrintVCentered
 description: TXlsFile.PrintVCentered
 ---
 
-# TXlsFile.PrintVCentered Property
+# TXlsFile\.PrintVCentered Property
 
 When true the sheet will print vertically centered on the page\.
 

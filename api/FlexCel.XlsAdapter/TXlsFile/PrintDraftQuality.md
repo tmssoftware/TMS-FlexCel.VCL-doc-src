@@ -3,7 +3,7 @@ uid: TXlsFile.PrintDraftQuality
 description: TXlsFile.PrintDraftQuality
 ---
 
-# TXlsFile.PrintDraftQuality Property
+# TXlsFile\.PrintDraftQuality Property
 
 If true, the pages will be printed in draft quality\.
 

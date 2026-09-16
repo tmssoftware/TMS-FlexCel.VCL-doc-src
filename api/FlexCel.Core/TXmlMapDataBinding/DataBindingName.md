@@ -3,7 +3,7 @@ uid: TXmlMapDataBinding.DataBindingName
 description: TXmlMapDataBinding.DataBindingName
 ---
 
-# TXmlMapDataBinding.DataBindingName Property
+# TXmlMapDataBinding\.DataBindingName Property
 
 Specifies the name for the binding\. Must be unique\.
 

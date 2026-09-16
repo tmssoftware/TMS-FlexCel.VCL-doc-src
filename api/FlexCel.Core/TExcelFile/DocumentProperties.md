@@ -3,7 +3,7 @@ uid: TExcelFile.DocumentProperties
 description: TExcelFile.DocumentProperties
 ---
 
-# TExcelFile.DocumentProperties Property
+# TExcelFile\.DocumentProperties Property
 
 Document properties for the file\. With this object you can read the properties \(Author, Title, etc\.\) of a file\.
 

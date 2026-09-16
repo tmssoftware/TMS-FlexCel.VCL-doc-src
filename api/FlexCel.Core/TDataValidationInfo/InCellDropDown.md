@@ -3,7 +3,7 @@ uid: TDataValidationInfo.InCellDropDown
 description: TDataValidationInfo.InCellDropDown
 ---
 
-# TDataValidationInfo.InCellDropDown Property
+# TDataValidationInfo\.InCellDropDown Property
 
 When the [ValidationType](ValidationType.md) parameter is a list, this property indicates whether to display a drop down box or not\.
 

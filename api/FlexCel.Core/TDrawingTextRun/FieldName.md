@@ -3,7 +3,7 @@ uid: TDrawingTextRun.FieldName
 description: TDrawingTextRun.FieldName
 ---
 
-# TDrawingTextRun.FieldName Property
+# TDrawingTextRun\.FieldName Property
 
 Field that this text run holds\. If empty, then this run holds text and not a field\.
 

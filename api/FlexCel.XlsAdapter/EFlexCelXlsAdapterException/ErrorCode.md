@@ -3,7 +3,7 @@ uid: EFlexCelXlsAdapterException.ErrorCode
 description: EFlexCelXlsAdapterException.ErrorCode
 ---
 
-# EFlexCelXlsAdapterException.ErrorCode Property
+# EFlexCelXlsAdapterException\.ErrorCode Property
 
 Error code on the Exception\.
 

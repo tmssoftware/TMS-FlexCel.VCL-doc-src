@@ -3,7 +3,7 @@ uid: IThemeFontScheme.MajorFont
 description: IThemeFontScheme.MajorFont
 ---
 
-# IThemeFontScheme.MajorFont Property
+# IThemeFontScheme\.MajorFont Property
 
 This element defines the set of major fonts which are to be used under different languages or locals\.
 

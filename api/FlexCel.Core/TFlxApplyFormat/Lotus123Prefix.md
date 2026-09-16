@@ -3,7 +3,7 @@ uid: TFlxApplyFormat.Lotus123Prefix
 description: TFlxApplyFormat.Lotus123Prefix
 ---
 
-# TFlxApplyFormat.Lotus123Prefix Property
+# TFlxApplyFormat\.Lotus123Prefix Property
 
 Lotus 123 compatibility prefixes\.
 

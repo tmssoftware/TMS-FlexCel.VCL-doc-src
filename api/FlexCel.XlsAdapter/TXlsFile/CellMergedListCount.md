@@ -3,7 +3,7 @@ uid: TXlsFile.CellMergedListCount
 description: TXlsFile.CellMergedListCount
 ---
 
-# TXlsFile.CellMergedListCount Property
+# TXlsFile\.CellMergedListCount Property
 
 For using with [TExcelFile.CellMergedList](../../FlexCel.Core/TExcelFile/CellMergedList.md) on a loop: for \(int i=1;i \<= CellMergedListCount;i\+\+\) DoSomething\(CellMergedList\(i\)\)\.\.\.
 

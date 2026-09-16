@@ -3,7 +3,7 @@ uid: TDrawingConditionalFormatDataBar.HideValues
 description: TDrawingConditionalFormatDataBar.HideValues
 ---
 
-# TDrawingConditionalFormatDataBar.HideValues Property
+# TDrawingConditionalFormatDataBar\.HideValues Property
 
 If true, the contents of the cell won't be displayed\.
 

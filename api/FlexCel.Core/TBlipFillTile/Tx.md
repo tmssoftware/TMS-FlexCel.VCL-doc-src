@@ -3,7 +3,7 @@ uid: TBlipFillTile.Tx
 description: TBlipFillTile.Tx
 ---
 
-# TBlipFillTile.Tx Property
+# TBlipFillTile\.Tx Property
 
 Specifies an extra horizontal offset after alignment\.
 

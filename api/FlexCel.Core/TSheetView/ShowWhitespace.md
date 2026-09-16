@@ -3,7 +3,7 @@ uid: TSheetView.ShowWhitespace
 description: TSheetView.ShowWhitespace
 ---
 
-# TSheetView.ShowWhitespace Property
+# TSheetView\.ShowWhitespace Property
 
 If true, when in Page Layout mode Excel will show whitespace between sheets\.
 

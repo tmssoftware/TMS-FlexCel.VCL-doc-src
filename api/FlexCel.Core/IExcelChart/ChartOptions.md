@@ -3,7 +3,7 @@ uid: IExcelChart.ChartOptions
 description: IExcelChart.ChartOptions
 ---
 
-# IExcelChart.ChartOptions Property
+# IExcelChart\.ChartOptions Property
 
 Returns the type of chart and the options specific for that kind of chart\.
 There might be more than one ChartOptions returned, since you can mix more than one type of  chart on a simple chart\. \(One for each series\)\. You need to look at the series ChartOptionsIndex to  know to which one it refers\.

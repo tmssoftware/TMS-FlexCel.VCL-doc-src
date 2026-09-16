@@ -3,7 +3,7 @@ uid: TTableApplyFont.Underline
 description: TTableApplyFont.Underline
 ---
 
-# TTableApplyFont.Underline Property
+# TTableApplyFont\.Underline Property
 
 If true, the underline style of the font will be used\.
 

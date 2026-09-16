@@ -18,8 +18,8 @@ Excel formats to copy/paste to/from the clipboard
 |Name|Description|
 |---|---|
 |[Excel97](Excel97.md)|Native Excel 97/2003 Format \(xls\)\.<br />|
-|[UnicodeText](UnicodeText.md)|Unicode text\.<br />|
 |[Html](Html.md)|Clipboard html\.<br />|
+|[UnicodeText](UnicodeText.md)|Unicode text\.<br />|
 
 
 ## Methods

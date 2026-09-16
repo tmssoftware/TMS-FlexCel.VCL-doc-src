@@ -3,7 +3,7 @@ uid: TXlsFile.DataValidationCount
 description: TXlsFile.DataValidationCount
 ---
 
-# TXlsFile.DataValidationCount Property
+# TXlsFile\.DataValidationCount Property
 
 Returns the number of DataValidation structures in the active sheet\.
 There are 2 ways you can access the data validation information on a sheet:

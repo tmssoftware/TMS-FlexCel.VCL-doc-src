@@ -3,7 +3,7 @@ uid: TExcelFile.OptionsDates1904
 description: TExcelFile.OptionsDates1904
 ---
 
-# TExcelFile.OptionsDates1904 Property
+# TExcelFile\.OptionsDates1904 Property
 
 Excel has 2 different date systems\. On windows systems it uses 1900 based dates, and on old Macintosh systems it uses 1904 dates\.
 You can change this on Excel under Options, and this property allows you to know and change which format is being used\.

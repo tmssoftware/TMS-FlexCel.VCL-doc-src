@@ -3,7 +3,7 @@ uid: TNamedRangeExportEventArgs.NameId
 description: TNamedRangeExportEventArgs.NameId
 ---
 
-# TNamedRangeExportEventArgs.NameId Property
+# TNamedRangeExportEventArgs\.NameId Property
 
 This property is by default the same as [NamedRange](NamedRange.md)\.Name\.  If you want to change the id of the span that will be exported to HTML, change it to the new value\. To not export this name, set it to null\.
 

@@ -3,7 +3,7 @@ uid: TReportTag.StrHide
 description: TReportTag.StrHide
 ---
 
-# TReportTag.StrHide Property
+# TReportTag\.StrHide Property
 
 "Hide"
 

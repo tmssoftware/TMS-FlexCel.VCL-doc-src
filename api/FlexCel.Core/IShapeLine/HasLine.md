@@ -3,7 +3,7 @@ uid: IShapeLine.HasLine
 description: IShapeLine.HasLine
 ---
 
-# IShapeLine.HasLine Property
+# IShapeLine\.HasLine Property
 
 True if the object has a border, false otherwise\.
 

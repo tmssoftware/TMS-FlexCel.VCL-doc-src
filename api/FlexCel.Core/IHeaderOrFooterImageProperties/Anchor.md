@@ -3,7 +3,7 @@ uid: IHeaderOrFooterImageProperties.Anchor
 description: IHeaderOrFooterImageProperties.Anchor
 ---
 
-# IHeaderOrFooterImageProperties.Anchor Property
+# IHeaderOrFooterImageProperties\.Anchor Property
 
 Image position
 

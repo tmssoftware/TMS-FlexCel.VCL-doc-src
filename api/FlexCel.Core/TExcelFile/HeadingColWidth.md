@@ -3,7 +3,7 @@ uid: TExcelFile.HeadingColWidth
 description: TExcelFile.HeadingColWidth
 ---
 
-# TExcelFile.HeadingColWidth Property
+# TExcelFile\.HeadingColWidth Property
 
 Width that will be used by the added column with row numbers when [PrintHeadings](PrintHeadings.md) is true\.
 The default value \(0\) means to use an automatic value which is fine if you don't have too many rows to print\.

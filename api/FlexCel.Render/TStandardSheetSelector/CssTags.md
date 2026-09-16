@@ -3,7 +3,7 @@ uid: TStandardSheetSelector.CssTags
 description: TStandardSheetSelector.CssTags
 ---
 
-# TStandardSheetSelector.CssTags Property
+# TStandardSheetSelector\.CssTags Property
 
 This property has a list of Macros that you can use in the CSS definitions\. You can reference this value in the CSS properties by using \<\#variable>
 

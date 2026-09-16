@@ -3,7 +3,7 @@ uid: TUserDefinedFunction.Name
 description: TUserDefinedFunction.Name
 ---
 
-# TUserDefinedFunction.Name Property
+# TUserDefinedFunction\.Name Property
 
 Name that will be assigned to the function\.
 

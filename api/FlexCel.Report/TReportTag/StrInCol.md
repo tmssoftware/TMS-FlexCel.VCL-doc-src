@@ -3,7 +3,7 @@ uid: TReportTag.StrInCol
 description: TReportTag.StrInCol
 ---
 
-# TReportTag.StrInCol Property
+# TReportTag\.StrInCol Property
 
 "InCol"
 

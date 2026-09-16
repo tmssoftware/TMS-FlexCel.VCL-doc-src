@@ -21,8 +21,8 @@ Defines appearance of decorative lines used in text, like underline or strikeout
 |[Create](Create.md)|**Overloaded<br />**  [Create\(TUIUnderline\)](Create.md#tuitextdecorationcreatetuiunderline)<br />  [Create\(TUIStrikeout\)](Create.md#tuitextdecorationcreatetuistrikeout)<br />  [Create\(TUIUnderline, TUIStrikeout\)](Create.md#tuitextdecorationcreatetuiunderline-tuistrikeout)<br />|
 |[Equals](Equals.md)|Returns true if both objects are the same\.<br />|
 |[GetHashCode](GetHashCode.md)|Returns the hashcode of the object\.<br />|
-|[WithUnderline](WithUnderline.md)|Returns a copy of the record with a different underline\.<br />|
 |[WithStrikeout](WithStrikeout.md)|Returns a copy of the record with a different strikeout\.<br />|
+|[WithUnderline](WithUnderline.md)|Returns a copy of the record with a different underline\.<br />|
 
 
 ## Operators
@@ -37,8 +37,8 @@ Defines appearance of decorative lines used in text, like underline or strikeout
 
 |Name|Description|
 |---|---|
-|[Underline](Underline.md)|Defines the style of text underlining\.<br />|
-|[Strikeout](Strikeout.md)|Defines the style of text strikeout\.<br />|
 |[IsEmpty](IsEmpty.md)|Returns true if the structure has no underline or strikeout\.<br />|
+|[Strikeout](Strikeout.md)|Defines the style of text strikeout\.<br />|
+|[Underline](Underline.md)|Defines the style of text underlining\.<br />|
 
 

@@ -3,7 +3,7 @@ uid: TExcelFile.OptionsPrecisionAsDisplayed
 description: TExcelFile.OptionsPrecisionAsDisplayed
 ---
 
-# TExcelFile.OptionsPrecisionAsDisplayed Property
+# TExcelFile\.OptionsPrecisionAsDisplayed Property
 
 This property has the value of the corresponding option on Excel options\.
 

@@ -3,7 +3,7 @@ uid: TCondFmtApplyBorders.IsEmpty
 description: TCondFmtApplyBorders.IsEmpty
 ---
 
-# TCondFmtApplyBorders.IsEmpty Property
+# TCondFmtApplyBorders\.IsEmpty Property
 
 Returns true if the format does not apply any setting\.
 

@@ -3,7 +3,7 @@ uid: TEffectList.OuterShadow
 description: TEffectList.OuterShadow
 ---
 
-# TEffectList.OuterShadow Property
+# TEffectList\.OuterShadow Property
 
 Outer shadow effect\.
 

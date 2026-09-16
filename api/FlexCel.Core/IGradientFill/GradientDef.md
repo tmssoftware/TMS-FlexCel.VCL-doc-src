@@ -3,7 +3,7 @@ uid: IGradientFill.GradientDef
 description: IGradientFill.GradientDef
 ---
 
-# IGradientFill.GradientDef Property
+# IGradientFill\.GradientDef Property
 
 Definition of the gradient\. This can be a TDrawingLinearGradient class or a TDrawingPathGradient class\.
 

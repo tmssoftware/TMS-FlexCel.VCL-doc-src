@@ -3,7 +3,7 @@ uid: TImageInformationEventArgs.ImageStream
 description: TImageInformationEventArgs.ImageStream
 ---
 
-# TImageInformationEventArgs.ImageStream Property
+# TImageInformationEventArgs\.ImageStream Property
 
 The stream where the images will be saved\. Keep it null to store the image as a file using [ImageFile](ImageFile.md)\.
 When saving as MHTML this parameter does nothing, since all images will be saved in the same MTHML stream\.

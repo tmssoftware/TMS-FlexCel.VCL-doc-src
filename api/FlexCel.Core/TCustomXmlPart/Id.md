@@ -3,7 +3,7 @@ uid: TCustomXmlPart.Id
 description: TCustomXmlPart.Id
 ---
 
-# TCustomXmlPart.Id Property
+# TCustomXmlPart\.Id Property
 
 Id of the part\. This must be an unique identifier\.
 

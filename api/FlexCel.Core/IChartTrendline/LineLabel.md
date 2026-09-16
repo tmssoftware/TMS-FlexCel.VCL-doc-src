@@ -3,7 +3,7 @@ uid: IChartTrendline.LineLabel
 description: IChartTrendline.LineLabel
 ---
 
-# IChartTrendline.LineLabel Property
+# IChartTrendline\.LineLabel Property
 
 Determines if the value of R\-squared is displayed on the chart\.
 

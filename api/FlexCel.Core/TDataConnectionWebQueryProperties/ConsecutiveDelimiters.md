@@ -3,7 +3,7 @@ uid: TDataConnectionWebQueryProperties.ConsecutiveDelimiters
 description: TDataConnectionWebQueryProperties.ConsecutiveDelimiters
 ---
 
-# TDataConnectionWebQueryProperties.ConsecutiveDelimiters Property
+# TDataConnectionWebQueryProperties\.ConsecutiveDelimiters Property
 
 Flag indicating whether consecutive delimiters should be treated as just one delimiter\.
 

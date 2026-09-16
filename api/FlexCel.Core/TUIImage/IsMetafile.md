@@ -3,7 +3,7 @@ uid: TUIImage.IsMetafile
 description: TUIImage.IsMetafile
 ---
 
-# TUIImage.IsMetafile Property
+# TUIImage\.IsMetafile Property
 
 Returns true if the file is a WMF or EMF file\.
 

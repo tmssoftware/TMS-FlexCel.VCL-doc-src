@@ -3,7 +3,7 @@ uid: TDrawingHyperlink.TargetFrame
 description: TDrawingHyperlink.TargetFrame
 ---
 
-# TDrawingHyperlink.TargetFrame Property
+# TDrawingHyperlink\.TargetFrame Property
 
 If blank then a new window will be used\.
 

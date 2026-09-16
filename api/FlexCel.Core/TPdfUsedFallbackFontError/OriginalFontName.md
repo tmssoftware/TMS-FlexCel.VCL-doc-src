@@ -3,7 +3,7 @@ uid: TPdfUsedFallbackFontError.OriginalFontName
 description: TPdfUsedFallbackFontError.OriginalFontName
 ---
 
-# TPdfUsedFallbackFontError.OriginalFontName Property
+# TPdfUsedFallbackFontError\.OriginalFontName Property
 
 Font that should be used, but that doesn't contain the needed characters\.
 

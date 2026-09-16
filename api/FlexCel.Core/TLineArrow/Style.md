@@ -3,7 +3,7 @@ uid: TLineArrow.Style
 description: TLineArrow.Style
 ---
 
-# TLineArrow.Style Property
+# TLineArrow\.Style Property
 
 Style of the arrow\.
 

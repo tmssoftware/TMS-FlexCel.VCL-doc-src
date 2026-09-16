@@ -3,7 +3,7 @@ uid: TDrawingLinearGradient.Angle
 description: TDrawingLinearGradient.Angle
 ---
 
-# TDrawingLinearGradient.Angle Property
+# TDrawingLinearGradient\.Angle Property
 
 Specifies the direction of color change for the gradient\. To define this angle, let its value  be x measured clockwise\. Then \( \-sin x, cos x \) is a vector parallel to the line of constant  color in the gradient fill\.
 

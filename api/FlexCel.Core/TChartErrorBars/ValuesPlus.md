@@ -3,7 +3,7 @@ uid: TChartErrorBars.ValuesPlus
 description: TChartErrorBars.ValuesPlus
 ---
 
-# TChartErrorBars.ValuesPlus Property
+# TChartErrorBars\.ValuesPlus Property
 
 Values of the positive error bars\. This will be null unless you explicitly calculate them by calling CalcErrorValues\.
 

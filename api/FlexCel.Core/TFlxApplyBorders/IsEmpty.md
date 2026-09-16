@@ -3,7 +3,7 @@ uid: TFlxApplyBorders.IsEmpty
 description: TFlxApplyBorders.IsEmpty
 ---
 
-# TFlxApplyBorders.IsEmpty Property
+# TFlxApplyBorders\.IsEmpty Property
 
 Returns true if the format does not apply any setting\.
 

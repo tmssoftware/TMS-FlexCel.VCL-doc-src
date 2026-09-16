@@ -3,7 +3,7 @@ uid: ITableDefinition.Style
 description: ITableDefinition.Style
 ---
 
-# ITableDefinition.Style Property
+# ITableDefinition\.Style Property
 
 The built in style of the table, if any\.
 

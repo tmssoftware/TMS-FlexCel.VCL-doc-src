@@ -3,7 +3,7 @@ uid: TUIImage.Is8bitGrayscale
 description: TUIImage.Is8bitGrayscale
 ---
 
-# TUIImage.Is8bitGrayscale Property
+# TUIImage\.Is8bitGrayscale Property
 
 Returns true if the image has 256 shades of gray\.
 

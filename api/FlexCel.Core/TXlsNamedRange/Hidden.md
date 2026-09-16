@@ -3,7 +3,7 @@ uid: TXlsNamedRange.Hidden
 description: TXlsNamedRange.Hidden
 ---
 
-# TXlsNamedRange.Hidden Property
+# TXlsNamedRange\.Hidden Property
 
 True if the range is hidden\.
 

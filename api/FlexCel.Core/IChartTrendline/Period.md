@@ -3,7 +3,7 @@ uid: IChartTrendline.Period
 description: IChartTrendline.Period
 ---
 
-# IChartTrendline.Period Property
+# IChartTrendline\.Period Property
 
 Period for the moving average\. This property only applies if the [TrendlineType](TrendlineType.md) is [TChartTrendlineType.MovingAverage](../TChartTrendlineType.md)\.
 

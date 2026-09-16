@@ -3,7 +3,7 @@ uid: TXlsFile.PrintLandscape
 description: TXlsFile.PrintLandscape
 ---
 
-# TXlsFile.PrintLandscape Property
+# TXlsFile\.PrintLandscape Property
 
 If true, page will be printed landscape, else portrait\.
 

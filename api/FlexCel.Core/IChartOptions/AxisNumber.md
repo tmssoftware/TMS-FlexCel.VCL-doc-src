@@ -3,7 +3,7 @@ uid: IChartOptions.AxisNumber
 description: IChartOptions.AxisNumber
 ---
 
-# IChartOptions.AxisNumber Property
+# IChartOptions\.AxisNumber Property
 
 Axis where this chart group belongs, 0 is primary, 1 is secondary\. In xlsx files it is not used, since the primary or secondary axis is given by the subchart where the series is\.
 

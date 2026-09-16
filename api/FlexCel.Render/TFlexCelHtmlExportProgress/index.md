@@ -19,7 +19,7 @@ Indicates how much of the report has been generated\.
 |Name|Description|
 |---|---|
 |[Row](Row.md)|The row that is being written\.<br />|
-|[TotalRows](TotalRows.md)|The total number of rows exporting\.<br />|
 |[SheetNumber](SheetNumber.md)|The sheet we are exporting\.<br />|
+|[TotalRows](TotalRows.md)|The total number of rows exporting\.<br />|
 
 

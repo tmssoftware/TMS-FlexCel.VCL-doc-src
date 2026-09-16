@@ -3,7 +3,7 @@ uid: TDataValidationInfo.ErrorBoxCaption
 description: TDataValidationInfo.ErrorBoxCaption
 ---
 
-# TDataValidationInfo.ErrorBoxCaption Property
+# TDataValidationInfo\.ErrorBoxCaption Property
 
 Caption of the Error Alert box\. Note that this text cannot be longer than 32 characters\.
 Extra characters will be truncated\. If this parameter is null, the default Error alert will be displayed\.

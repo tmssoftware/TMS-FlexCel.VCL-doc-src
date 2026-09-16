@@ -3,7 +3,7 @@ uid: TBaseAxis.Caption
 description: TBaseAxis.Caption
 ---
 
-# TBaseAxis.Caption Property
+# TBaseAxis\.Caption Property
 
 Axis Caption\.
 

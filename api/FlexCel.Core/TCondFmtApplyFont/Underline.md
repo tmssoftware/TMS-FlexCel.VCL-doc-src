@@ -3,7 +3,7 @@ uid: TCondFmtApplyFont.Underline
 description: TCondFmtApplyFont.Underline
 ---
 
-# TCondFmtApplyFont.Underline Property
+# TCondFmtApplyFont\.Underline Property
 
 If true, the underline style of the font will be used\.
 

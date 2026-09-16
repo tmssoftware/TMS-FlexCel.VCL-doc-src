@@ -3,7 +3,7 @@ uid: TExcelFile.GetUsedPaletteColors
 description: TExcelFile.GetUsedPaletteColors
 ---
 
-# TExcelFile.GetUsedPaletteColors Property
+# TExcelFile\.GetUsedPaletteColors Property
 
 Returns a list of the used colors on the palette\. You can use it as an entry to [NearestColorIndex\(TUIColor\)](NearestColorIndex.md#texcelfilenearestcolorindextuicolor) to modify the palette\.
 

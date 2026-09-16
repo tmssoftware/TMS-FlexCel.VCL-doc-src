@@ -3,7 +3,7 @@ uid: TDataValidationInfo.ShowErrorBox
 description: TDataValidationInfo.ShowErrorBox
 ---
 
-# TDataValidationInfo.ShowErrorBox Property
+# TDataValidationInfo\.ShowErrorBox Property
 
 If true, an error box dialog will be shown when the user enters an invalid value\.
 

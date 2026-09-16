@@ -3,7 +3,7 @@ uid: IChartBubbleSeries.DataValues
 description: IChartBubbleSeries.DataValues
 ---
 
-# IChartBubbleSeries.DataValues Property
+# IChartBubbleSeries\.DataValues Property
 
 Actual values for the bubbles\.
 

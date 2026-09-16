@@ -3,7 +3,7 @@ uid: TUIColor.R
 description: TUIColor.R
 ---
 
-# TUIColor.R Property
+# TUIColor\.R Property
 
 Red component, between 0 and 255\.
 

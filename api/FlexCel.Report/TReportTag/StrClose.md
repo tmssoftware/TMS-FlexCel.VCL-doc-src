@@ -3,7 +3,7 @@ uid: TReportTag.StrClose
 description: TReportTag.StrClose
 ---
 
-# TReportTag.StrClose Property
+# TReportTag\.StrClose Property
 
 Close a Tag\.
 

@@ -3,7 +3,7 @@ uid: TReflectionEffect.StartPos
 description: TReflectionEffect.StartPos
 ---
 
-# TReflectionEffect.StartPos Property
+# TReflectionEffect\.StartPos Property
 
 Starting position of the Alpha value\.
 

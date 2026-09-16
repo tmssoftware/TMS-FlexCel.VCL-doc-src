@@ -3,7 +3,7 @@ uid: TFlexCelReport.DisableSQLValidation
 description: TFlexCelReport.DisableSQLValidation
 ---
 
-# TFlexCelReport.DisableSQLValidation Property
+# TFlexCelReport\.DisableSQLValidation Property
 
 If false \(the default\) FlexCelReport will only allow DirectSQL queries that begin with "SELECT", to avoid people doing inserts or deletes from the config sheet\.
 If true, FlexCelReport will pass the DirectSQL queries you write in the config sheet directly to the server\.

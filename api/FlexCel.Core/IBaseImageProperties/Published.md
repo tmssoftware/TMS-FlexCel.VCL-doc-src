@@ -3,7 +3,7 @@ uid: IBaseImageProperties.Published
 description: IBaseImageProperties.Published
 ---
 
-# IBaseImageProperties.Published Property
+# IBaseImageProperties\.Published Property
 
 Determines if the image should be published when sent to a server\. This only applies to charts\.
 

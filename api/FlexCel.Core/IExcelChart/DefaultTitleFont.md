@@ -3,7 +3,7 @@ uid: IExcelChart.DefaultTitleFont
 description: IExcelChart.DefaultTitleFont
 ---
 
-# IExcelChart.DefaultTitleFont Property
+# IExcelChart\.DefaultTitleFont Property
 
 Returns the default font for Title in the chart that do not have a font defined\.
 

@@ -3,7 +3,7 @@ uid: TXlsFile.ObjectCount
 description: TXlsFile.ObjectCount
 ---
 
-# TXlsFile.ObjectCount Property
+# TXlsFile\.ObjectCount Property
 
 Count of all graphical objects on the sheet\. They can be charts, images, shapes, etc\.
 

@@ -3,7 +3,7 @@ uid: TDataConnectionWebQueryProperties.TextDates
 description: TDataConnectionWebQueryProperties.TextDates
 ---
 
-# TDataConnectionWebQueryProperties.TextDates Property
+# TDataConnectionWebQueryProperties\.TextDates Property
 
 Flag indicating whether dates should be imported into cells in the worksheet as text rather than dates\.
 

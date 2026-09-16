@@ -3,7 +3,7 @@ uid: TFlexCelReport.TryToConvertStrings
 description: TFlexCelReport.TryToConvertStrings
 ---
 
-# TFlexCelReport.TryToConvertStrings Property
+# TFlexCelReport\.TryToConvertStrings Property
 
 When true, FlexCel will try to convert strings to numbers or dates before entering them into the cells\.
 **USE THIS PROPERTY WITH CARE\!**  You shouldn't normally need to use this property, since FlexCel automatically enters numbers or dates in the DataSets as number or dates in the Excel file\. If you need to use this property, it means that data in your database is stored as strings when they should not be\. So the correct fix is to fix the columns you know should have numbers to have numbers, NOT to use this property\. This is just a workaround when you can't do anything else about it\.

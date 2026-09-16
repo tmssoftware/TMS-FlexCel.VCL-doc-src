@@ -27,7 +27,7 @@ A list of conditional value objects with their corresponding colors\.
 
 |Name|Description|
 |---|---|
-|[Values](Values.md)|Returns the list of values for this list\.<br />|
 |[Colors](Colors.md)|Returns the list of colors for this list\.<br />|
+|[Values](Values.md)|Returns the list of values for this list\.<br />|
 
 

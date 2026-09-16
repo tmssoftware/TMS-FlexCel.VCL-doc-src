@@ -34,7 +34,7 @@ A simple structure containing a position and a character\.
 
 |Name|Description|
 |---|---|
-|[Pos](Pos.md)|Position of the character in the string \(0 based\)\.<br />|
 |[Char](Char.md)|Character that should go at position\. Note that if this is a surrogate pair \(UTF32\) the string might have 2 UTF16 characters\.<br />|
+|[Pos](Pos.md)|Position of the character in the string \(0 based\)\.<br />|
 
 

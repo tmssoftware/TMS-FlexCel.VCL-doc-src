@@ -3,7 +3,7 @@ uid: TTokenRelativeCellRange.ColOffset2
 description: TTokenRelativeCellRange.ColOffset2
 ---
 
-# TTokenRelativeCellRange.ColOffset2 Property
+# TTokenRelativeCellRange\.ColOffset2 Property
 
 Last column of the range \(1 based\)\.
 

@@ -3,7 +3,7 @@ uid: TPdfDestination.Y
 description: TPdfDestination.Y
 ---
 
-# TPdfDestination.Y Property
+# TPdfDestination\.Y Property
 
 Y offset of the page in points from the top\. A negative number means keep the default\.
 This value is only used if ZoomOptions is Zoom\.

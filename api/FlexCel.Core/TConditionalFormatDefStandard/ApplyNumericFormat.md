@@ -3,7 +3,7 @@ uid: TConditionalFormatDefStandard.ApplyNumericFormat
 description: TConditionalFormatDefStandard.ApplyNumericFormat
 ---
 
-# TConditionalFormatDefStandard.ApplyNumericFormat Property
+# TConditionalFormatDefStandard\.ApplyNumericFormat Property
 
 When true the format specified in [NumericFormat](NumericFormat.md) will be applied, else it will be ignored\.
 

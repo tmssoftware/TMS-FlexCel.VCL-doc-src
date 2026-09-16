@@ -25,8 +25,8 @@ This class has information for a [TFlexCelError.XlsxInvalidName](../TFlexCelErro
 
 |Name|Description|
 |---|---|
+|[Definition](Definition.md)|Definition of the invalid named range\.<br />|
 |[FileName](FileName.md)|File with the invalid name\.<br />|
 |[Name](Name.md)|Name of the invalid named range\.<br />|
-|[Definition](Definition.md)|Definition of the invalid named range\.<br />|
 
 

@@ -3,7 +3,7 @@ uid: TDataConnectionTextImportProperties.Qualifier
 description: TDataConnectionTextImportProperties.Qualifier
 ---
 
-# TDataConnectionTextImportProperties.Qualifier Property
+# TDataConnectionTextImportProperties\.Qualifier Property
 
 Character used as the text string qualifier\.
 

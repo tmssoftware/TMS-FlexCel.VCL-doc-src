@@ -3,7 +3,7 @@ uid: TReflectionEffect.StartAlpha
 description: TReflectionEffect.StartAlpha
 ---
 
-# TReflectionEffect.StartAlpha Property
+# TReflectionEffect\.StartAlpha Property
 
 Starting reflection opacity\.
 

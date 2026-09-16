@@ -3,7 +3,7 @@ uid: IShapeProperties.FlipV
 description: IShapeProperties.FlipV
 ---
 
-# IShapeProperties.FlipV Property
+# IShapeProperties\.FlipV Property
 
 True if the shape is flipped vertically\.
 

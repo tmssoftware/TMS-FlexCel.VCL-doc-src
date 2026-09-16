@@ -3,7 +3,7 @@ uid: ILineStyle.Dashing
 description: ILineStyle.Dashing
 ---
 
-# ILineStyle.Dashing Property
+# ILineStyle\.Dashing Property
 
 Line dashing\. If null, default from the theme will be used\.
 

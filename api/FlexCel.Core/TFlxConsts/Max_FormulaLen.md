@@ -3,7 +3,7 @@ uid: TFlxConsts.Max_FormulaLen
 description: TFlxConsts.Max_FormulaLen
 ---
 
-# TFlxConsts.Max_FormulaLen Property
+# TFlxConsts\.Max\_FormulaLen Property
 
 Maximum number of characters in a Formula
 

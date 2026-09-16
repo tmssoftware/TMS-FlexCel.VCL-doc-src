@@ -3,7 +3,7 @@ uid: TAxisLineOptions.MainAxis
 description: TAxisLineOptions.MainAxis
 ---
 
-# TAxisLineOptions.MainAxis Property
+# TAxisLineOptions\.MainAxis Property
 
 Line options for the main axis line\.
 

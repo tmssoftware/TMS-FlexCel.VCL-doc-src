@@ -3,7 +3,7 @@ uid: IChartFrameOptions.FillOptions
 description: IChartFrameOptions.FillOptions
 ---
 
-# IChartFrameOptions.FillOptions Property
+# IChartFrameOptions\.FillOptions Property
 
 Fill options for the frame\.
 

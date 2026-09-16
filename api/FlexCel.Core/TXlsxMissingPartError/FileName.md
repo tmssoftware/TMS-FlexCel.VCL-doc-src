@@ -3,7 +3,7 @@ uid: TXlsxMissingPartError.FileName
 description: TXlsxMissingPartError.FileName
 ---
 
-# TXlsxMissingPartError.FileName Property
+# TXlsxMissingPartError\.FileName Property
 
 File with the missing part\.
 

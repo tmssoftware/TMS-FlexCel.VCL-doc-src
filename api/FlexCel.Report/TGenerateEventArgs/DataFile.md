@@ -3,7 +3,7 @@ uid: TGenerateEventArgs.DataFile
 description: TGenerateEventArgs.DataFile
 ---
 
-# TGenerateEventArgs.DataFile Property
+# TGenerateEventArgs\.DataFile Property
 
 The file with the report data\.
 

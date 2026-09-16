@@ -25,7 +25,7 @@ This class has information for a [TFlexCelError.PdfGlyphNotInFont](../TFlexCelEr
 
 |Name|Description|
 |---|---|
-|[MissingChar](MissingChar.md)|Character missing in the font\.<br />|
 |[FontName](FontName.md)|Font that doesn't contain the character\.<br />|
+|[MissingChar](MissingChar.md)|Character missing in the font\.<br />|
 
 

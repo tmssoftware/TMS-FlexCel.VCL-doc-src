@@ -3,7 +3,7 @@ uid: TFlxApplyFillPattern.IsEmpty
 description: TFlxApplyFillPattern.IsEmpty
 ---
 
-# TFlxApplyFillPattern.IsEmpty Property
+# TFlxApplyFillPattern\.IsEmpty Property
 
 Returns true if the format does not apply any setting\.
 

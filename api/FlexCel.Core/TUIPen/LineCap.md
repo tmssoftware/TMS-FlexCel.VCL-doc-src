@@ -3,7 +3,7 @@ uid: TUIPen.LineCap
 description: TUIPen.LineCap
 ---
 
-# TUIPen.LineCap Property
+# TUIPen\.LineCap Property
 
 Gets or sets the line cap of the pen\.
 

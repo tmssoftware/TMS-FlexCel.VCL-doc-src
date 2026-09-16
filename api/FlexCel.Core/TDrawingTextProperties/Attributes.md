@@ -3,7 +3,7 @@ uid: TDrawingTextProperties.Attributes
 description: TDrawingTextProperties.Attributes
 ---
 
-# TDrawingTextProperties.Attributes Property
+# TDrawingTextProperties\.Attributes Property
 
 Group of simple attributes applied to the text run\.
 

@@ -3,7 +3,7 @@ uid: THeaderAndFooter.DefaultFooter
 description: THeaderAndFooter.DefaultFooter
 ---
 
-# THeaderAndFooter.DefaultFooter Property
+# THeaderAndFooter\.DefaultFooter Property
 
 Returns or sets the footer for all pages that are not even or the first page\. If [DiffFirstPage](DiffFirstPage.md) is false, then this string also applies to the first page\. If [DiffEvenPages](DiffEvenPages.md) is false, this string also applies for even pages\.
 For a description of the possible values of this string, see [TExcelFile.PageHeader](../TExcelFile/PageHeader.md)

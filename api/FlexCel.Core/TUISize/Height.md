@@ -3,7 +3,7 @@ uid: TUISize.Height
 description: TUISize.Height
 ---
 
-# TUISize.Height Property
+# TUISize\.Height Property
 
 Height from the size\.
 

@@ -3,7 +3,7 @@ uid: TUserTableEventArgs.Parameters
 description: TUserTableEventArgs.Parameters
 ---
 
-# TUserTableEventArgs.Parameters Property
+# TUserTableEventArgs\.Parameters Property
 
 The parameters on the \<\#User Table\(parameters\)> tag\.
 

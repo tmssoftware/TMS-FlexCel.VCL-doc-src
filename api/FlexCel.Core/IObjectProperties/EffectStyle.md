@@ -3,7 +3,7 @@ uid: IObjectProperties.EffectStyle
 description: IObjectProperties.EffectStyle
 ---
 
-# IObjectProperties.EffectStyle Property
+# IObjectProperties\.EffectStyle Property
 
 Effects for the object, like inner shadow or glow\.
 

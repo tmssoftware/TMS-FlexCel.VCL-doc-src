@@ -3,7 +3,7 @@ uid: TDataConnection.Deleted
 description: TDataConnection.Deleted
 ---
 
-# TDataConnection.Deleted Property
+# TDataConnection\.Deleted Property
 
 Indicates whether the associated workbook connection has been deleted\.
 Deleted connections contain only the attributes name and deleted=true, all other information is removed when saving the file\.

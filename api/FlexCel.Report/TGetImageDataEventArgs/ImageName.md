@@ -3,7 +3,7 @@ uid: TGetImageDataEventArgs.ImageName
 description: TGetImageDataEventArgs.ImageName
 ---
 
-# TGetImageDataEventArgs.ImageName Property
+# TGetImageDataEventArgs\.ImageName Property
 
 The name of the image on the Excel sheet\. Use it to identify it\.
 

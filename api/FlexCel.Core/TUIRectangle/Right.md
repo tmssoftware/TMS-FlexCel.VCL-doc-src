@@ -3,7 +3,7 @@ uid: TUIRectangle.Right
 description: TUIRectangle.Right
 ---
 
-# TUIRectangle.Right Property
+# TUIRectangle\.Right Property
 
 Right coordinate\.
 

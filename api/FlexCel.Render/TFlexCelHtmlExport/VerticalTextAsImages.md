@@ -3,7 +3,7 @@ uid: TFlexCelHtmlExport.VerticalTextAsImages
 description: TFlexCelHtmlExport.VerticalTextAsImages
 ---
 
-# TFlexCelHtmlExport.VerticalTextAsImages Property
+# TFlexCelHtmlExport\.VerticalTextAsImages Property
 
 When true and text is vertical, FlexCel will replace the text with an image in order to show it correctly in HTML\.
 When false, text will be rendered normally without rotation\.

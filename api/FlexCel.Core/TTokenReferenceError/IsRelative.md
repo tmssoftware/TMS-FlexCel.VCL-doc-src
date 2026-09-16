@@ -3,7 +3,7 @@ uid: TTokenReferenceError.IsRelative
 description: TTokenReferenceError.IsRelative
 ---
 
-# TTokenReferenceError.IsRelative Property
+# TTokenReferenceError\.IsRelative Property
 
 If true this reference is relative to the cell where the formula is\.
 

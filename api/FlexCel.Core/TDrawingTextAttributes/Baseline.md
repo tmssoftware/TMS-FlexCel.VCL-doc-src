@@ -3,7 +3,7 @@ uid: TDrawingTextAttributes.Baseline
 description: TDrawingTextAttributes.Baseline
 ---
 
-# TDrawingTextAttributes.Baseline Property
+# TDrawingTextAttributes\.Baseline Property
 
 Specifies the baseline for both the superscript and subscript fonts\. A null value means to use the parent's settings\.
 

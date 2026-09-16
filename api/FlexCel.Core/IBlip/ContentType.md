@@ -3,7 +3,7 @@ uid: IBlip.ContentType
 description: IBlip.ContentType
 ---
 
-# IBlip.ContentType Property
+# IBlip\.ContentType Property
 
 Content type for the image, like "image/jpeg"\.
 

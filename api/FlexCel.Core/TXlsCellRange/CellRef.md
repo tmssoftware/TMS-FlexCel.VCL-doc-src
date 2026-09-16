@@ -3,7 +3,7 @@ uid: TXlsCellRange.CellRef
 description: TXlsCellRange.CellRef
 ---
 
-# TXlsCellRange.CellRef Property
+# TXlsCellRange\.CellRef Property
 
 Gets or sets the string that defines the 2D\-range in A1 notation\.
 

@@ -21,7 +21,7 @@ When you assign it to a [TPdfSignerFactory](../../FlexCel.Pdf/TPdfSignerFactory/
 |<->|Parameter|Type|Description|
 |---|---|---|---|
 |const|**Certificates**|TArray\<[TX509Certificate2](../TX509Certificate2/index.md)>|Array of certificates used for signing\. The current built\-in implementation in FlexCel requires one single certificate in the array\.|
-|const|**AlgorithmOid**|string|Optional algorithm identifier\. If left empty FlexCel will use SHA512 \('1\.2\.840\.113549\.1\.1\.13'\) which is szOID\_RSA\_SHA512RSA\. You could choose a different algorithm from the list of supported CryptoAPI algorithms here: https://msdn\.microsoft\.com/en\-us/library/windows/desktop/aa381133\(v=vs\.85\)\.aspx if SHA512 became compromised \(As SHA1 did in the past\)\.|
+|const|**AlgorithmOid**|string|Optional algorithm identifier\. If left empty FlexCel will use SHA512 \('2\.16\.840\.1\.101\.3\.4\.2\.3'\) which is szOID\_NIST\_sha512\. You could choose a different algorithm from the list of supported CryptoAPI algorithms here: https://learn\.microsoft\.com/en\-gb/windows/win32/api/wincrypt/ns\-wincrypt\-crypt\_algorithm\_identifier if SHA512 became compromised \(As SHA1 did in the past\)\.|
 
 
 ## Returns

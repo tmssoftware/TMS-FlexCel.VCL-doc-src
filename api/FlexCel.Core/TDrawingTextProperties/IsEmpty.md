@@ -3,7 +3,7 @@ uid: TDrawingTextProperties.IsEmpty
 description: TDrawingTextProperties.IsEmpty
 ---
 
-# TDrawingTextProperties.IsEmpty Property
+# TDrawingTextProperties\.IsEmpty Property
 
 Returns true if no members are set\.
 

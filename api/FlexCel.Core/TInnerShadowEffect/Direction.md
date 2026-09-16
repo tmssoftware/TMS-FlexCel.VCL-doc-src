@@ -3,7 +3,7 @@ uid: TInnerShadowEffect.Direction
 description: TInnerShadowEffect.Direction
 ---
 
-# TInnerShadowEffect.Direction Property
+# TInnerShadowEffect\.Direction Property
 
 Rotation of the shadow\.
 

@@ -3,7 +3,7 @@ uid: IScatterChartOptions.IsBubbleChart
 description: IScatterChartOptions.IsBubbleChart
 ---
 
-# IScatterChartOptions.IsBubbleChart Property
+# IScatterChartOptions\.IsBubbleChart Property
 
 True if this is a bubble chart, false if it is a scatter chart\.
 

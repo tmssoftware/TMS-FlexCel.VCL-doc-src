@@ -3,7 +3,7 @@ uid: TPngInformation.HorizontalResolution
 description: TPngInformation.HorizontalResolution
 ---
 
-# TPngInformation.HorizontalResolution Property
+# TPngInformation\.HorizontalResolution Property
 
 Horizontal resolution of the image in dpi\. If the image doesn't have resolution information, this value will be 0\.
 

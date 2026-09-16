@@ -3,7 +3,7 @@ uid: TDrawingTextRun.IsFieldName
 description: TDrawingTextRun.IsFieldName
 ---
 
-# TDrawingTextRun.IsFieldName Property
+# TDrawingTextRun\.IsFieldName Property
 
 If true, this run contains a field name and not text\.
 

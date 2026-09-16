@@ -3,7 +3,7 @@ uid: IPieChartOptions.FirstSliceAngle
 description: IPieChartOptions.FirstSliceAngle
 ---
 
-# IPieChartOptions.FirstSliceAngle Property
+# IPieChartOptions\.FirstSliceAngle Property
 
 Angle of the first slice in degrees\. It can go from 0 to 359\.
 

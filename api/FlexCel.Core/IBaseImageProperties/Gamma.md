@@ -3,7 +3,7 @@ uid: IBaseImageProperties.Gamma
 description: IBaseImageProperties.Gamma
 ---
 
-# IBaseImageProperties.Gamma Property
+# IBaseImageProperties\.Gamma Property
 
 Gamma of the image\. [TFlxConsts.DefaultGamma](../TFlxConsts/DefaultGamma.md) is the default Gamma\.
 

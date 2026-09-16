@@ -3,7 +3,7 @@ uid: THtmlExtraInfo.BodyStart
 description: THtmlExtraInfo.BodyStart
 ---
 
-# THtmlExtraInfo.BodyStart Property
+# THtmlExtraInfo\.BodyStart Property
 
 Extra strings to be added after the opening \<body> tag and before the table data\.
 

@@ -3,7 +3,7 @@ uid: TUIRectangle.Top
 description: TUIRectangle.Top
 ---
 
-# TUIRectangle.Top Property
+# TUIRectangle\.Top Property
 
 Top coordinate\. This is the same as [Y](Y.md), but it is readonly\. \(Y is read write\)\.
 

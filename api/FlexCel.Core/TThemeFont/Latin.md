@@ -3,7 +3,7 @@ uid: TThemeFont.Latin
 description: TThemeFont.Latin
 ---
 
-# TThemeFont.Latin Property
+# TThemeFont\.Latin Property
 
 **NORMALLY THIS IS ALL YOU HAVE TO CHANGE TO CHANGE A TYPEFACE\.** Check with APIMate if unsure\.
 This element specifies that a Latin font be used for a specific run of text\. This font is specified with a typeface  attribute much like the others but is specifically classified as a Latin font\.

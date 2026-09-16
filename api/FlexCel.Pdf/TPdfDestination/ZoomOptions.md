@@ -3,7 +3,7 @@ uid: TPdfDestination.ZoomOptions
 description: TPdfDestination.ZoomOptions
 ---
 
-# TPdfDestination.ZoomOptions Property
+# TPdfDestination\.ZoomOptions Property
 
 Zoom options for this destination\.
 

@@ -3,7 +3,7 @@ uid: TUIHatchBrush.HatchStyle
 description: TUIHatchBrush.HatchStyle
 ---
 
-# TUIHatchBrush.HatchStyle Property
+# TUIHatchBrush\.HatchStyle Property
 
 Hatch style for the pattern\.
 

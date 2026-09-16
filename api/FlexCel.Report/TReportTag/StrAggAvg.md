@@ -3,7 +3,7 @@ uid: TReportTag.StrAggAvg
 description: TReportTag.StrAggAvg
 ---
 
-# TReportTag.StrAggAvg Property
+# TReportTag\.StrAggAvg Property
 
 "Avg"
 

@@ -3,7 +3,7 @@ uid: TThemeTextFont.CharSet
 description: TThemeTextFont.CharSet
 ---
 
-# TThemeTextFont.CharSet Property
+# TThemeTextFont\.CharSet Property
 
 Specifies the character set which is supported by the parent font\. This information can be used in font substitution logic to locate an appropriate substitute font when this font is not available\. This information is determined by querying the font when present and shall not be modified when the font is not available\.
 

@@ -3,7 +3,7 @@ uid: TDrawingTextAttributes.BookmarkLinkTarget
 description: TDrawingTextAttributes.BookmarkLinkTarget
 ---
 
-# TDrawingTextAttributes.BookmarkLinkTarget Property
+# TDrawingTextAttributes\.BookmarkLinkTarget Property
 
 Specifies the link target name that is used to reference to the proper link properties in a  custom XML part within the document\.
 

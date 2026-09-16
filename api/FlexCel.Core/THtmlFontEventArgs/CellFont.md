@@ -3,7 +3,7 @@ uid: THtmlFontEventArgs.CellFont
 description: THtmlFontEventArgs.CellFont
 ---
 
-# THtmlFontEventArgs.CellFont Property
+# THtmlFontEventArgs\.CellFont Property
 
 Font we want to process\.
 

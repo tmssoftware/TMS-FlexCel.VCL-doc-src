@@ -3,7 +3,7 @@ uid: IPieChartOptions.HasShadow
 description: IPieChartOptions.HasShadow
 ---
 
-# IPieChartOptions.HasShadow Property
+# IPieChartOptions\.HasShadow Property
 
 True if the chart lines have shadows\.
 

@@ -3,7 +3,7 @@ uid: TPdfWriter.UseLocalFontList
 description: TPdfWriter.UseLocalFontList
 ---
 
-# TPdfWriter.UseLocalFontList Property
+# TPdfWriter\.UseLocalFontList Property
 
 **This is a setting mostly for testing, do not change unless you have a good reason,**
 By default, FlexCel uses a global font list for exporting to PDF, because populating the font list is slow, and keeping it in a cache makes everything faster\. But when testing, we sometimes need to validate specific behaviors in a test, and a shared global font list can make it difficult\.

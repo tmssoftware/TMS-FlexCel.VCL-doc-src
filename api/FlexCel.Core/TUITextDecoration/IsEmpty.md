@@ -3,7 +3,7 @@ uid: TUITextDecoration.IsEmpty
 description: TUITextDecoration.IsEmpty
 ---
 
-# TUITextDecoration.IsEmpty Property
+# TUITextDecoration\.IsEmpty Property
 
 Returns true if the structure has no underline or strikeout\.
 

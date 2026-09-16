@@ -3,7 +3,7 @@ uid: TDrawingParagraphProperties.Indent
 description: TDrawingParagraphProperties.Indent
 ---
 
-# TDrawingParagraphProperties.Indent Property
+# TDrawingParagraphProperties\.Indent Property
 
 Specifies the indent size that is applied to the first line of text in the paragraph\. An  indentation of 0 is considered to be at the same location as marL attribute\.
 

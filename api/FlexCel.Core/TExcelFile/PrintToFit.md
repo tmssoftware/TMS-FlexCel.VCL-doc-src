@@ -3,7 +3,7 @@ uid: TExcelFile.PrintToFit
 description: TExcelFile.PrintToFit
 ---
 
-# TExcelFile.PrintToFit Property
+# TExcelFile\.PrintToFit Property
 
 If true, sheet will be configured to fit on [PrintNumberOfHorizontalPages](PrintNumberOfHorizontalPages.md) x [PrintNumberOfVerticalPages](PrintNumberOfVerticalPages.md)\.
 

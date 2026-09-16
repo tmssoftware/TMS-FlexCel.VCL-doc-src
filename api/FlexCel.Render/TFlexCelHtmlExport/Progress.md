@@ -3,7 +3,7 @@ uid: TFlexCelHtmlExport.Progress
 description: TFlexCelHtmlExport.Progress
 ---
 
-# TFlexCelHtmlExport.Progress Property
+# TFlexCelHtmlExport\.Progress Property
 
 Progress of the export\. This variable can be accessed from other thread or from the OnProgress event\.
 

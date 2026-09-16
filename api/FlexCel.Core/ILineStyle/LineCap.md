@@ -3,7 +3,7 @@ uid: ILineStyle.LineCap
 description: ILineStyle.LineCap
 ---
 
-# ILineStyle.LineCap Property
+# ILineStyle\.LineCap Property
 
 How the line ends\. If null, default from the theme will be used\.
 

@@ -3,7 +3,7 @@ uid: TDrawingTextParagraph.UnknownXml
 description: TDrawingTextParagraph.UnknownXml
 ---
 
-# TDrawingTextParagraph.UnknownXml Property
+# TDrawingTextParagraph\.UnknownXml Property
 
 Contains unknown xml read from an xlsx file\. If this property is not empty, then the value here will be used and the rest of properties will be ignored when saving the file\.
 

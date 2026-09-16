@@ -3,7 +3,7 @@ uid: TGlowEffect.Radius
 description: TGlowEffect.Radius
 ---
 
-# TGlowEffect.Radius Property
+# TGlowEffect\.Radius Property
 
 Radius for the glow\.
 

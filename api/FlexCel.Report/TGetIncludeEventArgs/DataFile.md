@@ -3,7 +3,7 @@ uid: TGetIncludeEventArgs.DataFile
 description: TGetIncludeEventArgs.DataFile
 ---
 
-# TGetIncludeEventArgs.DataFile Property
+# TGetIncludeEventArgs\.DataFile Property
 
 The file with the report\.
 

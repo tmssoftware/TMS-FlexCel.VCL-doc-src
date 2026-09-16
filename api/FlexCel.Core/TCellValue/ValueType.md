@@ -3,7 +3,7 @@ uid: TCellValue.ValueType
 description: TCellValue.ValueType
 ---
 
-# TCellValue.ValueType Property
+# TCellValue\.ValueType Property
 
 Data type of the cell\. All the properties like [IsNumber](IsNumber.md) check this ValueType to know what the cell contains\.
 

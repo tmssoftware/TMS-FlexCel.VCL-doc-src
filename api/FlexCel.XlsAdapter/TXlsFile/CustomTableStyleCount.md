@@ -3,7 +3,7 @@ uid: TXlsFile.CustomTableStyleCount
 description: TXlsFile.CustomTableStyleCount
 ---
 
-# TXlsFile.CustomTableStyleCount Property
+# TXlsFile\.CustomTableStyleCount Property
 
 Returns the number of custom tables styles defined in the workbook\.
 

@@ -3,7 +3,7 @@ uid: IChartSeries.LegendOptions
 description: IChartSeries.LegendOptions
 ---
 
-# IChartSeries.LegendOptions Property
+# IChartSeries\.LegendOptions Property
 
 Options for the legend entry associated with this series\. \(when legend is showing series\), or with a point on the series\. \(when legend is showing all the entries on series\[0\], for example on pie charts\)
 

@@ -3,7 +3,7 @@ uid: IScatterChartOptions.BubblePercentRatio
 description: IScatterChartOptions.BubblePercentRatio
 ---
 
-# IScatterChartOptions.BubblePercentRatio Property
+# IScatterChartOptions\.BubblePercentRatio Property
 
 Percent of largest bubble compared to chart in general\.
 

@@ -3,7 +3,7 @@ uid: TUIRectangle.Height
 description: TUIRectangle.Height
 ---
 
-# TUIRectangle.Height Property
+# TUIRectangle\.Height Property
 
 Height of the rectangle\.
 

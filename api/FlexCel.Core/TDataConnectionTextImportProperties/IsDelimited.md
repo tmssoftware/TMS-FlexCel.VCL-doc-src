@@ -3,7 +3,7 @@ uid: TDataConnectionTextImportProperties.IsDelimited
 description: TDataConnectionTextImportProperties.IsDelimited
 ---
 
-# TDataConnectionTextImportProperties.IsDelimited Property
+# TDataConnectionTextImportProperties\.IsDelimited Property
 
 True if the file is Tab or character delimited\. false if the file should be parsed according to fixed length fields\.
 

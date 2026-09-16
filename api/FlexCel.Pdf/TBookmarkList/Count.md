@@ -3,7 +3,7 @@ uid: TBookmarkList.Count
 description: TBookmarkList.Count
 ---
 
-# TBookmarkList.Count Property
+# TBookmarkList\.Count Property
 
 Number of items on the list\.
 

@@ -3,7 +3,7 @@ uid: TFlxApplyFormat.HasOnlyBorders
 description: TFlxApplyFormat.HasOnlyBorders
 ---
 
-# TFlxApplyFormat.HasOnlyBorders Property
+# TFlxApplyFormat\.HasOnlyBorders Property
 
 Returns true if the format definition contains only borders\.
 

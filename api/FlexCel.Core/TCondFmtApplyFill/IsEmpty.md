@@ -3,7 +3,7 @@ uid: TCondFmtApplyFill.IsEmpty
 description: TCondFmtApplyFill.IsEmpty
 ---
 
-# TCondFmtApplyFill.IsEmpty Property
+# TCondFmtApplyFill\.IsEmpty Property
 
 Returns true if the format does not apply any setting\.
 

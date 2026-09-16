@@ -3,7 +3,7 @@ uid: TDrawingColor.HSL
 description: TDrawingColor.HSL
 ---
 
-# TDrawingColor.HSL Property
+# TDrawingColor\.HSL Property
 
 Returns the color when this structure has an HSL color, as a 0xHHSSLL integer\.
 

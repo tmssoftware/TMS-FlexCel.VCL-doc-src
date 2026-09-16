@@ -3,7 +3,7 @@ uid: TReportTag.StrDeleteLastRow
 description: TReportTag.StrDeleteLastRow
 ---
 
-# TReportTag.StrDeleteLastRow Property
+# TReportTag\.StrDeleteLastRow Property
 
 "X"
 

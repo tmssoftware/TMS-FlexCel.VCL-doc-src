@@ -3,7 +3,7 @@ uid: EFlexCelCoreException.ErrorCode
 description: EFlexCelCoreException.ErrorCode
 ---
 
-# EFlexCelCoreException.ErrorCode Property
+# EFlexCelCoreException\.ErrorCode Property
 
 Error code on the Exception\.
 

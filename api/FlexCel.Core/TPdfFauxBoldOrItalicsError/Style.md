@@ -3,7 +3,7 @@ uid: TPdfFauxBoldOrItalicsError.Style
 description: TPdfFauxBoldOrItalicsError.Style
 ---
 
-# TPdfFauxBoldOrItalicsError.Style Property
+# TPdfFauxBoldOrItalicsError\.Style Property
 
 Style missing from the font\.
 

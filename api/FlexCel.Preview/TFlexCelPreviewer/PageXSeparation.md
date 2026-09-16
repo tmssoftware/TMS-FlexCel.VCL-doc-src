@@ -3,7 +3,7 @@ uid: TFlexCelPreviewer.PageXSeparation
 description: TFlexCelPreviewer.PageXSeparation
 ---
 
-# TFlexCelPreviewer.PageXSeparation Property
+# TFlexCelPreviewer\.PageXSeparation Property
 
 Separation \(in display units\) between a page an the next\. Note that if [CenteredPreview](CenteredPreview.md) is true and the preview window is bigger than the page being displayed, this value has no effect\.
 

@@ -3,7 +3,7 @@ uid: TExcelColor.AutomaticFillType
 description: TExcelColor.AutomaticFillType
 ---
 
-# TExcelColor.AutomaticFillType Property
+# TExcelColor\.AutomaticFillType Property
 
 Returns the type of automatic color, if this structure contains an automatic color\.
 

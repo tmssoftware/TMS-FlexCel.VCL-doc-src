@@ -3,7 +3,7 @@ uid: TTokenStructuredReference.SpaceAfterComma
 description: TTokenStructuredReference.SpaceAfterComma
 ---
 
-# TTokenStructuredReference.SpaceAfterComma Property
+# TTokenStructuredReference\.SpaceAfterComma Property
 
 If true, the text of the structured reference arguments will include a space after every comma separating arguments\.
 

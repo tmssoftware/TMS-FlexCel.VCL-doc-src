@@ -3,7 +3,7 @@ uid: TReportTag.StrAggMax
 description: TReportTag.StrAggMax
 ---
 
-# TReportTag.StrAggMax Property
+# TReportTag\.StrAggMax Property
 
 "Max"
 

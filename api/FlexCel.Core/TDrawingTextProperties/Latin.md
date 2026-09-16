@@ -3,7 +3,7 @@ uid: TDrawingTextProperties.Latin
 description: TDrawingTextProperties.Latin
 ---
 
-# TDrawingTextProperties.Latin Property
+# TDrawingTextProperties\.Latin Property
 
 This element specifies that a Latin font be used for a specific run of text\. This font is specified with a typeface  attribute much like the others but is specifically classified as a Latin font\.
 

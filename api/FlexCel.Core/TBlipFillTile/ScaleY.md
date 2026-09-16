@@ -3,7 +3,7 @@ uid: TBlipFillTile.ScaleY
 description: TBlipFillTile.ScaleY
 ---
 
-# TBlipFillTile.ScaleY Property
+# TBlipFillTile\.ScaleY Property
 
 Indicates the amount to vertically scale the source rectangle\.
 

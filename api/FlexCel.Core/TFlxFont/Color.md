@@ -3,7 +3,7 @@ uid: TFlxFont.Color
 description: TFlxFont.Color
 ---
 
-# TFlxFont.Color Property
+# TFlxFont\.Color Property
 
 Color of the font\.
 

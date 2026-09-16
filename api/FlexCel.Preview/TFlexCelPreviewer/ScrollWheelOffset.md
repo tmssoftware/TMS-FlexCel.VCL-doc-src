@@ -3,7 +3,7 @@ uid: TFlexCelPreviewer.ScrollWheelOffset
 description: TFlexCelPreviewer.ScrollWheelOffset
 ---
 
-# TFlexCelPreviewer.ScrollWheelOffset Property
+# TFlexCelPreviewer\.ScrollWheelOffset Property
 
 How many lines the preview should scroll down when the user move the scroll wheel\.
 

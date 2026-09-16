@@ -3,7 +3,7 @@ uid: TXlsNamedRange.Proc
 description: TXlsNamedRange.Proc
 ---
 
-# TXlsNamedRange.Proc Property
+# TXlsNamedRange\.Proc Property
 
 True if the range is a function on a macro sheet\.
 

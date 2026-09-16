@@ -3,7 +3,7 @@ uid: TDrawingConditionalFormatDataBar.IsGradient
 description: TDrawingConditionalFormatDataBar.IsGradient
 ---
 
-# TDrawingConditionalFormatDataBar.IsGradient Property
+# TDrawingConditionalFormatDataBar\.IsGradient Property
 
 If true, the fill will be a gradient starting in [FillColor](FillColor.md) and ending in white\.
 

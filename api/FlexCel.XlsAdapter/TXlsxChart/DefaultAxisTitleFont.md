@@ -3,7 +3,7 @@ uid: TXlsxChart.DefaultAxisTitleFont
 description: TXlsxChart.DefaultAxisTitleFont
 ---
 
-# TXlsxChart.DefaultAxisTitleFont Property
+# TXlsxChart\.DefaultAxisTitleFont Property
 
 Returns the default font for Axis title in the chart that do not have a font defined\.
 

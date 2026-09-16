@@ -3,7 +3,7 @@ uid: TDataBarColors.FillColor
 description: TDataBarColors.FillColor
 ---
 
-# TDataBarColors.FillColor Property
+# TDataBarColors\.FillColor Property
 
 Fill color for the bar\.
 

@@ -3,7 +3,7 @@ uid: IChartTrendline.Order
 description: IChartTrendline.Order
 ---
 
-# IChartTrendline.Order Property
+# IChartTrendline\.Order Property
 
 Integer between 2 and 6 indicating the order of the polynomial\. This property only applies if the [TrendlineType](TrendlineType.md) is [TChartTrendlineType.Polynomial](../TChartTrendlineType.md)\.
 

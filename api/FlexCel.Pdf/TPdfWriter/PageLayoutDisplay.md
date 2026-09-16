@@ -3,7 +3,7 @@ uid: TPdfWriter.PageLayoutDisplay
 description: TPdfWriter.PageLayoutDisplay
 ---
 
-# TPdfWriter.PageLayoutDisplay Property
+# TPdfWriter\.PageLayoutDisplay Property
 
 Sets the default page display layout when opening the document\.
 

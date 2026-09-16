@@ -3,7 +3,7 @@ uid: TChartRelativeRectangle.WidthMode
 description: TChartRelativeRectangle.WidthMode
 ---
 
-# TChartRelativeRectangle.WidthMode Property
+# TChartRelativeRectangle\.WidthMode Property
 
 Defines how [X2](X2.md) behaves\. When this value is Factor, X2 is a percent of the width of the rectangle\.
 When this value is Edge, X2 is the right coordinate of the rectangle\.

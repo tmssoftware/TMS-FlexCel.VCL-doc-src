@@ -3,7 +3,7 @@ uid: IDataLabel.NumberFormat
 description: IDataLabel.NumberFormat
 ---
 
-# IDataLabel.NumberFormat Property
+# IDataLabel\.NumberFormat Property
 
 Numeric format for this label\.
 

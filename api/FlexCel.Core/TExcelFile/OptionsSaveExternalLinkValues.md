@@ -3,7 +3,7 @@ uid: TExcelFile.OptionsSaveExternalLinkValues
 description: TExcelFile.OptionsSaveExternalLinkValues
 ---
 
-# TExcelFile.OptionsSaveExternalLinkValues Property
+# TExcelFile\.OptionsSaveExternalLinkValues Property
 
 This property has the value of the corresponding option on Excel options\.
 

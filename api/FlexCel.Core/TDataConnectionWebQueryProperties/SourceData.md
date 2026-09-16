@@ -3,7 +3,7 @@ uid: TDataConnectionWebQueryProperties.SourceData
 description: TDataConnectionWebQueryProperties.SourceData
 ---
 
-# TDataConnectionWebQueryProperties.SourceData Property
+# TDataConnectionWebQueryProperties\.SourceData Property
 
 Flag indicating that XML source data should be imported instead of the HTML table itself\.
 

@@ -3,7 +3,7 @@ uid: TFlexCelSVGExport.Workbook
 description: TFlexCelSVGExport.Workbook
 ---
 
-# TFlexCelSVGExport.Workbook Property
+# TFlexCelSVGExport\.Workbook Property
 
 The ExcelFile to print\.
 

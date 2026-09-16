@@ -3,7 +3,7 @@ uid: TXlsFile.OptionsR1C1
 description: TXlsFile.OptionsR1C1
 ---
 
-# TXlsFile.OptionsR1C1 Property
+# TXlsFile\.OptionsR1C1 Property
 
 Use this property to change the reference system used in the file\. Note that this option **only changes how Excel and FlexCel will display the file\.** Internally, the formulas will always be stored in A1 format, and converted by Excel to and from R1C1 if this property is true\. FlexCel will also use this property to render the file when it is set to print formulas\.
 

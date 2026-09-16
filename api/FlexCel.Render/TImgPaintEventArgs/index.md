@@ -25,10 +25,10 @@ Arguments passed on Paint events\.
 
 |Name|Description|
 |---|---|
-|[Graphics](Graphics.md)|Gets the graphics used to paint\.<br />|
-|[PageBounds](PageBounds.md)|Gets the rectangle in which to paint\.<br />|
 |[CurrentPage](CurrentPage.md)|Gets the current page number\.<br />|
 |[CurrentPageInSheet](CurrentPageInSheet.md)|Gets the current page number, relative to the active sheet\.<br />|
+|[Graphics](Graphics.md)|Gets the graphics used to paint\.<br />|
+|[PageBounds](PageBounds.md)|Gets the rectangle in which to paint\.<br />|
 |[TotalPages](TotalPages.md)|Gets the total number of pages available to export\.<br />|
 
 

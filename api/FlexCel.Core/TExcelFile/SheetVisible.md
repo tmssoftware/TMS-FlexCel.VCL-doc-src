@@ -3,7 +3,7 @@ uid: TExcelFile.SheetVisible
 description: TExcelFile.SheetVisible
 ---
 
-# TExcelFile.SheetVisible Property
+# TExcelFile\.SheetVisible Property
 
 Sets the visibility of the active sheet\.
 

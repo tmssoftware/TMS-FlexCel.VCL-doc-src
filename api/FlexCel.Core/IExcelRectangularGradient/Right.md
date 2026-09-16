@@ -3,7 +3,7 @@ uid: IExcelRectangularGradient.Right
 description: IExcelRectangularGradient.Right
 ---
 
-# IExcelRectangularGradient.Right Property
+# IExcelRectangularGradient\.Right Property
 
 Right coordinate for the gradient\. This value must be between 0 and 1, and specifies in percent where the last color of the gradient will be placed\.
 

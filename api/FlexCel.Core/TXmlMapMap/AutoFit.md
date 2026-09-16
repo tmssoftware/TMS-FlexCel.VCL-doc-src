@@ -3,7 +3,7 @@ uid: TXmlMapMap.AutoFit
 description: TXmlMapMap.AutoFit
 ---
 
-# TXmlMapMap.AutoFit Property
+# TXmlMapMap\.AutoFit Property
 
 Indicates if cells should be autofitted after a refresh\.
 

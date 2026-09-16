@@ -3,7 +3,7 @@ uid: TExcelFile.OptionsHideObjects
 description: TExcelFile.OptionsHideObjects
 ---
 
-# TExcelFile.OptionsHideObjects Property
+# TExcelFile\.OptionsHideObjects Property
 
 Used to hide objects in the file\. This option applies to the full workbook, not to every sheet\.
 

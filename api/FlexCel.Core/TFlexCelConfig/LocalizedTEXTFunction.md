@@ -3,7 +3,7 @@ uid: TFlexCelConfig.LocalizedTEXTFunction
 description: TFlexCelConfig.LocalizedTEXTFunction
 ---
 
-# TFlexCelConfig.LocalizedTEXTFunction Property
+# TFlexCelConfig\.LocalizedTEXTFunction Property
 
 The =TEXT\(\) function in Excel changes with the locale\.
 

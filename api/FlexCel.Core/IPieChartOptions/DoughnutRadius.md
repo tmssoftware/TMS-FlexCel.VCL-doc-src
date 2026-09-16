@@ -3,7 +3,7 @@ uid: IPieChartOptions.DoughnutRadius
 description: IPieChartOptions.DoughnutRadius
 ---
 
-# IPieChartOptions.DoughnutRadius Property
+# IPieChartOptions\.DoughnutRadius Property
 
 Radius of the center of the doughnut in Percent\. 0 Means a Pie without hole\.
 Note that in xls charts, 0 means a Pie chart\. In xlsx, 0 still means a doughnut chart, but without hole in the middle\. It is not possible to have a doughnut chart without hole in xls\.

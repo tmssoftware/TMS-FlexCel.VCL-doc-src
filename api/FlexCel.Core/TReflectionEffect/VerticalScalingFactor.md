@@ -3,7 +3,7 @@ uid: TReflectionEffect.VerticalScalingFactor
 description: TReflectionEffect.VerticalScalingFactor
 ---
 
-# TReflectionEffect.VerticalScalingFactor Property
+# TReflectionEffect\.VerticalScalingFactor Property
 
 Vertical scaling factor\. Negative scaling causes a flip\.
 

@@ -3,7 +3,7 @@ uid: TImplementedFunction.Id
 description: TImplementedFunction.Id
 ---
 
-# TImplementedFunction.Id Property
+# TImplementedFunction\.Id Property
 
 Formula ID\. \(Excel specific\)
 

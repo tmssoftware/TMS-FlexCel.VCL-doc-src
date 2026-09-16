@@ -3,7 +3,7 @@ uid: TDataConnectionTextFields.Count
 description: TDataConnectionTextFields.Count
 ---
 
-# TDataConnectionTextFields.Count Property
+# TDataConnectionTextFields\.Count Property
 
 Count of available fields\.
 

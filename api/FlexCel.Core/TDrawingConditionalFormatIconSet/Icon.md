@@ -3,7 +3,7 @@ uid: TDrawingConditionalFormatIconSet.Icon
 description: TDrawingConditionalFormatIconSet.Icon
 ---
 
-# TDrawingConditionalFormatIconSet.Icon Property
+# TDrawingConditionalFormatIconSet\.Icon Property
 
 Icon that must be rendered\. It only makes sense if [HasIcon](HasIcon.md) is true\.
 

@@ -3,7 +3,7 @@ uid: IBaseImageProperties.AutoLine
 description: IBaseImageProperties.AutoLine
 ---
 
-# IBaseImageProperties.AutoLine Property
+# IBaseImageProperties\.AutoLine Property
 
 If true, the object uses automatic line style\.
 

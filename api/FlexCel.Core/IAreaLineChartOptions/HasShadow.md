@@ -3,7 +3,7 @@ uid: IAreaLineChartOptions.HasShadow
 description: IAreaLineChartOptions.HasShadow
 ---
 
-# IAreaLineChartOptions.HasShadow Property
+# IAreaLineChartOptions\.HasShadow Property
 
 True if the chart lines have shadows\. This property doesn't apply for xlsx charts\.
 

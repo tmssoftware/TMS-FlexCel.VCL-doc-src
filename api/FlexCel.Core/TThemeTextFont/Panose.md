@@ -3,7 +3,7 @@ uid: TThemeTextFont.Panose
 description: TThemeTextFont.Panose
 ---
 
-# TThemeTextFont.Panose Property
+# TThemeTextFont\.Panose Property
 
 Specifies the Panose\-1 classification number for the current font\.
 This is a string consisting of 20 hexadecimal digits which defines the Panose\-1 font classification

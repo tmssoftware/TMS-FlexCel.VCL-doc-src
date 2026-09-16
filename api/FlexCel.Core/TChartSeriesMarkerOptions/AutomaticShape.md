@@ -3,7 +3,7 @@ uid: TChartSeriesMarkerOptions.AutomaticShape
 description: TChartSeriesMarkerOptions.AutomaticShape
 ---
 
-# TChartSeriesMarkerOptions.AutomaticShape Property
+# TChartSeriesMarkerOptions\.AutomaticShape Property
 
 When true, marker shapes are assigned automatically\.
 

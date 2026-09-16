@@ -3,7 +3,7 @@ uid: THyperLink.TargetFrame
 description: THyperLink.TargetFrame
 ---
 
-# THyperLink.TargetFrame Property
+# THyperLink\.TargetFrame Property
 
 This parameter is not documented\. You will probably leave it empty\.
 

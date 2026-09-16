@@ -3,7 +3,7 @@ uid: THyperLink.Text
 description: THyperLink.Text
 ---
 
-# THyperLink.Text Property
+# THyperLink\.Text Property
 
 Text of the HyperLink\. This is empty when linking to a cell\.
 

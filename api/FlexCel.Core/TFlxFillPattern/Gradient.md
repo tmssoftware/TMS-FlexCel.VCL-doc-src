@@ -3,7 +3,7 @@ uid: TFlxFillPattern.Gradient
 description: TFlxFillPattern.Gradient
 ---
 
-# TFlxFillPattern.Gradient Property
+# TFlxFillPattern\.Gradient Property
 
 Gradient definition\. This is only valid if [Pattern](Pattern.md) is TFlxPatternStyle\.Gradient\.
 

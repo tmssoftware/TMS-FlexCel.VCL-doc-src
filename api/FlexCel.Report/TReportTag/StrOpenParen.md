@@ -3,7 +3,7 @@ uid: TReportTag.StrOpenParen
 description: TReportTag.StrOpenParen
 ---
 
-# TReportTag.StrOpenParen Property
+# TReportTag\.StrOpenParen Property
 
 Open Parenthesis\.
 

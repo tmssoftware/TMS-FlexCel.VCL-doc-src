@@ -3,7 +3,7 @@ uid: TExcelFile.OutlineSummaryRowsBelowDetail
 description: TExcelFile.OutlineSummaryRowsBelowDetail
 ---
 
-# TExcelFile.OutlineSummaryRowsBelowDetail Property
+# TExcelFile\.OutlineSummaryRowsBelowDetail Property
 
 Determines whether the summary rows should be below or above details on outline\.
 

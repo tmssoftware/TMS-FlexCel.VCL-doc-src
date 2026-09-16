@@ -3,7 +3,7 @@ uid: TVirtualDataTable.ColumnCount
 description: TVirtualDataTable.ColumnCount
 ---
 
-# TVirtualDataTable.ColumnCount Property
+# TVirtualDataTable\.ColumnCount Property
 
 Returns the number of columns of the table\.
 

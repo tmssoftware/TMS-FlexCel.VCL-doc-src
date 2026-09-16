@@ -3,7 +3,7 @@ uid: TDataConnectionTextImportProperties.Delimiter
 description: TDataConnectionTextImportProperties.Delimiter
 ---
 
-# TDataConnectionTextImportProperties.Delimiter Property
+# TDataConnectionTextImportProperties\.Delimiter Property
 
 User\-specified character to be treated as a field delimiter\. Only single characters are supported\.
 

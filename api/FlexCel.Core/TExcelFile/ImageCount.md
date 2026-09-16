@@ -3,7 +3,7 @@ uid: TExcelFile.ImageCount
 description: TExcelFile.ImageCount
 ---
 
-# TExcelFile.ImageCount Property
+# TExcelFile\.ImageCount Property
 
 The number of images in the active sheet\.
 

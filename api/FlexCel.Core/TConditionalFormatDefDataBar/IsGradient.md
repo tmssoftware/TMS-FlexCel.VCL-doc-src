@@ -3,7 +3,7 @@ uid: TConditionalFormatDefDataBar.IsGradient
 description: TConditionalFormatDefDataBar.IsGradient
 ---
 
-# TConditionalFormatDefDataBar.IsGradient Property
+# TConditionalFormatDefDataBar\.IsGradient Property
 
 If true the fill will be a gradient, otherwise it will be a solid color\.
 

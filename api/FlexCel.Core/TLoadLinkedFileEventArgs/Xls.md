@@ -3,7 +3,7 @@ uid: TLoadLinkedFileEventArgs.Xls
 description: TLoadLinkedFileEventArgs.Xls
 ---
 
-# TLoadLinkedFileEventArgs.Xls Property
+# TLoadLinkedFileEventArgs\.Xls Property
 
 Use this parameter to return the ExcelFile that corresponds with [FileName](FileName.md)\.  If you return null here, it means that the file was not found and it will result in \#REF errors in the formulas that reference that file\.
 

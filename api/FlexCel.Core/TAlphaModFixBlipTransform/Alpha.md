@@ -3,7 +3,7 @@ uid: TAlphaModFixBlipTransform.Alpha
 description: TAlphaModFixBlipTransform.Alpha
 ---
 
-# TAlphaModFixBlipTransform.Alpha Property
+# TAlphaModFixBlipTransform\.Alpha Property
 
 Opacity which will be multiplied by the image opacity to get the final opacity\. 0 Means fully opaque and 1 fully transparent\.
 

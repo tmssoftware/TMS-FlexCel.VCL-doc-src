@@ -3,7 +3,7 @@ uid: TDataConnection.ConnectionType
 description: TDataConnection.ConnectionType
 ---
 
-# TDataConnection.ConnectionType Property
+# TDataConnection\.ConnectionType Property
 
 Specifies the data source type\.
 

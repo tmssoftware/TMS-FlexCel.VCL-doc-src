@@ -3,7 +3,7 @@ uid: IDataLabel.EnclosingRect
 description: IDataLabel.EnclosingRect
 ---
 
-# IDataLabel.EnclosingRect Property
+# IDataLabel\.EnclosingRect Property
 
 Calculated rectangle enclosing the label at zero rotation\. The default value is empty unless you manually set it\.
 

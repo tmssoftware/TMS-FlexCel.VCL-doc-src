@@ -3,7 +3,7 @@ uid: TCharAndPos.Pos
 description: TCharAndPos.Pos
 ---
 
-# TCharAndPos.Pos Property
+# TCharAndPos\.Pos Property
 
 Position of the character in the string \(0 based\)\.
 

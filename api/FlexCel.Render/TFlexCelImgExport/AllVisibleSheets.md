@@ -3,7 +3,7 @@ uid: TFlexCelImgExport.AllVisibleSheets
 description: TFlexCelImgExport.AllVisibleSheets
 ---
 
-# TFlexCelImgExport.AllVisibleSheets Property
+# TFlexCelImgExport\.AllVisibleSheets Property
 
 If true, All visible sheets on the workbook will be printed\. See [ResetPageNumberOnEachSheet](ResetPageNumberOnEachSheet.md) for behavior of the page number when printing multiple sheets\.
 

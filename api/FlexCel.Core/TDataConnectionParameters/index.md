@@ -19,10 +19,10 @@ A list of [TDataConnectionParameter](../TDataConnectionParameter/index.md)\.
 |Name|Description|
 |---|---|
 |[Add](Add.md)|Adds a new parameter to the list\.<br />|
-|[RemoveAt](RemoveAt.md)|Removes a parameter from the list\.<br />|
 |[Clear](Clear.md)|Removes all parameters from the list\.<br />|
 |[Equals](Equals.md)|Returns true if object obj has the same data in the same order\.<br />|
 |[GetHashCode](GetHashCode.md)|Returns the hashcode of the object\.<br />|
+|[RemoveAt](RemoveAt.md)|Removes a parameter from the list\.<br />|
 
 
 ## Properties

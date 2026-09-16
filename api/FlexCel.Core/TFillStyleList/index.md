@@ -25,10 +25,10 @@ Represents the fill style characteristics for an autoshape\.
 
 |Name|Description|
 |---|---|
-|[Clone](Clone.md)|Creates a deep copy of this object\.<br />|
 |[Add](Add.md)|Adds a new FillStyle to the collection\. Fill styles must be added in order, first is "Subtle", second is "Moderate", third is "Intense" and there could be new definitions in newer versions of Excel\.<br />|
-|[GetRealFillStyle](GetRealFillStyle.md)|Returns the fill style that results from applying the formatting type to a color\.<br />|
 |[Clear](Clear.md)|Clears all the formatting definitions\.<br />|
+|[Clone](Clone.md)|Creates a deep copy of this object\.<br />|
+|[GetRealFillStyle](GetRealFillStyle.md)|Returns the fill style that results from applying the formatting type to a color\.<br />|
 
 
 ## Properties

@@ -3,7 +3,7 @@ uid: TSVGBlip.ContentType
 description: TSVGBlip.ContentType
 ---
 
-# TSVGBlip.ContentType Property
+# TSVGBlip\.ContentType Property
 
 Content type for the image, like "image/jpeg"\.
 

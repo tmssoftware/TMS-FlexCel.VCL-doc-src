@@ -3,7 +3,7 @@ uid: TDataConnection.DbProperties
 description: TDataConnection.DbProperties
 ---
 
-# TDataConnection.DbProperties Property
+# TDataConnection\.DbProperties Property
 
 This element stores all properties associated with an ODBC or OLE DB external data connection\.
 

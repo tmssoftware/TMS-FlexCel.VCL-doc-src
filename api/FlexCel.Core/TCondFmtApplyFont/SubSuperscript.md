@@ -3,7 +3,7 @@ uid: TCondFmtApplyFont.SubSuperscript
 description: TCondFmtApplyFont.SubSuperscript
 ---
 
-# TCondFmtApplyFont.SubSuperscript Property
+# TCondFmtApplyFont\.SubSuperscript Property
 
 If true, both superscript and subscript will be applied\.
 

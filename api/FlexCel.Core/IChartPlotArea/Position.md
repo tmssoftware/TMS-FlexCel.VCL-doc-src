@@ -3,7 +3,7 @@ uid: IChartPlotArea.Position
 description: IChartPlotArea.Position
 ---
 
-# IChartPlotArea.Position Property
+# IChartPlotArea\.Position Property
 
 Position of the plot area in the chart\.
 

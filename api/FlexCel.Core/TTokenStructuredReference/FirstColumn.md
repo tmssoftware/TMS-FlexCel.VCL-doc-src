@@ -3,7 +3,7 @@ uid: TTokenStructuredReference.FirstColumn
 description: TTokenStructuredReference.FirstColumn
 ---
 
-# TTokenStructuredReference.FirstColumn Property
+# TTokenStructuredReference\.FirstColumn Property
 
 First column where the reference applies\. Set it to empty if the reference applies to the whole table\.
 

@@ -3,7 +3,7 @@ uid: TBookmark.TextStyle
 description: TBookmark.TextStyle
 ---
 
-# TBookmark.TextStyle Property
+# TBookmark\.TextStyle Property
 
 Text style for the bookmark entry\.
 

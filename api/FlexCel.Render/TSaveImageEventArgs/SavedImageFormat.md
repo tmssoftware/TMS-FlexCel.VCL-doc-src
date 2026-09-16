@@ -3,7 +3,7 @@ uid: TSaveImageEventArgs.SavedImageFormat
 description: TSaveImageEventArgs.SavedImageFormat
 ---
 
-# TSaveImageEventArgs.SavedImageFormat Property
+# TSaveImageEventArgs\.SavedImageFormat Property
 
 File format in which the image is\.
 

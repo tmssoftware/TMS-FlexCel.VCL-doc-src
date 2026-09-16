@@ -3,7 +3,7 @@ uid: TDataLabelOptions.ShowBubbles
 description: TDataLabelOptions.ShowBubbles
 ---
 
-# TDataLabelOptions.ShowBubbles Property
+# TDataLabelOptions\.ShowBubbles Property
 
 If true and this label [DataType](DataType.md) is SeriesInfo, this label will display the percentage bubble size\. This value only applies to BUBBLE charts\.
 

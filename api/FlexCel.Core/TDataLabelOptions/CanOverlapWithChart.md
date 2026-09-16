@@ -3,7 +3,7 @@ uid: TDataLabelOptions.CanOverlapWithChart
 description: TDataLabelOptions.CanOverlapWithChart
 ---
 
-# TDataLabelOptions.CanOverlapWithChart Property
+# TDataLabelOptions\.CanOverlapWithChart Property
 
 If true, the label is not used when calculating the plot area dimensions\.
 

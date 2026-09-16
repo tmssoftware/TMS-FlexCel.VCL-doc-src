@@ -3,7 +3,7 @@ uid: TFlexCelReport.BeforeGenerateWorkbook
 description: TFlexCelReport.BeforeGenerateWorkbook
 ---
 
-# TFlexCelReport.BeforeGenerateWorkbook Event
+# TFlexCelReport\.BeforeGenerateWorkbook Event
 
 Fires before starting to generate the report but after the template has been loaded\.
 It allows to do some in\-place modifications to the template before generating the report\.
@@ -13,7 +13,7 @@ It allows to do some in\-place modifications to the template before generating t
 
 **Unit:** [FlexCel.Report](../index.md)
 
-<pre><code class="lang-delphi hljs">property <a href="../TFlexCelReport/index.md">TFlexCelReport</a>.BeforeGenerateWorkbook: TGenerateEventHandler</code></pre>
+<pre><code class="lang-delphi hljs">property <a href="../TFlexCelReport/index.md">TFlexCelReport</a>.BeforeGenerateWorkbook: <a href="../TGenerateEventHandler.md">TGenerateEventHandler</a></code></pre>
 
 ## See also
 

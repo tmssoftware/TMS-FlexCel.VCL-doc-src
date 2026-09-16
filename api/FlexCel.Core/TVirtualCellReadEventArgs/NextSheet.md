@@ -3,7 +3,7 @@ uid: TVirtualCellReadEventArgs.NextSheet
 description: TVirtualCellReadEventArgs.NextSheet
 ---
 
-# TVirtualCellReadEventArgs.NextSheet Property
+# TVirtualCellReadEventArgs\.NextSheet Property
 
 Sheet where the next cell will be\. By default, this value is set automatically, but you can change to other value to skip some sheets, or set it to null or empty to end reading the file\.
 

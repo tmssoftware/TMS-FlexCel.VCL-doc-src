@@ -3,7 +3,7 @@ uid: TDrawingParagraphProperties.Lvl
 description: TDrawingParagraphProperties.Lvl
 ---
 
-# TDrawingParagraphProperties.Lvl Property
+# TDrawingParagraphProperties\.Lvl Property
 
 Specifies the particular level text properties that this paragraph follows\.
 

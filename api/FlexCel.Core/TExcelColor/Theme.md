@@ -3,7 +3,7 @@ uid: TExcelColor.Theme
 description: TExcelColor.Theme
 ---
 
-# TExcelColor.Theme Property
+# TExcelColor\.Theme Property
 
 Returns the color if it is one of the entries in the theme palette \(1 based\)\.
 

@@ -3,7 +3,7 @@ uid: IXmlMap.IsEmpty
 description: IXmlMap.IsEmpty
 ---
 
-# IXmlMap.IsEmpty Property
+# IXmlMap\.IsEmpty Property
 
 Returns true if this class has no schemas or maps\.
 

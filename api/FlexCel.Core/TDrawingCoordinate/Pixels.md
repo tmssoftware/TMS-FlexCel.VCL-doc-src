@@ -3,7 +3,7 @@ uid: TDrawingCoordinate.Pixels
 description: TDrawingCoordinate.Pixels
 ---
 
-# TDrawingCoordinate.Pixels Property
+# TDrawingCoordinate\.Pixels Property
 
 Value of the coordinate in pixels
 

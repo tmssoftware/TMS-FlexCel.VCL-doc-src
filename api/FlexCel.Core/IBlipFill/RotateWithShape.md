@@ -3,7 +3,7 @@ uid: IBlipFill.RotateWithShape
 description: IBlipFill.RotateWithShape
 ---
 
-# IBlipFill.RotateWithShape Property
+# IBlipFill\.RotateWithShape Property
 
 Specifies that the fill should rotate with the shape\.
 

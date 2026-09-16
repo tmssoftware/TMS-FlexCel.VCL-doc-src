@@ -3,7 +3,7 @@ uid: TFlexCelSVGExport.LinksInNewWindow
 description: TFlexCelSVGExport.LinksInNewWindow
 ---
 
-# TFlexCelSVGExport.LinksInNewWindow Property
+# TFlexCelSVGExport\.LinksInNewWindow Property
 
 IF true, links will be exported to open in a new window\. \(using the show=new attribute in svg links\)
 

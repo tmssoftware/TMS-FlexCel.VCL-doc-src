@@ -3,7 +3,7 @@ uid: IThemeFontScheme.Name
 description: IThemeFontScheme.Name
 ---
 
-# IThemeFontScheme.Name Property
+# IThemeFontScheme\.Name Property
 
 Name of the font definition\. This will be shown in Excel UI\.
 

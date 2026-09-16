@@ -3,7 +3,7 @@ uid: TInnerShadowEffect.ShadowColor
 description: TInnerShadowEffect.ShadowColor
 ---
 
-# TInnerShadowEffect.ShadowColor Property
+# TInnerShadowEffect\.ShadowColor Property
 
 Color for the shadow\.
 

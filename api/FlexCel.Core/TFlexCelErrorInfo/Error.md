@@ -3,7 +3,7 @@ uid: TFlexCelErrorInfo.Error
 description: TFlexCelErrorInfo.Error
 ---
 
-# TFlexCelErrorInfo.Error Property
+# TFlexCelErrorInfo\.Error Property
 
 Error type that this class is holding\.
 

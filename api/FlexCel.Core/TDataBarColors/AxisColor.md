@@ -3,7 +3,7 @@ uid: TDataBarColors.AxisColor
 description: TDataBarColors.AxisColor
 ---
 
-# TDataBarColors.AxisColor Property
+# TDataBarColors\.AxisColor Property
 
 Color for the axis\.
 

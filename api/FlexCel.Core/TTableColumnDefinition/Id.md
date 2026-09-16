@@ -3,7 +3,7 @@ uid: TTableColumnDefinition.Id
 description: TTableColumnDefinition.Id
 ---
 
-# TTableColumnDefinition.Id Property
+# TTableColumnDefinition\.Id Property
 
 Unique id that identifies this column\. It should not change when the column name changes or the column moves its position\.
 

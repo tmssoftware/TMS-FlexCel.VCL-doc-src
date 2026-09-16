@@ -3,7 +3,7 @@ uid: IChartSeries.DataValues
 description: IChartSeries.DataValues
 ---
 
-# IChartSeries.DataValues Property
+# IChartSeries\.DataValues Property
 
 Actual values for the series\.
 

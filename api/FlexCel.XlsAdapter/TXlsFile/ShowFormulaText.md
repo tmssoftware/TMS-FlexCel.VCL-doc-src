@@ -3,7 +3,7 @@ uid: TXlsFile.ShowFormulaText
 description: TXlsFile.ShowFormulaText
 ---
 
-# TXlsFile.ShowFormulaText Property
+# TXlsFile\.ShowFormulaText Property
 
 When true, the formula text will be displayed instead of the formula value\. You can also set this option with [TExcelFile.SheetOptions](../../FlexCel.Core/TExcelFile/SheetOptions.md) This property can work in different windows depending on the value of [TExcelFile.ActiveWindow](../../FlexCel.Core/TExcelFile/ActiveWindow.md)
 

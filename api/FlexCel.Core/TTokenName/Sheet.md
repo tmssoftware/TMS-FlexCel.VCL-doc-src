@@ -3,7 +3,7 @@ uid: TTokenName.Sheet
 description: TTokenName.Sheet
 ---
 
-# TTokenName.Sheet Property
+# TTokenName\.Sheet Property
 
 Sheet where the name is stored\. Make it null or empty if the name is a global name\.
 

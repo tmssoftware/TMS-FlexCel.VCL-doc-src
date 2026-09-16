@@ -3,7 +3,7 @@ uid: TPdfAttachmentWriter.BytesWritten
 description: TPdfAttachmentWriter.BytesWritten
 ---
 
-# TPdfAttachmentWriter.BytesWritten Property
+# TPdfAttachmentWriter\.BytesWritten Property
 
 Returns how many bytes have been written into the stream\.
 

@@ -3,7 +3,7 @@ uid: TSVGExportParameters.Title
 description: TSVGExportParameters.Title
 ---
 
-# TSVGExportParameters.Title Property
+# TSVGExportParameters\.Title Property
 
 Title to be saved with the image\. If null or empty, the svg image will have no title tag\.
 

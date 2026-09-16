@@ -3,7 +3,7 @@ uid: TXlsFile.HyperLinkCount
 description: TXlsFile.HyperLinkCount
 ---
 
-# TXlsFile.HyperLinkCount Property
+# TXlsFile\.HyperLinkCount Property
 
 The count of hyperlinks on the active sheet
 

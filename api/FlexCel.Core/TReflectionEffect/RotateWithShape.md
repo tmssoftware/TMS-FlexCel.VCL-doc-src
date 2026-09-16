@@ -3,7 +3,7 @@ uid: TReflectionEffect.RotateWithShape
 description: TReflectionEffect.RotateWithShape
 ---
 
-# TReflectionEffect.RotateWithShape Property
+# TReflectionEffect\.RotateWithShape Property
 
 If true, the effect rotates with the shape\.
 

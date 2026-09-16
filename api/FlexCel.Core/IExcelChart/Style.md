@@ -3,7 +3,7 @@ uid: IExcelChart.Style
 description: IExcelChart.Style
 ---
 
-# IExcelChart.Style Property
+# IExcelChart\.Style Property
 
 This is a number between 1 and 48 which defines many standard properties for the chart, like the default line width for the series or the legend\.
 The default style is 2\.

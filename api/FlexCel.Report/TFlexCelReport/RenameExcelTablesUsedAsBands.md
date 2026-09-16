@@ -3,7 +3,7 @@ uid: TFlexCelReport.RenameExcelTablesUsedAsBands
 description: TFlexCelReport.RenameExcelTablesUsedAsBands
 ---
 
-# TFlexCelReport.RenameExcelTablesUsedAsBands Property
+# TFlexCelReport\.RenameExcelTablesUsedAsBands Property
 
 Determines if FlexCel will rename Tables used as band definitions after the report is run to remove the extra "\_\_" in the name\.
 

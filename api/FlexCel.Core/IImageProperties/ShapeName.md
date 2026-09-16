@@ -3,7 +3,7 @@ uid: IImageProperties.ShapeName
 description: IImageProperties.ShapeName
 ---
 
-# IImageProperties.ShapeName Property
+# IImageProperties\.ShapeName Property
 
 Name of the image\. It sets/gets the name of the shape for the image as you can see it on the names combobox\.
 If you set it to null Excel will show a generic name, like "Picture 31"

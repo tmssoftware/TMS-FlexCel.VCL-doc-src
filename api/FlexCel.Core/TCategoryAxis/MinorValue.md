@@ -3,7 +3,7 @@ uid: TCategoryAxis.MinorValue
 description: TCategoryAxis.MinorValue
 ---
 
-# TCategoryAxis.MinorValue Property
+# TCategoryAxis\.MinorValue Property
 
 Value for the minor unit, when not set to automatic in [AxisOptions](AxisOptions.md)\.
 

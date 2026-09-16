@@ -3,9 +3,9 @@ uid: TPdfWriter.PdfType
 description: TPdfWriter.PdfType
 ---
 
-# TPdfWriter.PdfType Property
+# TPdfWriter\.PdfType Property
 
-Defines the type of pdf being created\. Note that if you set this property to other value than standard, other properties might be ignored\. For example, when creating a PDF/A file all fonts must be embedded so  the value of the FontEmbed property will be ignored\.
+Defines the type of PDF being created\. Note that if you set this property to other value than Standard, other properties might be ignored\. For example, when creating a PDF/A file, all fonts must be embedded, so  the value of the FontEmbed property will be ignored\.
 
 
 ## Syntax

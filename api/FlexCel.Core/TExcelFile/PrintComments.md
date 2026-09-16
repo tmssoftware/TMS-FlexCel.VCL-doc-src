@@ -3,7 +3,7 @@ uid: TExcelFile.PrintComments
 description: TExcelFile.PrintComments
 ---
 
-# TExcelFile.PrintComments Property
+# TExcelFile\.PrintComments Property
 
 Determines how the comments will be printed\.
 

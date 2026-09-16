@@ -26,10 +26,10 @@ A list of bookmarks\.
 |Name|Description|
 |---|---|
 |[Add](Add.md)|Adds a new bookmark to the list\.<br />|
-|[Clear](Clear.md)|Removes all items on the list\.<br />|
-|[RemoveAt](RemoveAt.md)|Removes item at position index on the list\.<br />|
 |[AllOpenCount](AllOpenCount.md)|Returns the count of all open bookmarks in all levels\.<br />|
+|[Clear](Clear.md)|Removes all items on the list\.<br />|
 |[Clone](Clone.md)|Returns a deep copy of this object\.<br />|
+|[RemoveAt](RemoveAt.md)|Removes item at position index on the list\.<br />|
 
 
 ## Properties

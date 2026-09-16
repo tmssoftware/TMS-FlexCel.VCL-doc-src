@@ -3,7 +3,7 @@ uid: TUISize.Empty
 description: TUISize.Empty
 ---
 
-# TUISize.Empty Property
+# TUISize\.Empty Property
 
 Returns a size with width = 0 and height = 0\.
 

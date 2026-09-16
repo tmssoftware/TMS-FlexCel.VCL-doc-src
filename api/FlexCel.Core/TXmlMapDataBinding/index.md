@@ -27,11 +27,11 @@ Specifies how the XML binding works\.
 
 |Name|Description|
 |---|---|
+|[ConnectionID](ConnectionID.md)|Connection id for an external connection\. Must exist if [FileBinding](FileBinding.md) is true\.<br />|
+|[DataBindingLoadMode](DataBindingLoadMode.md)|Loading mode for this databinding\.<br />|
 |[DataBindingName](DataBindingName.md)|Specifies the name for the binding\. Must be unique\.<br />|
 |[FileBinding](FileBinding.md)|If true the binding must be recovered from a file and the path to the file is in the connection element\.<br />|
-|[ConnectionID](ConnectionID.md)|Connection id for an external connection\. Must exist if [FileBinding](FileBinding.md) is true\.<br />|
 |[FileBindingName](FileBindingName.md)|Name of the file binding\. Must be unique\.<br />|
-|[DataBindingLoadMode](DataBindingLoadMode.md)|Loading mode for this databinding\.<br />|
 |[Xml](Xml.md)|Actual data defining the databinding\.<br />|
 
 

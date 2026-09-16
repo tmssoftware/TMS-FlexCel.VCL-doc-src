@@ -3,7 +3,7 @@ uid: TDataConnectionOlapProperties.LocalConnection
 description: TDataConnectionOlapProperties.LocalConnection
 ---
 
-# TDataConnectionOlapProperties.LocalConnection Property
+# TDataConnectionOlapProperties\.LocalConnection Property
 
 Specifies a connection string to use when a local cube is available\. This is used when local is set to true\.
 

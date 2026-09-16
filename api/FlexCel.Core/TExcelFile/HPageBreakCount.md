@@ -3,7 +3,7 @@ uid: TExcelFile.HPageBreakCount
 description: TExcelFile.HPageBreakCount
 ---
 
-# TExcelFile.HPageBreakCount Property
+# TExcelFile\.HPageBreakCount Property
 
 The number of horizontal page breaks in the active sheet\.
 

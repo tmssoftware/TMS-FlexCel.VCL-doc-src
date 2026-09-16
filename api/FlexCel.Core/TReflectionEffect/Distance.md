@@ -3,7 +3,7 @@ uid: TReflectionEffect.Distance
 description: TReflectionEffect.Distance
 ---
 
-# TReflectionEffect.Distance Property
+# TReflectionEffect\.Distance Property
 
 Distance of the reflection\.
 

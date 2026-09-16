@@ -3,7 +3,7 @@ uid: TPdfWriter.PageSize
 description: TPdfWriter.PageSize
 ---
 
-# TPdfWriter.PageSize Property
+# TPdfWriter\.PageSize Property
 
 Page size of the active page\. You can change it \*before\* calling NewPage\(\) and it will change for the new sheets\.
 Note that once NewPage\(\) \(or BeginDoc\(\) for the first page\) is called, the page size will remain constant for that page\.

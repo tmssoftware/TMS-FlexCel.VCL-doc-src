@@ -3,7 +3,7 @@ uid: TExcelFile.SheetCodeName
 description: TExcelFile.SheetCodeName
 ---
 
-# TExcelFile.SheetCodeName Property
+# TExcelFile\.SheetCodeName Property
 
 Returns or sets the codename of a sheet, that is an unique identifier assigned to the sheet when it is created\.
 Codenames are useful because they never change once the file is created, and they are what macros reference\.

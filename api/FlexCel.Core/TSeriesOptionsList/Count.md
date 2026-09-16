@@ -3,7 +3,7 @@ uid: TSeriesOptionsList.Count
 description: TSeriesOptionsList.Count
 ---
 
-# TSeriesOptionsList.Count Property
+# TSeriesOptionsList\.Count Property
 
 Count of options\.
 

@@ -3,7 +3,7 @@ uid: TFlexCelConfig.XlsxCompressionLevel
 description: TFlexCelConfig.XlsxCompressionLevel
 ---
 
-# TFlexCelConfig.XlsxCompressionLevel Property
+# TFlexCelConfig\.XlsxCompressionLevel Property
 
 Zip compression level when creating xlsx files\. This setting is the same as TExcelFile\.XlsxCompressionLevel\.
 Xlsx files are zip files, and you can compress more or less by trading speed for file size\. The faster you can create the file, the bigger the xlsx files created will be\.

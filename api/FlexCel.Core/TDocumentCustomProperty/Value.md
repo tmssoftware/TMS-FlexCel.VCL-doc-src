@@ -3,7 +3,7 @@ uid: TDocumentCustomProperty.Value
 description: TDocumentCustomProperty.Value
 ---
 
-# TDocumentCustomProperty.Value Property
+# TDocumentCustomProperty\.Value Property
 
 Value of the property\. You must ensure it is valid for the proptype\.
 

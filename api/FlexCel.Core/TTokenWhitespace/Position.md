@@ -3,7 +3,7 @@ uid: TTokenWhitespace.Position
 description: TTokenWhitespace.Position
 ---
 
-# TTokenWhitespace.Position Property
+# TTokenWhitespace\.Position Property
 
 Position of the whitespace\.
 

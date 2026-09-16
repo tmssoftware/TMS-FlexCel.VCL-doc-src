@@ -25,8 +25,8 @@ Whitespace like " "\. This is not used in calculation, but it is use by Excel to
 
 |Name|Description|
 |---|---|
-|[WhitespaceCount](WhitespaceCount.md)|Number of whitespace characters in this token\.<br />|
 |[Character](Character.md)|Character used in the whitespace\.<br />|
 |[Position](Position.md)|Position of the whitespace\.<br />|
+|[WhitespaceCount](WhitespaceCount.md)|Number of whitespace characters in this token\.<br />|
 
 

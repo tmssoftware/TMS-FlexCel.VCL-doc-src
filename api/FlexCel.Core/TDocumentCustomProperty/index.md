@@ -35,13 +35,13 @@ Encapsulates a custom property of an Excel file\.
 
 |Name|Description|
 |---|---|
-|[Name](Name.md)|Name of the custom property\.<br />|
-|[FmtId](FmtId.md)|GUID for the property\. In Excel this value is always \{&#8203;D5CDD505\-&#8203;2E9C\-&#8203;101B\-&#8203;9397\-&#8203;08002B2CF9AE\} You can leave this null, in this case \{&#8203;D5CDD505\-&#8203;2E9C\-&#8203;101B\-&#8203;9397\-&#8203;08002B2CF9AE\} will be used\.<br />|
-|[PId](PId.md)|Numeric Id for the property\. This value is for OLE compatibility and must be unique\.<br />|
-|[LinkTarget](LinkTarget.md)|Specifies the name of a bookmark in the  table or named cell from which the value of this custom document  property should be extracted\. You can normally leave this value null\.<br />|
-|[PropType](PropType.md)|Type of the property\. Note that while you can define any variant, Excel only recognizes the types in this enumeration\.<br />|
-|[Value](Value.md)|Value of the property\. You must ensure it is valid for the proptype\.<br />|
-|[PropTypeStr](PropTypeStr.md)|Used for unknown prop types, it handles the string with the name\. You shouldn't need to use this\.<br />|
 |[Empty](Empty.md)|Returns an empty property|
+|[FmtId](FmtId.md)|GUID for the property\. In Excel this value is always \{&#8203;D5CDD505\-&#8203;2E9C\-&#8203;101B\-&#8203;9397\-&#8203;08002B2CF9AE\} You can leave this null, in this case \{&#8203;D5CDD505\-&#8203;2E9C\-&#8203;101B\-&#8203;9397\-&#8203;08002B2CF9AE\} will be used\.<br />|
+|[LinkTarget](LinkTarget.md)|Specifies the name of a bookmark in the  table or named cell from which the value of this custom document  property should be extracted\. You can normally leave this value null\.<br />|
+|[Name](Name.md)|Name of the custom property\.<br />|
+|[PId](PId.md)|Numeric Id for the property\. This value is for OLE compatibility and must be unique\.<br />|
+|[PropType](PropType.md)|Type of the property\. Note that while you can define any variant, Excel only recognizes the types in this enumeration\.<br />|
+|[PropTypeStr](PropTypeStr.md)|Used for unknown prop types, it handles the string with the name\. You shouldn't need to use this\.<br />|
+|[Value](Value.md)|Value of the property\. You must ensure it is valid for the proptype\.<br />|
 
 

@@ -3,7 +3,7 @@ uid: TDrawingParagraphProperties.EaLnBrk
 description: TDrawingParagraphProperties.EaLnBrk
 ---
 
-# TDrawingParagraphProperties.EaLnBrk Property
+# TDrawingParagraphProperties\.EaLnBrk Property
 
 Specifies whether an East Asian word can be broken in half and wrapped onto the next line without a hyphen being added\.
 

@@ -3,7 +3,7 @@ uid: TVirtualDataTable.TableName
 description: TVirtualDataTable.TableName
 ---
 
-# TVirtualDataTable.TableName Property
+# TVirtualDataTable\.TableName Property
 
 Name for the virtual data table\. Note that this name is \*not\* used anywhere in FlexCel code, except to report errors\.
 The Table names that are used on reports are the ones in [TVirtualDataTableState](../TVirtualDataTableState/index.md)

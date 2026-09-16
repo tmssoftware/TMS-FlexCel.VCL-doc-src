@@ -3,7 +3,7 @@ uid: TFlexCelReportProgress.Counter
 description: TFlexCelReportProgress.Counter
 ---
 
-# TFlexCelReportProgress.Counter Property
+# TFlexCelReportProgress\.Counter Property
 
 A meaningless counter that is increased from time to time\. It is not possible to know what is the final count\.
 

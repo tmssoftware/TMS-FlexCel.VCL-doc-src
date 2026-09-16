@@ -27,8 +27,8 @@ One of EffectLst or EffectDag will always be null\.
 
 |Name|Description|
 |---|---|
-|[EffectLst](EffectLst.md)|Effect encapsulated by this class when it contains a list of effects\. If it contains a DAG, this property is null ans [EffectDag](EffectDag.md) will contain the DAG\.<br />|
 |[EffectDag](EffectDag.md)|Effect encapsulated by this class when it contains a Directed Acyclic Graph of effects\. If it contains a list, this property is null ans [EffectLst](EffectLst.md) will contain the List\.<br />|
+|[EffectLst](EffectLst.md)|Effect encapsulated by this class when it contains a list of effects\. If it contains a DAG, this property is null ans [EffectDag](EffectDag.md) will contain the DAG\.<br />|
 |[HasEffects](HasEffects.md)|Returns true if there are any effects\.<br />|
 |[IsDag](IsDag.md)|Returns true if this class contains a DAG\. When true, [EffectDag](EffectDag.md) is not null\.<br />|
 

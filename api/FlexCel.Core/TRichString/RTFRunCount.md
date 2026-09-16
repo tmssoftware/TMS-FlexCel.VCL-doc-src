@@ -3,7 +3,7 @@ uid: TRichString.RTFRunCount
 description: TRichString.RTFRunCount
 ---
 
-# TRichString.RTFRunCount Property
+# TRichString\.RTFRunCount Property
 
 Number of RTF runs\.
 

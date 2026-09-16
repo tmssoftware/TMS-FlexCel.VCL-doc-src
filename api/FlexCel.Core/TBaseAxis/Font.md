@@ -3,7 +3,7 @@ uid: TBaseAxis.Font
 description: TBaseAxis.Font
 ---
 
-# TBaseAxis.Font Property
+# TBaseAxis\.Font Property
 
 Font used on this axis\.
 

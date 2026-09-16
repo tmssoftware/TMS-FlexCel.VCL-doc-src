@@ -3,7 +3,7 @@ uid: TProtection.EncryptionAlgorithmXlsx
 description: TProtection.EncryptionAlgorithmXlsx
 ---
 
-# TProtection.EncryptionAlgorithmXlsx Property
+# TProtection\.EncryptionAlgorithmXlsx Property
 
 Encryption algorithm for xlsx files\.
 

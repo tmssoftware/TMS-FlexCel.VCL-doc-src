@@ -3,7 +3,7 @@ uid: TChartErrorBars.IsTShaped
 description: TChartErrorBars.IsTShaped
 ---
 
-# TChartErrorBars.IsTShaped Property
+# TChartErrorBars\.IsTShaped Property
 
 If true, the error bar has a top line like a T\.
 

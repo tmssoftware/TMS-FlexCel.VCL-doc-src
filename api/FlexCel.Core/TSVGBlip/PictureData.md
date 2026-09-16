@@ -3,7 +3,7 @@ uid: TSVGBlip.PictureData
 description: TSVGBlip.PictureData
 ---
 
-# TSVGBlip.PictureData Property
+# TSVGBlip\.PictureData Property
 
 Data of the SVG image\. This is normally UTF\-8 encoded\.
 

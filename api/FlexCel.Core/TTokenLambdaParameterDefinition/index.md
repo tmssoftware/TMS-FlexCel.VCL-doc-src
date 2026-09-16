@@ -24,7 +24,7 @@ A parameter definition in the expression of a =LET or =LAMBDA function, like the
 
 |Name|Description|
 |---|---|
-|[ParameterName](ParameterName.md)|Name of the parameter\.<br />|
 |[IsOptional](IsOptional.md)|Returns true if the parameter is optional\.<br />|
+|[ParameterName](ParameterName.md)|Name of the parameter\.<br />|
 
 

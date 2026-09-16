@@ -3,7 +3,7 @@ uid: ICustomTableStyle.CanBeUsedAsTable
 description: ICustomTableStyle.CanBeUsedAsTable
 ---
 
-# ICustomTableStyle.CanBeUsedAsTable Property
+# ICustomTableStyle\.CanBeUsedAsTable Property
 
 If true, then this table style can be used in normal tables\.
 

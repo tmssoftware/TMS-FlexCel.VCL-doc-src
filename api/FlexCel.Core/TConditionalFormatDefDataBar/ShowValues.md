@@ -3,7 +3,7 @@ uid: TConditionalFormatDefDataBar.ShowValues
 description: TConditionalFormatDefDataBar.ShowValues
 ---
 
-# TConditionalFormatDefDataBar.ShowValues Property
+# TConditionalFormatDefDataBar\.ShowValues Property
 
 If true, we will show the values in the cell where the databar is\.
 

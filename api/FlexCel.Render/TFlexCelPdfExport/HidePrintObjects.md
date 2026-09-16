@@ -3,7 +3,7 @@ uid: TFlexCelPdfExport.HidePrintObjects
 description: TFlexCelPdfExport.HidePrintObjects
 ---
 
-# TFlexCelPdfExport.HidePrintObjects Property
+# TFlexCelPdfExport\.HidePrintObjects Property
 
 Select which kind of objects should not be printed or exported to pdf\.
 

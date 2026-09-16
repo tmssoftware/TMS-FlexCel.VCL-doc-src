@@ -3,7 +3,7 @@ uid: THtmlSpreadView.IgnorePrintAreas
 description: THtmlSpreadView.IgnorePrintAreas
 ---
 
-# THtmlSpreadView.IgnorePrintAreas Property
+# THtmlSpreadView\.IgnorePrintAreas Property
 
 If true, we will use the maximum visible column and row in the spreadsheet, ignoring any print area that might be set in the sheet\. This will make the generated file look more like the interactive view in Excel, and not like what the printed page would look like\.
 

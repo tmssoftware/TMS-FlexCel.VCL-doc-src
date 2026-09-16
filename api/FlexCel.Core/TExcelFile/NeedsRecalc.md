@@ -3,7 +3,7 @@ uid: TExcelFile.NeedsRecalc
 description: TExcelFile.NeedsRecalc
 ---
 
-# TExcelFile.NeedsRecalc Property
+# TExcelFile\.NeedsRecalc Property
 
 True if the file has been modified after loading\.
 

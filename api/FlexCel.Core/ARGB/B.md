@@ -3,7 +3,7 @@ uid: ARGB.B
 description: ARGB.B
 ---
 
-# ARGB.B Property
+# ARGB\.B Property
 
 Blue component, between 0 and 255
 

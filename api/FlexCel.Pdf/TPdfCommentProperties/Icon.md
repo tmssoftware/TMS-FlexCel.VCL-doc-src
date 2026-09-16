@@ -3,7 +3,7 @@ uid: TPdfCommentProperties.Icon
 description: TPdfCommentProperties.Icon
 ---
 
-# TPdfCommentProperties.Icon Property
+# TPdfCommentProperties\.Icon Property
 
 Icon for the comment\. Only visible if [CommentType](CommentType.md) is Text
 

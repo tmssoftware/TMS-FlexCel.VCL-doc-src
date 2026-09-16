@@ -3,7 +3,7 @@ uid: TPngInformation.Height
 description: TPngInformation.Height
 ---
 
-# TPngInformation.Height Property
+# TPngInformation\.Height Property
 
 Height of the image on pixels\.
 

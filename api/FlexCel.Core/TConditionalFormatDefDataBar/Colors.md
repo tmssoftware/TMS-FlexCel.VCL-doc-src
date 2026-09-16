@@ -3,7 +3,7 @@ uid: TConditionalFormatDefDataBar.Colors
 description: TConditionalFormatDefDataBar.Colors
 ---
 
-# TConditionalFormatDefDataBar.Colors Property
+# TConditionalFormatDefDataBar\.Colors Property
 
 Colors that define the databar\.
 

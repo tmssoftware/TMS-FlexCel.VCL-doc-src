@@ -3,7 +3,7 @@ uid: TExcelFile.FirstSheetVisible
 description: TExcelFile.FirstSheetVisible
 ---
 
-# TExcelFile.FirstSheetVisible Property
+# TExcelFile\.FirstSheetVisible Property
 
 This is the first sheet that will be visible in the bar of sheet tabs at the bottom\. Normally you will want this to be 1\.
 Note that every time you change [ActiveSheet](ActiveSheet.md) this value gets reset, because it makes no sense to preserve it\.

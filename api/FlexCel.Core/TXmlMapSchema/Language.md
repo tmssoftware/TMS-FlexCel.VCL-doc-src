@@ -3,7 +3,7 @@ uid: TXmlMapSchema.Language
 description: TXmlMapSchema.Language
 ---
 
-# TXmlMapSchema.Language Property
+# TXmlMapSchema\.Language Property
 
 Specifies the media type of the schema language\.
 

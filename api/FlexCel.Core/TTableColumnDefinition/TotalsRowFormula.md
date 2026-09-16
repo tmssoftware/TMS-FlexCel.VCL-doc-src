@@ -3,7 +3,7 @@ uid: TTableColumnDefinition.TotalsRowFormula
 description: TTableColumnDefinition.TotalsRowFormula
 ---
 
-# TTableColumnDefinition.TotalsRowFormula Property
+# TTableColumnDefinition\.TotalsRowFormula Property
 
 A custom formula for aggregating values from the column\. This formula is only used if [TotalsRowFunction](TotalsRowFunction.md) is set to "Custom"\. Additionally, FlexCel will ignore this value when adding a table with totals and read the formula from the cell itself\.
 If the table doesn't have a total row, then this value will be used\.

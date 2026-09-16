@@ -3,7 +3,7 @@ uid: TExcelFile.SheetWindowOptions
 description: TExcelFile.SheetWindowOptions
 ---
 
-# TExcelFile.SheetWindowOptions Property
+# TExcelFile\.SheetWindowOptions Property
 
 This property groups a lot of properties of all the sheets in the workbook, like for example if the sheet tab bar at the bottom is visible\.
 Look also at [SheetOptions](SheetOptions.md) for options that affect only the active sheet\.

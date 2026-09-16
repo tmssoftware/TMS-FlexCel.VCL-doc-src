@@ -3,7 +3,7 @@ uid: TXlsFile.ExcelFileFormat
 description: TXlsFile.ExcelFileFormat
 ---
 
-# TXlsFile.ExcelFileFormat Property
+# TXlsFile\.ExcelFileFormat Property
 
 Empty files created by different versions of Excel can have different characteristics\. For example, the default font in an Excel 2003  file is Arial, while the default in 2007 is Calibri, and in 2023 it is Aptos\. This property returns the version of file that is loaded into FlexCel\.
 When calling [TExcelFile.NewFile\(Integer, TExcelFileFormat\)](../../FlexCel.Core/TExcelFile/NewFile.md#texcelfilenewfileinteger-texcelfileformat) or when opening a new file, FlexCel will update the value of this property\.

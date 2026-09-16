@@ -3,7 +3,7 @@ uid: TUIColor.G
 description: TUIColor.G
 ---
 
-# TUIColor.G Property
+# TUIColor\.G Property
 
 Green component, between 0 and 255
 

@@ -3,7 +3,7 @@ uid: IConditionalTimePeriodRule.TimePeriod
 description: IConditionalTimePeriodRule.TimePeriod
 ---
 
-# IConditionalTimePeriodRule.TimePeriod Property
+# IConditionalTimePeriodRule\.TimePeriod Property
 
 Time period to highlight\.
 

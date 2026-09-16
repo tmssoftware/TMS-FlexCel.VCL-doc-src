@@ -3,7 +3,7 @@ uid: TExcelFile.LinkCount
 description: TExcelFile.LinkCount
 ---
 
-# TExcelFile.LinkCount Property
+# TExcelFile\.LinkCount Property
 
 Returns the number of external links for the file\. You can access those links with [GetLink](GetLink.md) and [SetLink](SetLink.md)
 

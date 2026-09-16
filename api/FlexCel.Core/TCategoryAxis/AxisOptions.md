@@ -3,7 +3,7 @@ uid: TCategoryAxis.AxisOptions
 description: TCategoryAxis.AxisOptions
 ---
 
-# TCategoryAxis.AxisOptions Property
+# TCategoryAxis\.AxisOptions Property
 
 Enumerates which of the other options contain valid values or are automatic\.
 

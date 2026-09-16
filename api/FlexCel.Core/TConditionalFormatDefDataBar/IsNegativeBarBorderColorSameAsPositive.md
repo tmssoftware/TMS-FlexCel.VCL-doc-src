@@ -3,7 +3,7 @@ uid: TConditionalFormatDefDataBar.IsNegativeBarBorderColorSameAsPositive
 description: TConditionalFormatDefDataBar.IsNegativeBarBorderColorSameAsPositive
 ---
 
-# TConditionalFormatDefDataBar.IsNegativeBarBorderColorSameAsPositive Property
+# TConditionalFormatDefDataBar\.IsNegativeBarBorderColorSameAsPositive Property
 
 If true, the borders of the negative bars are the same color as the positives\.
 

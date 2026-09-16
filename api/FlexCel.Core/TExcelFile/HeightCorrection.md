@@ -3,7 +3,7 @@ uid: TExcelFile.HeightCorrection
 description: TExcelFile.HeightCorrection
 ---
 
-# TExcelFile.HeightCorrection Property
+# TExcelFile\.HeightCorrection Property
 
 Factor to multiply default row heights\. See remarks for a detailed explanation\.
 
@@ -35,7 +35,7 @@ You can use this property and [WidthCorrection](WidthCorrection.md) to manually 
 
 To calculate the exact HeightCorrection and WidthCorrection for your printer create a new Excel sheet, make column A wide \(almost a sheet wide\) and row 1 larger \(almost a sheet tall\)\.
 Set the borders around cell A1 to a solid line\.
-Now, print this file from Excel and from FlexCel \(you can use the PrintPreview demo for this\) and compare the 2 resulting boxes\. If for example the Excel printed box is 1\.2 cm wide and FlexCel is 1\.4,  WidthCorrection should be 1\.4/1\.2\.  \(A larger WidthCorrection means a smaller box\)
+Now, print this file from Excel and from FlexCel \(you can use the [CustomPreview](xref:CustomPreview-Delphi) demo for this\) and compare the 2 resulting boxes\. If for example the Excel printed box is 1\.2 cm wide and FlexCel is 1\.4,  WidthCorrection should be 1\.4/1\.2\.  \(A larger WidthCorrection means a smaller box\)
 
 ## See also
 

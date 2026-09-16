@@ -3,7 +3,7 @@ uid: TXlsFile.PrintOptionsInitializedFromPrinter
 description: TXlsFile.PrintOptionsInitializedFromPrinter
 ---
 
-# TXlsFile.PrintOptionsInitializedFromPrinter Property
+# TXlsFile\.PrintOptionsInitializedFromPrinter Property
 
 If this property is false, then Excel has not read the printer options from the printer, and [TExcelFile.PrintLandscape](../../FlexCel.Core/TExcelFile/PrintLandscape.md), [TExcelFile.PrintPaperSize](../../FlexCel.Core/TExcelFile/PrintPaperSize.md), [TExcelFile.PrintScale](../../FlexCel.Core/TExcelFile/PrintScale.md), [TExcelFile.PrintXResolution](../../FlexCel.Core/TExcelFile/PrintXResolution.md), [TExcelFile.PrintYResolution](../../FlexCel.Core/TExcelFile/PrintYResolution.md) and [TExcelFile.PrintCopies](../../FlexCel.Core/TExcelFile/PrintCopies.md) will be ignored\. This property will change automatically to true if you manually change any of the above properties\.
 

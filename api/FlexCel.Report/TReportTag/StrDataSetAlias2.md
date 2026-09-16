@@ -3,7 +3,7 @@ uid: TReportTag.StrDataSetAlias2
 description: TReportTag.StrDataSetAlias2
 ---
 
-# TReportTag.StrDataSetAlias2 Property
+# TReportTag\.StrDataSetAlias2 Property
 
 "\.\.ALIAS\.\."
 

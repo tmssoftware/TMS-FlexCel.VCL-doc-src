@@ -3,7 +3,7 @@ uid: TReplaceAction.SkipReplacement
 description: TReplaceAction.SkipReplacement
 ---
 
-# TReplaceAction.SkipReplacement Property
+# TReplaceAction\.SkipReplacement Property
 
 Set this value to true to skip the current replacement\.
 

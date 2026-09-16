@@ -3,7 +3,7 @@ uid: THtmlEntities.MaxNameLength
 description: THtmlEntities.MaxNameLength
 ---
 
-# THtmlEntities.MaxNameLength Property
+# THtmlEntities\.MaxNameLength Property
 
 Returns the maximum length for a name\. This includes decimal entities, that can have up to 7 numbers\.
 

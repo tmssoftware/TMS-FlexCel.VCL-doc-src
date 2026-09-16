@@ -3,7 +3,7 @@ uid: IDataLabel.PositionXls
 description: IDataLabel.PositionXls
 ---
 
-# IDataLabel.PositionXls Property
+# IDataLabel\.PositionXls Property
 
 Position of the label, assuming margins in the plot area\. This value is only set in xls files, and has different meanings depending on the kind of label:
 

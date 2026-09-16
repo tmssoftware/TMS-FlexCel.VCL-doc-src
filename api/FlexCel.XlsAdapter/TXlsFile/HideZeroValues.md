@@ -3,7 +3,7 @@ uid: TXlsFile.HideZeroValues
 description: TXlsFile.HideZeroValues
 ---
 
-# TXlsFile.HideZeroValues Property
+# TXlsFile\.HideZeroValues Property
 
 When true number 0 will be shown as empty\. You can also set this option with [TExcelFile.SheetOptions](../../FlexCel.Core/TExcelFile/SheetOptions.md) This property can work in different windows depending on the value of [TExcelFile.ActiveWindow](../../FlexCel.Core/TExcelFile/ActiveWindow.md)
 

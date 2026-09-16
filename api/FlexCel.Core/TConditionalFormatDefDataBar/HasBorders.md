@@ -3,7 +3,7 @@ uid: TConditionalFormatDefDataBar.HasBorders
 description: TConditionalFormatDefDataBar.HasBorders
 ---
 
-# TConditionalFormatDefDataBar.HasBorders Property
+# TConditionalFormatDefDataBar\.HasBorders Property
 
 If true the databar has a border\.
 

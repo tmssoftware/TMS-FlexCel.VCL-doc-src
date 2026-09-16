@@ -3,7 +3,7 @@ uid: TXlsFile.PrintBlackAndWhite
 description: TXlsFile.PrintBlackAndWhite
 ---
 
-# TXlsFile.PrintBlackAndWhite Property
+# TXlsFile\.PrintBlackAndWhite Property
 
 If true, page will be printed in "Excel Black and White"\.
 **Important**: This property doesn't mean that the file will be printed in black and white\. Instead it means the option in the Page Setup dialog: [https://support.microsoft.com/en-us/office/page-setup-71c20d94-b13e-48fd-9800-cedd1fec6da3](https://support.microsoft.com/en-us/office/page-setup-71c20d94-b13e-48fd-9800-cedd1fec6da3)

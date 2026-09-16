@@ -3,7 +3,7 @@ uid: TConditionalFormatDefIconSet.IsCustom
 description: TConditionalFormatDefIconSet.IsCustom
 ---
 
-# TConditionalFormatDefIconSet.IsCustom Property
+# TConditionalFormatDefIconSet\.IsCustom Property
 
 Returns true if [CustomIcons](CustomIcons.md) is not empty\.
 

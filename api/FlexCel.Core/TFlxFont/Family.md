@@ -3,7 +3,7 @@ uid: TFlxFont.Family
 description: TFlxFont.Family
 ---
 
-# TFlxFont.Family Property
+# TFlxFont\.Family Property
 
 Font family, \(see Windows API LOGFONT structure\)\.
 

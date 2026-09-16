@@ -3,7 +3,7 @@ uid: IChartSeries.CategoriesFormatsArray
 description: IChartSeries.CategoriesFormatsArray
 ---
 
-# IChartSeries.CategoriesFormatsArray Property
+# IChartSeries\.CategoriesFormatsArray Property
 
 Format on the **cell where the data is**\.
 So for example if you are charting a range A1:A3, this property will return an array with the numeric format strings for A1, A2 and A3\.

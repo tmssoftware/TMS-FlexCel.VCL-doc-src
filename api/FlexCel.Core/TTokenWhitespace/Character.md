@@ -3,7 +3,7 @@ uid: TTokenWhitespace.Character
 description: TTokenWhitespace.Character
 ---
 
-# TTokenWhitespace.Character Property
+# TTokenWhitespace\.Character Property
 
 Character used in the whitespace\.
 

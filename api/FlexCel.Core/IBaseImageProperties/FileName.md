@@ -3,7 +3,7 @@ uid: IBaseImageProperties.FileName
 description: IBaseImageProperties.FileName
 ---
 
-# IBaseImageProperties.FileName Property
+# IBaseImageProperties\.FileName Property
 
 FileName of the image\. It sets/gets the original filename of the image before it was inserted\.
 \(For example: c:\\image\.jpg\) It is not necessary to set this field, and when the image is not inserted from a file but pasted, Excel does not set it either\.

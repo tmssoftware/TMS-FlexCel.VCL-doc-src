@@ -3,7 +3,7 @@ uid: IExcelRectangularGradient.Left
 description: IExcelRectangularGradient.Left
 ---
 
-# IExcelRectangularGradient.Left Property
+# IExcelRectangularGradient\.Left Property
 
 Left coordinate for the gradient\. This value must be between 0 and 1, and specifies in percent where the first color of the gradient will be placed\.
 

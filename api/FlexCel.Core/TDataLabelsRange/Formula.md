@@ -3,7 +3,7 @@ uid: TDataLabelsRange.Formula
 description: TDataLabelsRange.Formula
 ---
 
-# TDataLabelsRange.Formula Property
+# TDataLabelsRange\.Formula Property
 
 Formula text\.
 

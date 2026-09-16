@@ -3,7 +3,7 @@ uid: TXlsFile.ActiveFileName
 description: TXlsFile.ActiveFileName
 ---
 
-# TXlsFile.ActiveFileName Property
+# TXlsFile\.ActiveFileName Property
 
 The file we are working on\. When we save the file with another name, it changes\.
 When we open a stream, it is set to ""\.

@@ -26,8 +26,8 @@ An entry on the Bookmark list for a PDF file\.
 |Name|Description|
 |---|---|
 |[AddChild](AddChild.md)|Adds a new child of this bookmark on the outline\.<br />|
-|[Child](Child.md)|Returns one child of the current bookmark\.<br />|
 |[AllOpenCount](AllOpenCount.md)|Returns a list of all open children of this bookmark\. Mostly for internal use\.<br />|
+|[Child](Child.md)|Returns one child of the current bookmark\.<br />|
 |[Clone](Clone.md)|Returns a deep copy of this object\.<br />|
 
 
@@ -35,11 +35,11 @@ An entry on the Bookmark list for a PDF file\.
 
 |Name|Description|
 |---|---|
-|[Title](Title.md)|Title of the bookmark item\.<br />|
-|[Destination](Destination.md)|Page where the bookmark points to\.<br />|
+|[ChildCount](ChildCount.md)|Returns the number of children of this bookmark\.<br />|
 |[ChildrenCollapsed](ChildrenCollapsed.md)|If true, all children of this bookmark will be collapsed\.<br />|
+|[Destination](Destination.md)|Page where the bookmark points to\.<br />|
 |[TextColor](TextColor.md)|Text color for the bookmark entry\.<br />|
 |[TextStyle](TextStyle.md)|Text style for the bookmark entry\.<br />|
-|[ChildCount](ChildCount.md)|Returns the number of children of this bookmark\.<br />|
+|[Title](Title.md)|Title of the bookmark item\.<br />|
 
 

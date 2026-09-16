@@ -3,7 +3,7 @@ uid: IDataLabel.LeaderLineStyle
 description: IDataLabel.LeaderLineStyle
 ---
 
-# IDataLabel.LeaderLineStyle Property
+# IDataLabel\.LeaderLineStyle Property
 
 Line style for the leader lines, only has meaning if [LeaderLines](LeaderLines.md) is true\.
 

@@ -3,7 +3,7 @@ uid: IExcelChart.ShowDataInHiddenRowsAndCols
 description: IExcelChart.ShowDataInHiddenRowsAndCols
 ---
 
-# IExcelChart.ShowDataInHiddenRowsAndCols Property
+# IExcelChart\.ShowDataInHiddenRowsAndCols Property
 
 Defines if hidden rows and columns will be used when plotting values\.
 

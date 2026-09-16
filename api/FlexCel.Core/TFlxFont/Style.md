@@ -3,7 +3,7 @@ uid: TFlxFont.Style
 description: TFlxFont.Style
 ---
 
-# TFlxFont.Style Property
+# TFlxFont\.Style Property
 
 Style of the font, such as bold or italics\. Underline is a different option\.
 

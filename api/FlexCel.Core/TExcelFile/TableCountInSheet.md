@@ -3,7 +3,7 @@ uid: TExcelFile.TableCountInSheet
 description: TExcelFile.TableCountInSheet
 ---
 
-# TExcelFile.TableCountInSheet Property
+# TExcelFile\.TableCountInSheet Property
 
 Returns the number of tables in the active sheet\. Use [GetTable\(Integer\)](GetTable.md#texcelfilegettableinteger) to retrieve the tables in the sheet\.
 

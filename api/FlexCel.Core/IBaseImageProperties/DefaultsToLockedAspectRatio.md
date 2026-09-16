@@ -3,7 +3,7 @@ uid: IBaseImageProperties.DefaultsToLockedAspectRatio
 description: IBaseImageProperties.DefaultsToLockedAspectRatio
 ---
 
-# IBaseImageProperties.DefaultsToLockedAspectRatio Property
+# IBaseImageProperties\.DefaultsToLockedAspectRatio Property
 
 This property returns true if the shape by default locks its aspect ratio\. Images do it, comments don't\.
 You will normally not need to use this value\.

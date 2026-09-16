@@ -3,7 +3,7 @@ uid: TExcelFile.ExcelVersion
 description: TExcelFile.ExcelVersion
 ---
 
-# TExcelFile.ExcelVersion Property
+# TExcelFile\.ExcelVersion Property
 
 Defines the Excel mode used in this thread\.
 Note that while on v2007 \(the default\) you still can make xls 97 spreadsheets, so the only reason to change this setting is if you have any compatibility issues \(for example your formulas depend on a sheet having 65536 rows\)\.

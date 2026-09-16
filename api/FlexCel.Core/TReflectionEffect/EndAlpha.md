@@ -3,7 +3,7 @@ uid: TReflectionEffect.EndAlpha
 description: TReflectionEffect.EndAlpha
 ---
 
-# TReflectionEffect.EndAlpha Property
+# TReflectionEffect\.EndAlpha Property
 
 Ending reflection opacity\.
 

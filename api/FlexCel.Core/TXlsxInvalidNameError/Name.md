@@ -3,7 +3,7 @@ uid: TXlsxInvalidNameError.Name
 description: TXlsxInvalidNameError.Name
 ---
 
-# TXlsxInvalidNameError.Name Property
+# TXlsxInvalidNameError\.Name Property
 
 Name of the invalid named range\.
 

@@ -3,7 +3,7 @@ uid: TDrawingTextAttributes.Italic
 description: TDrawingTextAttributes.Italic
 ---
 
-# TDrawingTextAttributes.Italic Property
+# TDrawingTextAttributes\.Italic Property
 
 Specifies whether a run of text is formatted as italic text\. A null value means to use the parent's settings\.
 

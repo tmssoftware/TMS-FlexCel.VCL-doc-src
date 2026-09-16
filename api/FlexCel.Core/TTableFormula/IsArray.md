@@ -3,7 +3,7 @@ uid: TTableFormula.IsArray
 description: TTableFormula.IsArray
 ---
 
-# TTableFormula.IsArray Property
+# TTableFormula\.IsArray Property
 
 True if it is an array formula, false otherwise\.
 

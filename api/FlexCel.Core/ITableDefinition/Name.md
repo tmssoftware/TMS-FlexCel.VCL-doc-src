@@ -3,7 +3,7 @@ uid: ITableDefinition.Name
 description: ITableDefinition.Name
 ---
 
-# ITableDefinition.Name Property
+# ITableDefinition\.Name Property
 
 The name of the table\.
 

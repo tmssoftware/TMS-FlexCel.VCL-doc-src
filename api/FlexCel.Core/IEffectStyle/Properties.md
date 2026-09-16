@@ -3,7 +3,7 @@ uid: IEffectStyle.Properties
 description: IEffectStyle.Properties
 ---
 
-# IEffectStyle.Properties Property
+# IEffectStyle\.Properties Property
 
 2D effects applied to the shape\.
 

@@ -3,7 +3,7 @@ uid: TFlexCelPdfExport.FallbackFonts
 description: TFlexCelPdfExport.FallbackFonts
 ---
 
-# TFlexCelPdfExport.FallbackFonts Property
+# TFlexCelPdfExport\.FallbackFonts Property
 
 A semicolon \(;\) separated list of font names to try when a character is not found in the used font\.
 

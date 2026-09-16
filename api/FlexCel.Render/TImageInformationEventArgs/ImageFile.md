@@ -3,7 +3,7 @@ uid: TImageInformationEventArgs.ImageFile
 description: TImageInformationEventArgs.ImageFile
 ---
 
-# TImageInformationEventArgs.ImageFile Property
+# TImageInformationEventArgs\.ImageFile Property
 
 The file where the image will be saved\. If [ImageStream](ImageStream.md) is not null, this property will do nothing\.
 If both this property and [ImageStream](ImageStream.md) are null, the image will not be saved\.

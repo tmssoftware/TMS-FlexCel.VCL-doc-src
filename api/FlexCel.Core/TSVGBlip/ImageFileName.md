@@ -3,7 +3,7 @@ uid: TSVGBlip.ImageFileName
 description: TSVGBlip.ImageFileName
 ---
 
-# TSVGBlip.ImageFileName Property
+# TSVGBlip\.ImageFileName Property
 
 File name which will be used when saving the file inside the xlsx container\.
 

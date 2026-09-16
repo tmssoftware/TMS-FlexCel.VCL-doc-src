@@ -3,7 +3,7 @@ uid: TFlxOneBorder.Style
 description: TFlxOneBorder.Style
 ---
 
-# TFlxOneBorder.Style Property
+# TFlxOneBorder\.Style Property
 
 Border style\.
 

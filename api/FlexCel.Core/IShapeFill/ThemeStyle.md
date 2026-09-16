@@ -3,7 +3,7 @@ uid: IShapeFill.ThemeStyle
 description: IShapeFill.ThemeStyle
 ---
 
-# IShapeFill.ThemeStyle Property
+# IShapeFill\.ThemeStyle Property
 
 Style \(subtle, normal, intense\) from the theme used, when a theme is used\.
 

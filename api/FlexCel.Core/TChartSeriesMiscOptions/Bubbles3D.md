@@ -3,7 +3,7 @@ uid: TChartSeriesMiscOptions.Bubbles3D
 description: TChartSeriesMiscOptions.Bubbles3D
 ---
 
-# TChartSeriesMiscOptions.Bubbles3D Property
+# TChartSeriesMiscOptions\.Bubbles3D Property
 
 Draw bubbles with 3D effects\.
 

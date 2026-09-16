@@ -3,7 +3,7 @@ uid: TReportTag.StrAggCount
 description: TReportTag.StrAggCount
 ---
 
-# TReportTag.StrAggCount Property
+# TReportTag\.StrAggCount Property
 
 "Count"
 

@@ -3,7 +3,7 @@ uid: TFlxNumberFormat.CultureCreating
 description: TFlxNumberFormat.CultureCreating
 ---
 
-# TFlxNumberFormat.CultureCreating Event
+# TFlxNumberFormat\.CultureCreating Event
 
 Fires before a culture is created\. Read [Localized Month Names](xref:LocalizedMonthNames) for more information on how to use it\.
 Note that this event is static and it applies to the whole app\.
@@ -13,7 +13,7 @@ Note that this event is static and it applies to the whole app\.
 
 **Unit:** [FlexCel.Core](../index.md)
 
-<pre><code class="lang-delphi hljs">property <a href="../TFlxNumberFormat/index.md">TFlxNumberFormat</a>.CultureCreating: TCultureCreatingEventHandler</code></pre>
+<pre><code class="lang-delphi hljs">property <a href="../TFlxNumberFormat/index.md">TFlxNumberFormat</a>.CultureCreating: <a href="../TCultureCreatingEventHandler.md">TCultureCreatingEventHandler</a></code></pre>
 
 ## See also
 

@@ -3,7 +3,7 @@ uid: TXlsFile.SheetCount
 description: TXlsFile.SheetCount
 ---
 
-# TXlsFile.SheetCount Property
+# TXlsFile\.SheetCount Property
 
 The number of sheets on the file\.
 

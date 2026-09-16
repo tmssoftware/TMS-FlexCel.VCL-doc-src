@@ -3,7 +3,7 @@ uid: TFlxApplyFont.IsEmpty
 description: TFlxApplyFont.IsEmpty
 ---
 
-# TFlxApplyFont.IsEmpty Property
+# TFlxApplyFont\.IsEmpty Property
 
 Returns true if the format definition does not apply any setting\.
 

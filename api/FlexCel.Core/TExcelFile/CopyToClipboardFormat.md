@@ -16,7 +16,7 @@ Copies a range on the active sheet to a clipboard stream, on native and text for
 
 ## Remarks
 
-See the copy and paste demo\.
+See the [Copy And Paste](xref:Copy_And_Paste-Delphi) demo\.
 
 ## Syntax
 
@@ -43,7 +43,7 @@ Copies a range on the active sheet to a clipboard stream, on the specified forma
 
 ## Remarks
 
-See the copy and paste demo\.
+See the [Copy And Paste](xref:Copy_And_Paste-Delphi) demo\.
 
 ## Syntax
 

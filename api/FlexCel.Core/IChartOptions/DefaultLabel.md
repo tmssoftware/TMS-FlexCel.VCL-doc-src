@@ -3,7 +3,7 @@ uid: IChartOptions.DefaultLabel
 description: IChartOptions.DefaultLabel
 ---
 
-# IChartOptions.DefaultLabel Property
+# IChartOptions\.DefaultLabel Property
 
 Default label properties for this group of charts\.
 

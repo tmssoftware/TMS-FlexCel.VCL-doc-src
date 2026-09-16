@@ -5,7 +5,7 @@ description: IPdfTagActions.TagsTeardown
 
 # IPdfTagActions\.TagsTeardown Method
 
-This event will be called before finalizing the document, and allows you to specify the global tags on it\.
+This event will be called before finalizing the document and allows you to specify the global tags on it\.
 
 
 ## Syntax

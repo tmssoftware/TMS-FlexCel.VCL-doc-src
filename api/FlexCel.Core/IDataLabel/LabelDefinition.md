@@ -3,7 +3,7 @@ uid: IDataLabel.LabelDefinition
 description: IDataLabel.LabelDefinition
 ---
 
-# IDataLabel.LabelDefinition Property
+# IDataLabel\.LabelDefinition Property
 
 The formula defining the values on this label\. You can access the actual values of the labels with [LabelValues](LabelValues.md)\.
 

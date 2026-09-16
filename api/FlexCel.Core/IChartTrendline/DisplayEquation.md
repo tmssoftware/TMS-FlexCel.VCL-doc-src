@@ -3,7 +3,7 @@ uid: IChartTrendline.DisplayEquation
 description: IChartTrendline.DisplayEquation
 ---
 
-# IChartTrendline.DisplayEquation Property
+# IChartTrendline\.DisplayEquation Property
 
 Determines if the trendline equation is displayed on the chart\.
 

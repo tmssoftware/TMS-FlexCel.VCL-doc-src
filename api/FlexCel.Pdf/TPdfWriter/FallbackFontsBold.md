@@ -3,7 +3,7 @@ uid: TPdfWriter.FallbackFontsBold
 description: TPdfWriter.FallbackFontsBold
 ---
 
-# TPdfWriter.FallbackFontsBold Property
+# TPdfWriter\.FallbackFontsBold Property
 
 A semicolon \(;\) separated list of font names similar to [FallbackFonts](FallbackFonts.md) that will be used only for bold fonts\.
 

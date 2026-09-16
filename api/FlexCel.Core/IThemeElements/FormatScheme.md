@@ -3,7 +3,7 @@ uid: IThemeElements.FormatScheme
 description: IThemeElements.FormatScheme
 ---
 
-# IThemeElements.FormatScheme Property
+# IThemeElements\.FormatScheme Property
 
 Format Scheme \(Effects\)\. This won't affect cells in the spreadsheet, but can affect drawings\.
 

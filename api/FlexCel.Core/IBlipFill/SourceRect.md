@@ -3,7 +3,7 @@ uid: IBlipFill.SourceRect
 description: IBlipFill.SourceRect
 ---
 
-# IBlipFill.SourceRect Property
+# IBlipFill\.SourceRect Property
 
 This element specifies the portion of the blip used for the fill\.
 Each edge of the source rectangle is defined by a percentage offset from the corresponding edge of the  bounding box\.  A positive percentage specifies an inset, while a negative percentage specifies an outset\.

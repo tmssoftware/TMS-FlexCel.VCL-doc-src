@@ -3,7 +3,7 @@ uid: IShapeProperties.NestedAnchor
 description: IShapeProperties.NestedAnchor
 ---
 
-# IShapeProperties.NestedAnchor Property
+# IShapeProperties\.NestedAnchor Property
 
 Real Coordinates of the shape\. Note that when the shape is a group, the value in [Anchor](Anchor.md) is null and the real anchor is  returned in the first child of the shape\.
 This method will get the real Anchor of a first level object\.

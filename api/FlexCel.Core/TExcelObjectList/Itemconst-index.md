@@ -3,7 +3,7 @@ uid: TExcelObjectList.Item[const_index]
 description: TExcelObjectList.Item[const index]
 ---
 
-# TExcelObjectList.Item[const index] Property
+# TExcelObjectList\.Item\[const index\] Property
 
 Returns position i in the list\.
 

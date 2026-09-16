@@ -3,7 +3,7 @@ uid: TAxisRangeOptions.LabelFrequency
 description: TAxisRangeOptions.LabelFrequency
 ---
 
-# TAxisRangeOptions.LabelFrequency Property
+# TAxisRangeOptions\.LabelFrequency Property
 
 Frequency at what the labels on categories are displayed\. 0 Means automatic\. 1 means display all labels, 2 display one label and skip one, and so on\.
 

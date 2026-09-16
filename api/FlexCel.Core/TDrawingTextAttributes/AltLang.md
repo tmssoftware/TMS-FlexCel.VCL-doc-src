@@ -3,7 +3,7 @@ uid: TDrawingTextAttributes.AltLang
 description: TDrawingTextAttributes.AltLang
 ---
 
-# TDrawingTextAttributes.AltLang Property
+# TDrawingTextAttributes\.AltLang Property
 
 Specifies the alternate language to use when the generating application is displaying the  user interface controls\.
 

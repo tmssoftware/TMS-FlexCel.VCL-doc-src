@@ -18,8 +18,8 @@ Determines which parts of the font will be applied in the conditional format\.
 
 |Name|Description|
 |---|---|
-|[Size20](Size20.md)|Font size in 1/20 of a point\.<br />|
 |[Color](Color.md)|Color of the font\.<br />|
+|[Size20](Size20.md)|Font size in 1/20 of a point\.<br />|
 |[Style](Style.md)|Style of the font\.<br />|
 |[Underline](Underline.md)|Underline of the font\.<br />|
 

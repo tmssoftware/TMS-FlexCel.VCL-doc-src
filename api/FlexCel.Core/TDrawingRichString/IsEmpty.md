@@ -3,7 +3,7 @@ uid: TDrawingRichString.IsEmpty
 description: TDrawingRichString.IsEmpty
 ---
 
-# TDrawingRichString.IsEmpty Property
+# TDrawingRichString\.IsEmpty Property
 
 Returns true if the string has no data\.
 

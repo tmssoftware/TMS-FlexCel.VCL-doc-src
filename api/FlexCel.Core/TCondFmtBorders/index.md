@@ -18,10 +18,10 @@ Determines which parts of the borders will be applied in the conditional format\
 
 |Name|Description|
 |---|---|
-|[Left](Left.md)|Left border\.<br />|
-|[Top](Top.md)|Top border\.<br />|
-|[Right](Right.md)|Right border\.<br />|
 |[Bottom](Bottom.md)|Bottom border\.<br />|
+|[Left](Left.md)|Left border\.<br />|
+|[Right](Right.md)|Right border\.<br />|
+|[Top](Top.md)|Top border\.<br />|
 
 
 ## Methods

@@ -3,7 +3,7 @@ uid: ILineStyle.MiterLim
 description: ILineStyle.MiterLim
 ---
 
-# ILineStyle.MiterLim Property
+# ILineStyle\.MiterLim Property
 
 The amount by which lines is extended to form a miter join, when [Join](Join.md) is [TLineJoin.Miter](../TLineJoin.md)\.
 

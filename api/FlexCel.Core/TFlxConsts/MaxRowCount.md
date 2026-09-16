@@ -3,7 +3,7 @@ uid: TFlxConsts.MaxRowCount
 description: TFlxConsts.MaxRowCount
 ---
 
-# TFlxConsts.MaxRowCount Property
+# TFlxConsts\.MaxRowCount Property
 
 Returns the maximum number of rows that you can have in a spreadsheet\. This is the same as [Max_Rows](Max_Rows.md) \+ 1\.
 

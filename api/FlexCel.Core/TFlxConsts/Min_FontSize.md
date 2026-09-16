@@ -3,7 +3,7 @@ uid: TFlxConsts.Min_FontSize
 description: TFlxConsts.Min_FontSize
 ---
 
-# TFlxConsts.Min_FontSize Property
+# TFlxConsts\.Min\_FontSize Property
 
 Minimum font size allowed in a file\.
 

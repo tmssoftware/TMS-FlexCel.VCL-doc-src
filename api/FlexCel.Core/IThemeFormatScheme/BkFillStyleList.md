@@ -3,7 +3,7 @@ uid: IThemeFormatScheme.BkFillStyleList
 description: IThemeFormatScheme.BkFillStyleList
 ---
 
-# IThemeFormatScheme.BkFillStyleList Property
+# IThemeFormatScheme\.BkFillStyleList Property
 
 This element defines a list of background fills that are used within a theme\.
 

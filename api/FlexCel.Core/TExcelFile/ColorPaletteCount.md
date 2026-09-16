@@ -3,7 +3,7 @@ uid: TExcelFile.ColorPaletteCount
 description: TExcelFile.ColorPaletteCount
 ---
 
-# TExcelFile.ColorPaletteCount Property
+# TExcelFile\.ColorPaletteCount Property
 
 The number of entries on an Excel color palette\. This is  always 56\.
 

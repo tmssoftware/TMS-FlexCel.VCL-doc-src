@@ -3,7 +3,7 @@ uid: TImgPaintEventArgs.CurrentPageInSheet
 description: TImgPaintEventArgs.CurrentPageInSheet
 ---
 
-# TImgPaintEventArgs.CurrentPageInSheet Property
+# TImgPaintEventArgs\.CurrentPageInSheet Property
 
 Gets the current page number, relative to the active sheet\.
 

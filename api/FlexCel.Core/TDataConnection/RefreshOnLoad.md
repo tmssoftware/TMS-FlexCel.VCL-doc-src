@@ -3,7 +3,7 @@ uid: TDataConnection.RefreshOnLoad
 description: TDataConnection.RefreshOnLoad
 ---
 
-# TDataConnection.RefreshOnLoad Property
+# TDataConnection\.RefreshOnLoad Property
 
 True if this connection should be refreshed when opening the file\.
 

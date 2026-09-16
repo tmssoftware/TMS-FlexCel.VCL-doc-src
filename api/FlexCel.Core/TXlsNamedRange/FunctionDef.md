@@ -3,7 +3,7 @@ uid: TXlsNamedRange.FunctionDef
 description: TXlsNamedRange.FunctionDef
 ---
 
-# TXlsNamedRange.FunctionDef Property
+# TXlsNamedRange\.FunctionDef Property
 
 True if the range is a function\.
 

@@ -3,7 +3,7 @@ uid: TFlexCelPdfExport.UnlicensedFontAction
 description: TFlexCelPdfExport.UnlicensedFontAction
 ---
 
-# TFlexCelPdfExport.UnlicensedFontAction Property
+# TFlexCelPdfExport\.UnlicensedFontAction Property
 
 Defines what to do when a font has a license that doesn't allow embedding, and you are trying to embed the font\.
 

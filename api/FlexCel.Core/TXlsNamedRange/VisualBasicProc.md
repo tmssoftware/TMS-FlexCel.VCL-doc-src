@@ -3,7 +3,7 @@ uid: TXlsNamedRange.VisualBasicProc
 description: TXlsNamedRange.VisualBasicProc
 ---
 
-# TXlsNamedRange.VisualBasicProc Property
+# TXlsNamedRange\.VisualBasicProc Property
 
 True if the range is a Visual Basic Procedure
 

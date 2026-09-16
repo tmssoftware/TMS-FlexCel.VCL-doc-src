@@ -19,7 +19,7 @@ Creates html tags for different actions, and depending on the HTML style\.
 |Name|Description|
 |---|---|
 |[DiffFont](DiffFont.md)|Returns the tags for a difference between one font and the next\.<br />|
-|[StartFontColor](StartFontColor.md)|Returns a tag to change the font color\. Remember to close it with [EndFontColor](EndFontColor.md)|
 |[EndFontColor](EndFontColor.md)|Returns a tag to end changing a font color that was started with [StartFontColor](StartFontColor.md)|
+|[StartFontColor](StartFontColor.md)|Returns a tag to change the font color\. Remember to close it with [EndFontColor](EndFontColor.md)|
 
 

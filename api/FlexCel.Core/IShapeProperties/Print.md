@@ -3,7 +3,7 @@ uid: IShapeProperties.Print
 description: IShapeProperties.Print
 ---
 
-# IShapeProperties.Print Property
+# IShapeProperties\.Print Property
 
 True if the shape should be printed\.
 

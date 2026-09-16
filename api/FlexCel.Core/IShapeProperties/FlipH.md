@@ -3,7 +3,7 @@ uid: IShapeProperties.FlipH
 description: IShapeProperties.FlipH
 ---
 
-# IShapeProperties.FlipH Property
+# IShapeProperties\.FlipH Property
 
 True if the shape is flipped horizontally\.
 

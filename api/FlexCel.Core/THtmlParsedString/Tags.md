@@ -3,7 +3,7 @@ uid: THtmlParsedString.Tags
 description: THtmlParsedString.Tags
 ---
 
-# THtmlParsedString.Tags Property
+# THtmlParsedString\.Tags Property
 
 A list of the tags on the parsed string\.
 

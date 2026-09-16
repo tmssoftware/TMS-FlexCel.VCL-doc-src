@@ -3,7 +3,7 @@ uid: TOuterShadowEffect.Direction
 description: TOuterShadowEffect.Direction
 ---
 
-# TOuterShadowEffect.Direction Property
+# TOuterShadowEffect\.Direction Property
 
 Rotation of the shadow\.
 

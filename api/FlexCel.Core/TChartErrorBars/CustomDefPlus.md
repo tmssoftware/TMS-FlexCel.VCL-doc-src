@@ -3,7 +3,7 @@ uid: TChartErrorBars.CustomDefPlus
 description: TChartErrorBars.CustomDefPlus
 ---
 
-# TChartErrorBars.CustomDefPlus Property
+# TChartErrorBars\.CustomDefPlus Property
 
 Returns the formula text used for a custom error bar for the \+ values\.
 

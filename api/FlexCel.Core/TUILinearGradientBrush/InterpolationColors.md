@@ -3,7 +3,7 @@ uid: TUILinearGradientBrush.InterpolationColors
 description: TUILinearGradientBrush.InterpolationColors
 ---
 
-# TUILinearGradientBrush.InterpolationColors Property
+# TUILinearGradientBrush\.InterpolationColors Property
 
 Colors that define the gradient\.
 

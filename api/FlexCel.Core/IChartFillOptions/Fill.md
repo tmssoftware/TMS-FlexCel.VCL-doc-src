@@ -3,7 +3,7 @@ uid: IChartFillOptions.Fill
 description: IChartFillOptions.Fill
 ---
 
-# IChartFillOptions.Fill Property
+# IChartFillOptions\.Fill Property
 
 Fill style\.
 

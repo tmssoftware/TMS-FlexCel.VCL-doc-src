@@ -3,7 +3,7 @@ uid: TSVGExportParameters.FileStream
 description: TSVGExportParameters.FileStream
 ---
 
-# TSVGExportParameters.FileStream Property
+# TSVGExportParameters\.FileStream Property
 
 Stream where the image will be saved\. If you leave it null, the image won't be saved to a stream\.
 

@@ -3,7 +3,7 @@ uid: TReportTag.StrAutofitOff
 description: TReportTag.StrAutofitOff
 ---
 
-# TReportTag.StrAutofitOff Property
+# TReportTag\.StrAutofitOff Property
 
 "Selected"
 

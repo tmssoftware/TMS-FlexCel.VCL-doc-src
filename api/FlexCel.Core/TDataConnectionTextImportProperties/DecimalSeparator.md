@@ -3,7 +3,7 @@ uid: TDataConnectionTextImportProperties.DecimalSeparator
 description: TDataConnectionTextImportProperties.DecimalSeparator
 ---
 
-# TDataConnectionTextImportProperties.DecimalSeparator Property
+# TDataConnectionTextImportProperties\.DecimalSeparator Property
 
 The decimal separator character\. This and the thousands attribute are used only when data in the text file contains decimal and thousands separators that are different from those used on the computer, due to a different language setting being used\.
 

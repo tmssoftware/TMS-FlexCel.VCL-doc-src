@@ -3,7 +3,7 @@ uid: TNamedRangeExportEventArgs.Col
 description: TNamedRangeExportEventArgs.Col
 ---
 
-# TNamedRangeExportEventArgs.Col Property
+# TNamedRangeExportEventArgs\.Col Property
 
 Column index \(1 based\) of the html cell we are exporting\. This number should be the same as the first column in the [NamedRange](NamedRange.md)\.
 

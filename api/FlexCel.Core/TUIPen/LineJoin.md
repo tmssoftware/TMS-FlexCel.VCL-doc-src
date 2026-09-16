@@ -3,7 +3,7 @@ uid: TUIPen.LineJoin
 description: TUIPen.LineJoin
 ---
 
-# TUIPen.LineJoin Property
+# TUIPen\.LineJoin Property
 
 Gets or sets the line join for the pen\.
 

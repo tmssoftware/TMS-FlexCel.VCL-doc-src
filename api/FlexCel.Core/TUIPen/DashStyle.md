@@ -3,7 +3,7 @@ uid: TUIPen.DashStyle
 description: TUIPen.DashStyle
 ---
 
-# TUIPen.DashStyle Property
+# TUIPen\.DashStyle Property
 
 Gets or sets the style of the pen\.
 

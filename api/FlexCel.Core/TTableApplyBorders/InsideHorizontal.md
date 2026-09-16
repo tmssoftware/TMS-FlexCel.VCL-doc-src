@@ -3,7 +3,7 @@ uid: TTableApplyBorders.InsideHorizontal
 description: TTableApplyBorders.InsideHorizontal
 ---
 
-# TTableApplyBorders.InsideHorizontal Property
+# TTableApplyBorders\.InsideHorizontal Property
 
 Horizontal borders inside the section of the table\. Does not apply to the borders in the exterior of the section\.
 

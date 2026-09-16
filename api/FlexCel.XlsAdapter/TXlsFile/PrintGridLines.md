@@ -3,7 +3,7 @@ uid: TXlsFile.PrintGridLines
 description: TXlsFile.PrintGridLines
 ---
 
-# TXlsFile.PrintGridLines Property
+# TXlsFile\.PrintGridLines Property
 
 True if the gray grid lines are printed when printing the spreadsheet\.
 

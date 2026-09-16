@@ -3,7 +3,7 @@ uid: TChartSeriesMarkerOptions.AutomaticLineColors
 description: TChartSeriesMarkerOptions.AutomaticLineColors
 ---
 
-# TChartSeriesMarkerOptions.AutomaticLineColors Property
+# TChartSeriesMarkerOptions\.AutomaticLineColors Property
 
 When true, marker colors are assigned automatically\.
 

@@ -3,7 +3,7 @@ uid: TReplaceAction.CellValue
 description: TReplaceAction.CellValue
 ---
 
-# TReplaceAction.CellValue Property
+# TReplaceAction\.CellValue Property
 
 Value of the replaced cell\. You can change it to something else\.
 

@@ -3,7 +3,7 @@ uid: TDrawingCoordinate.Points
 description: TDrawingCoordinate.Points
 ---
 
-# TDrawingCoordinate.Points Property
+# TDrawingCoordinate\.Points Property
 
 Value of the coordinate in points
 

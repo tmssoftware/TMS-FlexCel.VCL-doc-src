@@ -3,7 +3,7 @@ uid: TExcelFile.ErrorActions
 description: TExcelFile.ErrorActions
 ---
 
-# TExcelFile.ErrorActions Property
+# TExcelFile\.ErrorActions Property
 
 Determines if FlexCel will throw Exceptions or just ignore errors on specific situations\. If you are trying to recover corrupt files,  you might also want to check [RecoveryMode](RecoveryMode.md)
 

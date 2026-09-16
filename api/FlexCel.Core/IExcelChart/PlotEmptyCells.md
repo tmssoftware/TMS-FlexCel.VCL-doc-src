@@ -3,7 +3,7 @@ uid: IExcelChart.PlotEmptyCells
 description: IExcelChart.PlotEmptyCells
 ---
 
-# IExcelChart.PlotEmptyCells Property
+# IExcelChart\.PlotEmptyCells Property
 
 Defines how null cells will be plotted on the chart\.
 

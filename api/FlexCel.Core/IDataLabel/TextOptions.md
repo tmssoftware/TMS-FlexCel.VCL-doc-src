@@ -3,7 +3,7 @@ uid: IDataLabel.TextOptions
 description: IDataLabel.TextOptions
 ---
 
-# IDataLabel.TextOptions Property
+# IDataLabel\.TextOptions Property
 
 Formatting options for this label\.
 

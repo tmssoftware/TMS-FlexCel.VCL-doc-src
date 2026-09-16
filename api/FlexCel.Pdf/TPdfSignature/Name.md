@@ -3,7 +3,7 @@ uid: TPdfSignature.Name
 description: TPdfSignature.Name
 ---
 
-# TPdfSignature.Name Property
+# TPdfSignature\.Name Property
 
 Name to be given to the signature\. This will be displayed in the "signatures" tab, and acrobat normally names it "Signature"\.
 It cannot be null\.

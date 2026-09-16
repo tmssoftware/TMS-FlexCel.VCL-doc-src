@@ -3,7 +3,7 @@ uid: TReportTag.StrEndKeepTogether
 description: TReportTag.StrEndKeepTogether
 ---
 
-# TReportTag.StrEndKeepTogether Property
+# TReportTag\.StrEndKeepTogether Property
 
 End of tag for keeprowstogether and keepcolstogether
 

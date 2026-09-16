@@ -3,7 +3,7 @@ uid: TTokenCellRange.Col1
 description: TTokenCellRange.Col1
 ---
 
-# TTokenCellRange.Col1 Property
+# TTokenCellRange\.Col1 Property
 
 First column of the range \(1 based\)\.
 

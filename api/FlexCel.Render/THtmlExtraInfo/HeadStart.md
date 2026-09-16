@@ -3,7 +3,7 @@ uid: THtmlExtraInfo.HeadStart
 description: THtmlExtraInfo.HeadStart
 ---
 
-# THtmlExtraInfo.HeadStart Property
+# THtmlExtraInfo\.HeadStart Property
 
 Extra strings to be added after the opening \<head> tag\.
 

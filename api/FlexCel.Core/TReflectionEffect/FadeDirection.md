@@ -3,7 +3,7 @@ uid: TReflectionEffect.FadeDirection
 description: TReflectionEffect.FadeDirection
 ---
 
-# TReflectionEffect.FadeDirection Property
+# TReflectionEffect\.FadeDirection Property
 
 Direction to offset the reflection\.
 

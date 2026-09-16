@@ -3,7 +3,7 @@ uid: TXlsFile.OptionsHideObjects
 description: TXlsFile.OptionsHideObjects
 ---
 
-# TXlsFile.OptionsHideObjects Property
+# TXlsFile\.OptionsHideObjects Property
 
 Used to hide objects in the file\. This option applies to the full workbook, not to every sheet\.
 

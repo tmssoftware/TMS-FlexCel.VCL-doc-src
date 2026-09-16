@@ -35,12 +35,12 @@ Determines which parts of the font will be applied in the conditional format\.
 
 |Name|Description|
 |---|---|
-|[Size20](Size20.md)|Size of the font\.<br />|
-|[Color](Color.md)|Color of the font\.<br />|
 |[BoldAndItalic](BoldAndItalic.md)|If true, both bold and italic will be applied\.<br />|
+|[Color](Color.md)|Color of the font\.<br />|
+|[IsEmpty](IsEmpty.md)|Returns true if the format does not apply any setting\.<br />|
+|[Size20](Size20.md)|Size of the font\.<br />|
 |[Strikeout](Strikeout.md)|If true, the strikeout style of the font will be used\.<br />|
 |[SubSuperscript](SubSuperscript.md)|If true, both superscript and subscript will be applied\.<br />|
 |[Underline](Underline.md)|If true, the underline style of the font will be used\.<br />|
-|[IsEmpty](IsEmpty.md)|Returns true if the format does not apply any setting\.<br />|
 
 

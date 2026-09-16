@@ -3,7 +3,7 @@ uid: TProtection.WriteAccess
 description: TProtection.WriteAccess
 ---
 
-# TProtection.WriteAccess Property
+# TProtection\.WriteAccess Property
 
 Reads or sets the user writing the file\. Useful to know which user opened the file in Excel when you want to save and the file is in use\.
 

@@ -3,7 +3,7 @@ uid: TFlexCelPdfExport.UnlicensedReplacementFont
 description: TFlexCelPdfExport.UnlicensedReplacementFont
 ---
 
-# TFlexCelPdfExport.UnlicensedReplacementFont Property
+# TFlexCelPdfExport\.UnlicensedReplacementFont Property
 
 When trying to embed a font that isn't licensed for embedding, and [UnlicensedFontAction](UnlicensedFontAction.md) is TUnlicensedFontAction\.Replace this property specifies the font that will be used to replace it\. If null or empty, Arial will be used\.
 

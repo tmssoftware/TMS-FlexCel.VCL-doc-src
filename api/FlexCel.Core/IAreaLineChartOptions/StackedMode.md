@@ -3,7 +3,7 @@ uid: IAreaLineChartOptions.StackedMode
 description: IAreaLineChartOptions.StackedMode
 ---
 
-# IAreaLineChartOptions.StackedMode Property
+# IAreaLineChartOptions\.StackedMode Property
 
 [TStackedMode](../TStackedMode.md) of the chart\.
 

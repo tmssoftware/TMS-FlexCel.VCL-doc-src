@@ -3,7 +3,7 @@ uid: TLineArrow.None
 description: TLineArrow.None
 ---
 
-# TLineArrow.None Property
+# TLineArrow\.None Property
 
 Returns a shared instance with no arrow\.
 

@@ -3,7 +3,7 @@ uid: TReflectionEffect.HorizontalSkew
 description: TReflectionEffect.HorizontalSkew
 ---
 
-# TReflectionEffect.HorizontalSkew Property
+# TReflectionEffect\.HorizontalSkew Property
 
 Horizontal skew angle\.
 

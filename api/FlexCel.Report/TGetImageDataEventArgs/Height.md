@@ -3,7 +3,7 @@ uid: TGetImageDataEventArgs.Height
 description: TGetImageDataEventArgs.Height
 ---
 
-# TGetImageDataEventArgs.Height Property
+# TGetImageDataEventArgs\.Height Property
 
 The height of the image in pixels\. Change it to resize the image\.
 

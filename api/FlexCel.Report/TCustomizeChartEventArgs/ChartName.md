@@ -3,7 +3,7 @@ uid: TCustomizeChartEventArgs.ChartName
 description: TCustomizeChartEventArgs.ChartName
 ---
 
-# TCustomizeChartEventArgs.ChartName Property
+# TCustomizeChartEventArgs\.ChartName Property
 
 Name of the chart\. If this is a chart sheet, then it is the name of the sheet\. Otherwise is the name of the object\.
 

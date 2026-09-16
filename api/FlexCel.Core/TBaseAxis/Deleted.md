@@ -3,7 +3,7 @@ uid: TBaseAxis.Deleted
 description: TBaseAxis.Deleted
 ---
 
-# TBaseAxis.Deleted Property
+# TBaseAxis\.Deleted Property
 
 If true, the axis is not a real axis and must not be drawn\.
 

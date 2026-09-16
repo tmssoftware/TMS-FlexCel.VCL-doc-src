@@ -3,7 +3,7 @@ uid: TConditionalFormatDefDataBar.MinBarWidth
 description: TConditionalFormatDefDataBar.MinBarWidth
 ---
 
-# TConditionalFormatDefDataBar.MinBarWidth Property
+# TConditionalFormatDefDataBar\.MinBarWidth Property
 
 The minimum length of the data bar, as a percentage of the cell width\.
 

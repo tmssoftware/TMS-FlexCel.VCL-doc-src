@@ -24,9 +24,9 @@ Arguments passed on [TFlexCelPdfExport.GetBookmarkInformation](../TFlexCelPdfExp
 
 |Name|Description|
 |---|---|
-|[DataFile](DataFile.md)|The file with the pdf data\.<br />|
+|[Bookmark](Bookmark.md)|Bookmark that we are about to include\.<br />|
 |[CurrentPage](CurrentPage.md)|Page currently printing\. 0 means the global bookmark parent of all the sheets\.<br />|
 |[CurrentPageInSheet](CurrentPageInSheet.md)|Page currently printing, relative to the active sheet\.<br />|
-|[Bookmark](Bookmark.md)|Bookmark that we are about to include\.<br />|
+|[DataFile](DataFile.md)|The file with the pdf data\.<br />|
 
 

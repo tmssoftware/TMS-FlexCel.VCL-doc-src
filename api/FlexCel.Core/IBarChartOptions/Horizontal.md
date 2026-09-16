@@ -3,7 +3,7 @@ uid: IBarChartOptions.Horizontal
 description: IBarChartOptions.Horizontal
 ---
 
-# IBarChartOptions.Horizontal Property
+# IBarChartOptions\.Horizontal Property
 
 If true, bars are horizontal and this is a bar chart\. If false, bars are vertical and this is a column chart\.
 

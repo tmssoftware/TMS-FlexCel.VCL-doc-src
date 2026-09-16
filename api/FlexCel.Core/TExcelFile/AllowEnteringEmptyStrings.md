@@ -3,7 +3,7 @@ uid: TExcelFile.AllowEnteringEmptyStrings
 description: TExcelFile.AllowEnteringEmptyStrings
 ---
 
-# TExcelFile.AllowEnteringEmptyStrings Property
+# TExcelFile\.AllowEnteringEmptyStrings Property
 
 By default, FlexCel won't allow you to enter empty or null strings into a cell; it will create a blank record instead\.
 If for any reason you need to enter actual empty strings \(which might be confusing to the Excel user\) set this property to true\.

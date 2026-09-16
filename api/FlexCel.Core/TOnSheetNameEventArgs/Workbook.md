@@ -3,7 +3,7 @@ uid: TOnSheetNameEventArgs.Workbook
 description: TOnSheetNameEventArgs.Workbook
 ---
 
-# TOnSheetNameEventArgs.Workbook Property
+# TOnSheetNameEventArgs\.Workbook Property
 
 ExcelFile we are exporting\.
 

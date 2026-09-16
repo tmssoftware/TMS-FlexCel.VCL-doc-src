@@ -3,7 +3,7 @@ uid: TFlexCelTrace.Enabled
 description: TFlexCelTrace.Enabled
 ---
 
-# TFlexCelTrace.Enabled Property
+# TFlexCelTrace\.Enabled Property
 
 Set this to false if you want to prevent FlexCel from tracing non fatal errors\. Note that if you don't have any event attached to this class the result will be the same as having Enabled = false\.
 

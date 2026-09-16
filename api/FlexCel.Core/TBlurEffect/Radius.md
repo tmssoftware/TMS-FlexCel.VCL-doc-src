@@ -3,7 +3,7 @@ uid: TBlurEffect.Radius
 description: TBlurEffect.Radius
 ---
 
-# TBlurEffect.Radius Property
+# TBlurEffect\.Radius Property
 
 Radius of the blur\.
 

@@ -3,7 +3,7 @@ uid: TXlsFile.PrintHCentered
 description: TXlsFile.PrintHCentered
 ---
 
-# TXlsFile.PrintHCentered Property
+# TXlsFile\.PrintHCentered Property
 
 When true the sheet will print horizontally centered on the page\.
 

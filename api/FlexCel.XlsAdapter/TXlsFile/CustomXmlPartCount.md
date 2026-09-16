@@ -3,7 +3,7 @@ uid: TXlsFile.CustomXmlPartCount
 description: TXlsFile.CustomXmlPartCount
 ---
 
-# TXlsFile.CustomXmlPartCount Property
+# TXlsFile\.CustomXmlPartCount Property
 
 Returns the number of custom xml parts in the active document\.
 

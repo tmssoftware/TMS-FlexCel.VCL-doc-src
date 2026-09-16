@@ -3,7 +3,7 @@ uid: TXlsFile.GridLinesColor
 description: TXlsFile.GridLinesColor
 ---
 
-# TXlsFile.GridLinesColor Property
+# TXlsFile\.GridLinesColor Property
 
 Color of the grid separator lines\.
 This property can work in different windows depending on the value of [TExcelFile.ActiveWindow](../../FlexCel.Core/TExcelFile/ActiveWindow.md)

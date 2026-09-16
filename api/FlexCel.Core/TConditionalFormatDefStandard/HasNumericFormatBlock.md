@@ -3,7 +3,7 @@ uid: TConditionalFormatDefStandard.HasNumericFormatBlock
 description: TConditionalFormatDefStandard.HasNumericFormatBlock
 ---
 
-# TConditionalFormatDefStandard.HasNumericFormatBlock Property
+# TConditionalFormatDefStandard\.HasNumericFormatBlock Property
 
 Returns true if the numeric format is applied\.
 

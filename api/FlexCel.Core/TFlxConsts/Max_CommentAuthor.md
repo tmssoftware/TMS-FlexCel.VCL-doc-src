@@ -3,7 +3,7 @@ uid: TFlxConsts.Max_CommentAuthor
 description: TFlxConsts.Max_CommentAuthor
 ---
 
-# TFlxConsts.Max_CommentAuthor Property
+# TFlxConsts\.Max\_CommentAuthor Property
 
 Maximum number of characters allowed in the author of a comment\.
 

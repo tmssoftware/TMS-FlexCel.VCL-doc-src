@@ -3,7 +3,7 @@ uid: TSheetView.ShowRulers
 description: TSheetView.ShowRulers
 ---
 
-# TSheetView.ShowRulers Property
+# TSheetView\.ShowRulers Property
 
 If true, Excel will show rulers when in Page Layout mode\.
 

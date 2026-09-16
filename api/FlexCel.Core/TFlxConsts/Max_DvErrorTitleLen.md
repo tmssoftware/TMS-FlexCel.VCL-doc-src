@@ -3,7 +3,7 @@ uid: TFlxConsts.Max_DvErrorTitleLen
 description: TFlxConsts.Max_DvErrorTitleLen
 ---
 
-# TFlxConsts.Max_DvErrorTitleLen Property
+# TFlxConsts\.Max\_DvErrorTitleLen Property
 
 Maximum number of characters in an Error title for a Data Validation\.
 

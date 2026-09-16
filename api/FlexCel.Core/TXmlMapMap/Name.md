@@ -3,7 +3,7 @@ uid: TXmlMapMap.Name
 description: TXmlMapMap.Name
 ---
 
-# TXmlMapMap.Name Property
+# TXmlMapMap\.Name Property
 
 Friendly name of the map object\.
 

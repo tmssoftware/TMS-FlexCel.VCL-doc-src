@@ -3,7 +3,7 @@ uid: IExcelChart.DefaultLabelFont
 description: IExcelChart.DefaultLabelFont
 ---
 
-# IExcelChart.DefaultLabelFont Property
+# IExcelChart\.DefaultLabelFont Property
 
 Returns the default font for all labels in the chart that do not have a font defined\.
 

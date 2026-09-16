@@ -3,7 +3,7 @@ uid: TRecoveryInvalidNameError.ExceptionMsg
 description: TRecoveryInvalidNameError.ExceptionMsg
 ---
 
-# TRecoveryInvalidNameError.ExceptionMsg Property
+# TRecoveryInvalidNameError\.ExceptionMsg Property
 
 Exception error\.
 

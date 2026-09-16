@@ -3,7 +3,7 @@ uid: TDataConnectionWebQueryProperties.Xml
 description: TDataConnectionWebQueryProperties.Xml
 ---
 
-# TDataConnectionWebQueryProperties.Xml Property
+# TDataConnectionWebQueryProperties\.Xml Property
 
 true if the web query source is XML \(versus HTML\)\.
 

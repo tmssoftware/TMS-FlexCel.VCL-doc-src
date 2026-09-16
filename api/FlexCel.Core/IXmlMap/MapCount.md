@@ -3,7 +3,7 @@ uid: IXmlMap.MapCount
 description: IXmlMap.MapCount
 ---
 
-# IXmlMap.MapCount Property
+# IXmlMap\.MapCount Property
 
 Count of maps in the class\.
 

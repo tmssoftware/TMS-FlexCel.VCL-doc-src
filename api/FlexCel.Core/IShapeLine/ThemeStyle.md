@@ -3,7 +3,7 @@ uid: IShapeLine.ThemeStyle
 description: IShapeLine.ThemeStyle
 ---
 
-# IShapeLine.ThemeStyle Property
+# IShapeLine\.ThemeStyle Property
 
 Theme used to draw the line\. This property has effect only if [LineStyle](LineStyle.md) is null\.
 

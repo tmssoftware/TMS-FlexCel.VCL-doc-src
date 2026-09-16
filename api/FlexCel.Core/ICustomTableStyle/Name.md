@@ -3,7 +3,7 @@ uid: ICustomTableStyle.Name
 description: ICustomTableStyle.Name
 ---
 
-# ICustomTableStyle.Name Property
+# ICustomTableStyle\.Name Property
 
 Name of the custom table style\.
 

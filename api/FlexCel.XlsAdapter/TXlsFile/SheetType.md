@@ -3,7 +3,7 @@ uid: TXlsFile.SheetType
 description: TXlsFile.SheetType
 ---
 
-# TXlsFile.SheetType Property
+# TXlsFile\.SheetType Property
 
 Use this property to know it the [TExcelFile.ActiveSheet](../../FlexCel.Core/TExcelFile/ActiveSheet.md) is a worksheet, a chart sheet or other\.
 

@@ -3,7 +3,7 @@ uid: IShapeProperties.NestedOptions
 description: IShapeProperties.NestedOptions
 ---
 
-# IShapeProperties.NestedOptions Property
+# IShapeProperties\.NestedOptions Property
 
 When the shape is a group, the real properties of the shape are in its first children\. This method  returns the correct shape options\.
 

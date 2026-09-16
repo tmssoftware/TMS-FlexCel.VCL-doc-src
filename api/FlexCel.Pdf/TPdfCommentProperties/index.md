@@ -33,10 +33,10 @@ Properties for a PDF comment\.
 
 |Name|Description|
 |---|---|
+|[BackgroundColor](BackgroundColor.md)|Background color for the comment\. Only visible if [CommentType](CommentType.md) is NOT Text|
 |[CommentType](CommentType.md)|Type of comment\.<br />|
 |[Icon](Icon.md)|Icon for the comment\. Only visible if [CommentType](CommentType.md) is Text|
-|[Opacity](Opacity.md)|A value between 0 and 1 specifying the opacity of the note\.<br />|
-|[BackgroundColor](BackgroundColor.md)|Background color for the comment\. Only visible if [CommentType](CommentType.md) is NOT Text|
 |[LineColor](LineColor.md)|Line color for the comment\. Only visible if [CommentType](CommentType.md) is NOT Text|
+|[Opacity](Opacity.md)|A value between 0 and 1 specifying the opacity of the note\.<br />|
 
 

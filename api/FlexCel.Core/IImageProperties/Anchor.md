@@ -3,7 +3,7 @@ uid: IImageProperties.Anchor
 description: IImageProperties.Anchor
 ---
 
-# IImageProperties.Anchor Property
+# IImageProperties\.Anchor Property
 
 Image position
 

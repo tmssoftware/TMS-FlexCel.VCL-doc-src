@@ -3,7 +3,7 @@ uid: TColorChangeBlipTransform.ColorFrom
 description: TColorChangeBlipTransform.ColorFrom
 ---
 
-# TColorChangeBlipTransform.ColorFrom Property
+# TColorChangeBlipTransform\.ColorFrom Property
 
 Color which we are going to replace\.
 

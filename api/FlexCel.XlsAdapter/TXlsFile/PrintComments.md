@@ -3,7 +3,7 @@ uid: TXlsFile.PrintComments
 description: TXlsFile.PrintComments
 ---
 
-# TXlsFile.PrintComments Property
+# TXlsFile\.PrintComments Property
 
 Determines how the comments will be printed\.
 

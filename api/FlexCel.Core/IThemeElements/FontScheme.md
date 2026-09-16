@@ -3,7 +3,7 @@ uid: IThemeElements.FontScheme
 description: IThemeElements.FontScheme
 ---
 
-# IThemeElements.FontScheme Property
+# IThemeElements\.FontScheme Property
 
 Font Scheme in the theme\.
 

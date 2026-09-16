@@ -3,7 +3,7 @@ uid: TXlsBaseChart.ImageCount
 description: TXlsBaseChart.ImageCount
 ---
 
-# TXlsBaseChart.ImageCount Property
+# TXlsBaseChart\.ImageCount Property
 
 The number of images in the chart\.
 

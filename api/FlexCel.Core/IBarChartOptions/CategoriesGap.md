@@ -3,7 +3,7 @@ uid: IBarChartOptions.CategoriesGap
 description: IBarChartOptions.CategoriesGap
 ---
 
-# IBarChartOptions.CategoriesGap Property
+# IBarChartOptions\.CategoriesGap Property
 
 Space between categories in percent of bar width\.
 

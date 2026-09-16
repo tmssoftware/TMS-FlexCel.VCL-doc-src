@@ -3,7 +3,7 @@ uid: TStandardSheetSelectorStyles.UnselectedTabHover
 description: TStandardSheetSelectorStyles.UnselectedTabHover
 ---
 
-# TStandardSheetSelectorStyles.UnselectedTabHover Property
+# TStandardSheetSelectorStyles\.UnselectedTabHover Property
 
 Style to be applied to an unselected tab when you hover the mouse over it\.
 

@@ -3,7 +3,7 @@ uid: TReportTag.StrDynamicInclude
 description: TReportTag.StrDynamicInclude
 ---
 
-# TReportTag.StrDynamicInclude Property
+# TReportTag\.StrDynamicInclude Property
 
 "Dynamic"
 

@@ -3,7 +3,7 @@ uid: TFlxConsts.Max_FormulaLen2007
 description: TFlxConsts.Max_FormulaLen2007
 ---
 
-# TFlxConsts.Max_FormulaLen2007 Property
+# TFlxConsts\.Max\_FormulaLen2007 Property
 
 Maximum number of characters in a Formula for an Excel 2007 or newer spreadsheet\.
 

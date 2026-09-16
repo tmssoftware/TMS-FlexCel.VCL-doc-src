@@ -3,7 +3,7 @@ uid: TTokenStructuredReference.TableName
 description: TTokenStructuredReference.TableName
 ---
 
-# TTokenStructuredReference.TableName Property
+# TTokenStructuredReference\.TableName Property
 
 Table that used by this reference\.
 

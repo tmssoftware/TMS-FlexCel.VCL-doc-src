@@ -3,7 +3,7 @@ uid: TFlexCelPreviewer.PageShadowColor
 description: TFlexCelPreviewer.PageShadowColor
 ---
 
-# TFlexCelPreviewer.PageShadowColor Property
+# TFlexCelPreviewer\.PageShadowColor Property
 
 Shadow color for the pages in the preview\.
 

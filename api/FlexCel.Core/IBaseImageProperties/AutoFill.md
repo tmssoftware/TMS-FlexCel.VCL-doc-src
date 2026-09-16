@@ -3,7 +3,7 @@ uid: IBaseImageProperties.AutoFill
 description: IBaseImageProperties.AutoFill
 ---
 
-# IBaseImageProperties.AutoFill Property
+# IBaseImageProperties\.AutoFill Property
 
 If true, the object uses automatic fill style\.
 

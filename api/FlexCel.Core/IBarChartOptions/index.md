@@ -20,9 +20,9 @@ Options for a Bar or Column chart\.
 |---|---|
 |[BarOverlap](BarOverlap.md)|Space between bars in percent of the bar width\.<br />|
 |[CategoriesGap](CategoriesGap.md)|Space between categories in percent of bar width\.<br />|
-|[Horizontal](Horizontal.md)|If true, bars are horizontal and this is a bar chart\. If false, bars are vertical and this is a column chart\.<br />|
-|[StackedMode](StackedMode.md)|[TStackedMode](../TStackedMode.md) of the chart\.<br />|
 |[HasShadow](HasShadow.md)|True if the bars have shadows\.<br />|
+|[Horizontal](Horizontal.md)|If true, bars are horizontal and this is a bar chart\. If false, bars are vertical and this is a column chart\.<br />|
 |[SeriesLines](SeriesLines.md)|Line style for the Lines between Series if they exist, null otherwise\.<br />|
+|[StackedMode](StackedMode.md)|[TStackedMode](../TStackedMode.md) of the chart\.<br />|
 
 

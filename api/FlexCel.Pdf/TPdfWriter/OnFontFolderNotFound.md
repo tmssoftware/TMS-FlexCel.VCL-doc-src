@@ -3,7 +3,7 @@ uid: TPdfWriter.OnFontFolderNotFound
 description: TPdfWriter.OnFontFolderNotFound
 ---
 
-# TPdfWriter.OnFontFolderNotFound Property
+# TPdfWriter\.OnFontFolderNotFound Property
 
 This property determines how FlexCel behaves when one of the folders you specify in [GetFontFolder](GetFontFolder.md) doesn't exist\.
 Note that this applies for a single PdfWriter instance, to set it for the full application, use [OnFontFolderNotFoundGlobal](OnFontFolderNotFoundGlobal.md)

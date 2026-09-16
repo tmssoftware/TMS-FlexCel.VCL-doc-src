@@ -3,7 +3,7 @@ uid: TSVGExportParameters.TotalPages
 description: TSVGExportParameters.TotalPages
 ---
 
-# TSVGExportParameters.TotalPages Property
+# TSVGExportParameters\.TotalPages Property
 
 Total number of pages to export\.
 

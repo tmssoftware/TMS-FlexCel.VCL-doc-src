@@ -3,7 +3,7 @@ uid: TVirtualCellStartReadingEventArgs.SheetNames
 description: TVirtualCellStartReadingEventArgs.SheetNames
 ---
 
-# TVirtualCellStartReadingEventArgs.SheetNames Property
+# TVirtualCellStartReadingEventArgs\.SheetNames Property
 
 A list with all the sheets available in the file\.
 

@@ -3,7 +3,7 @@ uid: TDrawingConditionalFormatIconSet.HideValues
 description: TDrawingConditionalFormatIconSet.HideValues
 ---
 
-# TDrawingConditionalFormatIconSet.HideValues Property
+# TDrawingConditionalFormatIconSet\.HideValues Property
 
 If true, the contents of the cell won't be displayed\.
 

@@ -3,7 +3,7 @@ uid: TXlsNamedRange.WorkbookParameter
 description: TXlsNamedRange.WorkbookParameter
 ---
 
-# TXlsNamedRange.WorkbookParameter Property
+# TXlsNamedRange\.WorkbookParameter Property
 
 indicates that the name is used as a workbook parameter on a version of the workbook that is published to or rendered on a Web or application server\. This is new to Excel 2007\.
 

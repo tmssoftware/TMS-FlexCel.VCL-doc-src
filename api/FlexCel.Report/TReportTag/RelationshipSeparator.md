@@ -3,7 +3,7 @@ uid: TReportTag.RelationshipSeparator
 description: TReportTag.RelationshipSeparator
 ---
 
-# TReportTag.RelationshipSeparator Property
+# TReportTag\.RelationshipSeparator Property
 
 "\->"
 

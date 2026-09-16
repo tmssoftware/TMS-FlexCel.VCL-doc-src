@@ -25,7 +25,7 @@ A structure describing a gradient point, with its color and position in the grad
 
 |Name|Description|
 |---|---|
-|[Position](Position.md)|Position of the stop in the gradient\. Must be between 0 \(start of the gradient\) and 1 \(end of the gradient\)\.<br />|
 |[Color](Color.md)|Color for this stop in the gradient\.<br />|
+|[Position](Position.md)|Position of the stop in the gradient\. Must be between 0 \(start of the gradient\) and 1 \(end of the gradient\)\.<br />|
 
 

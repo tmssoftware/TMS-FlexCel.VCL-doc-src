@@ -17,9 +17,9 @@ One RTF run for the text in a cell\. FirstChar is the first \(base 0\) character
 
 |Name|Description|
 |---|---|
-|[RTFFirstChar&#8203;Comparer&#8203;Method](RTFFirstCharComparerMethod.md)|A comparer which will compare only the first character of each run\.<br />|
 |[FirstChar](FirstChar.md)|First character on the string where we will apply the font\. \(0 based\)|
 |[Font](Font.md)|Font for this string part\.<br />|
+|[RTFFirstChar&#8203;Comparer&#8203;Method](RTFFirstCharComparerMethod.md)|A comparer which will compare only the first character of each run\.<br />|
 
 
 ## Methods
@@ -27,9 +27,9 @@ One RTF run for the text in a cell\. FirstChar is the first \(base 0\) character
 |Name|Description|
 |---|---|
 |[Create](Create.md)|Creates an RTFRun with the given values\.<br />|
-|[ToByteArray](ToByteArray.md)|Converts a TRTFRun array into a byte array for serialization\.<br />|
 |[Equals](Equals.md)|Determines whether two TRTFRun instances are equal\.<br />|
 |[GetHashCode](GetHashCode.md)|Gets a hashcode for the TRTFRun instance\.<br />|
+|[ToByteArray](ToByteArray.md)|Converts a TRTFRun array into a byte array for serialization\.<br />|
 
 
 ## Operators

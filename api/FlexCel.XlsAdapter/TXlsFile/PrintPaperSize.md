@@ -3,7 +3,7 @@ uid: TXlsFile.PrintPaperSize
 description: TXlsFile.PrintPaperSize
 ---
 
-# TXlsFile.PrintPaperSize Property
+# TXlsFile\.PrintPaperSize Property
 
 Pre\-defined standard paper size\. If you want to set up a printer specific paper size, see [TExcelFile.SetPrinterDriverSettings](../../FlexCel.Core/TExcelFile/SetPrinterDriverSettings.md)
 

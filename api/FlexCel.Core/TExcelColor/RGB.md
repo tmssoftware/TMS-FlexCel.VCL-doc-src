@@ -3,7 +3,7 @@ uid: TExcelColor.RGB
 description: TExcelColor.RGB
 ---
 
-# TExcelColor.RGB Property
+# TExcelColor\.RGB Property
 
 Returns the color when this structure has an RGB color, as a 0xRRGGBB integer\. This property is fully functional with Excel 2007 or newer, older versions will be converted to Indexed color before saving as xls\.
 

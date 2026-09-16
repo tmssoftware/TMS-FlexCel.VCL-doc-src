@@ -3,7 +3,7 @@ uid: TConditionalFormatCustomIconDef.IconSet
 description: TConditionalFormatCustomIconDef.IconSet
 ---
 
-# TConditionalFormatCustomIconDef.IconSet Property
+# TConditionalFormatCustomIconDef\.IconSet Property
 
 Icon set where to get the icon\.
 

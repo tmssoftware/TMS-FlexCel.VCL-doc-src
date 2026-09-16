@@ -3,7 +3,7 @@ uid: TObjectTextProperties.TextRotation
 description: TObjectTextProperties.TextRotation
 ---
 
-# TObjectTextProperties.TextRotation Property
+# TObjectTextProperties\.TextRotation Property
 
 Determines how the text is oriented in the object\.
 

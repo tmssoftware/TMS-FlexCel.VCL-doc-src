@@ -3,7 +3,7 @@ uid: TClientAnchor.Col1
 description: TClientAnchor.Col1
 ---
 
-# TClientAnchor.Col1 Property
+# TClientAnchor\.Col1 Property
 
 First column of object
 

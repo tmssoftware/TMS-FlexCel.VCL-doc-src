@@ -3,7 +3,7 @@ uid: TChartSeriesMarkerOptions.LineFormat
 description: TChartSeriesMarkerOptions.LineFormat
 ---
 
-# TChartSeriesMarkerOptions.LineFormat Property
+# TChartSeriesMarkerOptions\.LineFormat Property
 
 Format of the marker lines\.
 

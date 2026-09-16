@@ -3,7 +3,7 @@ uid: TPageEventArgs.CurrentSheet
 description: TPageEventArgs.CurrentSheet
 ---
 
-# TPageEventArgs.CurrentSheet Property
+# TPageEventArgs\.CurrentSheet Property
 
 Sheet that is currently being printed\.
 

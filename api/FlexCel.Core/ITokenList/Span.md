@@ -3,7 +3,7 @@ uid: ITokenList.Span
 description: ITokenList.Span
 ---
 
-# ITokenList.Span Property
+# ITokenList\.Span Property
 
 This property only applies if [IsArrayFormula](IsArrayFormula.md) is true\. It has the range for the array formula\.
 

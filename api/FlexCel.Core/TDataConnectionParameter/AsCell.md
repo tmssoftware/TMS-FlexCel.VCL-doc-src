@@ -3,7 +3,7 @@ uid: TDataConnectionParameter.AsCell
 description: TDataConnectionParameter.AsCell
 ---
 
-# TDataConnectionParameter.AsCell Property
+# TDataConnectionParameter\.AsCell Property
 
 Cell reference indicating which cell's value to use for the query parameter\. Used only when [ParameterType](ParameterType.md) = cell\.
 

@@ -3,7 +3,7 @@ uid: TFlexCelReport.CustomizeChart
 description: TFlexCelReport.CustomizeChart
 ---
 
-# TFlexCelReport.CustomizeChart Event
+# TFlexCelReport\.CustomizeChart Event
 
 Fires for each chart in each sheet, after the report has been generated\.
 Allows to do custom modifications to the charts, like for example setting series colors\.
@@ -13,7 +13,7 @@ Allows to do custom modifications to the charts, like for example setting series
 
 **Unit:** [FlexCel.Report](../index.md)
 
-<pre><code class="lang-delphi hljs">property <a href="../TFlexCelReport/index.md">TFlexCelReport</a>.CustomizeChart: TCustomizeChartEventHandler</code></pre>
+<pre><code class="lang-delphi hljs">property <a href="../TFlexCelReport/index.md">TFlexCelReport</a>.CustomizeChart: <a href="../TCustomizeChartEventHandler.md">TCustomizeChartEventHandler</a></code></pre>
 
 ## Examples
 

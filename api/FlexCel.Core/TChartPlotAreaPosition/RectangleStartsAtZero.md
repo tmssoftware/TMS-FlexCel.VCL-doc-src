@@ -3,7 +3,7 @@ uid: TChartPlotAreaPosition.RectangleStartsAtZero
 description: TChartPlotAreaPosition.RectangleStartsAtZero
 ---
 
-# TChartPlotAreaPosition.RectangleStartsAtZero Property
+# TChartPlotAreaPosition\.RectangleStartsAtZero Property
 
 In Excel 2003 or older, there is a margin around the plot area where no data can go\.
 So, a [Rectangle](Rectangle.md) left of 0, meant to the start of the plot area \+ the margin\.

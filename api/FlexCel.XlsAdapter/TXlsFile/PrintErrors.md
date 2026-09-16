@@ -3,7 +3,7 @@ uid: TXlsFile.PrintErrors
 description: TXlsFile.PrintErrors
 ---
 
-# TXlsFile.PrintErrors Property
+# TXlsFile\.PrintErrors Property
 
 Determines how the errors will be printed\.
 

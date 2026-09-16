@@ -3,7 +3,7 @@ uid: TGetFontFolderEventArgs.Applied
 description: TGetFontFolderEventArgs.Applied
 ---
 
-# TGetFontFolderEventArgs.Applied Property
+# TGetFontFolderEventArgs\.Applied Property
 
 Set Applied = false if the font is not being processed by the event, and FlexCel should try to find the font path for the font as if the event wasn't assigned\.
 

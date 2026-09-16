@@ -18,7 +18,7 @@ Returns the the bubble values for a bubble chart\.
 
 |Name|Description|
 |---|---|
-|[DataValues](DataValues.md)|Actual values for the bubbles\.<br />|
 |[DataDefinition](DataDefinition.md)|Formula defining the bubbles\.<br />|
+|[DataValues](DataValues.md)|Actual values for the bubbles\.<br />|
 
 

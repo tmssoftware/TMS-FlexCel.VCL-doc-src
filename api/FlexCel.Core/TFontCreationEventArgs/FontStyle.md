@@ -3,7 +3,7 @@ uid: TFontCreationEventArgs.FontStyle
 description: TFontCreationEventArgs.FontStyle
 ---
 
-# TFontCreationEventArgs.FontStyle Property
+# TFontCreationEventArgs\.FontStyle Property
 
 Style of the font \(italics, bold, etc\.\)\. Change this value to create a font with a different style\.
 

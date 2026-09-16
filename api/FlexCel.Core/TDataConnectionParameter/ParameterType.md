@@ -3,7 +3,7 @@ uid: TDataConnectionParameter.ParameterType
 description: TDataConnectionParameter.ParameterType
 ---
 
-# TDataConnectionParameter.ParameterType Property
+# TDataConnectionParameter\.ParameterType Property
 
 Type of parameter used\. If the parameterType=value, then the value from [AsBoolean](AsBoolean.md), [AsDouble](AsDouble.md), [AsInteger](AsInteger.md), or [AsString](AsString.md) are used\.In this case, it is expected that only one of  those properties is specified\.
 

@@ -3,7 +3,7 @@ uid: TDataConnectionDbProperties.Command
 description: TDataConnectionDbProperties.Command
 ---
 
-# TDataConnectionDbProperties.Command Property
+# TDataConnectionDbProperties\.Command Property
 
 The string containing the database command to pass to the data provider that will interact with the external source in order to retrieve data\.
 

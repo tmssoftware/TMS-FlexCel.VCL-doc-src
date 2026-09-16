@@ -3,7 +3,7 @@ uid: TXlsFile.PrintPaperDimensions
 description: TXlsFile.PrintPaperDimensions
 ---
 
-# TXlsFile.PrintPaperDimensions Property
+# TXlsFile\.PrintPaperDimensions Property
 
 Returns the dimensions for the selected paper\. See also [TExcelFile.PrintPaperSize](../../FlexCel.Core/TExcelFile/PrintPaperSize.md)\.
 

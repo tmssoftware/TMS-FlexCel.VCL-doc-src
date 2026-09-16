@@ -3,7 +3,7 @@ uid: TSheetSelectorLink.ExcelSheetName
 description: TSheetSelectorLink.ExcelSheetName
 ---
 
-# TSheetSelectorLink.ExcelSheetName Property
+# TSheetSelectorLink\.ExcelSheetName Property
 
 Name of the sheet in the Excel file\.
 

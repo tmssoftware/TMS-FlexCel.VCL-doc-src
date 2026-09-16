@@ -3,7 +3,7 @@ uid: TFlexCelPreviewer.CenteredPreview
 description: TFlexCelPreviewer.CenteredPreview
 ---
 
-# TFlexCelPreviewer.CenteredPreview Property
+# TFlexCelPreviewer\.CenteredPreview Property
 
 When true, the preview will be drawn at the middle of the window, instead of at the left\. If true, then [PageXSeparation](PageXSeparation.md) is the minimum margin that the preview will have\.
 

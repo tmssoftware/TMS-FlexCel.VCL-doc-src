@@ -3,7 +3,7 @@ uid: TObjectTextProperties.HAlignment
 description: TObjectTextProperties.HAlignment
 ---
 
-# TObjectTextProperties.HAlignment Property
+# TObjectTextProperties\.HAlignment Property
 
 Horizontal alignment for the text in the object\.
 

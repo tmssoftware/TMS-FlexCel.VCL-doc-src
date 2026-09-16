@@ -3,7 +3,7 @@ uid: IConditionalIconSetRule.FormatDef
 description: IConditionalIconSetRule.FormatDef
 ---
 
-# IConditionalIconSetRule.FormatDef Property
+# IConditionalIconSetRule\.FormatDef Property
 
 Format to apply when the rule evaluates to true\.
 

@@ -3,7 +3,7 @@ uid: TExcelColor.ColorType
 description: TExcelColor.ColorType
 ---
 
-# TExcelColor.ColorType Property
+# TExcelColor\.ColorType Property
 
 Identifies which kind of color is the one to apply in this structure\.
 

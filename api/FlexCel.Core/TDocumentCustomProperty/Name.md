@@ -3,7 +3,7 @@ uid: TDocumentCustomProperty.Name
 description: TDocumentCustomProperty.Name
 ---
 
-# TDocumentCustomProperty.Name Property
+# TDocumentCustomProperty\.Name Property
 
 Name of the custom property\.
 

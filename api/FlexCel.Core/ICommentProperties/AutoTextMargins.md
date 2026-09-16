@@ -3,7 +3,7 @@ uid: ICommentProperties.AutoTextMargins
 description: ICommentProperties.AutoTextMargins
 ---
 
-# ICommentProperties.AutoTextMargins Property
+# ICommentProperties\.AutoTextMargins Property
 
 If true, the comment will use automatic margins around the text, instead of what is set in [TShapeOption.dxTextLeft](../TShapeOption.md), [TShapeOption.dxTextRight](../TShapeOption.md), [TShapeOption.dyTextTop](../TShapeOption.md) and [TShapeOption.dyTextBottom](../TShapeOption.md)\.
 By default comments have automatic margins\.

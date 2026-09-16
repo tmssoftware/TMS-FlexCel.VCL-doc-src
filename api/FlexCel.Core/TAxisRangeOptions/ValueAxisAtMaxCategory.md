@@ -3,7 +3,7 @@ uid: TAxisRangeOptions.ValueAxisAtMaxCategory
 description: TAxisRangeOptions.ValueAxisAtMaxCategory
 ---
 
-# TAxisRangeOptions.ValueAxisAtMaxCategory Property
+# TAxisRangeOptions\.ValueAxisAtMaxCategory Property
 
 True if the Y axis is at the left\.
 

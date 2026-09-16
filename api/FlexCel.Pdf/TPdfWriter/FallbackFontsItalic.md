@@ -3,7 +3,7 @@ uid: TPdfWriter.FallbackFontsItalic
 description: TPdfWriter.FallbackFontsItalic
 ---
 
-# TPdfWriter.FallbackFontsItalic Property
+# TPdfWriter\.FallbackFontsItalic Property
 
 A semicolon \(;\) separated list of font names similar to [FallbackFonts](FallbackFonts.md) that will be used only for italic fonts\.
 

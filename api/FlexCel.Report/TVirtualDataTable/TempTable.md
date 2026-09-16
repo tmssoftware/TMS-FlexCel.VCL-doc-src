@@ -3,7 +3,7 @@ uid: TVirtualDataTable.TempTable
 description: TVirtualDataTable.TempTable
 ---
 
-# TVirtualDataTable.TempTable Property
+# TVirtualDataTable\.TempTable Property
 
 If true, this table must be destroyed by the framework\.
 

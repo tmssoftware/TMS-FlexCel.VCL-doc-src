@@ -3,7 +3,7 @@ uid: TClientAnchor.Row2
 description: TClientAnchor.Row2
 ---
 
-# TClientAnchor.Row2 Property
+# TClientAnchor\.Row2 Property
 
 Last row of object\.
 

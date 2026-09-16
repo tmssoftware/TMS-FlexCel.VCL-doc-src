@@ -3,7 +3,7 @@ uid: TGetBookmarkInformationArgs.Bookmark
 description: TGetBookmarkInformationArgs.Bookmark
 ---
 
-# TGetBookmarkInformationArgs.Bookmark Property
+# TGetBookmarkInformationArgs\.Bookmark Property
 
 Bookmark that we are about to include\.
 

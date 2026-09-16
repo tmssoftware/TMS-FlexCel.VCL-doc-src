@@ -3,7 +3,7 @@ uid: TExcelFile.FormulaReferenceStyle
 description: TExcelFile.FormulaReferenceStyle
 ---
 
-# TExcelFile.FormulaReferenceStyle Property
+# TExcelFile\.FormulaReferenceStyle Property
 
 Specifies which reference style to use when entering formulas: A1 or R1C1\. Note that this property is different from [OptionsR1C1](OptionsR1C1.md)\. OptionsR1C1 modifies a property of the file, that handles how references will show in Excel\.
 

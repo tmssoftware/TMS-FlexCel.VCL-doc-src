@@ -3,7 +3,7 @@ uid: TFlexCelHtmlExport.GeneratedFiles
 description: TFlexCelHtmlExport.GeneratedFiles
 ---
 
-# TFlexCelHtmlExport.GeneratedFiles Property
+# TFlexCelHtmlExport\.GeneratedFiles Property
 
 Contains all the generated files by the component\. Note that it might contain files not actually generated, if an error happened while trying to create them\.
 

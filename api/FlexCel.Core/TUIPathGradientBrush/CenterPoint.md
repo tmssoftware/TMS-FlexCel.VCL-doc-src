@@ -3,7 +3,7 @@ uid: TUIPathGradientBrush.CenterPoint
 description: TUIPathGradientBrush.CenterPoint
 ---
 
-# TUIPathGradientBrush.CenterPoint Property
+# TUIPathGradientBrush\.CenterPoint Property
 
 Center of the gradient\.
 

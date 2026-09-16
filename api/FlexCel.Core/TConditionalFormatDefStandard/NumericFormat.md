@@ -3,7 +3,7 @@ uid: TConditionalFormatDefStandard.NumericFormat
 description: TConditionalFormatDefStandard.NumericFormat
 ---
 
-# TConditionalFormatDefStandard.NumericFormat Property
+# TConditionalFormatDefStandard\.NumericFormat Property
 
 Numeric format for the cell, when [ApplyNumericFormat](ApplyNumericFormat.md) is true\.
 

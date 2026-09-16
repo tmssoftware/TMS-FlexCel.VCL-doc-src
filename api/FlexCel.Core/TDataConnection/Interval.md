@@ -3,7 +3,7 @@ uid: TDataConnection.Interval
 description: TDataConnection.Interval
 ---
 
-# TDataConnection.Interval Property
+# TDataConnection\.Interval Property
 
 Specifies the number of minutes between automatic refreshes of the connection\. When this attribute is not present, the connection is not automatically refreshed\.
 

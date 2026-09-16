@@ -25,9 +25,9 @@ Data of an implemented formula function\.
 
 |Name|Description|
 |---|---|
-|[Id](Id.md)|Formula ID\. \(Excel specific\)|
 |[FunctionName](FunctionName.md)|Formula Name\.<br />|
-|[MinArgCount](MinArgCount.md)|Minimum argument count for the function\.<br />|
+|[Id](Id.md)|Formula ID\. \(Excel specific\)|
 |[MaxArgCount](MaxArgCount.md)|Maximum argument count for the function\.<br />|
+|[MinArgCount](MinArgCount.md)|Minimum argument count for the function\.<br />|
 
 

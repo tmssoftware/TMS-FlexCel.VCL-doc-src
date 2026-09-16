@@ -3,7 +3,7 @@ uid: TUIRectangle.BottomRight
 description: TUIRectangle.BottomRight
 ---
 
-# TUIRectangle.BottomRight Property
+# TUIRectangle\.BottomRight Property
 
 Returns a TPointF with the Right and Bottom coordinates of the rectangle\.
 

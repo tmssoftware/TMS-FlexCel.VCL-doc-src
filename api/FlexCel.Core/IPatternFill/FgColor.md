@@ -3,7 +3,7 @@ uid: IPatternFill.FgColor
 description: IPatternFill.FgColor
 ---
 
-# IPatternFill.FgColor Property
+# IPatternFill\.FgColor Property
 
 Foreground color of a pattern fill\.
 

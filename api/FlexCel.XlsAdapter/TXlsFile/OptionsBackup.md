@@ -3,7 +3,7 @@ uid: TXlsFile.OptionsBackup
 description: TXlsFile.OptionsBackup
 ---
 
-# TXlsFile.OptionsBackup Property
+# TXlsFile\.OptionsBackup Property
 
 Defines whether to save a backup copy of the workbook or not\.
 

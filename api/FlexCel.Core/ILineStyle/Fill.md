@@ -3,7 +3,7 @@ uid: ILineStyle.Fill
 description: ILineStyle.Fill
 ---
 
-# ILineStyle.Fill Property
+# ILineStyle\.Fill Property
 
 Line color and/or fill\.
 

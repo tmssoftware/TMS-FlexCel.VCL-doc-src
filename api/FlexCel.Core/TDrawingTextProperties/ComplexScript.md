@@ -3,7 +3,7 @@ uid: TDrawingTextProperties.ComplexScript
 description: TDrawingTextProperties.ComplexScript
 ---
 
-# TDrawingTextProperties.ComplexScript Property
+# TDrawingTextProperties\.ComplexScript Property
 
 This element specifies that a complex script font be used for a specific run of text\. This font is specified with a  typeface attribute much like the others but is specifically classified as a complex script font\.
 

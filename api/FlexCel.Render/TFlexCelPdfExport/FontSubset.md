@@ -3,7 +3,7 @@ uid: TFlexCelPdfExport.FontSubset
 description: TFlexCelPdfExport.FontSubset
 ---
 
-# TFlexCelPdfExport.FontSubset Property
+# TFlexCelPdfExport\.FontSubset Property
 
 Determines if the full font will be embedded or only the characters used, when embedding fonts\.
 

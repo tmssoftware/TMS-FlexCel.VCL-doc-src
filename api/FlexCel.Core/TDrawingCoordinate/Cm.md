@@ -3,7 +3,7 @@ uid: TDrawingCoordinate.Cm
 description: TDrawingCoordinate.Cm
 ---
 
-# TDrawingCoordinate.Cm Property
+# TDrawingCoordinate\.Cm Property
 
 Value of the coordinate in cm
 

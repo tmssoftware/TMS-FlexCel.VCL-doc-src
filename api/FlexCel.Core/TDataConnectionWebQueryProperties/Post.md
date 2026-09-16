@@ -3,7 +3,7 @@ uid: TDataConnectionWebQueryProperties.Post
 description: TDataConnectionWebQueryProperties.Post
 ---
 
-# TDataConnectionWebQueryProperties.Post Property
+# TDataConnectionWebQueryProperties\.Post Property
 
 Returns or sets the string used with the post method of inputting data into a web server to return data from a web query\.
 

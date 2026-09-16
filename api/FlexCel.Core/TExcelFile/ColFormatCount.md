@@ -3,7 +3,7 @@ uid: TExcelFile.ColFormatCount
 description: TExcelFile.ColFormatCount
 ---
 
-# TExcelFile.ColFormatCount Property
+# TExcelFile\.ColFormatCount Property
 
 Returns the number of formatted columns in the file\. Note that in xlsx files this number can be very big\.
 

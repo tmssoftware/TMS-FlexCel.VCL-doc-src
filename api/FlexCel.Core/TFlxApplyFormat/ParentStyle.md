@@ -3,7 +3,7 @@ uid: TFlxApplyFormat.ParentStyle
 description: TFlxApplyFormat.ParentStyle
 ---
 
-# TFlxApplyFormat.ParentStyle Property
+# TFlxApplyFormat\.ParentStyle Property
 
 Parent style\. This is the parent style name and all the properties that are linked to it\.
 

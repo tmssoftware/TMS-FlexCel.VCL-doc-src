@@ -3,7 +3,7 @@ uid: IOneImgExportInfo.PrintRange
 description: IOneImgExportInfo.PrintRange
 ---
 
-# IOneImgExportInfo.PrintRange Property
+# IOneImgExportInfo\.PrintRange Property
 
 Range that will be printed\. When the print area is composed of different non\-contiguous parts you should use [PrintRanges](PrintRanges.md) to get all the parts\.
 

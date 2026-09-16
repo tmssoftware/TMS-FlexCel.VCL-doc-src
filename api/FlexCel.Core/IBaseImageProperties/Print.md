@@ -3,7 +3,7 @@ uid: IBaseImageProperties.Print
 description: IBaseImageProperties.Print
 ---
 
-# IBaseImageProperties.Print Property
+# IBaseImageProperties\.Print Property
 
 If false, the image won't be printed\.
 

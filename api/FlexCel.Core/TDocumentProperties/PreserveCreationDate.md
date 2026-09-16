@@ -3,7 +3,7 @@ uid: TDocumentProperties.PreserveCreationDate
 description: TDocumentProperties.PreserveCreationDate
 ---
 
-# TDocumentProperties.PreserveCreationDate Property
+# TDocumentProperties\.PreserveCreationDate Property
 
 By default FlexCel will set the creation date in the file to be the date when you actually created it, no matter the value originally stored in the file\.
 This assumes you are starting from a template and generating a new document from it\.

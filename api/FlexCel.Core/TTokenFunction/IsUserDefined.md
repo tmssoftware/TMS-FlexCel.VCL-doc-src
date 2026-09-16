@@ -3,7 +3,7 @@ uid: TTokenFunction.IsUserDefined
 description: TTokenFunction.IsUserDefined
 ---
 
-# TTokenFunction.IsUserDefined Property
+# TTokenFunction\.IsUserDefined Property
 
 If true, the function is used defined, not built\-in in Excel\. Note that some built\-in functions from Excel 2003 like EOMonth, while available in Excel, are implemented as user\-defined functions \(they were available in ToolPacks like the Analysis ToolPack\)\.
 

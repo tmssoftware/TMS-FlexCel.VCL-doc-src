@@ -3,7 +3,7 @@ uid: IBaseImageProperties.CropArea
 description: IBaseImageProperties.CropArea
 ---
 
-# IBaseImageProperties.CropArea Property
+# IBaseImageProperties\.CropArea Property
 
 Cropping coordinates for the Image\.
 

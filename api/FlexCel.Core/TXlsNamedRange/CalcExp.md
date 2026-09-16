@@ -3,7 +3,7 @@ uid: TXlsNamedRange.CalcExp
 description: TXlsNamedRange.CalcExp
 ---
 
-# TXlsNamedRange.CalcExp Property
+# TXlsNamedRange\.CalcExp Property
 
 True if the range contains a complex function\.
 

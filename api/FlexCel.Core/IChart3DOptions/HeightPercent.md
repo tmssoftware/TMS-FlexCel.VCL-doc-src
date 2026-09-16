@@ -3,7 +3,7 @@ uid: IChart3DOptions.HeightPercent
 description: IChart3DOptions.HeightPercent
 ---
 
-# IChart3DOptions.HeightPercent Property
+# IChart3DOptions\.HeightPercent Property
 
 Height of a 3\-D chart as a percentage of the chart width\. Must be between 5%% and 500%%\.
 

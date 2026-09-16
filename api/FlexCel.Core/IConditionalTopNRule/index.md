@@ -18,8 +18,8 @@ A conditional format rule specified by the top\-N or bottom\-N values\.
 
 |Name|Description|
 |---|---|
-|[Rank](Rank.md)|The value of N in Top\-N|
 |[IsBottom](IsBottom.md)|If true then this rule targets the bottom\-n values instead of the top\-n\.<br />|
 |[IsPercent](IsPercent.md)|If true, then this rule targets top n%% instead of top n values\.<br />|
+|[Rank](Rank.md)|The value of N in Top\-N|
 
 

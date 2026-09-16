@@ -3,7 +3,7 @@ uid: THtmlExtraInfo.Meta
 description: THtmlExtraInfo.Meta
 ---
 
-# THtmlExtraInfo.Meta Property
+# THtmlExtraInfo\.Meta Property
 
 Extra strings to be added in the meta section of the header\. You could specify keywords here, for example\.
 

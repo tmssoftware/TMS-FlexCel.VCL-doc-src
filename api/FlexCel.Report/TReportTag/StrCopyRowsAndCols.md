@@ -3,7 +3,7 @@ uid: TReportTag.StrCopyRowsAndCols
 description: TReportTag.StrCopyRowsAndCols
 ---
 
-# TReportTag.StrCopyRowsAndCols Property
+# TReportTag\.StrCopyRowsAndCols Property
 
 "RC"
 

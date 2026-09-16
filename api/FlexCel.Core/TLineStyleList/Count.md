@@ -3,7 +3,7 @@ uid: TLineStyleList.Count
 description: TLineStyleList.Count
 ---
 
-# TLineStyleList.Count Property
+# TLineStyleList\.Count Property
 
 Count of line styles\.
 

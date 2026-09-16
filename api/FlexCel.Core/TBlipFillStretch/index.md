@@ -25,10 +25,10 @@ This element specifies that a BLIP should be stretched to fill the target rectan
 
 |Name|Description|
 |---|---|
-|[Equals](Equals.md)|Returns true if this instance has the same data as the object obj\.<br />|
-|[CompareTo](CompareTo.md)|Returns \-1 if obj is bigger than this, 0 if both objects are the same, and 1 if obj is smaller than this\.<br />|
-|[GetHashCode](GetHashCode.md)|Returns the hashcode for this object|
 |[Clone](Clone.md)|Return a deep copy of the object\.<br />|
+|[CompareTo](CompareTo.md)|Returns \-1 if obj is bigger than this, 0 if both objects are the same, and 1 if obj is smaller than this\.<br />|
+|[Equals](Equals.md)|Returns true if this instance has the same data as the object obj\.<br />|
+|[GetHashCode](GetHashCode.md)|Returns the hashcode for this object|
 
 
 ## Properties

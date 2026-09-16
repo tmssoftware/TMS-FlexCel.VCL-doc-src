@@ -3,7 +3,7 @@ uid: IOneImgExportInfo.TotalPages
 description: IOneImgExportInfo.TotalPages
 ---
 
-# IOneImgExportInfo.TotalPages Property
+# IOneImgExportInfo\.TotalPages Property
 
 Total pages on the ActiveSheet\.
 

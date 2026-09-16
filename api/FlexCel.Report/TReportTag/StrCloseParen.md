@@ -3,7 +3,7 @@ uid: TReportTag.StrCloseParen
 description: TReportTag.StrCloseParen
 ---
 
-# TReportTag.StrCloseParen Property
+# TReportTag\.StrCloseParen Property
 
 Close Parenthesis\.
 

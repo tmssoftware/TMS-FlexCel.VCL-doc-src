@@ -3,7 +3,7 @@ uid: TToken.TokenType
 description: TToken.TokenType
 ---
 
-# TToken.TokenType Property
+# TToken\.TokenType Property
 
 Returns the type of token\.
 

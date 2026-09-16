@@ -3,7 +3,7 @@ uid: TXlsxChart.BackWall
 description: TXlsxChart.BackWall
 ---
 
-# TXlsxChart.BackWall Property
+# TXlsxChart\.BackWall Property
 
 The wall at the back of a 3D\-chart
 

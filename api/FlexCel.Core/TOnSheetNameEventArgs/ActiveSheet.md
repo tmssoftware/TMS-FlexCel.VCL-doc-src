@@ -3,7 +3,7 @@ uid: TOnSheetNameEventArgs.ActiveSheet
 description: TOnSheetNameEventArgs.ActiveSheet
 ---
 
-# TOnSheetNameEventArgs.ActiveSheet Property
+# TOnSheetNameEventArgs\.ActiveSheet Property
 
 Sheet we are exporting\.
 

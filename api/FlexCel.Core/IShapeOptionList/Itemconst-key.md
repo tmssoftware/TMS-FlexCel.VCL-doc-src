@@ -3,7 +3,7 @@ uid: IShapeOptionList.Item[const_key]
 description: IShapeOptionList.Item[const key]
 ---
 
-# IShapeOptionList.Item[const key] Property
+# IShapeOptionList\.Item\[const key\] Property
 
 Gets the value for a key\. Value can be a long or a string, depending on the type of property\.
 

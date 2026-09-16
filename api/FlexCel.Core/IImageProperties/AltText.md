@@ -3,7 +3,7 @@ uid: IImageProperties.AltText
 description: IImageProperties.AltText
 ---
 
-# IImageProperties.AltText Property
+# IImageProperties\.AltText Property
 
 Alternative Text\. This is the same as the "Alt Text" tab in the properties dialog for the image, and is used when exporting to HTML\.
 

@@ -3,7 +3,7 @@ uid: IDataLabel.SeriesIndex
 description: IDataLabel.SeriesIndex
 ---
 
-# IDataLabel.SeriesIndex Property
+# IDataLabel\.SeriesIndex Property
 
 Series number for the series this label displays\. This value only has meaning if [LinkedTo](LinkedTo.md) is TLinkOptions\.DataLabel
 

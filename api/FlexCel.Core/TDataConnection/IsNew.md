@@ -3,7 +3,7 @@ uid: TDataConnection.IsNew
 description: TDataConnection.IsNew
 ---
 
-# TDataConnection.IsNew Property
+# TDataConnection\.IsNew Property
 
 True if the connection has not been refreshed for the first time\. This can happen when the user saves the file before a query has finished returning\.
 

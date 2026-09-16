@@ -3,7 +3,7 @@ uid: TCustomizeChartEventArgs.Chart
 description: TCustomizeChartEventArgs.Chart
 ---
 
-# TCustomizeChartEventArgs.Chart Property
+# TCustomizeChartEventArgs\.Chart Property
 
 Chart that is being processed\. Modify its properties in this event\.
 

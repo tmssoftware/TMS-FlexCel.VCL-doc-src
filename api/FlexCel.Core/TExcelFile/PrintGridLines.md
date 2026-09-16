@@ -3,7 +3,7 @@ uid: TExcelFile.PrintGridLines
 description: TExcelFile.PrintGridLines
 ---
 
-# TExcelFile.PrintGridLines Property
+# TExcelFile\.PrintGridLines Property
 
 True if the gray grid lines are printed when printing the spreadsheet\.
 

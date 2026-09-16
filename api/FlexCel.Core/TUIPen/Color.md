@@ -3,7 +3,7 @@ uid: TUIPen.Color
 description: TUIPen.Color
 ---
 
-# TUIPen.Color Property
+# TUIPen\.Color Property
 
 Gets or sets the color of the pen\.
 

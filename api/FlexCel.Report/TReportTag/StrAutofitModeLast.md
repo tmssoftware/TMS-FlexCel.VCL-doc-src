@@ -3,7 +3,7 @@ uid: TReportTag.StrAutofitModeLast
 description: TReportTag.StrAutofitModeLast
 ---
 
-# TReportTag.StrAutofitModeLast Property
+# TReportTag\.StrAutofitModeLast Property
 
 "Last"
 

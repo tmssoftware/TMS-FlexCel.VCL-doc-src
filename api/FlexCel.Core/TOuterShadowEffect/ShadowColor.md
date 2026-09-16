@@ -3,7 +3,7 @@ uid: TOuterShadowEffect.ShadowColor
 description: TOuterShadowEffect.ShadowColor
 ---
 
-# TOuterShadowEffect.ShadowColor Property
+# TOuterShadowEffect\.ShadowColor Property
 
 Color for the shadow\.
 

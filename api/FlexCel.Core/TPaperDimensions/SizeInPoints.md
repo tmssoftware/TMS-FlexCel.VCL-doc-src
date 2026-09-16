@@ -3,7 +3,7 @@ uid: TPaperDimensions.SizeInPoints
 description: TPaperDimensions.SizeInPoints
 ---
 
-# TPaperDimensions.SizeInPoints Property
+# TPaperDimensions\.SizeInPoints Property
 
 The size in points \(inches/72\)
 

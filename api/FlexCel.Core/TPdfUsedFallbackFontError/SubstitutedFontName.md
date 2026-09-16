@@ -3,7 +3,7 @@ uid: TPdfUsedFallbackFontError.SubstitutedFontName
 description: TPdfUsedFallbackFontError.SubstitutedFontName
 ---
 
-# TPdfUsedFallbackFontError.SubstitutedFontName Property
+# TPdfUsedFallbackFontError\.SubstitutedFontName Property
 
 Fallback font that substituted [OriginalFontName](OriginalFontName.md)\.
 

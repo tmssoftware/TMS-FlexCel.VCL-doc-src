@@ -3,7 +3,7 @@ uid: TBaseAxis.LogBase
 description: TBaseAxis.LogBase
 ---
 
-# TBaseAxis.LogBase Property
+# TBaseAxis\.LogBase Property
 
 If the axis is logarithmic, the base for the logarithm\.
 

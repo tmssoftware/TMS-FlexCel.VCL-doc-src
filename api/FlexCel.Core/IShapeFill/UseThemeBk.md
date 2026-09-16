@@ -3,7 +3,7 @@ uid: IShapeFill.UseThemeBk
 description: IShapeFill.UseThemeBk
 ---
 
-# IShapeFill.UseThemeBk Property
+# IShapeFill\.UseThemeBk Property
 
 If true and using a theme, the background fill from the theme will be used, if not, the normal fill from the theme will be used\.
 

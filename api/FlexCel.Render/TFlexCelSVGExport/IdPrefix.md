@@ -3,7 +3,7 @@ uid: TFlexCelSVGExport.IdPrefix
 description: TFlexCelSVGExport.IdPrefix
 ---
 
-# TFlexCelSVGExport.IdPrefix Property
+# TFlexCelSVGExport\.IdPrefix Property
 
 Prefix to be used in all definitions inside the svg file\. For normal SVG files you can leave this null, but if you are embedding the files inside an html file, you need to ensure every image has unique identifiers\.
 All SVG identifiers from different images inside an html file must be unique\.

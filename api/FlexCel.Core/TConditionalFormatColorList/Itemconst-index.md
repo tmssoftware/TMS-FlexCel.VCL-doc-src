@@ -3,7 +3,7 @@ uid: TConditionalFormatColorList.Item[const_index]
 description: TConditionalFormatColorList.Item[const index]
 ---
 
-# TConditionalFormatColorList.Item[const index] Property
+# TConditionalFormatColorList\.Item\[const index\] Property
 
 Returns the color at position index\.
 

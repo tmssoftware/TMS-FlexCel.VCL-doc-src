@@ -3,7 +3,7 @@ uid: TFlexCelSVGExport.ExportType
 description: TFlexCelSVGExport.ExportType
 ---
 
-# TFlexCelSVGExport.ExportType Property
+# TFlexCelSVGExport\.ExportType Property
 
 How much of the svg will be exported\.
 

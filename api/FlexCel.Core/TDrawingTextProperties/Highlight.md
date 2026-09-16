@@ -3,7 +3,7 @@ uid: TDrawingTextProperties.Highlight
 description: TDrawingTextProperties.Highlight
 ---
 
-# TDrawingTextProperties.Highlight Property
+# TDrawingTextProperties\.Highlight Property
 
 Highlight color that is present for a run of text\.
 

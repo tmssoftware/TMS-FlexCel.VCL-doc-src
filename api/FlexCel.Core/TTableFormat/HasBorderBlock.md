@@ -3,7 +3,7 @@ uid: TTableFormat.HasBorderBlock
 description: TTableFormat.HasBorderBlock
 ---
 
-# TTableFormat.HasBorderBlock Property
+# TTableFormat\.HasBorderBlock Property
 
 Returns true if any border formatting is applied\.
 

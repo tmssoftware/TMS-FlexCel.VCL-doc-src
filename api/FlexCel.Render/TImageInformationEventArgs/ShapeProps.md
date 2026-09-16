@@ -3,7 +3,7 @@ uid: TImageInformationEventArgs.ShapeProps
 description: TImageInformationEventArgs.ShapeProps
 ---
 
-# TImageInformationEventArgs.ShapeProps Property
+# TImageInformationEventArgs\.ShapeProps Property
 
 Shape properties of the object being rendered\. You can use them to get the name of the object, its size, etc\.
 If the image is not an object \(for example it is a rotated text\) this property will be null\.

@@ -3,7 +3,7 @@ uid: TExcelColor.Tint
 description: TExcelColor.Tint
 ---
 
-# TExcelColor.Tint Property
+# TExcelColor\.Tint Property
 
 Returns the tint value applied to the color\.
 

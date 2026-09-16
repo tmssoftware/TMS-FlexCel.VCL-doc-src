@@ -3,7 +3,7 @@ uid: TUIColor.IsEmpty
 description: TUIColor.IsEmpty
 ---
 
-# TUIColor.IsEmpty Property
+# TUIColor\.IsEmpty Property
 
 Returns true if this color is the same as [Empty](Empty.md)
 

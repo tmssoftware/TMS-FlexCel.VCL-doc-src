@@ -19,8 +19,8 @@ Contains the formula for a table total or calculated formula\.
 |Name|Description|
 |---|---|
 |[Create](Create.md)|Creates a new TTableFormula\.<br />|
-|[GetHashCode](GetHashCode.md)|Hashcode for the formula\.<br />|
 |[Equals](Equals.md)|Returns true if obj has the same data as this instance\.<br />|
+|[GetHashCode](GetHashCode.md)|Hashcode for the formula\.<br />|
 
 
 ## Operators

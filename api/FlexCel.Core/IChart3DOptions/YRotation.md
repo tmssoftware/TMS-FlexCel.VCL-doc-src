@@ -3,7 +3,7 @@ uid: IChart3DOptions.YRotation
 description: IChart3DOptions.YRotation
 ---
 
-# IChart3DOptions.YRotation Property
+# IChart3DOptions\.YRotation Property
 
 Specifies the amount a 3\-D chart shall be rotated in the Y direction in degrees\. Must be between 0 and 360\.
 

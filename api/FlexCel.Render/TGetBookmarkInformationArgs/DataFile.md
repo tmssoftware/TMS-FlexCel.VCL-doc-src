@@ -3,7 +3,7 @@ uid: TGetBookmarkInformationArgs.DataFile
 description: TGetBookmarkInformationArgs.DataFile
 ---
 
-# TGetBookmarkInformationArgs.DataFile Property
+# TGetBookmarkInformationArgs\.DataFile Property
 
 The file with the pdf data\.
 

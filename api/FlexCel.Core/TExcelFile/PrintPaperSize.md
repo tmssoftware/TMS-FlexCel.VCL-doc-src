@@ -3,7 +3,7 @@ uid: TExcelFile.PrintPaperSize
 description: TExcelFile.PrintPaperSize
 ---
 
-# TExcelFile.PrintPaperSize Property
+# TExcelFile\.PrintPaperSize Property
 
 Pre\-defined standard paper size\. If you want to set up a printer specific paper size, see [SetPrinterDriverSettings](SetPrinterDriverSettings.md)
 

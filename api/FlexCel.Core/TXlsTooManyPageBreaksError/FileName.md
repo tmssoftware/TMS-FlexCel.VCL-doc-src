@@ -3,7 +3,7 @@ uid: TXlsTooManyPageBreaksError.FileName
 description: TXlsTooManyPageBreaksError.FileName
 ---
 
-# TXlsTooManyPageBreaksError.FileName Property
+# TXlsTooManyPageBreaksError\.FileName Property
 
 File with too many page breaks\.
 

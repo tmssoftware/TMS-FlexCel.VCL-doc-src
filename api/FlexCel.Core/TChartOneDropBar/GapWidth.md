@@ -3,7 +3,7 @@ uid: TChartOneDropBar.GapWidth
 description: TChartOneDropBar.GapWidth
 ---
 
-# TChartOneDropBar.GapWidth Property
+# TChartOneDropBar\.GapWidth Property
 
 Gap width on percent\.\(100 means 100%%\)
 

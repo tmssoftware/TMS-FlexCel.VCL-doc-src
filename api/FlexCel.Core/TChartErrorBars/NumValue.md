@@ -3,7 +3,7 @@ uid: TChartErrorBars.NumValue
 description: TChartErrorBars.NumValue
 ---
 
-# TChartErrorBars.NumValue Property
+# TChartErrorBars\.NumValue Property
 
 Numeric value of the error\. The meaning of this depends in the ErrorType\.
 

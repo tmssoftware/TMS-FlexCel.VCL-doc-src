@@ -33,7 +33,7 @@ A list with TBlipTransforms\.
 
 |Name|Description|
 |---|---|
-|[Length](Length.md)|Number of elements in the list\.<br />|
 |[Item\[const index\]](Itemconst-index.md)|Returns element index of the transform\.<br />|
+|[Length](Length.md)|Number of elements in the list\.<br />|
 
 

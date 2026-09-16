@@ -3,7 +3,7 @@ uid: TDrawingTextParagraph.Text
 description: TDrawingTextParagraph.Text
 ---
 
-# TDrawingTextParagraph.Text Property
+# TDrawingTextParagraph\.Text Property
 
 Returns the contents of the paragraph as plain text\.
 

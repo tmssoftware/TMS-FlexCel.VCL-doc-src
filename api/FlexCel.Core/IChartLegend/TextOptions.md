@@ -3,7 +3,7 @@ uid: IChartLegend.TextOptions
 description: IChartLegend.TextOptions
 ---
 
-# IChartLegend.TextOptions Property
+# IChartLegend\.TextOptions Property
 
 Global font options for the legend labels\.
 

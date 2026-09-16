@@ -3,7 +3,7 @@ uid: TSVGAttribute.Namespace
 description: TSVGAttribute.Namespace
 ---
 
-# TSVGAttribute.Namespace Property
+# TSVGAttribute\.Namespace Property
 
 Namespace of the SVG attribute\.
 

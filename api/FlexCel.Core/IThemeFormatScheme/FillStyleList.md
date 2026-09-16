@@ -3,7 +3,7 @@ uid: IThemeFormatScheme.FillStyleList
 description: IThemeFormatScheme.FillStyleList
 ---
 
-# IThemeFormatScheme.FillStyleList Property
+# IThemeFormatScheme\.FillStyleList Property
 
 This element defines a set of three fill styles that are used within a theme\.
 

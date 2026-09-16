@@ -3,7 +3,7 @@ uid: TExcelFile.PrintHCentered
 description: TExcelFile.PrintHCentered
 ---
 
-# TExcelFile.PrintHCentered Property
+# TExcelFile\.PrintHCentered Property
 
 When true the sheet will print horizontally centered on the page\.
 

@@ -3,7 +3,7 @@ uid: TPdfWriter.TagActions
 description: TPdfWriter.TagActions
 ---
 
-# TPdfWriter.TagActions Property
+# TPdfWriter\.TagActions Property
 
 Implement this interface in order to define the tags\.
 

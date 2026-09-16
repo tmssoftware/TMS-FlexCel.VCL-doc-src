@@ -3,7 +3,7 @@ uid: TDrawingTextParagraph.EndParagraphProperties
 description: TDrawingTextParagraph.EndParagraphProperties
 ---
 
-# TDrawingTextParagraph.EndParagraphProperties Property
+# TDrawingTextParagraph\.EndParagraphProperties Property
 
 Properties that apply to new paragraphs that are added after this one\.
 

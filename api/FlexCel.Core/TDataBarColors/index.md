@@ -18,18 +18,18 @@ Colors which define the databar\.
 
 |Name|Description|
 |---|---|
-|[CopyFrom](CopyFrom.md)|Copies the data of other object into this one\.<br />|
 |[Clone](Clone.md)|Returns a deep copy of the list of value objects\.<br />|
+|[CopyFrom](CopyFrom.md)|Copies the data of other object into this one\.<br />|
 
 
 ## Properties
 
 |Name|Description|
 |---|---|
-|[FillColor](FillColor.md)|Fill color for the bar\.<br />|
-|[BorderColor](BorderColor.md)|Border color for the bar\.<br />|
-|[NegativeFillColor](NegativeFillColor.md)|Color for negative bars\.<br />|
-|[NegativeBorderColor](NegativeBorderColor.md)|Color for the border of negative bars\.<br />|
 |[AxisColor](AxisColor.md)|Color for the axis\.<br />|
+|[BorderColor](BorderColor.md)|Border color for the bar\.<br />|
+|[FillColor](FillColor.md)|Fill color for the bar\.<br />|
+|[NegativeBorderColor](NegativeBorderColor.md)|Color for the border of negative bars\.<br />|
+|[NegativeFillColor](NegativeFillColor.md)|Color for negative bars\.<br />|
 
 

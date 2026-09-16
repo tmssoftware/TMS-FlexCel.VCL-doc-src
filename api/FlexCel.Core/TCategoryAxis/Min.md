@@ -3,7 +3,7 @@ uid: TCategoryAxis.Min
 description: TCategoryAxis.Min
 ---
 
-# TCategoryAxis.Min Property
+# TCategoryAxis\.Min Property
 
 Minimum value for the axis, when not set to automatic in [AxisOptions](AxisOptions.md)\.
 

@@ -3,7 +3,7 @@ uid: IDataConnections.Count
 description: IDataConnections.Count
 ---
 
-# IDataConnections.Count Property
+# IDataConnections\.Count Property
 
 Count of available connections\.
 

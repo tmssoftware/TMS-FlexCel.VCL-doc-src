@@ -3,7 +3,7 @@ uid: TTableApplyBorders.IsEmpty
 description: TTableApplyBorders.IsEmpty
 ---
 
-# TTableApplyBorders.IsEmpty Property
+# TTableApplyBorders\.IsEmpty Property
 
 Returns true if the format does not apply any setting\.
 

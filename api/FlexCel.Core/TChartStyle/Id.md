@@ -3,7 +3,7 @@ uid: TChartStyle.Id
 description: TChartStyle.Id
 ---
 
-# TChartStyle.Id Property
+# TChartStyle\.Id Property
 
 Returns the Style Id, between 1 and 48\.
 

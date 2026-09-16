@@ -3,7 +3,7 @@ uid: TChartWallOptions.LineOptions
 description: TChartWallOptions.LineOptions
 ---
 
-# TChartWallOptions.LineOptions Property
+# TChartWallOptions\.LineOptions Property
 
 Line colors and style for the walls\.
 

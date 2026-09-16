@@ -3,7 +3,7 @@ uid: TUIFont.SizeInPoints
 description: TUIFont.SizeInPoints
 ---
 
-# TUIFont.SizeInPoints Property
+# TUIFont\.SizeInPoints Property
 
 Size in points of the font\.
 

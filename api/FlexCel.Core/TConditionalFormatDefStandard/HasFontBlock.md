@@ -3,7 +3,7 @@ uid: TConditionalFormatDefStandard.HasFontBlock
 description: TConditionalFormatDefStandard.HasFontBlock
 ---
 
-# TConditionalFormatDefStandard.HasFontBlock Property
+# TConditionalFormatDefStandard\.HasFontBlock Property
 
 Returns true if any font formatting is applied
 

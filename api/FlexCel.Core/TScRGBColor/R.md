@@ -3,7 +3,7 @@ uid: TScRGBColor.R
 description: TScRGBColor.R
 ---
 
-# TScRGBColor.R Property
+# TScRGBColor\.R Property
 
 Red component in the RGB space\. \(0\-255\)
 

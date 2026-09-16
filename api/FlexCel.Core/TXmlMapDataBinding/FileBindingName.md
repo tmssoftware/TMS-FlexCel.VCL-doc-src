@@ -3,7 +3,7 @@ uid: TXmlMapDataBinding.FileBindingName
 description: TXmlMapDataBinding.FileBindingName
 ---
 
-# TXmlMapDataBinding.FileBindingName Property
+# TXmlMapDataBinding\.FileBindingName Property
 
 Name of the file binding\. Must be unique\.
 

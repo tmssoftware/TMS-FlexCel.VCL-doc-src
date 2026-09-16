@@ -3,7 +3,7 @@ uid: TFlexCelConfig.PdfPngCompressionLevel
 description: TFlexCelConfig.PdfPngCompressionLevel
 ---
 
-# TFlexCelConfig.PdfPngCompressionLevel Property
+# TFlexCelConfig\.PdfPngCompressionLevel Property
 
 Zip compression level when creating pdf files or re encoding png images\.
 Pds and Png files are zip files, and you can compress more or less by trading speed for file size\. The faster you can create the file, the bigger the pdf and png files created will be\.

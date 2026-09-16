@@ -18,20 +18,20 @@ Image information for an image inside a header or footer\.
 
 |Name|Description|
 |---|---|
-|[Width](Width.md)|Width of the image in device independent pixels \(dip\)\. 1 dip = 1/96 inch, no matter the reslution of the output device\.<br />|
 |[Height](Height.md)|Height of the image in device independent pixels \(dip\)\. 1 dip = 1/96 inch, no matter the reslution of the output device\.<br />|
+|[Width](Width.md)|Width of the image in device independent pixels \(dip\)\. 1 dip = 1/96 inch, no matter the reslution of the output device\.<br />|
 
 
 ## Methods
 
 |Name|Description|
 |---|---|
-|[Create](Create.md)|Creates a new Anchor for a Header or footer image\.<br />|
-|[GetData](GetData.md)|All the data as a byte array\.<br />|
 |[Clone](Clone.md)|Returns a clone of the anchor\.<br />|
+|[Create](Create.md)|Creates a new Anchor for a Header or footer image\.<br />|
 |[EqualValues](EqualValues.md)|Returns true if both instances of the objects contain the same values\. Instances might be different, this method will return if their values are equal\. Instances can be null\.<br />|
-|[IsNull](IsNull.md)|Returns true if the record doesn't have a defined value\.<br />|
+|[GetData](GetData.md)|All the data as a byte array\.<br />|
 |[HasValue](HasValue.md)|Returns true if the record has a defined value\. This is the inverse of [IsNull](IsNull.md)|
+|[IsNull](IsNull.md)|Returns true if the record doesn't have a defined value\.<br />|
 
 
 ## Operators

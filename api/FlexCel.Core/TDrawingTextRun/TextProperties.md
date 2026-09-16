@@ -3,7 +3,7 @@ uid: TDrawingTextRun.TextProperties
 description: TDrawingTextRun.TextProperties
 ---
 
-# TDrawingTextRun.TextProperties Property
+# TDrawingTextRun\.TextProperties Property
 
 Properties for this text run\.
 

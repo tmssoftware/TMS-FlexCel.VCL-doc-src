@@ -18,9 +18,9 @@ This structure holds together the format definition for a cell, and which parts 
 
 |Name|Description|
 |---|---|
-|[Format](Format.md)|Format to apply to the cell\.<br />|
 |[Apply](Apply.md)|Which properties to apply to the cell\. For example you might apply only the numeric format defined by [Format](Format.md), but not the cell color\.<br />|
 |[ExternalBorders](ExternalBorders.md)|If true and applying the format to a range of cells, only the borders on the outside of the range will be drawn\.<br />|
+|[Format](Format.md)|Format to apply to the cell\.<br />|
 
 
 ## Methods

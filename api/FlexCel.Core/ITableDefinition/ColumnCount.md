@@ -3,7 +3,7 @@ uid: ITableDefinition.ColumnCount
 description: ITableDefinition.ColumnCount
 ---
 
-# ITableDefinition.ColumnCount Property
+# ITableDefinition\.ColumnCount Property
 
 Returns the number of columns in the table definition\.
 

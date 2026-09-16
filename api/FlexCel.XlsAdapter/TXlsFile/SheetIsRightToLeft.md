@@ -3,7 +3,7 @@ uid: TXlsFile.SheetIsRightToLeft
 description: TXlsFile.SheetIsRightToLeft
 ---
 
-# TXlsFile.SheetIsRightToLeft Property
+# TXlsFile\.SheetIsRightToLeft Property
 
 If true then the sheet goes from right to left, with A1 starting at the top right of the page\. You can also set this option with [TExcelFile.SheetOptions](../../FlexCel.Core/TExcelFile/SheetOptions.md)
 

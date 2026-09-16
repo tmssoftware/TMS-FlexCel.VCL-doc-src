@@ -3,7 +3,7 @@ uid: TFlxConsts.Max_DvInputTitleLen
 description: TFlxConsts.Max_DvInputTitleLen
 ---
 
-# TFlxConsts.Max_DvInputTitleLen Property
+# TFlxConsts\.Max\_DvInputTitleLen Property
 
 Maximum number of characters in an Input title for a Data Validation\.
 

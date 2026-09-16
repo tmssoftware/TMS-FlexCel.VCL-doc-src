@@ -3,7 +3,7 @@ uid: TFlexCelSVGExport.HidePrintObjects
 description: TFlexCelSVGExport.HidePrintObjects
 ---
 
-# TFlexCelSVGExport.HidePrintObjects Property
+# TFlexCelSVGExport\.HidePrintObjects Property
 
 Select which kind of objects should not be printed or exported to the image\.
 

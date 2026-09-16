@@ -3,7 +3,7 @@ uid: TTableApplyFont.BoldAndItalic
 description: TTableApplyFont.BoldAndItalic
 ---
 
-# TTableApplyFont.BoldAndItalic Property
+# TTableApplyFont\.BoldAndItalic Property
 
 If true, both bold and italic will be applied\.
 

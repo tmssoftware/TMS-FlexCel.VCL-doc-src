@@ -3,7 +3,7 @@ uid: TDrawingTextProperties.Underline
 description: TDrawingTextProperties.Underline
 ---
 
-# TDrawingTextProperties.Underline Property
+# TDrawingTextProperties\.Underline Property
 
 Underline fill for the text\.
 

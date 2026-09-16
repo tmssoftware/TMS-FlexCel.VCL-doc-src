@@ -3,7 +3,7 @@ uid: TChartSeriesOptions.PieOptions
 description: TChartSeriesOptions.PieOptions
 ---
 
-# TChartSeriesOptions.PieOptions Property
+# TChartSeriesOptions\.PieOptions Property
 
 If the chart type is pie, options for the pie\. If it is not a pie chart, this value has no meaning\.
 

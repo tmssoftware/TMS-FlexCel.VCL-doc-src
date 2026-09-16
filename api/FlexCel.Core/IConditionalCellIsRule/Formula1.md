@@ -3,7 +3,7 @@ uid: IConditionalCellIsRule.Formula1
 description: IConditionalCellIsRule.Formula1
 ---
 
-# IConditionalCellIsRule.Formula1 Property
+# IConditionalCellIsRule\.Formula1 Property
 
 The first formula to be evaluated\. When the condition needs only one parameter \(for example when condition is "Equal"\) this is the only formula that is used\.
 

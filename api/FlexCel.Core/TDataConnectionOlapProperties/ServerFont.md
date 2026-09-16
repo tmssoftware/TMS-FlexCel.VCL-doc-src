@@ -3,7 +3,7 @@ uid: TDataConnectionOlapProperties.ServerFont
 description: TDataConnectionOlapProperties.ServerFont
 ---
 
-# TDataConnectionOlapProperties.ServerFont Property
+# TDataConnectionOlapProperties\.ServerFont Property
 
 When true, a PivotTable based on OLAP source should format the data and aggregate cells in the PivotTable view using the font from the OLAP source \(e\.g\., Arial or Tahoma\)\.
 When false, OLAP server fonts are ignored, and standard formatting rules within the worksheet are followed\.

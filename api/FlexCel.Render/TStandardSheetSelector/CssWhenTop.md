@@ -3,7 +3,7 @@ uid: TStandardSheetSelector.CssWhenTop
 description: TStandardSheetSelector.CssWhenTop
 ---
 
-# TStandardSheetSelector.CssWhenTop Property
+# TStandardSheetSelector\.CssWhenTop Property
 
 Specific style to be applied to the selector when it goes at the top\. This style will override the style you specify with [CssGeneral](CssGeneral.md)
 

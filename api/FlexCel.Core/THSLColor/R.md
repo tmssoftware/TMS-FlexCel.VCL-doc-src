@@ -3,7 +3,7 @@ uid: THSLColor.R
 description: THSLColor.R
 ---
 
-# THSLColor.R Property
+# THSLColor\.R Property
 
 Red component in the RGB space\.
 

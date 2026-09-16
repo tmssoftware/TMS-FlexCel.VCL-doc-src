@@ -3,7 +3,7 @@ uid: ICommentProperties.AutoSize
 description: ICommentProperties.AutoSize
 ---
 
-# ICommentProperties.AutoSize Property
+# ICommentProperties\.AutoSize Property
 
 If true, the comment box will adapt its size to the size of the text\.
 

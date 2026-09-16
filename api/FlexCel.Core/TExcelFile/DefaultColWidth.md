@@ -3,7 +3,7 @@ uid: TExcelFile.DefaultColWidth
 description: TExcelFile.DefaultColWidth
 ---
 
-# TExcelFile.DefaultColWidth Property
+# TExcelFile\.DefaultColWidth Property
 
 The default width for empty columns, in Excel internal units\. \(Character width of font 0 / 256\) See [Excel Internal Units](xref:ExcelInternalUnits) for more information in Excel internal units\.
 

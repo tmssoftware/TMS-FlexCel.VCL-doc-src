@@ -3,7 +3,7 @@ uid: TFlexCelHtmlExport.HeadingWidth
 description: TFlexCelHtmlExport.HeadingWidth
 ---
 
-# TFlexCelHtmlExport.HeadingWidth Property
+# TFlexCelHtmlExport\.HeadingWidth Property
 
 Width in points of the left gutter when printing row numbers and column names\.
 

@@ -3,7 +3,7 @@ uid: IBaseImageProperties.AutoPic
 description: IBaseImageProperties.AutoPic
 ---
 
-# IBaseImageProperties.AutoPic Property
+# IBaseImageProperties\.AutoPic Property
 
 If true, size is formatted automatically by the application\.
 

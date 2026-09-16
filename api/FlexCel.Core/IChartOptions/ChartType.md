@@ -3,7 +3,7 @@ uid: IChartOptions.ChartType
 description: IChartOptions.ChartType
 ---
 
-# IChartOptions.ChartType Property
+# IChartOptions\.ChartType Property
 
 Chart Type\.
 

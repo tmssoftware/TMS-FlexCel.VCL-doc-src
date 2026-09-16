@@ -3,7 +3,7 @@ uid: IScatterChartOptions.ShowNegativeBubbles
 description: IScatterChartOptions.ShowNegativeBubbles
 ---
 
-# IScatterChartOptions.ShowNegativeBubbles Property
+# IScatterChartOptions\.ShowNegativeBubbles Property
 
 True if negative bubbles should be shwown\.
 

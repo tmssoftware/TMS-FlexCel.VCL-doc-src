@@ -3,7 +3,7 @@ uid: TDrawingValue.AsDrawingRichString
 description: TDrawingValue.AsDrawingRichString
 ---
 
-# TDrawingValue.AsDrawingRichString Property
+# TDrawingValue\.AsDrawingRichString Property
 
 Drawing RichString if the object contains a TDrawingRichString\. Will raise an exception if it doesn't\.
 

@@ -3,7 +3,7 @@ uid: TDataValidationInfo.ValidationType
 description: TDataValidationInfo.ValidationType
 ---
 
-# TDataValidationInfo.ValidationType Property
+# TDataValidationInfo\.ValidationType Property
 
 Type of validation we will be doing\.
 

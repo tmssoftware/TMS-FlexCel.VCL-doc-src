@@ -3,7 +3,7 @@ uid: TLinkedStyle.LinkedBorder
 description: TLinkedStyle.LinkedBorder
 ---
 
-# TLinkedStyle.LinkedBorder Property
+# TLinkedStyle\.LinkedBorder Property
 
 If true, the border will be linked to the parent style, and it will change when you change the style\.
 If false the border will not change even if you change it in the base style\.

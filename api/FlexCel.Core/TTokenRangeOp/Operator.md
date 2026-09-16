@@ -3,7 +3,7 @@ uid: TTokenRangeOp.Operator
 description: TTokenRangeOp.Operator
 ---
 
-# TTokenRangeOp.Operator Property
+# TTokenRangeOp\.Operator Property
 
 Operator represented by this token\.
 

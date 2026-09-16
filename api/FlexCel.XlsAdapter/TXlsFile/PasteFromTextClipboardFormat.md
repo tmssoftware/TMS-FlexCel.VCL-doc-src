@@ -10,7 +10,7 @@ Pastes the clipboard contents beginning on cells row, col\.
 
 ## Remarks
 
-See the copy and paste demo\.
+See the [Copy And Paste](xref:Copy_And_Paste-Delphi) demo\.
 
 ## Syntax
 

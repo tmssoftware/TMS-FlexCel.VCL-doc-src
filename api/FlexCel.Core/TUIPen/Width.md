@@ -3,7 +3,7 @@ uid: TUIPen.Width
 description: TUIPen.Width
 ---
 
-# TUIPen.Width Property
+# TUIPen\.Width Property
 
 Gets or sets the width of the pen\.
 

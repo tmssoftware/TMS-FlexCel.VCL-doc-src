@@ -3,7 +3,7 @@ uid: TChartSeriesMarkerOptions.MarkerSize
 description: TChartSeriesMarkerOptions.MarkerSize
 ---
 
-# TChartSeriesMarkerOptions.MarkerSize Property
+# TChartSeriesMarkerOptions\.MarkerSize Property
 
 Size of the marker in twips \(1/20 of a point\)\.
 

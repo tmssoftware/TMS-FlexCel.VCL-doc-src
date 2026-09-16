@@ -3,7 +3,7 @@ uid: TFlexCelReport.Progress
 description: TFlexCelReport.Progress
 ---
 
-# TFlexCelReport.Progress Property
+# TFlexCelReport\.Progress Property
 
 Progress of the report\. This variable must be accessed from other thread\.
 

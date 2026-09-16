@@ -3,7 +3,7 @@ uid: TPdfWriter.GetFontFolder
 description: TPdfWriter.GetFontFolder
 ---
 
-# TPdfWriter.GetFontFolder Event
+# TPdfWriter\.GetFontFolder Event
 
 Use this event if you want to provide your own font information for embedding for a particular object instance\.
 
@@ -31,7 +31,7 @@ FlexCel by default won't try to scan folders if the graphics library used by Fle
 
 **Unit:** [FlexCel.Pdf](../index.md)
 
-<pre><code class="lang-delphi hljs">property <a href="../TPdfWriter/index.md">TPdfWriter</a>.GetFontFolder: TGetFontFolderEventHandler</code></pre>
+<pre><code class="lang-delphi hljs">property <a href="../TPdfWriter/index.md">TPdfWriter</a>.GetFontFolder: <a href="../TGetFontFolderEventHandler.md">TGetFontFolderEventHandler</a></code></pre>
 
 ## Examples
 

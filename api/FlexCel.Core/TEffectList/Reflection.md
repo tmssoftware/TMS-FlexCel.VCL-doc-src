@@ -3,7 +3,7 @@ uid: TEffectList.Reflection
 description: TEffectList.Reflection
 ---
 
-# TEffectList.Reflection Property
+# TEffectList\.Reflection Property
 
 Reflection effect\.
 

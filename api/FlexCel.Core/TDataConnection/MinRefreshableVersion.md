@@ -3,7 +3,7 @@ uid: TDataConnection.MinRefreshableVersion
 description: TDataConnection.MinRefreshableVersion
 ---
 
-# TDataConnection.MinRefreshableVersion Property
+# TDataConnection\.MinRefreshableVersion Property
 
 For compatibility with legacy spreadsheet applications\. This represents the minimum version \# that is required to be able to correctly refresh the data connection\.
 

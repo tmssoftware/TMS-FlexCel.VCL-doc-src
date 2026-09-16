@@ -3,7 +3,7 @@ uid: TXlsFile.OptionsAutoCompressPictures
 description: TXlsFile.OptionsAutoCompressPictures
 ---
 
-# TXlsFile.OptionsAutoCompressPictures Property
+# TXlsFile\.OptionsAutoCompressPictures Property
 
 If true, Excel will try to compress the pictures to keep sizes down\.
 This option only applies to Excel 2007 or newer\.

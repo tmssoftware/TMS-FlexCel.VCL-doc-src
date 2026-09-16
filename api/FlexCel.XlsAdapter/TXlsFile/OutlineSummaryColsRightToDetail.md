@@ -3,7 +3,7 @@ uid: TXlsFile.OutlineSummaryColsRightToDetail
 description: TXlsFile.OutlineSummaryColsRightToDetail
 ---
 
-# TXlsFile.OutlineSummaryColsRightToDetail Property
+# TXlsFile\.OutlineSummaryColsRightToDetail Property
 
 Determines whether the summary columns should be right to or left to the details on outline\.
 

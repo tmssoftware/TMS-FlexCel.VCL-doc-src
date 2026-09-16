@@ -3,7 +3,7 @@ uid: TDrawingRichString.Value
 description: TDrawingRichString.Value
 ---
 
-# TDrawingRichString.Value Property
+# TDrawingRichString\.Value Property
 
 Text of the string without formatting\. Might be null\.
 

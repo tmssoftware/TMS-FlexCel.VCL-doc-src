@@ -3,7 +3,7 @@ uid: TFlxConsts.Max_ChartSeries
 description: TFlxConsts.Max_ChartSeries
 ---
 
-# TFlxConsts.Max_ChartSeries Property
+# TFlxConsts\.Max\_ChartSeries Property
 
 Maximum number of series in a chart\.
 

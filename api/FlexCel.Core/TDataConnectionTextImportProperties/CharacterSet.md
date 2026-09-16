@@ -3,7 +3,7 @@ uid: TDataConnectionTextImportProperties.CharacterSet
 description: TDataConnectionTextImportProperties.CharacterSet
 ---
 
-# TDataConnectionTextImportProperties.CharacterSet Property
+# TDataConnectionTextImportProperties\.CharacterSet Property
 
 Name of the character set associated with the text file\. Values for this attribute are restricted to the names and aliases listed in the IANA CHARACTER SETS listing found at http://www\.iana\.org/assignments/character\-sets\.
 

@@ -3,7 +3,7 @@ uid: TFlexCelSVGExport.Encoding
 description: TFlexCelSVGExport.Encoding
 ---
 
-# TFlexCelSVGExport.Encoding Property
+# TFlexCelSVGExport\.Encoding Property
 
 Encoding used to generate the SVG file\. If null, UTF8 without BOM will be used\.
 

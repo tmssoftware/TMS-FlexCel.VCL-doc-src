@@ -3,7 +3,7 @@ uid: IChartFrameOptions.LineOptions
 description: IChartFrameOptions.LineOptions
 ---
 
-# IChartFrameOptions.LineOptions Property
+# IChartFrameOptions\.LineOptions Property
 
 Line options for the frame\.
 

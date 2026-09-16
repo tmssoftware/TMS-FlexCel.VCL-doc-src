@@ -3,7 +3,7 @@ uid: TLoopOverUsedRangeParameters.Abort
 description: TLoopOverUsedRangeParameters.Abort
 ---
 
-# TLoopOverUsedRangeParameters.Abort Property
+# TLoopOverUsedRangeParameters\.Abort Property
 
 Set this value to true to abort the loop and exit early\.
 

@@ -3,7 +3,7 @@ uid: TStandardSheetSelectorStyles.Main
 description: TStandardSheetSelectorStyles.Main
 ---
 
-# TStandardSheetSelectorStyles.Main Property
+# TStandardSheetSelectorStyles\.Main Property
 
 Style to be applied to the whole Selector\.
 

@@ -3,7 +3,7 @@ uid: TTokenStructuredReference.LastColumn
 description: TTokenStructuredReference.LastColumn
 ---
 
-# TTokenStructuredReference.LastColumn Property
+# TTokenStructuredReference\.LastColumn Property
 
 Last column where the reference applies\.
 If empty and FirstColumn is empty too, then the reference applies to the whole table\.

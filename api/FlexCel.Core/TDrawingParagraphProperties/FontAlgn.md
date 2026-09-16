@@ -3,7 +3,7 @@ uid: TDrawingParagraphProperties.FontAlgn
 description: TDrawingParagraphProperties.FontAlgn
 ---
 
-# TDrawingParagraphProperties.FontAlgn Property
+# TDrawingParagraphProperties\.FontAlgn Property
 
 Determines where vertically on a line of text the actual words are positioned\. This deals  with vertical placement of the characters with respect to the baselines\.
 

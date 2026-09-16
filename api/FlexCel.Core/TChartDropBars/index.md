@@ -32,9 +32,9 @@ Information about a Drop Bar\.
 
 |Name|Description|
 |---|---|
+|[DownBar](DownBar.md)|The data for the down drop bar\.<br />|
 |[DropLines](DropLines.md)|Line style for the drop lines if they exist, null otherwise\.<br />|
 |[HiLoLines](HiLoLines.md)|Line style for the High\-Low lines if they exist, null otherwise\.<br />|
 |[UpBar](UpBar.md)|The data for the up drop bar\.<br />|
-|[DownBar](DownBar.md)|The data for the down drop bar\.<br />|
 
 

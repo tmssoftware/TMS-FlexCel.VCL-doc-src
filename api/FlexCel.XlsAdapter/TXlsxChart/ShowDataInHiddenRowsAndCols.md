@@ -3,7 +3,7 @@ uid: TXlsxChart.ShowDataInHiddenRowsAndCols
 description: TXlsxChart.ShowDataInHiddenRowsAndCols
 ---
 
-# TXlsxChart.ShowDataInHiddenRowsAndCols Property
+# TXlsxChart\.ShowDataInHiddenRowsAndCols Property
 
 Defines if hidden rows and columns will be used when plotting values\.
 

@@ -3,7 +3,7 @@ uid: IObjectProperties.ShapeFill
 description: IObjectProperties.ShapeFill
 ---
 
-# IObjectProperties.ShapeFill Property
+# IObjectProperties\.ShapeFill Property
 
 Fill style used to fill the background of the comment\. If you are using a solid color, only Indexed colors or RGB are allowed here, if you specify something else, the color will be converted to RGB\. It might be a gradient fill or a texture too\. If null, default fill style will be used\.
 

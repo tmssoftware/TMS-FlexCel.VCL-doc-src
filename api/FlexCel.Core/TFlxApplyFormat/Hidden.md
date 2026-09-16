@@ -3,7 +3,7 @@ uid: TFlxApplyFormat.Hidden
 description: TFlxApplyFormat.Hidden
 ---
 
-# TFlxApplyFormat.Hidden Property
+# TFlxApplyFormat\.Hidden Property
 
 Cell is Hidden\.
 

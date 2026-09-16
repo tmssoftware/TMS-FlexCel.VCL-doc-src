@@ -3,7 +3,7 @@ uid: TFlexCelPreviewer.ThumbnailLarge
 description: TFlexCelPreviewer.ThumbnailLarge
 ---
 
-# TFlexCelPreviewer.ThumbnailLarge Property
+# TFlexCelPreviewer\.ThumbnailLarge Property
 
 When using this component on Thumbnail mode, set this property to another FlexCelPreview component that will hold the large Thumbnail images\.
 

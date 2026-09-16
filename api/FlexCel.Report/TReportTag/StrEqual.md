@@ -3,7 +3,7 @@ uid: TReportTag.StrEqual
 description: TReportTag.StrEqual
 ---
 
-# TReportTag.StrEqual Property
+# TReportTag\.StrEqual Property
 
 =
 

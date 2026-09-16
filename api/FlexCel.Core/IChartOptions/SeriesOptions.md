@@ -3,7 +3,7 @@ uid: IChartOptions.SeriesOptions
 description: IChartOptions.SeriesOptions
 ---
 
-# IChartOptions.SeriesOptions Property
+# IChartOptions\.SeriesOptions Property
 
 Global options for all the series on this chart group\.
 

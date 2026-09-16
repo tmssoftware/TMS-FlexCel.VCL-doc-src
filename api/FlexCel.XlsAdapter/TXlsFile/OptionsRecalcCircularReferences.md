@@ -3,7 +3,7 @@ uid: TXlsFile.OptionsRecalcCircularReferences
 description: TXlsFile.OptionsRecalcCircularReferences
 ---
 
-# TXlsFile.OptionsRecalcCircularReferences Property
+# TXlsFile\.OptionsRecalcCircularReferences Property
 
 If true, Excel and FlexCel will do iterative calculating over cells with circular references, until [TExcelFile.OptionsRecalcMaxIterations](../../FlexCel.Core/TExcelFile/OptionsRecalcMaxIterations.md) is reached or the difference is less than [TExcelFile.OptionsRecalcMaxChange](../../FlexCel.Core/TExcelFile/OptionsRecalcMaxChange.md)
 

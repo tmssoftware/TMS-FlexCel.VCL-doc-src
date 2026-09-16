@@ -3,7 +3,7 @@ uid: ISolidFill.Color
 description: ISolidFill.Color
 ---
 
-# ISolidFill.Color Property
+# ISolidFill\.Color Property
 
 Color used to fill the shape\.
 

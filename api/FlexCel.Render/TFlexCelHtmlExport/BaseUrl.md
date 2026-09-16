@@ -3,7 +3,7 @@ uid: TFlexCelHtmlExport.BaseUrl
 description: TFlexCelHtmlExport.BaseUrl
 ---
 
-# TFlexCelHtmlExport.BaseUrl Property
+# TFlexCelHtmlExport\.BaseUrl Property
 
 If this property is not null, all hyperlinks stating with this value will be converted to relative links, by removing this string from them\.
 

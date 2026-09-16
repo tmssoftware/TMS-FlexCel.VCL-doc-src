@@ -3,7 +3,7 @@ uid: TLoadLinkedFileEventArgs.FileName
 description: TLoadLinkedFileEventArgs.FileName
 ---
 
-# TLoadLinkedFileEventArgs.FileName Property
+# TLoadLinkedFileEventArgs\.FileName Property
 
 The filename of the file we need\. **Note:** The path of this filename is relative to where the parent file is\.
 you might need to add the main path to it in order to load the files\.

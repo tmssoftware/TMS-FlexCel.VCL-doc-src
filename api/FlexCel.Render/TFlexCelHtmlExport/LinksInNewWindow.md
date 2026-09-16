@@ -3,7 +3,7 @@ uid: TFlexCelHtmlExport.LinksInNewWindow
 description: TFlexCelHtmlExport.LinksInNewWindow
 ---
 
-# TFlexCelHtmlExport.LinksInNewWindow Property
+# TFlexCelHtmlExport\.LinksInNewWindow Property
 
 If true, the links will be exported with a target=\_blank attribute so they open in a new window\.
 

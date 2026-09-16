@@ -3,7 +3,7 @@ uid: IShapeProperties.IsLocked
 description: IShapeProperties.IsLocked
 ---
 
-# IShapeProperties.IsLocked Property
+# IShapeProperties\.IsLocked Property
 
 True if the shape is locked\.
 

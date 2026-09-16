@@ -3,7 +3,7 @@ uid: TSplitLink.SplitCount
 description: TSplitLink.SplitCount
 ---
 
-# TSplitLink.SplitCount Property
+# TSplitLink\.SplitCount Property
 
 Split the detail every "SplitCount" number of records\. If for example Splitcount is 5 and  the detail table has 14 registers, it should be split as 5 records, 5 records, 4 records\.
 

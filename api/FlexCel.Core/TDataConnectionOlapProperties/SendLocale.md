@@ -3,7 +3,7 @@ uid: TDataConnectionOlapProperties.SendLocale
 description: TDataConnectionOlapProperties.SendLocale
 ---
 
-# TDataConnectionOlapProperties.SendLocale Property
+# TDataConnectionOlapProperties\.SendLocale Property
 
 When true, the spreadsheetML app should send the user interface locale ID to the OLAP provider to retrieve localized member names and properties, etc\. When false, no locale ID is expected\.
 

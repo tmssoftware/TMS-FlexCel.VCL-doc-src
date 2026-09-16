@@ -3,7 +3,7 @@ uid: TExcelFile.HeadingRowHeight
 description: TExcelFile.HeadingRowHeight
 ---
 
-# TExcelFile.HeadingRowHeight Property
+# TExcelFile\.HeadingRowHeight Property
 
 Height that will be used by the added row with column headers when [PrintHeadings](PrintHeadings.md) is true\.
 The default value \(0\) means to use an automatic value which is fine with normal fonts\.

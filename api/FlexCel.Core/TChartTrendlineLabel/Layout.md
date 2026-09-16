@@ -3,7 +3,7 @@ uid: TChartTrendlineLabel.Layout
 description: TChartTrendlineLabel.Layout
 ---
 
-# TChartTrendlineLabel.Layout Property
+# TChartTrendlineLabel\.Layout Property
 
 Box surrounding the label\.
 

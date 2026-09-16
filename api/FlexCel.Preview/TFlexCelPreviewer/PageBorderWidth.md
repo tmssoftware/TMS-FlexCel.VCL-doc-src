@@ -3,7 +3,7 @@ uid: TFlexCelPreviewer.PageBorderWidth
 description: TFlexCelPreviewer.PageBorderWidth
 ---
 
-# TFlexCelPreviewer.PageBorderWidth Property
+# TFlexCelPreviewer\.PageBorderWidth Property
 
 Border width for the pages in the preview\.
 

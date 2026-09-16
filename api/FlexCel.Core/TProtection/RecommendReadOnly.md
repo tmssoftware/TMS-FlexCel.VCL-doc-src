@@ -3,7 +3,7 @@ uid: TProtection.RecommendReadOnly
 description: TProtection.RecommendReadOnly
 ---
 
-# TProtection.RecommendReadOnly Property
+# TProtection\.RecommendReadOnly Property
 
 Returns true if the file is recommended to open read\-only\.
 

@@ -3,7 +3,7 @@ uid: TSheetSelectorLink.HtmlSheetName
 description: TSheetSelectorLink.HtmlSheetName
 ---
 
-# TSheetSelectorLink.HtmlSheetName Property
+# TSheetSelectorLink\.HtmlSheetName Property
 
 Name of the sheet in the html file\.
 

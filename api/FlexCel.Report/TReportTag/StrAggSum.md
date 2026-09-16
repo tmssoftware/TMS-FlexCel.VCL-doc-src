@@ -3,7 +3,7 @@ uid: TReportTag.StrAggSum
 description: TReportTag.StrAggSum
 ---
 
-# TReportTag.StrAggSum Property
+# TReportTag\.StrAggSum Property
 
 "Sum"
 

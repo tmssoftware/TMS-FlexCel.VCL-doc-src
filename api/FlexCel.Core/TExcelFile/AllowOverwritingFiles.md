@@ -3,7 +3,7 @@ uid: TExcelFile.AllowOverwritingFiles
 description: TExcelFile.AllowOverwritingFiles
 ---
 
-# TExcelFile.AllowOverwritingFiles Property
+# TExcelFile\.AllowOverwritingFiles Property
 
 Determines if a call to "Save\(\)" will automatically overwrite an existing file or not\.
 

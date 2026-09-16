@@ -3,7 +3,7 @@ uid: TSheetSelectorEntryEventArgs.Link
 description: TSheetSelectorEntryEventArgs.Link
 ---
 
-# TSheetSelectorEntryEventArgs.Link Property
+# TSheetSelectorEntryEventArgs\.Link Property
 
 Place where this entry should link to\.
 

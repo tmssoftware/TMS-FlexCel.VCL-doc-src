@@ -3,7 +3,7 @@ uid: TPdfWriter.FallbackFonts
 description: TPdfWriter.FallbackFonts
 ---
 
-# TPdfWriter.FallbackFonts Property
+# TPdfWriter\.FallbackFonts Property
 
 A semicolon \(;\) separated list of font names to try when a character is not found in the used font\.
 

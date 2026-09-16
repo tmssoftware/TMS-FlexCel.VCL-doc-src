@@ -3,7 +3,7 @@ uid: TFlexCelPrintDocument.PrintAsBitmap
 description: TFlexCelPrintDocument.PrintAsBitmap
 ---
 
-# TFlexCelPrintDocument.PrintAsBitmap Property
+# TFlexCelPrintDocument\.PrintAsBitmap Property
 
 If true, the file will be rendered to a bitmap and then we will print the bitmap, instead of directly printing the file\.
 **Use with caution\.** See remarks

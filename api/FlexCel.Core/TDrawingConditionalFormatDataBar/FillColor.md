@@ -3,7 +3,7 @@ uid: TDrawingConditionalFormatDataBar.FillColor
 description: TDrawingConditionalFormatDataBar.FillColor
 ---
 
-# TDrawingConditionalFormatDataBar.FillColor Property
+# TDrawingConditionalFormatDataBar\.FillColor Property
 
 Color that will be used to fill the databar\.
 

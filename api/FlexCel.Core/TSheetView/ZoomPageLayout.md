@@ -3,7 +3,7 @@ uid: TSheetView.ZoomPageLayout
 description: TSheetView.ZoomPageLayout
 ---
 
-# TSheetView.ZoomPageLayout Property
+# TSheetView\.ZoomPageLayout Property
 
 Zoom for when we are in Page Layout mode\. It must be 0, or a value between 10 and 400\. Zero means to use the default zoom\.
 

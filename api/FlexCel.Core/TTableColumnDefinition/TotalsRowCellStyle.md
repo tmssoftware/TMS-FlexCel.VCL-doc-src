@@ -3,7 +3,7 @@ uid: TTableColumnDefinition.TotalsRowCellStyle
 description: TTableColumnDefinition.TotalsRowCellStyle
 ---
 
-# TTableColumnDefinition.TotalsRowCellStyle Property
+# TTableColumnDefinition\.TotalsRowCellStyle Property
 
 Style for the totals row cell in the column, if it doesn't have a given cell style\.
 This property has more priority than the table totals row cell style, but less than the cell style\.

@@ -3,7 +3,7 @@ uid: IChartLegend.PositionZeroBased
 description: IChartLegend.PositionZeroBased
 ---
 
-# IChartLegend.PositionZeroBased Property
+# IChartLegend\.PositionZeroBased Property
 
 Coordinates of the legend in percent \(0 to 1\) assuming no margins on the chart area\. If this value is null [Position](Position.md) must be used instead\.
 

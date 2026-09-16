@@ -18,23 +18,23 @@ Defines a cropping area for an image\. If the values are not zero, only a part o
 
 |Name|Description|
 |---|---|
-|[CropFromTop](CropFromTop.md)|How much to crop the image, in fractions of 65536 of the total image height\.<br />|
 |[CropFromBottom](CropFromBottom.md)|How much to crop the image, in fractions of 65536 of the total image height\.<br />|
 |[CropFromLeft](CropFromLeft.md)|How much to crop the image, in fractions of 65536 of the total image width\.<br />|
 |[CropFromRight](CropFromRight.md)|How much to crop the image, in fractions of 65536 of the total image width\.<br />|
+|[CropFromTop](CropFromTop.md)|How much to crop the image, in fractions of 65536 of the total image height\.<br />|
 
 
 ## Methods
 
 |Name|Description|
 |---|---|
-|[Create](Create.md)|**Overloaded<br />**  [Create](Create.md#tcropareacreate)<br />  [Create\(Integer, Integer, Integer, Integer\)](Create.md#tcropareacreateinteger-integer-integer-integer)<br />|
-|[Null](Null.md)|Returns a null crop area\.<br />|
 |[Clone](Clone.md)|Returns a deep copy of this object|
-|[IsEmpty](IsEmpty.md)|Returns true if all the coordinates are 0\.<br />|
+|[Create](Create.md)|**Overloaded<br />**  [Create](Create.md#tcropareacreate)<br />  [Create\(Integer, Integer, Integer, Integer\)](Create.md#tcropareacreateinteger-integer-integer-integer)<br />|
 |[EqualValues](EqualValues.md)|Returns true if both instances of the objects contain the same values\. Instances might be different, this method will return if their values are equal\. Instances can be null\.<br />|
-|[IsNull](IsNull.md)|Returns true if the record doesn't have a defined value\.<br />|
 |[HasValue](HasValue.md)|Returns true if the record has a defined value\. This is the inverse of [IsNull](IsNull.md)|
+|[IsEmpty](IsEmpty.md)|Returns true if all the coordinates are 0\.<br />|
+|[IsNull](IsNull.md)|Returns true if the record doesn't have a defined value\.<br />|
+|[Null](Null.md)|Returns a null crop area\.<br />|
 
 
 ## Operators

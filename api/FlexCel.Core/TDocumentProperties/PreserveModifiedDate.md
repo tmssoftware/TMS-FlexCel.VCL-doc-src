@@ -3,7 +3,7 @@ uid: TDocumentProperties.PreserveModifiedDate
 description: TDocumentProperties.PreserveModifiedDate
 ---
 
-# TDocumentProperties.PreserveModifiedDate Property
+# TDocumentProperties\.PreserveModifiedDate Property
 
 By default FlexCel will set the modified date in the file to be the date when you actually saved it, no matter the value originally stored in the file\.
 But if you need to set a different modified date than the date in the server, or you don't want a new modified date to be saved and preserve the one in the document,  then you need to set this property to true\.

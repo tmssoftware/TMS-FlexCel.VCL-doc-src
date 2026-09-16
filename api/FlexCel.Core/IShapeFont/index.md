@@ -25,7 +25,7 @@ Contains information for the font of an autoshape\.
 
 |Name|Description|
 |---|---|
-|[ThemeScheme](ThemeScheme.md)|Scheme used in the theme\.<br />|
 |[ThemeColor](ThemeColor.md)|Color used for the font\.<br />|
+|[ThemeScheme](ThemeScheme.md)|Scheme used in the theme\.<br />|
 
 

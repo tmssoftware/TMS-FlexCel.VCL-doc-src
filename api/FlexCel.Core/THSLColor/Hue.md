@@ -3,7 +3,7 @@ uid: THSLColor.Hue
 description: THSLColor.Hue
 ---
 
-# THSLColor.Hue Property
+# THSLColor\.Hue Property
 
 Color hue\. \(between 0 and 360\)
 

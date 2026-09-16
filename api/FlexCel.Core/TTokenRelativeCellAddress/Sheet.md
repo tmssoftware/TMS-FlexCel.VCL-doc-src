@@ -3,7 +3,7 @@ uid: TTokenRelativeCellAddress.Sheet
 description: TTokenRelativeCellAddress.Sheet
 ---
 
-# TTokenRelativeCellAddress.Sheet Property
+# TTokenRelativeCellAddress\.Sheet Property
 
 Sheet where the reference points to\. Empty or null if the reference points to the same sheet\.
 

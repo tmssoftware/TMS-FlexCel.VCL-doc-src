@@ -3,7 +3,7 @@ uid: TReportTag.StrCloseHLink
 description: TReportTag.StrCloseHLink
 ---
 
-# TReportTag.StrCloseHLink Property
+# TReportTag\.StrCloseHLink Property
 
 Close an Hyperlink Tag\. As we can't use \# on hyperlink texts, this gives an alternative\.
 

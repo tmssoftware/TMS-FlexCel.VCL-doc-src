@@ -3,7 +3,7 @@ uid: IExcelGradient.GradientType
 description: IExcelGradient.GradientType
 ---
 
-# IExcelGradient.GradientType Property
+# IExcelGradient\.GradientType Property
 
 Type of gradient stored inside this object\.
 

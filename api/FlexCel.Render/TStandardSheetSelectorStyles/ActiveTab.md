@@ -3,7 +3,7 @@ uid: TStandardSheetSelectorStyles.ActiveTab
 description: TStandardSheetSelectorStyles.ActiveTab
 ---
 
-# TStandardSheetSelectorStyles.ActiveTab Property
+# TStandardSheetSelectorStyles\.ActiveTab Property
 
 Style to be applied to the Active tab\.
 

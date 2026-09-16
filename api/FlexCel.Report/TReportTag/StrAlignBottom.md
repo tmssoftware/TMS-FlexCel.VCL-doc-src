@@ -3,7 +3,7 @@ uid: TReportTag.StrAlignBottom
 description: TReportTag.StrAlignBottom
 ---
 
-# TReportTag.StrAlignBottom Property
+# TReportTag\.StrAlignBottom Property
 
 "Bottom"
 

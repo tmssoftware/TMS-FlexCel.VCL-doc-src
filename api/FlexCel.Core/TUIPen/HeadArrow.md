@@ -3,7 +3,7 @@ uid: TUIPen.HeadArrow
 description: TUIPen.HeadArrow
 ---
 
-# TUIPen.HeadArrow Property
+# TUIPen\.HeadArrow Property
 
 Defines a start arrow for the lines\.
 

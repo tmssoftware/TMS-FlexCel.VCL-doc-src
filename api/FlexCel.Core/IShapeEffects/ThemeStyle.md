@@ -3,7 +3,7 @@ uid: IShapeEffects.ThemeStyle
 description: IShapeEffects.ThemeStyle
 ---
 
-# IShapeEffects.ThemeStyle Property
+# IShapeEffects\.ThemeStyle Property
 
 Scheme used in the theme\.
 

@@ -3,7 +3,7 @@ uid: TFlexCelReport.EnterFormulas
 description: TFlexCelReport.EnterFormulas
 ---
 
-# TFlexCelReport.EnterFormulas Property
+# TFlexCelReport\.EnterFormulas Property
 
 When true, FlexCel will try to enter any string starting with "=" as a formula instead of text\.
 If this property is true, any string you enter that starts with "=" must be a valid formula, or an error will be raised\.

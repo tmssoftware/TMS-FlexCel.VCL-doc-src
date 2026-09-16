@@ -3,7 +3,7 @@ uid: TExcelFile.PageFooter
 description: TExcelFile.PageFooter
 ---
 
-# TExcelFile.PageFooter Property
+# TExcelFile\.PageFooter Property
 
 Page footer on the active sheet\. For a description on the format of the string, see [PageHeader](PageHeader.md)
 

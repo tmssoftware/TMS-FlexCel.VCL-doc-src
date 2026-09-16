@@ -3,7 +3,7 @@ uid: IObjectProperties.ShapeBorder
 description: IObjectProperties.ShapeBorder
 ---
 
-# IObjectProperties.ShapeBorder Property
+# IObjectProperties\.ShapeBorder Property
 
 Line style for the object\.
 

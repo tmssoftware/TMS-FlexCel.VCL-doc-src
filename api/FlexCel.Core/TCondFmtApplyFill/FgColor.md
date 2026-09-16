@@ -3,7 +3,7 @@ uid: TCondFmtApplyFill.FgColor
 description: TCondFmtApplyFill.FgColor
 ---
 
-# TCondFmtApplyFill.FgColor Property
+# TCondFmtApplyFill\.FgColor Property
 
 Color for the foreground of the pattern\.
 

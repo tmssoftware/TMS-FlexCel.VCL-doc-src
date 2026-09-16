@@ -3,7 +3,7 @@ uid: IChartTextOptions.Rotation
 description: IChartTextOptions.Rotation
 ---
 
-# IChartTextOptions.Rotation Property
+# IChartTextOptions\.Rotation Property
 
 Text Rotation in degrees\.
 

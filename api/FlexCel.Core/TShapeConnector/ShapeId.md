@@ -3,7 +3,7 @@ uid: TShapeConnector.ShapeId
 description: TShapeConnector.ShapeId
 ---
 
-# TShapeConnector.ShapeId Property
+# TShapeConnector\.ShapeId Property
 
 The ID of the shape where this shape is linked\. A negative value means the shape is not connected\.
 

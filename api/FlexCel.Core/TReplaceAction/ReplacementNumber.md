@@ -3,7 +3,7 @@ uid: TReplaceAction.ReplacementNumber
 description: TReplaceAction.ReplacementNumber
 ---
 
-# TReplaceAction.ReplacementNumber Property
+# TReplaceAction\.ReplacementNumber Property
 
 Number of replacement being made\. This number will be 1 for the first replacement, 2 for the second and so on\.
 

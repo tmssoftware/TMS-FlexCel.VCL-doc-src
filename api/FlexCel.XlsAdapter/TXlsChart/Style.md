@@ -3,7 +3,7 @@ uid: TXlsChart.Style
 description: TXlsChart.Style
 ---
 
-# TXlsChart.Style Property
+# TXlsChart\.Style Property
 
 This is a number between 1 and 48 which defines many standard properties for the chart, like the default line width for the series or the legend\.
 The default style is 2\.

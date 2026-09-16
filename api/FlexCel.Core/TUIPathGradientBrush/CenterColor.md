@@ -3,7 +3,7 @@ uid: TUIPathGradientBrush.CenterColor
 description: TUIPathGradientBrush.CenterColor
 ---
 
-# TUIPathGradientBrush.CenterColor Property
+# TUIPathGradientBrush\.CenterColor Property
 
 Color for the center of the gradient\.
 

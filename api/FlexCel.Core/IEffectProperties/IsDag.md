@@ -3,7 +3,7 @@ uid: IEffectProperties.IsDag
 description: IEffectProperties.IsDag
 ---
 
-# IEffectProperties.IsDag Property
+# IEffectProperties\.IsDag Property
 
 Returns true if this class contains a DAG\. When true, [EffectDag](EffectDag.md) is not null\.
 

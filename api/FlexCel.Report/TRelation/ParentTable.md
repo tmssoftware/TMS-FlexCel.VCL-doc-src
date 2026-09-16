@@ -3,7 +3,7 @@ uid: TRelation.ParentTable
 description: TRelation.ParentTable
 ---
 
-# TRelation.ParentTable Property
+# TRelation\.ParentTable Property
 
 Table that acts as a master on a Master\-Detail relationship\.
 

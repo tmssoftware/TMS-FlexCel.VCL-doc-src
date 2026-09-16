@@ -3,7 +3,7 @@ uid: TFlxApplyFormat.HAlignment
 description: TFlxApplyFormat.HAlignment
 ---
 
-# TFlxApplyFormat.HAlignment Property
+# TFlxApplyFormat\.HAlignment Property
 
 Horizontal align on the cell\.
 

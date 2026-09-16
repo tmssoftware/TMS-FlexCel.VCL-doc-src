@@ -3,7 +3,7 @@ uid: TFlexCelPdfExport.InitialZoomAndPage
 description: TFlexCelPdfExport.InitialZoomAndPage
 ---
 
-# TFlexCelPdfExport.InitialZoomAndPage Property
+# TFlexCelPdfExport\.InitialZoomAndPage Property
 
 Sets the default zoom and initial page when opening the document\.
 

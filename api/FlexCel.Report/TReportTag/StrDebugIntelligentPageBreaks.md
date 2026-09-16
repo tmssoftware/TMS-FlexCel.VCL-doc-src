@@ -3,7 +3,7 @@ uid: TReportTag.StrDebugIntelligentPageBreaks
 description: TReportTag.StrDebugIntelligentPageBreaks
 ---
 
-# TReportTag.StrDebugIntelligentPageBreaks Property
+# TReportTag\.StrDebugIntelligentPageBreaks Property
 
 DEBUGINTELLIGENTPAGEBREAKS
 

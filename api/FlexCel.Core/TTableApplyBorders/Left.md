@@ -3,7 +3,7 @@ uid: TTableApplyBorders.Left
 description: TTableApplyBorders.Left
 ---
 
-# TTableApplyBorders.Left Property
+# TTableApplyBorders\.Left Property
 
 Left border of the full section of the table\. Does not apply to the borders of cells inside the section\.
 

@@ -3,7 +3,7 @@ uid: TPageEventArgs.Workbook
 description: TPageEventArgs.Workbook
 ---
 
-# TPageEventArgs.Workbook Property
+# TPageEventArgs\.Workbook Property
 
 ExcelFile we are exporting\. Note that this might be a light clone of the workbook assigned to the FlexCelPdfExport component, so it might be different\.
 

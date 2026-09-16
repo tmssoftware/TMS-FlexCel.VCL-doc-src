@@ -3,7 +3,7 @@ uid: TExcelFile.PrintOptions
 description: TExcelFile.PrintOptions
 ---
 
-# TExcelFile.PrintOptions Property
+# TExcelFile\.PrintOptions Property
 
 All print options in a single place\. You will normally want to set individual properties like [PrintLandscape](PrintLandscape.md)
 

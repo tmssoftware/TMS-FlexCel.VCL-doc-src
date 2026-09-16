@@ -3,7 +3,7 @@ uid: IImgExportInfo.SheetCount
 description: IImgExportInfo.SheetCount
 ---
 
-# IImgExportInfo.SheetCount Property
+# IImgExportInfo\.SheetCount Property
 
 Return the count of the sheets on the workbook\.
 

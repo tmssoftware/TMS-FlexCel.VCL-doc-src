@@ -35,12 +35,12 @@ Determines which parts of the borders will be applied in the Table\.
 
 |Name|Description|
 |---|---|
-|[Left](Left.md)|Left border of the full section of the table\. Does not apply to the borders of cells inside the section\.<br />|
-|[Top](Top.md)|Top border of the full section of the table\. Does not apply to the borders of cells inside the section\.<br />|
-|[Right](Right.md)|Right border of the full section of the table\. Does not apply to the borders of cells inside the section\.<br />|
 |[Bottom](Bottom.md)|Bottom border of the full section of the table\. Does not apply to the borders of cells inside the section\.<br />|
-|[InsideVertical](InsideVertical.md)|Vertical borders inside the section of the table\. Does not apply to the borders in the exterior of the section\.<br />|
 |[InsideHorizontal](InsideHorizontal.md)|Horizontal borders inside the section of the table\. Does not apply to the borders in the exterior of the section\.<br />|
+|[InsideVertical](InsideVertical.md)|Vertical borders inside the section of the table\. Does not apply to the borders in the exterior of the section\.<br />|
 |[IsEmpty](IsEmpty.md)|Returns true if the format does not apply any setting\.<br />|
+|[Left](Left.md)|Left border of the full section of the table\. Does not apply to the borders of cells inside the section\.<br />|
+|[Right](Right.md)|Right border of the full section of the table\. Does not apply to the borders of cells inside the section\.<br />|
+|[Top](Top.md)|Top border of the full section of the table\. Does not apply to the borders of cells inside the section\.<br />|
 
 

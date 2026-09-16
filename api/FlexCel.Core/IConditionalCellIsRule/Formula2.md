@@ -3,7 +3,7 @@ uid: IConditionalCellIsRule.Formula2
 description: IConditionalCellIsRule.Formula2
 ---
 
-# IConditionalCellIsRule.Formula2 Property
+# IConditionalCellIsRule\.Formula2 Property
 
 The second formula to be evaluated\. Note that this formula is only used if the condition needs more than one parameter \(for example when condition is "Between"\)\.
 If using a condition with only one parameter, you can leave this formula to null\.

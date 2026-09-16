@@ -3,7 +3,7 @@ uid: TExcelFile.IsLightClone
 description: TExcelFile.IsLightClone
 ---
 
-# TExcelFile.IsLightClone Property
+# TExcelFile\.IsLightClone Property
 
 Returns true if this object was created with a [LightClone](LightClone.md) call\. Light Cloned objects share the data with another file, and they don't switch the selected sheet in the Excel file when changing [ActiveSheet](ActiveSheet.md)
 

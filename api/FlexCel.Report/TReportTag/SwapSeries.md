@@ -3,7 +3,7 @@ uid: TReportTag.SwapSeries
 description: TReportTag.SwapSeries
 ---
 
-# TReportTag.SwapSeries Property
+# TReportTag\.SwapSeries Property
 
 SWAP SERIES
 

@@ -3,7 +3,7 @@ uid: TPngInformation.VerticalResolution
 description: TPngInformation.VerticalResolution
 ---
 
-# TPngInformation.VerticalResolution Property
+# TPngInformation\.VerticalResolution Property
 
 Vertical resolution of the image in dpi\. If the image doesn't have resolution information, this value will be 0\.
 

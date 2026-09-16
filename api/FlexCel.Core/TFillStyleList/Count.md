@@ -3,7 +3,7 @@ uid: TFillStyleList.Count
 description: TFillStyleList.Count
 ---
 
-# TFillStyleList.Count Property
+# TFillStyleList\.Count Property
 
 Returns the number of elements stored in this collection\.
 

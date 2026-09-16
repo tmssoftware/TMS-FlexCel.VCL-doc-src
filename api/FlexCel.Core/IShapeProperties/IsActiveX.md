@@ -3,7 +3,7 @@ uid: IShapeProperties.IsActiveX
 description: IShapeProperties.IsActiveX
 ---
 
-# IShapeProperties.IsActiveX Property
+# IShapeProperties\.IsActiveX Property
 
 Returns true if the object is an ActiveX object\.
 

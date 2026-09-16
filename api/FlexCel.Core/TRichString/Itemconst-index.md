@@ -3,7 +3,7 @@ uid: TRichString.Item[const_index]
 description: TRichString.Item[const index]
 ---
 
-# TRichString.Item[const index] Property
+# TRichString\.Item\[const index\] Property
 
 Returns the character at position index\.
 

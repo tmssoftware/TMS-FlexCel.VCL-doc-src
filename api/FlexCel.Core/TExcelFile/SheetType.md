@@ -3,7 +3,7 @@ uid: TExcelFile.SheetType
 description: TExcelFile.SheetType
 ---
 
-# TExcelFile.SheetType Property
+# TExcelFile\.SheetType Property
 
 Use this property to know it the [ActiveSheet](ActiveSheet.md) is a worksheet, a chart sheet or other\.
 

@@ -3,7 +3,7 @@ uid: TExcelFile.StrictOpenXml
 description: TExcelFile.StrictOpenXml
 ---
 
-# TExcelFile.StrictOpenXml Property
+# TExcelFile\.StrictOpenXml Property
 
 Read this file to know if the xlsx file loaded by FlexCel is a normal xlsx file or a "Strict Open XML file"\.
 Set this property  to make FlexCel save as strict or normal open xlsx file\.

@@ -3,7 +3,7 @@ uid: TBlipTransformList.Length
 description: TBlipTransformList.Length
 ---
 
-# TBlipTransformList.Length Property
+# TBlipTransformList\.Length Property
 
 Number of elements in the list\.
 

@@ -3,7 +3,7 @@ uid: TNamedRangeExportEventArgs.Workbook
 description: TNamedRangeExportEventArgs.Workbook
 ---
 
-# TNamedRangeExportEventArgs.Workbook Property
+# TNamedRangeExportEventArgs\.Workbook Property
 
 ExcelFile with the name, positioned in the sheet that we are rendering\.
 Make sure if you modify ActiveSheet of this instance to restore it back to the original value before exiting the event\.

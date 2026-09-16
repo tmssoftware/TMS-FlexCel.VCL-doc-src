@@ -3,7 +3,7 @@ uid: TUIPathGradientBrush.Rectangle
 description: TUIPathGradientBrush.Rectangle
 ---
 
-# TUIPathGradientBrush.Rectangle Property
+# TUIPathGradientBrush\.Rectangle Property
 
 Rectangle that defines the gradient\.
 

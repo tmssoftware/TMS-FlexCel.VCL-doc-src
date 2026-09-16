@@ -18,23 +18,23 @@ Border style for a cell\.
 
 |Name|Description|
 |---|---|
-|[Left](Left.md)|Left border\.<br />|
-|[Right](Right.md)|Right border\.<br />|
-|[Top](Top.md)|Top border\.<br />|
 |[Bottom](Bottom.md)|Bottom border\.<br />|
 |[Diagonal](Diagonal.md)|Diagonal border\.<br />|
 |[DiagonalStyle](DiagonalStyle.md)|When defined, there will be one or two diagonal lines across the cell\.<br />|
+|[Left](Left.md)|Left border\.<br />|
+|[Right](Right.md)|Right border\.<br />|
+|[Top](Top.md)|Top border\.<br />|
 
 
 ## Methods
 
 |Name|Description|
 |---|---|
-|[Create](Create.md)|**Overloaded<br />**  [Create](Create.md#tflxapplyborderscreate)<br />  [Create\(Boolean\)](Create.md#tflxapplyborderscreateboolean)<br />|
-|[SetAllMembers](SetAllMembers.md)|Sets all members to true or false|
 |[Apply](Apply.md)|This method will modify existingFormat with the properties from newFormat that are specified on this class|
 |[Clone](Clone.md)|Returns a deep copy of the border\.<br />|
+|[Create](Create.md)|**Overloaded<br />**  [Create](Create.md#tflxapplyborderscreate)<br />  [Create\(Boolean\)](Create.md#tflxapplyborderscreateboolean)<br />|
 |[GetHashCode](GetHashCode.md)|Returns the hash code of the object\.<br />|
+|[SetAllMembers](SetAllMembers.md)|Sets all members to true or false|
 
 
 ## Operators

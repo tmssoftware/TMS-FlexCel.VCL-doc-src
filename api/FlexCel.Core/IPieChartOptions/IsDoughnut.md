@@ -3,7 +3,7 @@ uid: IPieChartOptions.IsDoughnut
 description: IPieChartOptions.IsDoughnut
 ---
 
-# IPieChartOptions.IsDoughnut Property
+# IPieChartOptions\.IsDoughnut Property
 
 Returns true if the chart is a doughnut chart instead of a pie chart\. In xls charts, a pie chart is just defined as [DoughnutRadius](DoughnutRadius.md) = 0, but in xlsx you can have doughnut charts with [DoughnutRadius](DoughnutRadius.md) = 0\.
 

@@ -3,7 +3,7 @@ uid: TXlsFile.PrintYResolution
 description: TXlsFile.PrintYResolution
 ---
 
-# TXlsFile.PrintYResolution Property
+# TXlsFile\.PrintYResolution Property
 
 Vertical printer resolution on DPI\.
 

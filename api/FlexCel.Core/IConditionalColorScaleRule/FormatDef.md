@@ -3,7 +3,7 @@ uid: IConditionalColorScaleRule.FormatDef
 description: IConditionalColorScaleRule.FormatDef
 ---
 
-# IConditionalColorScaleRule.FormatDef Property
+# IConditionalColorScaleRule\.FormatDef Property
 
 Format to apply when the rule evaluates to true\.
 

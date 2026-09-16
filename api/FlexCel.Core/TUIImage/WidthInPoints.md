@@ -3,7 +3,7 @@ uid: TUIImage.WidthInPoints
 description: TUIImage.WidthInPoints
 ---
 
-# TUIImage.WidthInPoints Property
+# TUIImage\.WidthInPoints Property
 
 Width of the image in Points \(1/72 of an inch\)
 

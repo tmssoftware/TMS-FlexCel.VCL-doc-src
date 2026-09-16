@@ -3,7 +3,7 @@ uid: TXlsChart.Floor
 description: TXlsChart.Floor
 ---
 
-# TXlsChart.Floor Property
+# TXlsChart\.Floor Property
 
 The floor in a 3D\-chart\.
 

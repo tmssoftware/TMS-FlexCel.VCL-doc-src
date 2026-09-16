@@ -3,7 +3,7 @@ uid: IExcelGradient.Stops
 description: IExcelGradient.Stops
 ---
 
-# IExcelGradient.Stops Property
+# IExcelGradient\.Stops Property
 
 Different colors used in the gradient\. This array must have at least one stop, and no more than 256\.
 

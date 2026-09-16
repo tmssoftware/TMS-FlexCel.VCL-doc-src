@@ -3,7 +3,7 @@ uid: TTableFormat.HasFillBlock
 description: TTableFormat.HasFillBlock
 ---
 
-# TTableFormat.HasFillBlock Property
+# TTableFormat\.HasFillBlock Property
 
 Returns true if any pattern formatting is applied\.
 

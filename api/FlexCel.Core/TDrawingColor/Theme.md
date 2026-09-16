@@ -3,7 +3,7 @@ uid: TDrawingColor.Theme
 description: TDrawingColor.Theme
 ---
 
-# TDrawingColor.Theme Property
+# TDrawingColor\.Theme Property
 
 Returns the color when this structure has a Themed color\.
 

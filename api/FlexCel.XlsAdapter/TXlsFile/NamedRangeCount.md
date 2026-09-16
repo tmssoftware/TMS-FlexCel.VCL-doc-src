@@ -3,7 +3,7 @@ uid: TXlsFile.NamedRangeCount
 description: TXlsFile.NamedRangeCount
 ---
 
-# TXlsFile.NamedRangeCount Property
+# TXlsFile\.NamedRangeCount Property
 
 The count of all named ranges on the file\.
 

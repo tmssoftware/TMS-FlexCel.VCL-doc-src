@@ -3,7 +3,7 @@ uid: TEffectList.SoftEdges
 description: TEffectList.SoftEdges
 ---
 
-# TEffectList.SoftEdges Property
+# TEffectList\.SoftEdges Property
 
 Soft edges effect\.
 

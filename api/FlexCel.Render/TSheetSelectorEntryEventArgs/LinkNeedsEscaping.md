@@ -3,7 +3,7 @@ uid: TSheetSelectorEntryEventArgs.LinkNeedsEscaping
 description: TSheetSelectorEntryEventArgs.LinkNeedsEscaping
 ---
 
-# TSheetSelectorEntryEventArgs.LinkNeedsEscaping Property
+# TSheetSelectorEntryEventArgs\.LinkNeedsEscaping Property
 
 If true \(the default\) the link you provide in [Link](Link.md) is not escaped and will be escaped by FlexCel\.
 So for example, the link "http://my site" will be escaped to "http://my%%20site"\.

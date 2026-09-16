@@ -3,7 +3,7 @@ uid: TPdfCorruptFontInFontFolderError.FileName
 description: TPdfCorruptFontInFontFolderError.FileName
 ---
 
-# TPdfCorruptFontInFontFolderError.FileName Property
+# TPdfCorruptFontInFontFolderError\.FileName Property
 
 Font file that FlexCel couldn't parse\.
 

@@ -3,7 +3,7 @@ uid: TFlexCelPdfExport.GetFontFolder
 description: TFlexCelPdfExport.GetFontFolder
 ---
 
-# TFlexCelPdfExport.GetFontFolder Event
+# TFlexCelPdfExport\.GetFontFolder Event
 
 Use this event if you want to provide your own font information for embedding\.
 Normally FlexCel will search for fonts on \[System\]\\Fonts folder and %%localappdata%%\\Microsoft\\Windows\\Fonts\. If your fonts are in  other location, you can tell FlexCel where they are here\. If you prefer just to give FlexCel the full data on the font, you can use [GetFontData](GetFontData.md) event instead\.
@@ -16,7 +16,7 @@ Note that this property applies only to this object\. To change the property for
 
 **Unit:** [FlexCel.Render](../index.md)
 
-<pre><code class="lang-delphi hljs">property <a href="../TFlexCelPdfExport/index.md">TFlexCelPdfExport</a>.GetFontFolder: TGetFontFolderEventHandler</code></pre>
+<pre><code class="lang-delphi hljs">property <a href="../TFlexCelPdfExport/index.md">TFlexCelPdfExport</a>.GetFontFolder: <a href="../../FlexCel.Pdf/TGetFontFolderEventHandler.md">TGetFontFolderEventHandler</a></code></pre>
 
 ## Examples
 

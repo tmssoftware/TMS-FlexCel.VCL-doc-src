@@ -3,7 +3,7 @@ uid: TDrawingTextAttributes.Lang
 description: TDrawingTextAttributes.Lang
 ---
 
-# TDrawingTextAttributes.Lang Property
+# TDrawingTextAttributes\.Lang Property
 
 Specifies the language to be used when the generating application is displaying the user  interface controls\.
 

@@ -3,7 +3,7 @@ uid: TPngInformation.Width
 description: TPngInformation.Width
 ---
 
-# TPngInformation.Width Property
+# TPngInformation\.Width Property
 
 Width of the image on pixels\.
 

@@ -3,7 +3,7 @@ uid: TXlsChart.Background
 description: TXlsChart.Background
 ---
 
-# TXlsChart.Background Property
+# TXlsChart\.Background Property
 
 Returns the chart background if there is one defined, or null if there is none\.
 

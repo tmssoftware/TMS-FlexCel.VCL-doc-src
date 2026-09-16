@@ -3,7 +3,7 @@ uid: TUIRectangle.Left
 description: TUIRectangle.Left
 ---
 
-# TUIRectangle.Left Property
+# TUIRectangle\.Left Property
 
 Left coordinate\. This is the same as [X](X.md), but it is readonly\. \(X is read write\)\.
 

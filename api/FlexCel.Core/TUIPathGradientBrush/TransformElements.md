@@ -3,7 +3,7 @@ uid: TUIPathGradientBrush.TransformElements
 description: TUIPathGradientBrush.TransformElements
 ---
 
-# TUIPathGradientBrush.TransformElements Property
+# TUIPathGradientBrush\.TransformElements Property
 
 Transform matrix\.
 

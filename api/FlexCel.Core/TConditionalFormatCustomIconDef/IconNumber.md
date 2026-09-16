@@ -3,7 +3,7 @@ uid: TConditionalFormatCustomIconDef.IconNumber
 description: TConditionalFormatCustomIconDef.IconNumber
 ---
 
-# TConditionalFormatCustomIconDef.IconNumber Property
+# TConditionalFormatCustomIconDef\.IconNumber Property
 
 Icon position in the set \(0 based\)\.
 

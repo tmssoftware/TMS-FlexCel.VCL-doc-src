@@ -25,9 +25,9 @@ A single cell address in the same sheet or to other sheet\. It handles a referen
 
 |Name|Description|
 |---|---|
-|[RowOffset](RowOffset.md)|The number of rows after or before the current row\. It might be negative\.<br />|
 |[ColOffset](ColOffset.md)|The number of columns after or before the current column\. It might be negative\.<br />|
 |[ExternalBookName](ExternalBookName.md)|File where the reference points to, when this is a reference to other file\. Empty or null if the reference is to the same file\.<br />|
+|[RowOffset](RowOffset.md)|The number of rows after or before the current row\. It might be negative\.<br />|
 |[Sheet](Sheet.md)|Sheet where the reference points to\. Empty or null if the reference points to the same sheet\.<br />|
 
 

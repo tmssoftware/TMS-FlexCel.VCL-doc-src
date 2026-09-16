@@ -3,7 +3,7 @@ uid: TXlsFile.OptionsRecalcMaxIterations
 description: TXlsFile.OptionsRecalcMaxIterations
 ---
 
-# TXlsFile.OptionsRecalcMaxIterations Property
+# TXlsFile\.OptionsRecalcMaxIterations Property
 
 Maximum number of iterations when calculating circular references \([TExcelFile.OptionsRecalcCircularReferences](../../FlexCel.Core/TExcelFile/OptionsRecalcCircularReferences.md) is true\),
 

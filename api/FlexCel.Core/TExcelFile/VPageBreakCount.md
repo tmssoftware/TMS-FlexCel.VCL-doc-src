@@ -3,7 +3,7 @@ uid: TExcelFile.VPageBreakCount
 description: TExcelFile.VPageBreakCount
 ---
 
-# TExcelFile.VPageBreakCount Property
+# TExcelFile\.VPageBreakCount Property
 
 The number of vertical page breaks in the active sheet\.
 

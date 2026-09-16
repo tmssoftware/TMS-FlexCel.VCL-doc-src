@@ -3,7 +3,7 @@ uid: IThemeFormatScheme.LineStyleList
 description: IThemeFormatScheme.LineStyleList
 ---
 
-# IThemeFormatScheme.LineStyleList Property
+# IThemeFormatScheme\.LineStyleList Property
 
 This element defines a list of three line styles for use within a theme\.
 

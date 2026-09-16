@@ -3,7 +3,7 @@ uid: TExcelFile.OptionsRecalcMaxIterations
 description: TExcelFile.OptionsRecalcMaxIterations
 ---
 
-# TExcelFile.OptionsRecalcMaxIterations Property
+# TExcelFile\.OptionsRecalcMaxIterations Property
 
 Maximum number of iterations when calculating circular references \([OptionsRecalcCircularReferences](OptionsRecalcCircularReferences.md) is true\),
 

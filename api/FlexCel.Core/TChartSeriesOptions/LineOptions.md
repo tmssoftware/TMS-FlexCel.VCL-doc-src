@@ -3,7 +3,7 @@ uid: TChartSeriesOptions.LineOptions
 description: TChartSeriesOptions.LineOptions
 ---
 
-# TChartSeriesOptions.LineOptions Property
+# TChartSeriesOptions\.LineOptions Property
 
 Line options for the series or point\.
 

@@ -3,7 +3,7 @@ uid: IShapeProperties.ShapeEffects
 description: IShapeProperties.ShapeEffects
 ---
 
-# IShapeProperties.ShapeEffects Property
+# IShapeProperties\.ShapeEffects Property
 
 Effects for the shape, for xlsx shapes \(even those which are saved in xls files\)\. The effects include glow, shadow, etc\.
 

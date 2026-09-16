@@ -3,7 +3,7 @@ uid: TConditionalFormatValueObject.GreaterThanOrEqual
 description: TConditionalFormatValueObject.GreaterThanOrEqual
 ---
 
-# TConditionalFormatValueObject.GreaterThanOrEqual Property
+# TConditionalFormatValueObject\.GreaterThanOrEqual Property
 
 If true, then "Greater than or equal" is used as a threshold for applying the rule\.
 If false, "greater than" is used instead\. This attribute only applies to icon sets\.

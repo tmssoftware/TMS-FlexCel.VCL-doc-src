@@ -28,9 +28,9 @@ Stores the schemas for a particular XML map object\. There can be multiple Schem
 |Name|Description|
 |---|---|
 |[Id](Id.md)|Identifies the schema collection used to define a particular XML map object\.<br />|
-|[SchemaRef](SchemaRef.md)|The schemaRef attribute is used in the specific case where the schema definition happens to include another schema file that contributes to the same namespace\.The value of this attribute is the relative path to a "root" schema file on disk which in turn references the other schema files contributing type definitions to the same namespace\.<br />|
-|[Namespace](Namespace.md)|Namespace used by the schema\.<br />|
 |[Language](Language.md)|Specifies the media type of the schema language\.<br />|
+|[Namespace](Namespace.md)|Namespace used by the schema\.<br />|
+|[SchemaRef](SchemaRef.md)|The schemaRef attribute is used in the specific case where the schema definition happens to include another schema file that contributes to the same namespace\.The value of this attribute is the relative path to a "root" schema file on disk which in turn references the other schema files contributing type definitions to the same namespace\.<br />|
 |[Xml](Xml.md)|Actual XML defining the schema\.<br />|
 
 

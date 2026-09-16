@@ -3,7 +3,7 @@ uid: TProtectedRange.Ranges
 description: TProtectedRange.Ranges
 ---
 
-# TProtectedRange.Ranges Property
+# TProtectedRange\.Ranges Property
 
 Ranges of cells this protection applies to\. You can specify more than one range of cells for the same ProtectedRange\.
 

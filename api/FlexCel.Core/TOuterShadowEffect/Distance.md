@@ -3,7 +3,7 @@ uid: TOuterShadowEffect.Distance
 description: TOuterShadowEffect.Distance
 ---
 
-# TOuterShadowEffect.Distance Property
+# TOuterShadowEffect\.Distance Property
 
 Distance of the shadow\.
 

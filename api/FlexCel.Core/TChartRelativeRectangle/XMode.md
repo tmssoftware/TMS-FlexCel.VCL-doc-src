@@ -3,7 +3,7 @@ uid: TChartRelativeRectangle.XMode
 description: TChartRelativeRectangle.XMode
 ---
 
-# TChartRelativeRectangle.XMode Property
+# TChartRelativeRectangle\.XMode Property
 
 Defines how [X1](X1.md) behaves\. When this value is Factor, X1 is a percent of the offset from the default position\.
 When this value is Edge, X1 is the left coordinate of the point\.

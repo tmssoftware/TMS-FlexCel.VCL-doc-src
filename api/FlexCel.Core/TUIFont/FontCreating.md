@@ -3,7 +3,7 @@ uid: TUIFont.FontCreating
 description: TUIFont.FontCreating
 ---
 
-# TUIFont.FontCreating Event
+# TUIFont\.FontCreating Event
 
 Fires before a font is created\. You can customize the font properties and create a different font instead\.
 Note that this event is static and it applies to the whole app\.
@@ -13,7 +13,7 @@ Note that this event is static and it applies to the whole app\.
 
 **Unit:** [FlexCel.Core](../index.md)
 
-<pre><code class="lang-delphi hljs">property <a href="../TUIFont/index.md">TUIFont</a>.FontCreating: TFontCreatingEventHandler</code></pre>
+<pre><code class="lang-delphi hljs">property <a href="../TUIFont/index.md">TUIFont</a>.FontCreating: <a href="../TFontCreatingEventHandler.md">TFontCreatingEventHandler</a></code></pre>
 
 ## See also
 

@@ -3,7 +3,7 @@ uid: TReportTag.StrRowCountColumn
 description: TReportTag.StrRowCountColumn
 ---
 
-# TReportTag.StrRowCountColumn Property
+# TReportTag\.StrRowCountColumn Property
 
 "\#RecordCount"
 

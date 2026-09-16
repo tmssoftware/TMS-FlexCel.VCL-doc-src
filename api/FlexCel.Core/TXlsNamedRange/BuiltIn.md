@@ -3,7 +3,7 @@ uid: TXlsNamedRange.BuiltIn
 description: TXlsNamedRange.BuiltIn
 ---
 
-# TXlsNamedRange.BuiltIn Property
+# TXlsNamedRange\.BuiltIn Property
 
 True if the range is a built in name\. Built in names are 1 char long\.
 

@@ -25,18 +25,18 @@ An unsupported formula, the cell it is in, and the reason why it is not supporte
 
 |Name|Description|
 |---|---|
-|[GetHashCode](GetHashCode.md)|Hashcode for this object\.<br />|
 |[Equals](Equals.md)|Returns true if both objects have the same values\.<br />|
+|[GetHashCode](GetHashCode.md)|Hashcode for this object\.<br />|
 
 
 ## Properties
 
 |Name|Description|
 |---|---|
-|[ErrorType](ErrorType.md)|Type of error\.<br />|
 |[Cell](Cell.md)|Cell where the formula is \(1 based\)|
-|[FunctionName](FunctionName.md)|If the error is [TUnsupported&#8203;Formula&#8203;Error&#8203;Type.&#8203;Missing&#8203;Function](../TUnsupportedFormulaErrorType.md) then this is the name of the missing function\.<br />If the error is [TUnsupported&#8203;Formula&#8203;Error&#8203;Type.&#8203;External&#8203;Reference](../TUnsupportedFormulaErrorType.md) then this is the name of the file not found\.<br />|
+|[ErrorType](ErrorType.md)|Type of error\.<br />|
 |[FileName](FileName.md)|This property has the name of the physical file being evaluated, and can be of use when evaluating linked files\. If the files are opened from a stream or not from a physical place, it will be null\.<br />|
+|[FunctionName](FunctionName.md)|If the error is [TUnsupported&#8203;Formula&#8203;Error&#8203;Type.&#8203;Missing&#8203;Function](../TUnsupportedFormulaErrorType.md) then this is the name of the missing function\.<br />If the error is [TUnsupported&#8203;Formula&#8203;Error&#8203;Type.&#8203;External&#8203;Reference](../TUnsupportedFormulaErrorType.md) then this is the name of the file not found\.<br />|
 |[StackTrace](StackTrace.md)|This property only has a value is the error is [TUnsupported&#8203;Formula&#8203;Error&#8203;Type.&#8203;Circular&#8203;Reference](../TUnsupportedFormulaErrorType.md)\. It contains a list of all the cells that lead to this cell having to recalculate itself\. Note that this stack is limited to the last [TExcelFile.&#8203;Cell&#8203;Stack&#8203;Trace&#8203;MaxSize](../TExcelFile/CellStackTraceMaxSize.md) elements to avoid consuming too much memory\.<br />|
 
 

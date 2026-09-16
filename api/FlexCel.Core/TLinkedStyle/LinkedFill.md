@@ -3,7 +3,7 @@ uid: TLinkedStyle.LinkedFill
 description: TLinkedStyle.LinkedFill
 ---
 
-# TLinkedStyle.LinkedFill Property
+# TLinkedStyle\.LinkedFill Property
 
 If true, the fill pattern will be linked to the parent style, and it will change when you change the style\.
 If false the fill pattern will not change even if you change it in the base style\.

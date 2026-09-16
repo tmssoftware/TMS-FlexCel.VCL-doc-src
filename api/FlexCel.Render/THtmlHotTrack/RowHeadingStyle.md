@@ -3,7 +3,7 @@ uid: THtmlHotTrack.RowHeadingStyle
 description: THtmlHotTrack.RowHeadingStyle
 ---
 
-# THtmlHotTrack.RowHeadingStyle Property
+# THtmlHotTrack\.RowHeadingStyle Property
 
 Style to apply to the heading rows when the mouse is over a cell\. You can use any css style here\.
 Set it to empty if you don't want to highlight the headings\.

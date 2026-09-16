@@ -3,7 +3,7 @@ uid: TFlxFont.CharSet
 description: TFlxFont.CharSet
 ---
 
-# TFlxFont.CharSet Property
+# TFlxFont\.CharSet Property
 
 Character set\. \(see Windows API LOGFONT structure\)
 

@@ -3,7 +3,7 @@ uid: THeaderAndFooter.DiffEvenPages
 description: THeaderAndFooter.DiffEvenPages
 ---
 
-# THeaderAndFooter.DiffEvenPages Property
+# THeaderAndFooter\.DiffEvenPages Property
 
 When true even pages will have different headers and footers from odd pages, and headers/footer for even pages will be specified in [EvenHeader](EvenHeader.md) and [EvenFooter](EvenFooter.md)\. When false, EvenHeader and EvenFooter have no meaning\.
 

@@ -3,7 +3,7 @@ uid: TXlsFile.ImageCount
 description: TXlsFile.ImageCount
 ---
 
-# TXlsFile.ImageCount Property
+# TXlsFile\.ImageCount Property
 
 The number of images in the active sheet\.
 

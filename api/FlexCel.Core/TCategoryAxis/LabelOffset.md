@@ -3,7 +3,7 @@ uid: TCategoryAxis.LabelOffset
 description: TCategoryAxis.LabelOffset
 ---
 
-# TCategoryAxis.LabelOffset Property
+# TCategoryAxis\.LabelOffset Property
 
 Distance from the labels to the axis\. Defaults to 100\.
 

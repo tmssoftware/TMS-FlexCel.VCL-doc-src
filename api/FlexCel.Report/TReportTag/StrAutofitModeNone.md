@@ -3,7 +3,7 @@ uid: TReportTag.StrAutofitModeNone
 description: TReportTag.StrAutofitModeNone
 ---
 
-# TReportTag.StrAutofitModeNone Property
+# TReportTag\.StrAutofitModeNone Property
 
 "None"
 

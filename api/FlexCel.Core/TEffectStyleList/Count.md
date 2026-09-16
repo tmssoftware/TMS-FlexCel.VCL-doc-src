@@ -3,7 +3,7 @@ uid: TEffectStyleList.Count
 description: TEffectStyleList.Count
 ---
 
-# TEffectStyleList.Count Property
+# TEffectStyleList\.Count Property
 
 Number of effects saved on this list\.
 

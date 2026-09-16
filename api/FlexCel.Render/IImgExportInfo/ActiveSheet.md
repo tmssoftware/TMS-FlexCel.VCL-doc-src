@@ -3,7 +3,7 @@ uid: IImgExportInfo.ActiveSheet
 description: IImgExportInfo.ActiveSheet
 ---
 
-# IImgExportInfo.ActiveSheet Property
+# IImgExportInfo\.ActiveSheet Property
 
 TImageInfo for the active sheet\.
 

@@ -17,9 +17,9 @@ Dimensions of an Excel paper
 
 |Name|Description|
 |---|---|
+|[Height](Height.md)|Paper height in inches/100|
 |[PaperName](PaperName.md)|Paper Name\.<br />|
 |[Width](Width.md)|Paper width in inches/100|
-|[Height](Height.md)|Paper height in inches/100|
 
 
 ## Methods
@@ -27,10 +27,10 @@ Dimensions of an Excel paper
 |Name|Description|
 |---|---|
 |[Create](Create.md)|**Overloaded<br />**  [Create\(TPaperSize\)](Create.md#tpaperdimensionscreatetpapersize)<br />  [Create\(string, Double, Double\)](Create.md#tpaperdimensionscreatestring-double-double)<br />|
-|[mm](mm.md)|Converts millimeters to inches/100|
+|[HasValue](HasValue.md)|Returns true if the record has a defined value\. This is the inverse of [IsNull](IsNull.md)|
 |[in100](in100.md)|Converts inches/100 to millimeters|
 |[IsNull](IsNull.md)|Returns true if the record doesn't have a defined value\.<br />|
-|[HasValue](HasValue.md)|Returns true if the record has a defined value\. This is the inverse of [IsNull](IsNull.md)|
+|[mm](mm.md)|Converts millimeters to inches/100|
 
 
 ## Operators

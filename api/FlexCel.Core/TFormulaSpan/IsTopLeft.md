@@ -3,7 +3,7 @@ uid: TFormulaSpan.IsTopLeft
 description: TFormulaSpan.IsTopLeft
 ---
 
-# TFormulaSpan.IsTopLeft Property
+# TFormulaSpan\.IsTopLeft Property
 
 Indicates if this is the first formula of the array\. Only the formula that is at the top left cell of the group will be used when setting a formula\. Other formulas will be ignored, so you can copy  formulas in a loop from one place to the other without worring if the cell is at the top left or not\.
 

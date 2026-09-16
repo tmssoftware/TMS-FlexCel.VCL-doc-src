@@ -3,7 +3,7 @@ uid: TExcelFile.PrintHeadings
 description: TExcelFile.PrintHeadings
 ---
 
-# TExcelFile.PrintHeadings Property
+# TExcelFile\.PrintHeadings Property
 
 When true the row and column labels \(A,B\.\.\.etc for columns, 1,2\.\.\. for rows\) will be printed\.
 

@@ -3,7 +3,7 @@ uid: IShapeProperties.ShapeGeom
 description: IShapeProperties.ShapeGeom
 ---
 
-# IShapeProperties.ShapeGeom Property
+# IShapeProperties\.ShapeGeom Property
 
 Geometry of the shape, if it is an xlsx shape\. Shapes in xls will have this value null\.
 This property contains a parsed ShapeGeometry and it is used instead if it exists\.

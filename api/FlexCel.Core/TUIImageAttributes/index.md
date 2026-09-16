@@ -18,8 +18,8 @@ Platform independent image attributes\.
 
 |Name|Description|
 |---|---|
+|[ColorImage](ColorImage.md)|Adds color to the image\.<br />|
 |[CreateNew](CreateNew.md)|Creates a new image attribute\.<br />|
 |[MakeTransparent](MakeTransparent.md)|Makes the image transparent\.<br />|
-|[ColorImage](ColorImage.md)|Adds color to the image\.<br />|
 
 

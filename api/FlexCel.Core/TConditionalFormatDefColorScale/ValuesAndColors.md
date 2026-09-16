@@ -3,7 +3,7 @@ uid: TConditionalFormatDefColorScale.ValuesAndColors
 description: TConditionalFormatDefColorScale.ValuesAndColors
 ---
 
-# TConditionalFormatDefColorScale.ValuesAndColors Property
+# TConditionalFormatDefColorScale\.ValuesAndColors Property
 
 A list of definitions and colors for the color scale\.
 

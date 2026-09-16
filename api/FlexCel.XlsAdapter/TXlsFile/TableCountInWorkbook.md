@@ -3,7 +3,7 @@ uid: TXlsFile.TableCountInWorkbook
 description: TXlsFile.TableCountInWorkbook
 ---
 
-# TXlsFile.TableCountInWorkbook Property
+# TXlsFile\.TableCountInWorkbook Property
 
 Returns the number of tables in the whole workbook\. \(Not just the active sheet\)
 

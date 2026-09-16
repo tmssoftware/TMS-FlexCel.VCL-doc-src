@@ -3,7 +3,7 @@ uid: TFlxConsts.Max_FontSize
 description: TFlxConsts.Max_FontSize
 ---
 
-# TFlxConsts.Max_FontSize Property
+# TFlxConsts\.Max\_FontSize Property
 
 Maximum font size allowed in a file\.
 

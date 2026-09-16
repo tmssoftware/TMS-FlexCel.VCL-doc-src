@@ -3,7 +3,7 @@ uid: TExcelFile.PrintYResolution
 description: TExcelFile.PrintYResolution
 ---
 
-# TExcelFile.PrintYResolution Property
+# TExcelFile\.PrintYResolution Property
 
 Vertical printer resolution on DPI\.
 

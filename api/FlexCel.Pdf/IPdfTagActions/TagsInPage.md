@@ -5,8 +5,8 @@ description: IPdfTagActions.TagsInPage
 
 # IPdfTagActions\.TagsInPage Method
 
-This event will be called after each page is completed, and allows you to specify the tags for the page\.
-All tags in the page should be defined here\.
+This event will be called after each page is completed and allows you to specify the tags for the page\.
+All tags on the page should be defined here\.
 
 
 ## Syntax

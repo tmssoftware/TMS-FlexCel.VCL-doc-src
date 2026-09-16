@@ -3,7 +3,7 @@ uid: TRecoveryInvalidFormat.FileName
 description: TRecoveryInvalidFormat.FileName
 ---
 
-# TRecoveryInvalidFormat.FileName Property
+# TRecoveryInvalidFormat\.FileName Property
 
 File with the invalid formula\.
 

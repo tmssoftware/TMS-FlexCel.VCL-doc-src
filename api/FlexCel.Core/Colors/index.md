@@ -18,7 +18,6 @@ A list of standard colors\.
 
 |Name|Description|
 |---|---|
-|[Transparent](Transparent.md)|Transparent color\.|
 |[AliceBlue](AliceBlue.md)|AliceBlue color\.|
 |[AntiqueWhite](AntiqueWhite.md)|AntiqueWhite color\.|
 |[Aqua](Aqua.md)|Aqua color\.|
@@ -152,6 +151,7 @@ A list of standard colors\.
 |[Teal](Teal.md)|Teal color\.|
 |[Thistle](Thistle.md)|Thistle color\.|
 |[Tomato](Tomato.md)|Tomato color\.|
+|[Transparent](Transparent.md)|Transparent color\.|
 |[Turquoise](Turquoise.md)|Turquoise color\.|
 |[Violet](Violet.md)|Violet color\.|
 |[Wheat](Wheat.md)|Wheat color\.|

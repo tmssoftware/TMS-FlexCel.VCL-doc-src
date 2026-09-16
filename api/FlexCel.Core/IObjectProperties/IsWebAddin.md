@@ -3,7 +3,7 @@ uid: IObjectProperties.IsWebAddin
 description: IObjectProperties.IsWebAddin
 ---
 
-# IObjectProperties.IsWebAddin Property
+# IObjectProperties\.IsWebAddin Property
 
 Returns true if the object is a web addin\.
 

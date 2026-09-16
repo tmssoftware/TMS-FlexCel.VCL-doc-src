@@ -3,7 +3,7 @@ uid: TImageInformationEventArgs.ImageLinkNeedsEscaping
 description: TImageInformationEventArgs.ImageLinkNeedsEscaping
 ---
 
-# TImageInformationEventArgs.ImageLinkNeedsEscaping Property
+# TImageInformationEventArgs\.ImageLinkNeedsEscaping Property
 
 If true \(the default\) the link you provide in [ImageLink](ImageLink.md) is not escaped and will be escaped by FlexCel\.
 So for example, the link "http://my site" will be escaped to "http://my%%20site"\.

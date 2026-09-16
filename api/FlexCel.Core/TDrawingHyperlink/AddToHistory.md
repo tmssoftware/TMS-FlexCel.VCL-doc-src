@@ -3,7 +3,7 @@ uid: TDrawingHyperlink.AddToHistory
 description: TDrawingHyperlink.AddToHistory
 ---
 
-# TDrawingHyperlink.AddToHistory Property
+# TDrawingHyperlink\.AddToHistory Property
 
 If true, the link will be added to the history\.
 

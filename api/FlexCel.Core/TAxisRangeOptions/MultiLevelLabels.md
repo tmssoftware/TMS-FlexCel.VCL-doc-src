@@ -3,7 +3,7 @@ uid: TAxisRangeOptions.MultiLevelLabels
 description: TAxisRangeOptions.MultiLevelLabels
 ---
 
-# TAxisRangeOptions.MultiLevelLabels Property
+# TAxisRangeOptions\.MultiLevelLabels Property
 
 If false, then category labels won't be rendered as multilevel, even if they have multiple levels of data\.
 

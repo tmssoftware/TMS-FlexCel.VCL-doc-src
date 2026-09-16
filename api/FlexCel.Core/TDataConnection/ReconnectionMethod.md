@@ -3,7 +3,7 @@ uid: TDataConnection.ReconnectionMethod
 description: TDataConnection.ReconnectionMethod
 ---
 
-# TDataConnection.ReconnectionMethod Property
+# TDataConnection\.ReconnectionMethod Property
 
 Specifies what the spreadsheet application should do when a connection fails\.
 

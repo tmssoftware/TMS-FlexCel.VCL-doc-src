@@ -18,8 +18,8 @@ Contains an HTML tag and its position on the string\.
 
 |Name|Description|
 |---|---|
-|[Text](Text.md)|The tag text\.<br />|
 |[Position](Position.md)|Position of this tag inside the converted string\. \(the string without tags\)|
+|[Text](Text.md)|The tag text\.<br />|
 
 
 ## Methods

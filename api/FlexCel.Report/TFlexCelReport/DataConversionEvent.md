@@ -3,7 +3,7 @@ uid: TFlexCelReport.DataConversionEvent
 description: TFlexCelReport.DataConversionEvent
 ---
 
-# TFlexCelReport.DataConversionEvent Property
+# TFlexCelReport\.DataConversionEvent Property
 
 Set this function to return a the value that must be written in the report for an speific type of record, class or array\.
 

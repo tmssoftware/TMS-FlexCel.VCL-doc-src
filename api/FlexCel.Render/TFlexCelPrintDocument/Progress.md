@@ -3,7 +3,7 @@ uid: TFlexCelPrintDocument.Progress
 description: TFlexCelPrintDocument.Progress
 ---
 
-# TFlexCelPrintDocument.Progress Property
+# TFlexCelPrintDocument\.Progress Property
 
 Progress of the printing\. This variable can be accessed from other thread, or from the [AfterGeneratePage](AfterGeneratePage.md) event\.
 

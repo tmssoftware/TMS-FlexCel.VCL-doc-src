@@ -3,7 +3,7 @@ uid: TDocumentCustomProperty.PId
 description: TDocumentCustomProperty.PId
 ---
 
-# TDocumentCustomProperty.PId Property
+# TDocumentCustomProperty\.PId Property
 
 Numeric Id for the property\. This value is for OLE compatibility and must be unique\.
 

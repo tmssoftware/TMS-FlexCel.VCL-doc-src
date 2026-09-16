@@ -3,7 +3,7 @@ uid: TTokenLambdaParameterReference.ParameterName
 description: TTokenLambdaParameterReference.ParameterName
 ---
 
-# TTokenLambdaParameterReference.ParameterName Property
+# TTokenLambdaParameterReference\.ParameterName Property
 
 Name of the parameter\.
 

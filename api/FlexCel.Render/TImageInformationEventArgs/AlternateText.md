@@ -3,7 +3,7 @@ uid: TImageInformationEventArgs.AlternateText
 description: TImageInformationEventArgs.AlternateText
 ---
 
-# TImageInformationEventArgs.AlternateText Property
+# TImageInformationEventArgs\.AlternateText Property
 
 Alternate text for the image, to show in the "ALT" tag when a browser cannot display images\.
 By default this is set to the text in the box "Alternative Text" in the web tab on the image properties\.

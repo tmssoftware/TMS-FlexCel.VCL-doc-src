@@ -3,7 +3,7 @@ uid: IShapeProperties.IsConnector
 description: IShapeProperties.IsConnector
 ---
 
-# IShapeProperties.IsConnector Property
+# IShapeProperties\.IsConnector Property
 
 True if the shape is a connector\.
 

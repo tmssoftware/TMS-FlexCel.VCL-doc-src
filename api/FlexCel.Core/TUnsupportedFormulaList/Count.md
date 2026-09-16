@@ -3,7 +3,7 @@ uid: TUnsupportedFormulaList.Count
 description: TUnsupportedFormulaList.Count
 ---
 
-# TUnsupportedFormulaList.Count Property
+# TUnsupportedFormulaList\.Count Property
 
 The number of errors on the list\.
 

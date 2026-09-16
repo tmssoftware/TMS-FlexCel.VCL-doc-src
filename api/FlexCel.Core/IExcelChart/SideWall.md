@@ -3,7 +3,7 @@ uid: IExcelChart.SideWall
 description: IExcelChart.SideWall
 ---
 
-# IExcelChart.SideWall Property
+# IExcelChart\.SideWall Property
 
 The wall next to the y\-axis in a 3D\-chart\.
 

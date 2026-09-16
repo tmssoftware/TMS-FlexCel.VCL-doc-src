@@ -3,7 +3,7 @@ uid: TConditionalFormat.Ranges
 description: TConditionalFormat.Ranges
 ---
 
-# TConditionalFormat.Ranges Property
+# TConditionalFormat\.Ranges Property
 
 List of cell ranges where this conditional format applies\.
 

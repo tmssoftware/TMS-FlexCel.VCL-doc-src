@@ -3,7 +3,7 @@ uid: TFlxOneBorder.Color
 description: TFlxOneBorder.Color
 ---
 
-# TFlxOneBorder.Color Property
+# TFlxOneBorder\.Color Property
 
 Color of the border\.
 

@@ -3,7 +3,7 @@ uid: TDrawingConditionalFormatDataBar.HasDataBar
 description: TDrawingConditionalFormatDataBar.HasDataBar
 ---
 
-# TDrawingConditionalFormatDataBar.HasDataBar Property
+# TDrawingConditionalFormatDataBar\.HasDataBar Property
 
 If false, the cell doesn't have a databar defined\.
 

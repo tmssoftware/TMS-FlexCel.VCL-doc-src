@@ -3,7 +3,7 @@ uid: TDataConnection.OdcFile
 description: TDataConnection.OdcFile
 ---
 
-# TDataConnection.OdcFile Property
+# TDataConnection\.OdcFile Property
 
 Specifies the full path to external connection file from which this connection was created\. If a connection fails during an attempt to refresh data, and ReconnectionMethod is AsRequired, then the spreadsheet application will try again using information from the external connection file instead of the connection object embedded within the workbook\.
 

@@ -3,7 +3,7 @@ uid: TFlexCelPreviewer.StartPage
 description: TFlexCelPreviewer.StartPage
 ---
 
-# TFlexCelPreviewer.StartPage Property
+# TFlexCelPreviewer\.StartPage Property
 
 Page the preview is showing\.
 

@@ -20,9 +20,9 @@ A coordinate in a drawing\.
 |---|---|
 |[CmToEmu](CmToEmu.md)|Returns how many EMUs in 1 cm\.<br />|
 |[InchesToEmu](InchesToEmu.md)|Returns how many EMUs in 1 inch\.<br />|
-|[PointsToEmu](PointsToEmu.md)|Returns how many EMUs in 1 point\.<br />|
 |[PcToEmu](PcToEmu.md)|Returns how many EMUs in 1 pc\.<br />|
 |[PiToEmu](PiToEmu.md)|Returns how many EMUs in 1 pi\.<br />|
+|[PointsToEmu](PointsToEmu.md)|Returns how many EMUs in 1 point\.<br />|
 
 
 ## Methods
@@ -30,12 +30,12 @@ A coordinate in a drawing\.
 |Name|Description|
 |---|---|
 |[Create](Create.md)|Creates a coordinate in Emus\. To use other units, use the "From\.\.\." methods of this struct\.<br />|
-|[FromCm](FromCm.md)|Creates a drawing coordinate from a measunement in centimeters\.<br />|
-|[FromMm](FromMm.md)|Creates a drawing coordinate from a measunement in milimeters\.<br />|
-|[FromInches](FromInches.md)|Creates a drawing coordinate from a measurement in inches\.<br />|
-|[FromPoints](FromPoints.md)|Creates a drawing coordinate from a measunement in points\. \(1/72 of an inch\)|
-|[FromPi](FromPi.md)|Creates a drawing coordinate from a measunement in Pi Excel units\.<br />|
 |[Equals](Equals.md)|Returns true if this instance has the same data as the object obj\.<br />|
+|[FromCm](FromCm.md)|Creates a drawing coordinate from a measunement in centimeters\.<br />|
+|[FromInches](FromInches.md)|Creates a drawing coordinate from a measurement in inches\.<br />|
+|[FromMm](FromMm.md)|Creates a drawing coordinate from a measunement in milimeters\.<br />|
+|[FromPi](FromPi.md)|Creates a drawing coordinate from a measunement in Pi Excel units\.<br />|
+|[FromPoints](FromPoints.md)|Creates a drawing coordinate from a measunement in points\. \(1/72 of an inch\)|
 |[GetHashCode](GetHashCode.md)|Returns the hashcode for this object|
 |[ToString](ToString.md)|Returns a string representing the measurement in cm\.<br />|
 
@@ -52,10 +52,10 @@ A coordinate in a drawing\.
 
 |Name|Description|
 |---|---|
-|[Emu](Emu.md)|Value of the coordinate in EMUs \(English Metric Units\)|
 |[Cm](Cm.md)|Value of the coordinate in cm|
+|[Emu](Emu.md)|Value of the coordinate in EMUs \(English Metric Units\)|
 |[Inches](Inches.md)|Value of the coordinate in inches|
-|[Points](Points.md)|Value of the coordinate in points|
 |[Pixels](Pixels.md)|Value of the coordinate in pixels|
+|[Points](Points.md)|Value of the coordinate in points|
 
 

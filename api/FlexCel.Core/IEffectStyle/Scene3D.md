@@ -3,7 +3,7 @@ uid: IEffectStyle.Scene3D
 description: IEffectStyle.Scene3D
 ---
 
-# IEffectStyle.Scene3D Property
+# IEffectStyle\.Scene3D Property
 
 Scene 3D effects\. Currently this is an xml string, in the future it might change to a parsed class\.
 

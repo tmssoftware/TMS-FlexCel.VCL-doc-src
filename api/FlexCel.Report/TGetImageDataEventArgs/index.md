@@ -25,9 +25,9 @@ Arguments passed on [TFlexCelReport.GetImageData](../TFlexCelReport/GetImageData
 |Name|Description|
 |---|---|
 |[DataFile](DataFile.md)|The file with the report data\.<br />|
-|[ImageName](ImageName.md)|The name of the image on the Excel sheet\. Use it to identify it\.<br />|
-|[ImageData](ImageData.md)|The data of the image\. You can modify it to return another image format\.<br />|
 |[Height](Height.md)|The height of the image in pixels\. Change it to resize the image\.<br />|
+|[ImageData](ImageData.md)|The data of the image\. You can modify it to return another image format\.<br />|
+|[ImageName](ImageName.md)|The name of the image on the Excel sheet\. Use it to identify it\.<br />|
 |[Width](Width.md)|The width of the image in pixels\. Change it to resize the image\.<br />|
 
 

@@ -3,7 +3,7 @@ uid: TTokenStructuredReference.Sections
 description: TTokenStructuredReference.Sections
 ---
 
-# TTokenStructuredReference.Sections Property
+# TTokenStructuredReference\.Sections Property
 
 The sections of the table where this reference applies\.
 

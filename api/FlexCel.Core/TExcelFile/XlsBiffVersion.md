@@ -3,7 +3,7 @@ uid: TExcelFile.XlsBiffVersion
 description: TExcelFile.XlsBiffVersion
 ---
 
-# TExcelFile.XlsBiffVersion Property
+# TExcelFile\.XlsBiffVersion Property
 
 Xls files created by Excel 2007 have additional records that allow the generated file to store characteristics not available in Excel 2003 or older\.
 \(Like for example True color for cells instead of 54 colors\)\. When opening an xls file created by Excel 2007 in Excel 2007, Excel will be able to read those values back\.

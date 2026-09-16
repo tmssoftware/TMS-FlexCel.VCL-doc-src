@@ -3,7 +3,7 @@ uid: TTokenLambdaParameterDefinition.IsOptional
 description: TTokenLambdaParameterDefinition.IsOptional
 ---
 
-# TTokenLambdaParameterDefinition.IsOptional Property
+# TTokenLambdaParameterDefinition\.IsOptional Property
 
 Returns true if the parameter is optional\.
 

@@ -3,7 +3,7 @@ uid: TFlexCelPreviewer.ThumbnailSmall
 description: TFlexCelPreviewer.ThumbnailSmall
 ---
 
-# TFlexCelPreviewer.ThumbnailSmall Property
+# TFlexCelPreviewer\.ThumbnailSmall Property
 
 When using this component on Thumbnail mode, set this property to another FlexCelPreview component that will hold the small Thumbnail images\.
 

@@ -24,16 +24,16 @@ Information about an Axis of categories\. \(normally the x axis\)
 
 |Name|Description|
 |---|---|
-|[Min](Min.md)|Minimum value for the axis, when not set to automatic in [AxisOptions](AxisOptions.md)\.<br />|
-|[Max](Max.md)|Maximum value for the axis, when not set to automatic in [AxisOptions](AxisOptions.md)\.<br />|
-|[MajorValue](MajorValue.md)|Value for the major unit, when not set to automatic in [AxisOptions](AxisOptions.md)\.<br />|
-|[MajorUnit](MajorUnit.md)|Units for the major unit, when not set to automatic in [AxisOptions](AxisOptions.md)\.<br />|
-|[MinorValue](MinorValue.md)|Value for the minor unit, when not set to automatic in [AxisOptions](AxisOptions.md)\.<br />|
-|[MinorUnit](MinorUnit.md)|Units for the minor unit, when not set to automatic in [AxisOptions](AxisOptions.md)\.<br />|
+|[AxisOptions](AxisOptions.md)|Enumerates which of the other options contain valid values or are automatic\.<br />|
 |[BaseUnit](BaseUnit.md)|Base units for the axis, when not set to automatic in [AxisOptions](AxisOptions.md)\.<br />|
 |[CrossValue](CrossValue.md)|Value where the other Axis will cross this one, when not set to automatic in [AxisOptions](AxisOptions.md)\.<br />|
 |[LabelOffset](LabelOffset.md)|Distance from the labels to the axis\. Defaults to 100\.<br />|
-|[AxisOptions](AxisOptions.md)|Enumerates which of the other options contain valid values or are automatic\.<br />|
+|[MajorUnit](MajorUnit.md)|Units for the major unit, when not set to automatic in [AxisOptions](AxisOptions.md)\.<br />|
+|[MajorValue](MajorValue.md)|Value for the major unit, when not set to automatic in [AxisOptions](AxisOptions.md)\.<br />|
+|[Max](Max.md)|Maximum value for the axis, when not set to automatic in [AxisOptions](AxisOptions.md)\.<br />|
+|[Min](Min.md)|Minimum value for the axis, when not set to automatic in [AxisOptions](AxisOptions.md)\.<br />|
+|[MinorUnit](MinorUnit.md)|Units for the minor unit, when not set to automatic in [AxisOptions](AxisOptions.md)\.<br />|
+|[MinorValue](MinorValue.md)|Value for the minor unit, when not set to automatic in [AxisOptions](AxisOptions.md)\.<br />|
 |[RangeOptions](RangeOptions.md)|Options for the range of this axis\.<br />|
 
 

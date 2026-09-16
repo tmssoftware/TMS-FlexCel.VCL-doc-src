@@ -3,7 +3,7 @@ uid: TTokenFunction.FunctionName
 description: TTokenFunction.FunctionName
 ---
 
-# TTokenFunction.FunctionName Property
+# TTokenFunction\.FunctionName Property
 
 Name of the function represented by this token\.
 

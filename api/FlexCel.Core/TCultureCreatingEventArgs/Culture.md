@@ -3,7 +3,7 @@ uid: TCultureCreatingEventArgs.Culture
 description: TCultureCreatingEventArgs.Culture
 ---
 
-# TCultureCreatingEventArgs.Culture Property
+# TCultureCreatingEventArgs\.Culture Property
 
 This is the culture that will be used for the language code\.
 This property is initialized with the culture FlexCel would set if no event was assigned\.

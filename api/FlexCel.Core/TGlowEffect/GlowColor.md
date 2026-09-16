@@ -3,7 +3,7 @@ uid: TGlowEffect.GlowColor
 description: TGlowEffect.GlowColor
 ---
 
-# TGlowEffect.GlowColor Property
+# TGlowEffect\.GlowColor Property
 
 Color for the glow\.
 

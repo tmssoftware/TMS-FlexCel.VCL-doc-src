@@ -3,7 +3,7 @@ uid: TClientAnchor.ChartCoords
 description: TClientAnchor.ChartCoords
 ---
 
-# TClientAnchor.ChartCoords Property
+# TClientAnchor\.ChartCoords Property
 
 If true, this object is inside a chart, and columns and rows range from 0 to 4000\.
 

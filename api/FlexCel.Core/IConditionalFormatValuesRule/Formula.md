@@ -3,7 +3,7 @@ uid: IConditionalFormatValuesRule.Formula
 description: IConditionalFormatValuesRule.Formula
 ---
 
-# IConditionalFormatValuesRule.Formula Property
+# IConditionalFormatValuesRule\.Formula Property
 
 The formula to be evaluated\. The conditional format will be displayed when it evaluates to true or a non zero value\.
 If the formula equals to 0 or false, the conditional format won't be shown\. Note that from Excel you can't set a formula, it will always be empty for databars, iconsets or colorscales\. But if you set a formula in the xlsx file, it will be  used by Excel and preserved when saved, even if Excel won't display it\.

@@ -19,10 +19,10 @@ A class with only the specific data needed, so it can be stored in a cache\.
 |Name|Description|
 |---|---|
 |[CurrentPage](CurrentPage.md)|Current page being printed\.<br />|
-|[CurrentSheet](CurrentSheet.md)|Current sheet being printed\.<br />|
 |[CurrentPageInSheet](CurrentPageInSheet.md)|The current page in the current sheet being printed\.<br />|
-|[PagePrintRange](PagePrintRange.md)|The range to print for this page\.<br />|
 |[CurrentPrintArea](CurrentPrintArea.md)|The area being printed\.<br />|
+|[CurrentSheet](CurrentSheet.md)|Current sheet being printed\.<br />|
+|[PagePrintRange](PagePrintRange.md)|The range to print for this page\.<br />|
 
 
 ## Methods

@@ -3,7 +3,7 @@ uid: TXmlMapDataBinding.FileBinding
 description: TXmlMapDataBinding.FileBinding
 ---
 
-# TXmlMapDataBinding.FileBinding Property
+# TXmlMapDataBinding\.FileBinding Property
 
 If true the binding must be recovered from a file and the path to the file is in the connection element\.
 

@@ -3,7 +3,7 @@ uid: TReportTag.StrDontInsertRanges
 description: TReportTag.StrDontInsertRanges
 ---
 
-# TReportTag.StrDontInsertRanges Property
+# TReportTag\.StrDontInsertRanges Property
 
 "FIXED"
 

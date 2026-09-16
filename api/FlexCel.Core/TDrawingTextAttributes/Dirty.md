@@ -3,7 +3,7 @@ uid: TDrawingTextAttributes.Dirty
 description: TDrawingTextAttributes.Dirty
 ---
 
-# TDrawingTextAttributes.Dirty Property
+# TDrawingTextAttributes\.Dirty Property
 
 Specifies that the content of a text run has changed since the proofing tools have last been run\.
 

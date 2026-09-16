@@ -3,7 +3,7 @@ uid: TWorkspace.CellStackTraceMaxSize
 description: TWorkspace.CellStackTraceMaxSize
 ---
 
-# TWorkspace.CellStackTraceMaxSize Property
+# TWorkspace\.CellStackTraceMaxSize Property
 
 Defines what is the maximum number of entries returned in the stack trace when calling [RecalcAndVerify](RecalcAndVerify.md)\.
 In order to keep the stack trace not too big, this number is limited, but if you need a bigger stack trace to see the full loop of cells, you can increase this number\.

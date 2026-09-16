@@ -3,7 +3,7 @@ uid: TPartialExportState.BodyCount
 description: TPartialExportState.BodyCount
 ---
 
-# TPartialExportState.BodyCount Property
+# TPartialExportState\.BodyCount Property
 
 Number of parts added to this object\.
 

@@ -3,7 +3,7 @@ uid: TDataLabelOptions.ShowCategories
 description: TDataLabelOptions.ShowCategories
 ---
 
-# TDataLabelOptions.ShowCategories Property
+# TDataLabelOptions\.ShowCategories Property
 
 If true and this label [DataType](DataType.md) is SeriesInfo, this label will display the Categories\.
 

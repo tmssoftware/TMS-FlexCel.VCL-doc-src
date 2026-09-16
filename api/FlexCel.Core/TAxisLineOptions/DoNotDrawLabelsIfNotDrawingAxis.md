@@ -3,7 +3,7 @@ uid: TAxisLineOptions.DoNotDrawLabelsIfNotDrawingAxis
 description: TAxisLineOptions.DoNotDrawLabelsIfNotDrawingAxis
 ---
 
-# TAxisLineOptions.DoNotDrawLabelsIfNotDrawingAxis Property
+# TAxisLineOptions\.DoNotDrawLabelsIfNotDrawingAxis Property
 
 If true and the line format is none, the axis labels will not be drawn\.
 

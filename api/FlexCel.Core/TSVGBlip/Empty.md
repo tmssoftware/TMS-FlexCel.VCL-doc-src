@@ -3,7 +3,7 @@ uid: TSVGBlip.Empty
 description: TSVGBlip.Empty
 ---
 
-# TSVGBlip.Empty Property
+# TSVGBlip\.Empty Property
 
 returns an empty TSVGBlip\.
 

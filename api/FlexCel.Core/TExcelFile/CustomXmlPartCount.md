@@ -3,7 +3,7 @@ uid: TExcelFile.CustomXmlPartCount
 description: TExcelFile.CustomXmlPartCount
 ---
 
-# TExcelFile.CustomXmlPartCount Property
+# TExcelFile\.CustomXmlPartCount Property
 
 Returns the number of custom xml parts in the active document\.
 

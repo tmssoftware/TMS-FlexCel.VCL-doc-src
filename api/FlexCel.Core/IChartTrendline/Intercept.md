@@ -3,7 +3,7 @@ uid: IChartTrendline.Intercept
 description: IChartTrendline.Intercept
 ---
 
-# IChartTrendline.Intercept Property
+# IChartTrendline\.Intercept Property
 
 This property sets where the trendline crosses the x\-axis\. If null, the crossing point will be automatically calculated\.
 Only applies for see cref="TrendlineType"/> of [TChartTrendlineType.Exponential](../TChartTrendlineType.md), [TChartTrendlineType.Linear](../TChartTrendlineType.md) or [TChartTrendlineType.Polynomial](../TChartTrendlineType.md)

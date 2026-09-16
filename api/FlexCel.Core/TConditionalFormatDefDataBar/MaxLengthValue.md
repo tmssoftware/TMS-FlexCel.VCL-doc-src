@@ -3,7 +3,7 @@ uid: TConditionalFormatDefDataBar.MaxLengthValue
 description: TConditionalFormatDefDataBar.MaxLengthValue
 ---
 
-# TConditionalFormatDefDataBar.MaxLengthValue Property
+# TConditionalFormatDefDataBar\.MaxLengthValue Property
 
 A condition that specifies the value that corresponds with the maximum length of the databar\.
 

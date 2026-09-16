@@ -25,9 +25,9 @@ Definitions of the elements in a theme \(colors, fonts, formats\)\. This is the 
 
 |Name|Description|
 |---|---|
-|[IsStandard2007](IsStandard2007.md)|Returns true if the elements in this theme are the default ones in Office 2007\.<br />|
 |[ColorScheme](ColorScheme.md)|Color Scheme in the theme\.<br />|
 |[FontScheme](FontScheme.md)|Font Scheme in the theme\.<br />|
 |[FormatScheme](FormatScheme.md)|Format Scheme \(Effects\)\. This won't affect cells in the spreadsheet, but can affect drawings\.<br />|
+|[IsStandard2007](IsStandard2007.md)|Returns true if the elements in this theme are the default ones in Office 2007\.<br />|
 
 

@@ -3,7 +3,7 @@ uid: TFlexCelPrintDocument.Workbook
 description: TFlexCelPrintDocument.Workbook
 ---
 
-# TFlexCelPrintDocument.Workbook Property
+# TFlexCelPrintDocument\.Workbook Property
 
 The ExcelFile to print\.
 

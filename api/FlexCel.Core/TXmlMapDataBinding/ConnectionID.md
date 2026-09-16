@@ -3,7 +3,7 @@ uid: TXmlMapDataBinding.ConnectionID
 description: TXmlMapDataBinding.ConnectionID
 ---
 
-# TXmlMapDataBinding.ConnectionID Property
+# TXmlMapDataBinding\.ConnectionID Property
 
 Connection id for an external connection\. Must exist if [FileBinding](FileBinding.md) is true\.
 

@@ -3,7 +3,7 @@ uid: TDataConnectionTextImportProperties.TextFields
 description: TDataConnectionTextImportProperties.TextFields
 ---
 
-# TDataConnectionTextImportProperties.TextFields Property
+# TDataConnectionTextImportProperties\.TextFields Property
 
 Field definitions\. This property is never null, and by modifying it you modify the parent TextImportProperties too\.
 

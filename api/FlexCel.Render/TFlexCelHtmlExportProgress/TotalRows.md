@@ -3,7 +3,7 @@ uid: TFlexCelHtmlExportProgress.TotalRows
 description: TFlexCelHtmlExportProgress.TotalRows
 ---
 
-# TFlexCelHtmlExportProgress.TotalRows Property
+# TFlexCelHtmlExportProgress\.TotalRows Property
 
 The total number of rows exporting\.
 

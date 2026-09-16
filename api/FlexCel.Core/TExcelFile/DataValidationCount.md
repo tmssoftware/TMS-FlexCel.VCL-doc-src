@@ -3,7 +3,7 @@ uid: TExcelFile.DataValidationCount
 description: TExcelFile.DataValidationCount
 ---
 
-# TExcelFile.DataValidationCount Property
+# TExcelFile\.DataValidationCount Property
 
 Returns the number of DataValidation structures in the active sheet\.
 There are 2 ways you can access the data validation information on a sheet:

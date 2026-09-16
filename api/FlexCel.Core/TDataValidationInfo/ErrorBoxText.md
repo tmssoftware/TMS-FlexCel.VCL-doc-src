@@ -3,7 +3,7 @@ uid: TDataValidationInfo.ErrorBoxText
 description: TDataValidationInfo.ErrorBoxText
 ---
 
-# TDataValidationInfo.ErrorBoxText Property
+# TDataValidationInfo\.ErrorBoxText Property
 
 Text on the Error Alert box\. Note that this text cannot be longer than 225 characters\.
 Extra characters will be truncated\. If this parameter is null, the default Error alert will be displayed\.

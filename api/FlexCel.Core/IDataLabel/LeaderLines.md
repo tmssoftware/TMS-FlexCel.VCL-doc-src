@@ -3,7 +3,7 @@ uid: IDataLabel.LeaderLines
 description: IDataLabel.LeaderLines
 ---
 
-# IDataLabel.LeaderLines Property
+# IDataLabel\.LeaderLines Property
 
 True if there are lines from the slices to the labels\. This value only has effect in the default label for the series, since you can't individually set leader lines\.
 

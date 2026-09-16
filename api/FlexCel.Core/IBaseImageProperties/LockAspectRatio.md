@@ -3,7 +3,7 @@ uid: IBaseImageProperties.LockAspectRatio
 description: IBaseImageProperties.LockAspectRatio
 ---
 
-# IBaseImageProperties.LockAspectRatio Property
+# IBaseImageProperties\.LockAspectRatio Property
 
 Specifies whether the aspect ratio of a shape is locked from being edited\.
 

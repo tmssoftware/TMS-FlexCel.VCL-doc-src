@@ -3,7 +3,7 @@ uid: TFlexCelPrintDocument.BeforeNewPage
 description: TFlexCelPrintDocument.BeforeNewPage
 ---
 
-# TFlexCelPrintDocument.BeforeNewPage Event
+# TFlexCelPrintDocument\.BeforeNewPage Event
 
 Fires before each new page is printed\.
 You can use this event to change the pagesize for the new sheet\.

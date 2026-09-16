@@ -3,7 +3,7 @@ uid: TSheetSelector.Links
 description: TSheetSelector.Links
 ---
 
-# TSheetSelector.Links Property
+# TSheetSelector\.Links Property
 
 A list of links that should go in the sheet selector, one per tab\. Use them when creating your own sheet selector to know where to point the link in the tabs to\.
 

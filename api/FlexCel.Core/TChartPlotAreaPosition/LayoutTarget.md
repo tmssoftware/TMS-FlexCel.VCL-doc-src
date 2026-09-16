@@ -3,7 +3,7 @@ uid: TChartPlotAreaPosition.LayoutTarget
 description: TChartPlotAreaPosition.LayoutTarget
 ---
 
-# TChartPlotAreaPosition.LayoutTarget Property
+# TChartPlotAreaPosition\.LayoutTarget Property
 
 What the [Rectangle](Rectangle.md) means\.
 

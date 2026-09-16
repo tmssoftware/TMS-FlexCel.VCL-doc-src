@@ -3,7 +3,7 @@ uid: TFlexCelReport.BeforeReadTemplate
 description: TFlexCelReport.BeforeReadTemplate
 ---
 
-# TFlexCelReport.BeforeReadTemplate Event
+# TFlexCelReport\.BeforeReadTemplate Event
 
 Fires before starting to generate the report and before the template has been loaded\.
 It allows you to provide the template password if you are using one\.
@@ -13,7 +13,7 @@ It allows you to provide the template password if you are using one\.
 
 **Unit:** [FlexCel.Report](../index.md)
 
-<pre><code class="lang-delphi hljs">property <a href="../TFlexCelReport/index.md">TFlexCelReport</a>.BeforeReadTemplate: TGenerateEventHandler</code></pre>
+<pre><code class="lang-delphi hljs">property <a href="../TFlexCelReport/index.md">TFlexCelReport</a>.BeforeReadTemplate: <a href="../TGenerateEventHandler.md">TGenerateEventHandler</a></code></pre>
 
 ## See also
 

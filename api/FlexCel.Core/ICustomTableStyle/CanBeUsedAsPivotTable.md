@@ -3,7 +3,7 @@ uid: ICustomTableStyle.CanBeUsedAsPivotTable
 description: ICustomTableStyle.CanBeUsedAsPivotTable
 ---
 
-# ICustomTableStyle.CanBeUsedAsPivotTable Property
+# ICustomTableStyle\.CanBeUsedAsPivotTable Property
 
 If true, then this table style can be used in pivot tables\.
 

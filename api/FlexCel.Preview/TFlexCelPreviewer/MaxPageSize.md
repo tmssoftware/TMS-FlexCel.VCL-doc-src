@@ -3,7 +3,7 @@ uid: TFlexCelPreviewer.MaxPageSize
 description: TFlexCelPreviewer.MaxPageSize
 ---
 
-# TFlexCelPreviewer.MaxPageSize Property
+# TFlexCelPreviewer\.MaxPageSize Property
 
 Returns the maximum height and width of a page\. Note that width and height might not be from the same page, this is the width of the widest page and the height of the tallest page\.
 

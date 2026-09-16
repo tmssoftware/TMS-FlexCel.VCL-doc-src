@@ -3,7 +3,7 @@ uid: TValueAxis.Min
 description: TValueAxis.Min
 ---
 
-# TValueAxis.Min Property
+# TValueAxis\.Min Property
 
 Minimum value for the axis, when not set to automatic in [AxisOptions](AxisOptions.md)\.
 

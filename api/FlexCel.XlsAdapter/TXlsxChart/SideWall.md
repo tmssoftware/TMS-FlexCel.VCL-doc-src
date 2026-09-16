@@ -3,7 +3,7 @@ uid: TXlsxChart.SideWall
 description: TXlsxChart.SideWall
 ---
 
-# TXlsxChart.SideWall Property
+# TXlsxChart\.SideWall Property
 
 The wall next to the y\-axis in a 3D\-chart\.
 

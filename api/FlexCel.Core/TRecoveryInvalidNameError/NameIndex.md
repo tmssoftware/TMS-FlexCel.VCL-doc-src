@@ -3,7 +3,7 @@ uid: TRecoveryInvalidNameError.NameIndex
 description: TRecoveryInvalidNameError.NameIndex
 ---
 
-# TRecoveryInvalidNameError.NameIndex Property
+# TRecoveryInvalidNameError\.NameIndex Property
 
 Position of the invalid named range in the name table\.
 

@@ -3,7 +3,7 @@ uid: TConditionalFormatDefDataBar.MaxBarWidth
 description: TConditionalFormatDefDataBar.MaxBarWidth
 ---
 
-# TConditionalFormatDefDataBar.MaxBarWidth Property
+# TConditionalFormatDefDataBar\.MaxBarWidth Property
 
 The maximum length of the data bar, as a percentage of the cell width\.
 

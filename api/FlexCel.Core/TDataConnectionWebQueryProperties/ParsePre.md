@@ -3,7 +3,7 @@ uid: TDataConnectionWebQueryProperties.ParsePre
 description: TDataConnectionWebQueryProperties.ParsePre
 ---
 
-# TDataConnectionWebQueryProperties.ParsePre Property
+# TDataConnectionWebQueryProperties\.ParsePre Property
 
 Flag indicating whether data contained within HTML \<PRE> tags in the web page is parsed into columns when you import the page into a query table\.
 

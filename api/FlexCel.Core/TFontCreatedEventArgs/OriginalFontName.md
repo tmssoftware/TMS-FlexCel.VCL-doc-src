@@ -3,7 +3,7 @@ uid: TFontCreatedEventArgs.OriginalFontName
 description: TFontCreatedEventArgs.OriginalFontName
 ---
 
-# TFontCreatedEventArgs.OriginalFontName Property
+# TFontCreatedEventArgs\.OriginalFontName Property
 
 Name of the font we were trying to create\. This property is readonly, to change it change [TFontCreationEventArgs.FontName](../TFontCreationEventArgs/FontName.md) instead\.
 

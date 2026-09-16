@@ -3,7 +3,7 @@ uid: IChartLegend.Frame
 description: IChartLegend.Frame
 ---
 
-# IChartLegend.Frame Property
+# IChartLegend\.Frame Property
 
 Line and fill style options for the frame\.
 

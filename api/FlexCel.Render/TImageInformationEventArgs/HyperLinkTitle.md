@@ -3,7 +3,7 @@ uid: TImageInformationEventArgs.HyperLinkTitle
 description: TImageInformationEventArgs.HyperLinkTitle
 ---
 
-# TImageInformationEventArgs.HyperLinkTitle Property
+# TImageInformationEventArgs\.HyperLinkTitle Property
 
 Hyperlink title if the image has an hyperlink\.
 

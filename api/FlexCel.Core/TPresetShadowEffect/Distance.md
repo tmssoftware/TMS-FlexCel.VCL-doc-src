@@ -3,7 +3,7 @@ uid: TPresetShadowEffect.Distance
 description: TPresetShadowEffect.Distance
 ---
 
-# TPresetShadowEffect.Distance Property
+# TPresetShadowEffect\.Distance Property
 
 Distance of the shadow\.
 

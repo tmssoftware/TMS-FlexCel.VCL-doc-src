@@ -3,7 +3,7 @@ uid: TReportValue.Value
 description: TReportValue.Value
 ---
 
-# TReportValue.Value Property
+# TReportValue\.Value Property
 
 Value for the report, when it contains a TCellValue\. If the record doesn't contain a TCellValue, this property will be TCellValue\.Empty
 

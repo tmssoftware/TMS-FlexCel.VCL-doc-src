@@ -3,7 +3,7 @@ uid: IDataLabel.LinkedTo
 description: IDataLabel.LinkedTo
 ---
 
-# IDataLabel.LinkedTo Property
+# IDataLabel\.LinkedTo Property
 
 Defines to which object this label is linked\.
 

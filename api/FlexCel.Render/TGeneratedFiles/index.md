@@ -18,9 +18,9 @@ An object containing all the files generated in the export\.
 
 |Name|Description|
 |---|---|
+|[Clear](Clear.md)|Clears all the files in the object\.<br />|
+|[GetCssFiles](GetCssFiles.md)|Name of the css files generated\.<br />|
 |[GetHtmlFiles](GetHtmlFiles.md)|Name of the html files generated\.<br />|
 |[GetImageFiles](GetImageFiles.md)|Name of the image files generated\.<br />|
-|[GetCssFiles](GetCssFiles.md)|Name of the css files generated\.<br />|
-|[Clear](Clear.md)|Clears all the files in the object\.<br />|
 
 

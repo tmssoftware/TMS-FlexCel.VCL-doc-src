@@ -3,7 +3,7 @@ uid: TDrawingParagraphProperties.Rtl
 description: TDrawingParagraphProperties.Rtl
 ---
 
-# TDrawingParagraphProperties.Rtl Property
+# TDrawingParagraphProperties\.Rtl Property
 
 Specifies whether the text is right\-to\-left or left\-to\-right in its flow direction\. If null, the value is not known\.
 

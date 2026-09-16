@@ -3,7 +3,7 @@ uid: IImgExportInfo.CurrentSheet
 description: IImgExportInfo.CurrentSheet
 ---
 
-# IImgExportInfo.CurrentSheet Property
+# IImgExportInfo\.CurrentSheet Property
 
 Sheet that is being printed\.
 

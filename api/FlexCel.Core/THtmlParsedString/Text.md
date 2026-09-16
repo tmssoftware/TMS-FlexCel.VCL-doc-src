@@ -3,7 +3,7 @@ uid: THtmlParsedString.Text
 description: THtmlParsedString.Text
 ---
 
-# THtmlParsedString.Text Property
+# THtmlParsedString\.Text Property
 
 The parsed html text\.
 

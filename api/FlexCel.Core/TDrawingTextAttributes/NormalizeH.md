@@ -3,7 +3,7 @@ uid: TDrawingTextAttributes.NormalizeH
 description: TDrawingTextAttributes.NormalizeH
 ---
 
-# TDrawingTextAttributes.NormalizeH Property
+# TDrawingTextAttributes\.NormalizeH Property
 
 Specifies the normalization of height that is to be applied to the text run\. This is a render\- only modification and does not affect the actual characters stored in the text run\. This  attribute is also distinct from the toggle function where the actual characters stored in  the text run are changed\. A null value means to use the parent's settings\.
 

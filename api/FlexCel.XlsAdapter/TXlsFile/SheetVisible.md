@@ -3,7 +3,7 @@ uid: TXlsFile.SheetVisible
 description: TXlsFile.SheetVisible
 ---
 
-# TXlsFile.SheetVisible Property
+# TXlsFile\.SheetVisible Property
 
 Sets the visibility of the active sheet\.
 

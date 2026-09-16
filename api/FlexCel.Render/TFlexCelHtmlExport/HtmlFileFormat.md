@@ -3,7 +3,7 @@ uid: TFlexCelHtmlExport.HtmlFileFormat
 description: TFlexCelHtmlExport.HtmlFileFormat
 ---
 
-# TFlexCelHtmlExport.HtmlFileFormat Property
+# TFlexCelHtmlExport\.HtmlFileFormat Property
 
 Format of the HTML file to be generated\.
 

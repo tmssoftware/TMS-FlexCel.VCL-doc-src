@@ -18,7 +18,7 @@ This class encapsulates what we need to support encryption routines\. You can de
 
 |Name|Description|
 |---|---|
-|[GetX509Certificate](GetX509Certificate.md)|Loads a X509Certificate from a pfx byte array\. You need to destroy the class returned by this method once you are done using it\.<br />|
 |[GetSigner](GetSigner.md)|Returns the signer needed to sign a pdf file\. **If not assigned to a SignerFactory**, you need to destroy the class returned by this method once you are done using it\.<br /><br />When you assign it to a [TPdfSignerFactory](../../FlexCel.Pdf/TPdfSignerFactory/index.md), then the signed factory will take ownership of the signer\.<br />|
+|[GetX509Certificate](GetX509Certificate.md)|Loads a X509Certificate from a pfx byte array\. You need to destroy the class returned by this method once you are done using it\.<br />|
 
 

@@ -3,7 +3,7 @@ uid: TRichString.Length
 description: TRichString.Length
 ---
 
-# TRichString.Length Property
+# TRichString\.Length Property
 
 Length of the RichString\.
 

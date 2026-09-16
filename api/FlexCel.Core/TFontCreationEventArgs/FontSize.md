@@ -3,7 +3,7 @@ uid: TFontCreationEventArgs.FontSize
 description: TFontCreationEventArgs.FontSize
 ---
 
-# TFontCreationEventArgs.FontSize Property
+# TFontCreationEventArgs\.FontSize Property
 
 Size in points of the font\. Change this value to create a font with a different size\.
 

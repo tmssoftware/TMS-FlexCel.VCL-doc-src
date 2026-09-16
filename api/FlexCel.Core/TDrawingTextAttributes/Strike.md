@@ -3,7 +3,7 @@ uid: TDrawingTextAttributes.Strike
 description: TDrawingTextAttributes.Strike
 ---
 
-# TDrawingTextAttributes.Strike Property
+# TDrawingTextAttributes\.Strike Property
 
 Specifies whether a run of text is formatted as strikethrough text\. A null value means to use the parent's settings\.
 

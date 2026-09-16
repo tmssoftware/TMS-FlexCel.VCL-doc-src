@@ -3,7 +3,7 @@ uid: TImgPaintEventArgs.CurrentPage
 description: TImgPaintEventArgs.CurrentPage
 ---
 
-# TImgPaintEventArgs.CurrentPage Property
+# TImgPaintEventArgs\.CurrentPage Property
 
 Gets the current page number\.
 

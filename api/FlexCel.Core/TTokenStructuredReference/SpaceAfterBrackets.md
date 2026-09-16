@@ -3,7 +3,7 @@ uid: TTokenStructuredReference.SpaceAfterBrackets
 description: TTokenStructuredReference.SpaceAfterBrackets
 ---
 
-# TTokenStructuredReference.SpaceAfterBrackets Property
+# TTokenStructuredReference\.SpaceAfterBrackets Property
 
 If true, the text of the structure reference will include a space after the brackets which define the arguments\.
 

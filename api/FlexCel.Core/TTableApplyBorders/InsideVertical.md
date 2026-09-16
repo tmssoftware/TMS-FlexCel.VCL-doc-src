@@ -3,7 +3,7 @@ uid: TTableApplyBorders.InsideVertical
 description: TTableApplyBorders.InsideVertical
 ---
 
-# TTableApplyBorders.InsideVertical Property
+# TTableApplyBorders\.InsideVertical Property
 
 Vertical borders inside the section of the table\. Does not apply to the borders in the exterior of the section\.
 

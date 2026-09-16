@@ -3,7 +3,7 @@ uid: IShapeProperties.EndShapeConnection
 description: IShapeProperties.EndShapeConnection
 ---
 
-# IShapeProperties.EndShapeConnection Property
+# IShapeProperties\.EndShapeConnection Property
 
 This property only applies to connector shapes\. It identifies the second shape where the connector is attached to\.
 

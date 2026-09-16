@@ -3,7 +3,7 @@ uid: IDataLabel.EnclosingRectRotation
 description: IDataLabel.EnclosingRectRotation
 ---
 
-# IDataLabel.EnclosingRectRotation Property
+# IDataLabel\.EnclosingRectRotation Property
 
 The calculated angle in degrees to rotate [EnclosingRect](EnclosingRect.md)\. The default value is empty unless you manually set it\.
 

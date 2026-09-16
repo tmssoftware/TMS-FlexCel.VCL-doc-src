@@ -3,7 +3,7 @@ uid: TUIRectangle.Location
 description: TUIRectangle.Location
 ---
 
-# TUIRectangle.Location Property
+# TUIRectangle\.Location Property
 
 Returns a TPointF with the Left and Top coordinates of the rectangle\.
 

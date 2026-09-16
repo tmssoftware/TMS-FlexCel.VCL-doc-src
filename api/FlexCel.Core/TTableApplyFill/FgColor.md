@@ -3,7 +3,7 @@ uid: TTableApplyFill.FgColor
 description: TTableApplyFill.FgColor
 ---
 
-# TTableApplyFill.FgColor Property
+# TTableApplyFill\.FgColor Property
 
 Color for the foreground of the pattern\.
 

@@ -3,7 +3,7 @@ uid: TExcelFile.SheetCountVisible
 description: TExcelFile.SheetCountVisible
 ---
 
-# TExcelFile.SheetCountVisible Property
+# TExcelFile\.SheetCountVisible Property
 
 Number of visible sheets in the file\.
 

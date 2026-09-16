@@ -3,7 +3,7 @@ uid: TDataValidationInfo.ShowInputBox
 description: TDataValidationInfo.ShowInputBox
 ---
 
-# TDataValidationInfo.ShowInputBox Property
+# TDataValidationInfo\.ShowInputBox Property
 
 If true, a box showing a message will be shown when the user selecte the cell\.
 

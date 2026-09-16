@@ -3,7 +3,7 @@ uid: TFlxApplyFormat.Indent
 description: TFlxApplyFormat.Indent
 ---
 
-# TFlxApplyFormat.Indent Property
+# TFlxApplyFormat\.Indent Property
 
 Indent value\. \(on characters\)
 

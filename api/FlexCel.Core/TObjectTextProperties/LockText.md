@@ -3,7 +3,7 @@ uid: TObjectTextProperties.LockText
 description: TObjectTextProperties.LockText
 ---
 
-# TObjectTextProperties.LockText Property
+# TObjectTextProperties\.LockText Property
 
 Specifies if the text of the object is locked\.
 

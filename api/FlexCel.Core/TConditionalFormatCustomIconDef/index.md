@@ -18,15 +18,15 @@ This structure holds a single icon from a specific icon set\.
 
 |Name|Description|
 |---|---|
-|[Create](Create.md)|Creates a new structure with the given iconset and number\.<br />|
 |[CompareTo](CompareTo.md)|Compares this object with another one\.<br />|
+|[Create](Create.md)|Creates a new structure with the given iconset and number\.<br />|
 
 
 ## Properties
 
 |Name|Description|
 |---|---|
-|[IconSet](IconSet.md)|Icon set where to get the icon\.<br />|
 |[IconNumber](IconNumber.md)|Icon position in the set \(0 based\)\.<br />|
+|[IconSet](IconSet.md)|Icon set where to get the icon\.<br />|
 
 

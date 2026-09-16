@@ -3,7 +3,7 @@ uid: TXlsFile.ActiveSheetForActiveWindow
 description: TXlsFile.ActiveSheetForActiveWindow
 ---
 
-# TXlsFile.ActiveSheetForActiveWindow Property
+# TXlsFile\.ActiveSheetForActiveWindow Property
 
 Gets or sets the active sheet for the [TExcelFile.ActiveWindow](../../FlexCel.Core/TExcelFile/ActiveWindow.md)\. Note that this won't change the active sheet for FlexCel when you enter a value, you still need to call [TExcelFile.ActiveSheet](../../FlexCel.Core/TExcelFile/ActiveSheet.md) for that\.
 This property will only change the sheet that is active in that window when you open the file in Excel\.

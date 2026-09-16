@@ -3,9 +3,9 @@ uid: TFlexCelPdfExport.PdfVersion
 description: TFlexCelPdfExport.PdfVersion
 ---
 
-# TFlexCelPdfExport.PdfVersion Property
+# TFlexCelPdfExport\.PdfVersion Property
 
-Defines the version of pdf being created\. For maximum compatibility you can choose PDF 1\.4\. \(Acrobat 5\.0, but can be opened by any version of Acrobat, even if version less than 1\.4 won't have all the features\)\.
+Defines the version of PDF being created\. For maximum compatibility you can choose PDF 1\.4\. \(Acrobat 5\.0, but can be opened by any version of Acrobat, even if version less than 1\.4 won't have all the features\)\.
 Choosing PDF 1\.6 \(Acrobat 7\) allows for more compression and smaller files, but you'll need Acrobat 7 or newer  to see the files\. Older versions won't be able to open it at all\.
 
 

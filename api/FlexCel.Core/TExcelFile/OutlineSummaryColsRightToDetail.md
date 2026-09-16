@@ -3,7 +3,7 @@ uid: TExcelFile.OutlineSummaryColsRightToDetail
 description: TExcelFile.OutlineSummaryColsRightToDetail
 ---
 
-# TExcelFile.OutlineSummaryColsRightToDetail Property
+# TExcelFile\.OutlineSummaryColsRightToDetail Property
 
 Determines whether the summary columns should be right to or left to the details on outline\.
 

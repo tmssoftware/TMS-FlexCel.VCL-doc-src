@@ -3,7 +3,7 @@ uid: TDrawingTextAttributes.NoProof
 description: TDrawingTextAttributes.NoProof
 ---
 
-# TDrawingTextAttributes.NoProof Property
+# TDrawingTextAttributes\.NoProof Property
 
 Specifies that a run of text has been selected by the user to not be checked for mistakes\. A null value means to use the parent's settings\.
 

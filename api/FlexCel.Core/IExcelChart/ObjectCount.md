@@ -3,7 +3,7 @@ uid: IExcelChart.ObjectCount
 description: IExcelChart.ObjectCount
 ---
 
-# IExcelChart.ObjectCount Property
+# IExcelChart\.ObjectCount Property
 
 The number of objects that are embedded inside this chart\.
 

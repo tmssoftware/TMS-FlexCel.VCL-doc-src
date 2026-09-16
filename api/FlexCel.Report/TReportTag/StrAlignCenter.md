@@ -3,7 +3,7 @@ uid: TReportTag.StrAlignCenter
 description: TReportTag.StrAlignCenter
 ---
 
-# TReportTag.StrAlignCenter Property
+# TReportTag\.StrAlignCenter Property
 
 "Center"
 

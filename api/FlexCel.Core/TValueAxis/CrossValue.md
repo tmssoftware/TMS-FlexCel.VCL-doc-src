@@ -3,7 +3,7 @@ uid: TValueAxis.CrossValue
 description: TValueAxis.CrossValue
 ---
 
-# TValueAxis.CrossValue Property
+# TValueAxis\.CrossValue Property
 
 Value where the other Axis will cross this one, when not set to automatic in [AxisOptions](AxisOptions.md)\.
 

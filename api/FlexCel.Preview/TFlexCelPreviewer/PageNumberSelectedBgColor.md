@@ -3,7 +3,7 @@ uid: TFlexCelPreviewer.PageNumberSelectedBgColor
 description: TFlexCelPreviewer.PageNumberSelectedBgColor
 ---
 
-# TFlexCelPreviewer.PageNumberSelectedBgColor Property
+# TFlexCelPreviewer\.PageNumberSelectedBgColor Property
 
 Background color for the selected page number in the thumbnail view\.
 

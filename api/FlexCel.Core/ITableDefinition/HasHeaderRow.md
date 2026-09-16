@@ -3,7 +3,7 @@ uid: ITableDefinition.HasHeaderRow
 description: ITableDefinition.HasHeaderRow
 ---
 
-# ITableDefinition.HasHeaderRow Property
+# ITableDefinition\.HasHeaderRow Property
 
 If true the table has a header row\.
 

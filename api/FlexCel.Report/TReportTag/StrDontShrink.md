@@ -3,7 +3,7 @@ uid: TReportTag.StrDontShrink
 description: TReportTag.StrDontShrink
 ---
 
-# TReportTag.StrDontShrink Property
+# TReportTag\.StrDontShrink Property
 
 "DontShrink"
 

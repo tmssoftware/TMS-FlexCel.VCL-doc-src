@@ -3,7 +3,7 @@ uid: TAxisLineOptions.MajorGridLines
 description: TAxisLineOptions.MajorGridLines
 ---
 
-# TAxisLineOptions.MajorGridLines Property
+# TAxisLineOptions\.MajorGridLines Property
 
 Line options for the major gridlines along the axis\.
 

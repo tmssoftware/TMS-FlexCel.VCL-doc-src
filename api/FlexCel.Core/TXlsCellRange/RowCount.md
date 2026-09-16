@@ -3,7 +3,7 @@ uid: TXlsCellRange.RowCount
 description: TXlsCellRange.RowCount
 ---
 
-# TXlsCellRange.RowCount Property
+# TXlsCellRange\.RowCount Property
 
 Number of rows on the range\.
 

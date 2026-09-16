@@ -3,7 +3,7 @@ uid: TConditionalFormatDefIconSet.IconSet
 description: TConditionalFormatDefIconSet.IconSet
 ---
 
-# TConditionalFormatDefIconSet.IconSet Property
+# TConditionalFormatDefIconSet\.IconSet Property
 
 The set of icons used in the conditional format\.
 

@@ -3,7 +3,7 @@ uid: TXlsFile.PrintNumberOfVerticalPages
 description: TXlsFile.PrintNumberOfVerticalPages
 ---
 
-# TXlsFile.PrintNumberOfVerticalPages Property
+# TXlsFile\.PrintNumberOfVerticalPages Property
 
 If set, the sheet will be printed on at most this number of vertical pages\. Use 0 to have unlimited vertical pages while still limiting the horizontal pages with [TExcelFile.PrintNumberOfHorizontalPages](../../FlexCel.Core/TExcelFile/PrintNumberOfHorizontalPages.md)\. \(see ['Preparing for printing' in the Api Developer Guide](xref:ApiDeveloperGuide#preparing-for-printing)\)
 

@@ -3,7 +3,7 @@ uid: TFontEmbedEventArgs.InputFont
 description: TFontEmbedEventArgs.InputFont
 ---
 
-# TFontEmbedEventArgs.InputFont Property
+# TFontEmbedEventArgs\.InputFont Property
 
 The font for which you need to return the data\.
 

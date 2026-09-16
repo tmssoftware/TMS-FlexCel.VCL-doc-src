@@ -3,7 +3,7 @@ uid: TFlexCelReport.DeleteEmptyRanges
 description: TFlexCelReport.DeleteEmptyRanges
 ---
 
-# TFlexCelReport.DeleteEmptyRanges Property
+# TFlexCelReport\.DeleteEmptyRanges Property
 
 This property is obsolete\. Use DeleteEmptyBands instead\. Determines if FlexCel will delete or just clear ranges with empty datasets \(0 records\)\.
 

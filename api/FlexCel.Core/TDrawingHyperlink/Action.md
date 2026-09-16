@@ -3,7 +3,7 @@ uid: TDrawingHyperlink.Action
 description: TDrawingHyperlink.Action
 ---
 
-# TDrawingHyperlink.Action Property
+# TDrawingHyperlink\.Action Property
 
 Specifies an action that is to be taken when this hyperlink is activated\. This can be used to specify a slide to be navigated to or a script of code to be run\. Doesn't seem to be used in Excel\.
 

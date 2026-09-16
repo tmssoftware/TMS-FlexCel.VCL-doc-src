@@ -3,7 +3,7 @@ uid: TStandardSheetSelector.CssWhenRight
 description: TStandardSheetSelector.CssWhenRight
 ---
 
-# TStandardSheetSelector.CssWhenRight Property
+# TStandardSheetSelector\.CssWhenRight Property
 
 Specific style to be applied to the selector when it goes at the right\. This style will override the style you specify with [CssGeneral](CssGeneral.md)
 

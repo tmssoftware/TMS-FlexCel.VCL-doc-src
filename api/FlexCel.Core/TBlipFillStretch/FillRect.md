@@ -3,7 +3,7 @@ uid: TBlipFillStretch.FillRect
 description: TBlipFillStretch.FillRect
 ---
 
-# TBlipFillStretch.FillRect Property
+# TBlipFillStretch\.FillRect Property
 
 Rectangle where the picture will be stretched\.
 

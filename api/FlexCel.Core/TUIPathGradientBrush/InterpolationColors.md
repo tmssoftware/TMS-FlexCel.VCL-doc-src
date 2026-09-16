@@ -3,7 +3,7 @@ uid: TUIPathGradientBrush.InterpolationColors
 description: TUIPathGradientBrush.InterpolationColors
 ---
 
-# TUIPathGradientBrush.InterpolationColors Property
+# TUIPathGradientBrush\.InterpolationColors Property
 
 Colors that define the gradient\.
 

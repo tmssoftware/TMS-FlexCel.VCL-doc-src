@@ -3,7 +3,7 @@ uid: TFlexCelPrintDocument.PrintRangeLeft
 description: TFlexCelPrintDocument.PrintRangeLeft
 ---
 
-# TFlexCelPrintDocument.PrintRangeLeft Property
+# TFlexCelPrintDocument\.PrintRangeLeft Property
 
 First column to print \(1 based\)\. if this or any other PrintRange property is 0, the range will be automatically calculated\.
 

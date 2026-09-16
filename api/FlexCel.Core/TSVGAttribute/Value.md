@@ -3,7 +3,7 @@ uid: TSVGAttribute.Value
 description: TSVGAttribute.Value
 ---
 
-# TSVGAttribute.Value Property
+# TSVGAttribute\.Value Property
 
 Value of the SVG attribute\.
 

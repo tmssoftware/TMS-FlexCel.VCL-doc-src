@@ -3,7 +3,7 @@ uid: IObjectProperties.InvertedFill
 description: IObjectProperties.InvertedFill
 ---
 
-# IObjectProperties.InvertedFill Property
+# IObjectProperties\.InvertedFill Property
 
 Fill style used to fill the background of bars in bar charts when the value is negative and "invert negative colors" is true\.
 

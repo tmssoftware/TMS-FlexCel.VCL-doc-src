@@ -3,7 +3,7 @@ uid: THtmlFontEventArgs.Workbook
 description: THtmlFontEventArgs.Workbook
 ---
 
-# THtmlFontEventArgs.Workbook Property
+# THtmlFontEventArgs\.Workbook Property
 
 TCoreExcelFile with the cell we are exporting\.
 

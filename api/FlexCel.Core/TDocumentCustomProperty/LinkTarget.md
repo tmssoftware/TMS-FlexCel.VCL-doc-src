@@ -3,7 +3,7 @@ uid: TDocumentCustomProperty.LinkTarget
 description: TDocumentCustomProperty.LinkTarget
 ---
 
-# TDocumentCustomProperty.LinkTarget Property
+# TDocumentCustomProperty\.LinkTarget Property
 
 Specifies the name of a bookmark in the  table or named cell from which the value of this custom document  property should be extracted\. You can normally leave this value null\.
 

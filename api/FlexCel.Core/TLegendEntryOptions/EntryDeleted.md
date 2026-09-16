@@ -3,7 +3,7 @@ uid: TLegendEntryOptions.EntryDeleted
 description: TLegendEntryOptions.EntryDeleted
 ---
 
-# TLegendEntryOptions.EntryDeleted Property
+# TLegendEntryOptions\.EntryDeleted Property
 
 If true, this series has been deleted from the legend box, and it should not be displayed\.
 

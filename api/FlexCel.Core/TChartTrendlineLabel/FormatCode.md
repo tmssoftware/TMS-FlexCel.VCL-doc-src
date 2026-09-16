@@ -3,7 +3,7 @@ uid: TChartTrendlineLabel.FormatCode
 description: TChartTrendlineLabel.FormatCode
 ---
 
-# TChartTrendlineLabel.FormatCode Property
+# TChartTrendlineLabel\.FormatCode Property
 
 Format for the label\.
 

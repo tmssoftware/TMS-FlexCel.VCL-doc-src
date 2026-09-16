@@ -3,7 +3,7 @@ uid: TFlexCelHtmlExport.BackgroundColor
 description: TFlexCelHtmlExport.BackgroundColor
 ---
 
-# TFlexCelHtmlExport.BackgroundColor Property
+# TFlexCelHtmlExport\.BackgroundColor Property
 
 Background color for empty cells\. This is White by default, but you migth want to make it TUIColor\.Empty if you want the cells to not cover the background\.
 

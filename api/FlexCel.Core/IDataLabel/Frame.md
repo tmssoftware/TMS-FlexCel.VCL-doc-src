@@ -3,7 +3,7 @@ uid: IDataLabel.Frame
 description: IDataLabel.Frame
 ---
 
-# IDataLabel.Frame Property
+# IDataLabel\.Frame Property
 
 Background for the label, if there is one\. Null otherwise\.
 

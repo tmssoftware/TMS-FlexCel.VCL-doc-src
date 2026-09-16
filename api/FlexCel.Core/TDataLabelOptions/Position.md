@@ -3,7 +3,7 @@ uid: TDataLabelOptions.Position
 description: TDataLabelOptions.Position
 ---
 
-# TDataLabelOptions.Position Property
+# TDataLabelOptions\.Position Property
 
 Where the label is placed\.
 

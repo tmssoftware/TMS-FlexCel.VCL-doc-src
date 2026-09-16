@@ -3,7 +3,7 @@ uid: TFlexCelPdfExport.AllowOverwritingFiles
 description: TFlexCelPdfExport.AllowOverwritingFiles
 ---
 
-# TFlexCelPdfExport.AllowOverwritingFiles Property
+# TFlexCelPdfExport\.AllowOverwritingFiles Property
 
 Determines if FlexCel will automatically delete existing pdf files or not\.
 

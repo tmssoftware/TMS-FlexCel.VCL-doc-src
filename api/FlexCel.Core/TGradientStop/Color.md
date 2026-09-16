@@ -3,7 +3,7 @@ uid: TGradientStop.Color
 description: TGradientStop.Color
 ---
 
-# TGradientStop.Color Property
+# TGradientStop\.Color Property
 
 Color for this definition\.
 

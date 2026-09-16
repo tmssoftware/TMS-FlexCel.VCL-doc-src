@@ -3,7 +3,7 @@ uid: TFormulaSpan.ColSpan
 description: TFormulaSpan.ColSpan
 ---
 
-# TFormulaSpan.ColSpan Property
+# TFormulaSpan\.ColSpan Property
 
 How many columns the formula will use\.
 

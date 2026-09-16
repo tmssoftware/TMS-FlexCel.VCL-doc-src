@@ -3,7 +3,7 @@ uid: TConditionalFormatValueAndColorList.Values
 description: TConditionalFormatValueAndColorList.Values
 ---
 
-# TConditionalFormatValueAndColorList.Values Property
+# TConditionalFormatValueAndColorList\.Values Property
 
 Returns the list of values for this list\.
 

@@ -3,7 +3,7 @@ uid: TImgPaintEventArgs.Graphics
 description: TImgPaintEventArgs.Graphics
 ---
 
-# TImgPaintEventArgs.Graphics Property
+# TImgPaintEventArgs\.Graphics Property
 
 Gets the graphics used to paint\.
 

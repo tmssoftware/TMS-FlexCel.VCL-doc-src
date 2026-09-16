@@ -3,7 +3,7 @@ uid: TNamedRangeExportEventArgs.NamedRange
 description: TNamedRangeExportEventArgs.NamedRange
 ---
 
-# TNamedRangeExportEventArgs.NamedRange Property
+# TNamedRangeExportEventArgs\.NamedRange Property
 
 Named range that is being exported\.
 

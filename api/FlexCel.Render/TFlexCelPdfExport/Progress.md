@@ -3,7 +3,7 @@ uid: TFlexCelPdfExport.Progress
 description: TFlexCelPdfExport.Progress
 ---
 
-# TFlexCelPdfExport.Progress Property
+# TFlexCelPdfExport\.Progress Property
 
 Progress of the export\. This variable can be accessed from other thread, or from the [AfterGeneratePage](AfterGeneratePage.md) event\.
 

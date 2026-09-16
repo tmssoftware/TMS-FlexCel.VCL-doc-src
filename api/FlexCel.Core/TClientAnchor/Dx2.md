@@ -3,7 +3,7 @@ uid: TClientAnchor.Dx2
 description: TClientAnchor.Dx2
 ---
 
-# TClientAnchor.Dx2 Property
+# TClientAnchor\.Dx2 Property
 
 Delta x of image, on 1/1024 of a cell\.  0 means totally at the left, 512 on half of the cell, 1024 means at the left of next cell\.
 

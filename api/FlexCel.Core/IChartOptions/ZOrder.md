@@ -3,7 +3,7 @@ uid: IChartOptions.ZOrder
 description: IChartOptions.ZOrder
 ---
 
-# IChartOptions.ZOrder Property
+# IChartOptions\.ZOrder Property
 
 Z\-Order of this chart group, with 0 being the bottom\. Chart groups with lower z\-Order are drawn below the ones with higher ones\.
 

@@ -3,7 +3,7 @@ uid: TExcelFile.PrintPaperDimensions
 description: TExcelFile.PrintPaperDimensions
 ---
 
-# TExcelFile.PrintPaperDimensions Property
+# TExcelFile\.PrintPaperDimensions Property
 
 Returns the dimensions for the selected paper\. See also [PrintPaperSize](PrintPaperSize.md)\.
 

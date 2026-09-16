@@ -3,7 +3,7 @@ uid: TSVGExportParameters.Canceled
 description: TSVGExportParameters.Canceled
 ---
 
-# TSVGExportParameters.Canceled Property
+# TSVGExportParameters\.Canceled Property
 
 Set this property to true to cancel the export process\.
 

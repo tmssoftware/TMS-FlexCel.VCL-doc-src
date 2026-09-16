@@ -3,7 +3,7 @@ uid: TXlsFile.OutlineSummaryRowsBelowDetail
 description: TXlsFile.OutlineSummaryRowsBelowDetail
 ---
 
-# TXlsFile.OutlineSummaryRowsBelowDetail Property
+# TXlsFile\.OutlineSummaryRowsBelowDetail Property
 
 Determines whether the summary rows should be below or above details on outline\.
 

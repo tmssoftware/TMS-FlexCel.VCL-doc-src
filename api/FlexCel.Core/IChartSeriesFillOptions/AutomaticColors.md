@@ -3,7 +3,7 @@ uid: IChartSeriesFillOptions.AutomaticColors
 description: IChartSeriesFillOptions.AutomaticColors
 ---
 
-# IChartSeriesFillOptions.AutomaticColors Property
+# IChartSeriesFillOptions\.AutomaticColors Property
 
 When true, fill colors are assigned automatically\.
 

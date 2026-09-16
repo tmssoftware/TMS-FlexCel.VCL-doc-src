@@ -3,7 +3,7 @@ uid: TExcelFile.OptionsRecalcMaxChange
 description: TExcelFile.OptionsRecalcMaxChange
 ---
 
-# TExcelFile.OptionsRecalcMaxChange Property
+# TExcelFile\.OptionsRecalcMaxChange Property
 
 Maximum difference between 2 iterations when calculating circular references \([OptionsRecalcCircularReferences](OptionsRecalcCircularReferences.md) is true\),
 

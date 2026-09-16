@@ -3,7 +3,7 @@ uid: TDataConnectionTextFields.Item[const_index]
 description: TDataConnectionTextFields.Item[const index]
 ---
 
-# TDataConnectionTextFields.Item[const index] Property
+# TDataConnectionTextFields\.Item\[const index\] Property
 
 Gets or sets the field at position index \(0 based\)\.
 

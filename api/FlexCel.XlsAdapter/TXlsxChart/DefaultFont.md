@@ -3,7 +3,7 @@ uid: TXlsxChart.DefaultFont
 description: TXlsxChart.DefaultFont
 ---
 
-# TXlsxChart.DefaultFont Property
+# TXlsxChart\.DefaultFont Property
 
 Returns the default font for all text in the chart that do not have a font defined\.
 

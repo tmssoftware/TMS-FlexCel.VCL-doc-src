@@ -3,7 +3,7 @@ uid: TUIFont.Italic
 description: TUIFont.Italic
 ---
 
-# TUIFont.Italic Property
+# TUIFont\.Italic Property
 
 Returns true if the font is italic\.
 

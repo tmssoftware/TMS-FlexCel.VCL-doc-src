@@ -3,7 +3,7 @@ uid: TBlipFillTile.Ty
 description: TBlipFillTile.Ty
 ---
 
-# TBlipFillTile.Ty Property
+# TBlipFillTile\.Ty Property
 
 Specifies an extra vertical offset after alignment\.
 

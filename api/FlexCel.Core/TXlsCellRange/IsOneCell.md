@@ -3,7 +3,7 @@ uid: TXlsCellRange.IsOneCell
 description: TXlsCellRange.IsOneCell
 ---
 
-# TXlsCellRange.IsOneCell Property
+# TXlsCellRange\.IsOneCell Property
 
 Returns true if the range has only one cell\.
 

@@ -24,8 +24,8 @@ This token represents an error like \#REF\!
 
 |Name|Description|
 |---|---|
-|[IsArea](IsArea.md)|Returns true if this is a reference to an area of cells\.<br />|
 |[Is3D](Is3D.md)|Returns true if this is a reference to multiple sheets\.<br />|
+|[IsArea](IsArea.md)|Returns true if this is a reference to an area of cells\.<br />|
 |[IsRelative](IsRelative.md)|If true this reference is relative to the cell where the formula is\.<br />|
 
 

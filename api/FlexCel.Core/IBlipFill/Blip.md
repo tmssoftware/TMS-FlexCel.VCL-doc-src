@@ -3,7 +3,7 @@ uid: IBlipFill.Blip
 description: IBlipFill.Blip
 ---
 
-# IBlipFill.Blip Property
+# IBlipFill\.Blip Property
 
 Picture and properties used in the Blip fill\.
 

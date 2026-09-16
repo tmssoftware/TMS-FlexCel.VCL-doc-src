@@ -3,7 +3,7 @@ uid: TCustomizeChartEventArgs.DataFile
 description: TCustomizeChartEventArgs.DataFile
 ---
 
-# TCustomizeChartEventArgs.DataFile Property
+# TCustomizeChartEventArgs\.DataFile Property
 
 The file with the chart\.
 

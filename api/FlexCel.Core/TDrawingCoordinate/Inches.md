@@ -3,7 +3,7 @@ uid: TDrawingCoordinate.Inches
 description: TDrawingCoordinate.Inches
 ---
 
-# TDrawingCoordinate.Inches Property
+# TDrawingCoordinate\.Inches Property
 
 Value of the coordinate in inches
 

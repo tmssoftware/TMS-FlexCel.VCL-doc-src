@@ -3,7 +3,7 @@ uid: TCondFmtApplyFont.Color
 description: TCondFmtApplyFont.Color
 ---
 
-# TCondFmtApplyFont.Color Property
+# TCondFmtApplyFont\.Color Property
 
 Color of the font\.
 

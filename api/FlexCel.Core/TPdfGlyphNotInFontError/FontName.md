@@ -3,7 +3,7 @@ uid: TPdfGlyphNotInFontError.FontName
 description: TPdfGlyphNotInFontError.FontName
 ---
 
-# TPdfGlyphNotInFontError.FontName Property
+# TPdfGlyphNotInFontError\.FontName Property
 
 Font that doesn't contain the character\.
 

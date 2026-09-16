@@ -3,7 +3,7 @@ uid: IShapeEffects.ThemeColor
 description: IShapeEffects.ThemeColor
 ---
 
-# IShapeEffects.ThemeColor Property
+# IShapeEffects\.ThemeColor Property
 
 Color used for the effects\.
 

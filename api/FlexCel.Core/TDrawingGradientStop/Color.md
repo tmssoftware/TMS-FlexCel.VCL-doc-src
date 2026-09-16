@@ -3,7 +3,7 @@ uid: TDrawingGradientStop.Color
 description: TDrawingGradientStop.Color
 ---
 
-# TDrawingGradientStop.Color Property
+# TDrawingGradientStop\.Color Property
 
 Color for this definition\.
 

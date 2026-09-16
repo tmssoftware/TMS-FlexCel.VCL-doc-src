@@ -3,7 +3,7 @@ uid: TExcelFile.OutlineAutomaticStyles
 description: TExcelFile.OutlineAutomaticStyles
 ---
 
-# TExcelFile.OutlineAutomaticStyles Property
+# TExcelFile\.OutlineAutomaticStyles Property
 
 This handles the setting of Automatic Styles inside the outline options\.
 

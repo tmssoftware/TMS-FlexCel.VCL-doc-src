@@ -3,7 +3,7 @@ uid: TProtection.HasWorkbookPassword
 description: TProtection.HasWorkbookPassword
 ---
 
-# TProtection.HasWorkbookPassword Property
+# TProtection\.HasWorkbookPassword Property
 
 Returns true if the workbook is protected with a password\.
 

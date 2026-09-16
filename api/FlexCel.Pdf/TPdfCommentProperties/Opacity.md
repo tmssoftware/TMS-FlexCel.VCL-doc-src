@@ -3,7 +3,7 @@ uid: TPdfCommentProperties.Opacity
 description: TPdfCommentProperties.Opacity
 ---
 
-# TPdfCommentProperties.Opacity Property
+# TPdfCommentProperties\.Opacity Property
 
 A value between 0 and 1 specifying the opacity of the note\.
 

@@ -3,7 +3,7 @@ uid: TExcelFile.ConditionalFormatCount
 description: TExcelFile.ConditionalFormatCount
 ---
 
-# TExcelFile.ConditionalFormatCount Property
+# TExcelFile\.ConditionalFormatCount Property
 
 Returns the number of conditional format blocks on the list\. You can use this value to loop on them and retrieve the individual ones with [GetConditionalFormat](GetConditionalFormat.md)
 

@@ -3,7 +3,7 @@ uid: ITableDefinition.Comment
 description: ITableDefinition.Comment
 ---
 
-# ITableDefinition.Comment Property
+# ITableDefinition\.Comment Property
 
 The comment for the table\.
 

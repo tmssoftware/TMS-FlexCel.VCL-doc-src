@@ -3,7 +3,7 @@ uid: TRenderGenericPreviewError.StackTrace
 description: TRenderGenericPreviewError.StackTrace
 ---
 
-# TRenderGenericPreviewError.StackTrace Property
+# TRenderGenericPreviewError\.StackTrace Property
 
 Returns the stack trace for the error\.
 

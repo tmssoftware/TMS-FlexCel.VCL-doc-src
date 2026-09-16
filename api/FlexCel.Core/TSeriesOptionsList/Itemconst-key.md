@@ -3,7 +3,7 @@ uid: TSeriesOptionsList.Item[const_key]
 description: TSeriesOptionsList.Item[const key]
 ---
 
-# TSeriesOptionsList.Item[const key] Property
+# TSeriesOptionsList\.Item\[const key\] Property
 
 Gets or sets the value for a data point or for the whole series \(when key = \-1\)\.
 

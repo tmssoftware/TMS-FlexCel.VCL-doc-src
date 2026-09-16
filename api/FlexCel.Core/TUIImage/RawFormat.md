@@ -3,7 +3,7 @@ uid: TUIImage.RawFormat
 description: TUIImage.RawFormat
 ---
 
-# TUIImage.RawFormat Property
+# TUIImage\.RawFormat Property
 
 Format of the image\.
 

@@ -3,7 +3,7 @@ uid: TDataLabelOptions.DataType
 description: TDataLabelOptions.DataType
 ---
 
-# TDataLabelOptions.DataType Property
+# TDataLabelOptions\.DataType Property
 
 Defines which information this label displays\.
 

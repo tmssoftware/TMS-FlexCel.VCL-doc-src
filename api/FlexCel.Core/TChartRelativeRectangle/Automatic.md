@@ -3,7 +3,7 @@ uid: TChartRelativeRectangle.Automatic
 description: TChartRelativeRectangle.Automatic
 ---
 
-# TChartRelativeRectangle.Automatic Property
+# TChartRelativeRectangle\.Automatic Property
 
 Returns a new rectangle with no position set\.
 

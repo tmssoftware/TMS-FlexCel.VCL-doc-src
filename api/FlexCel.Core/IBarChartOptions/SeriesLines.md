@@ -3,7 +3,7 @@ uid: IBarChartOptions.SeriesLines
 description: IBarChartOptions.SeriesLines
 ---
 
-# IBarChartOptions.SeriesLines Property
+# IBarChartOptions\.SeriesLines Property
 
 Line style for the Lines between Series if they exist, null otherwise\.
 

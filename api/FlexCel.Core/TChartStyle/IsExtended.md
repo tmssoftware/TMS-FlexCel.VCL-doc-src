@@ -3,7 +3,7 @@ uid: TChartStyle.IsExtended
 description: TChartStyle.IsExtended
 ---
 
-# TChartStyle.IsExtended Property
+# TChartStyle\.IsExtended Property
 
 Returns true if this is an extended style, used in Excel 2013 or newer\.
 

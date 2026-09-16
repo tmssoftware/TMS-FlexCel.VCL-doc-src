@@ -3,7 +3,7 @@ uid: TDataConnectionTextImportProperties.CommaIsDelimiter
 description: TDataConnectionTextImportProperties.CommaIsDelimiter
 ---
 
-# TDataConnectionTextImportProperties.CommaIsDelimiter Property
+# TDataConnectionTextImportProperties\.CommaIsDelimiter Property
 
 Flag indicating whether to treat comma characters as field delimiters\.
 

@@ -3,7 +3,7 @@ uid: IThemeColorScheme.IsStandard2007
 description: IThemeColorScheme.IsStandard2007
 ---
 
-# IThemeColorScheme.IsStandard2007 Property
+# IThemeColorScheme\.IsStandard2007 Property
 
 True if this is the standard Excel 2007 color palette\.
 

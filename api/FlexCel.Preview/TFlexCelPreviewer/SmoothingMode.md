@@ -3,7 +3,7 @@ uid: TFlexCelPreviewer.SmoothingMode
 description: TFlexCelPreviewer.SmoothingMode
 ---
 
-# TFlexCelPreviewer.SmoothingMode Property
+# TFlexCelPreviewer\.SmoothingMode Property
 
 This affects how the images are rendered on the screen\. Some modes will look a little blurred but with better quality\.
 Consult the \.NET framework documentation on SmoothingMode for more information

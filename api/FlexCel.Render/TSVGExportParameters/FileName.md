@@ -3,7 +3,7 @@ uid: TSVGExportParameters.FileName
 description: TSVGExportParameters.FileName
 ---
 
-# TSVGExportParameters.FileName Property
+# TSVGExportParameters\.FileName Property
 
 Filename where the image will be saved\. If you leave it null or empty, the image won't be saved to a file\.
 

@@ -19,8 +19,8 @@ Static class to convert cells to formatted strings\. It uses format strings from
 |Name|Description|
 |---|---|
 |[FormatValue](FormatValue.md)|**Overloaded<br />**  [FormatValue\(TCellValue, string, TCoreExcelFile\)](FormatValue.md#tflxnumberformatformatvaluetcellvalue-string-tcoreexcelfile)<br />  [FormatValue\(TCellValue, string, TUIColor, TCoreExcelFile\)](FormatValue.md#tflxnumberformatformatvaluetcellvalue-string-tuicolor-tcoreexcelfile)<br />  [FormatValue\(TCellValue, string, TUIColor, TCoreExcelFile, Boolean\)](FormatValue.md#tflxnumberformatformatvaluetcellvalue-string-tuicolor-tcoreexcelfile-boolean)<br />  [FormatValue\(TCellValue, string, TUIColor, TCoreExcelFile, Boolean, Boolean\)](FormatValue.md#tflxnumberformatformatvaluetcellvalue-string-tuicolor-tcoreexcelfile-boolean-boolean)<br />  [FormatValue\(TCellValue, string, TUIColor, TCoreExcelFile, Boolean, Boolean, TAdaptativeFormats\)](FormatValue.md#tflxnumberformatformatvaluetcellvalue-string-tuicolor-tcoreexcelfile-boolean-boolean-tadaptativeformats)<br />  [FormatValue\(TCellValue, string, TUIColor, TCoreExcelFile, Boolean, Boolean, Integer, TAdaptativeFormats\)](FormatValue.md#tflxnumberformatformatvaluetcellvalue-string-tuicolor-tcoreexcelfile-boolean-boolean-integer-tadaptativeformats)<br />|
-|[HasDateOrTime](HasDateOrTime.md)|Returns true if the format string has a date or a time\.<br />|
 |[HasDate](HasDate.md)|Returns true if the format string has a date\.<br />|
+|[HasDateOrTime](HasDateOrTime.md)|Returns true if the format string has a date or a time\.<br />|
 |[HasTime](HasTime.md)|Returns true if the format string has a time\.<br />|
 |[PercentCount](PercentCount.md)|Returns the number of %% sign in a cell\. Each %% in the format string multiplies the value by 100, so 0\.1 formatted as "0%%" will display as 10%% and formatted as 0%%%% will display as 1000%%%%\.<br />|
 

@@ -3,7 +3,7 @@ uid: TClientAnchor.AnchorType
 description: TClientAnchor.AnchorType
 ---
 
-# TClientAnchor.AnchorType Property
+# TClientAnchor\.AnchorType Property
 
 How the image behaves when copying/inserting cells\.
 

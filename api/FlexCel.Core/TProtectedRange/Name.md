@@ -3,7 +3,7 @@ uid: TProtectedRange.Name
 description: TProtectedRange.Name
 ---
 
-# TProtectedRange.Name Property
+# TProtectedRange\.Name Property
 
 Name of the protected range\.
 

@@ -25,11 +25,11 @@ A TFlxFont with Scaling factor\. Scaling factor might be different than 1 if the
 
 |Name|Description|
 |---|---|
-|[Create](Create.md)|**Overloaded<br />**  [Create](Create.md#tflxchartfontcreate)<br />  [Create\(TFlxFont\)](Create.md#tflxchartfontcreatetflxfont)<br />  [Create\(string, Integer\)](Create.md#tflxchartfontcreatestring-integer)<br />  [Create\(string, Integer, Boolean\)](Create.md#tflxchartfontcreatestring-integer-boolean)<br />  [Create\(string, Integer, TExcelColor, TFlxFontStyleSet, TFlxUnderline, TFontScheme\)](Create.md#tflxchartfontcreatestring-integer-texcelcolor-tflxfontstyleset-tflxunderline-tfontscheme)<br />|
-|[Null](Null.md)|Constructs a null instance\.<br />|
 |[Clone](Clone.md)|Return a deep copy of the copy\.<br />|
-|[IsNull](IsNull.md)|Returns true if the record doesn't have a defined value\.<br />|
+|[Create](Create.md)|**Overloaded<br />**  [Create](Create.md#tflxchartfontcreate)<br />  [Create\(TFlxFont\)](Create.md#tflxchartfontcreatetflxfont)<br />  [Create\(string, Integer\)](Create.md#tflxchartfontcreatestring-integer)<br />  [Create\(string, Integer, Boolean\)](Create.md#tflxchartfontcreatestring-integer-boolean)<br />  [Create\(string, Integer, TExcelColor, TFlxFontStyleSet, TFlxUnderline, TFontScheme\)](Create.md#tflxchartfontcreatestring-integer-texcelcolor-tflxfontstyleset-tflxunderline-tfontscheme)<br />|
 |[HasValue](HasValue.md)|Returns true if the record has a defined value\. This is the inverse of [IsNull](IsNull.md)|
+|[IsNull](IsNull.md)|Returns true if the record doesn't have a defined value\.<br />|
+|[Null](Null.md)|Constructs a null instance\.<br />|
 
 
 ## Operators
@@ -44,7 +44,7 @@ A TFlxFont with Scaling factor\. Scaling factor might be different than 1 if the
 
 |Name|Description|
 |---|---|
-|[Scale](Scale.md)|Scale for the font\. Multiply by this value to get the real size in points\.<br />|
 |[IsCalculated](IsCalculated.md)|If true, this font was calculated from defaults, and didn't had a real value in the file\.<br />If the font is calculated, then you shouldn't set it when setting a font\.<br />|
+|[Scale](Scale.md)|Scale for the font\. Multiply by this value to get the real size in points\.<br />|
 
 

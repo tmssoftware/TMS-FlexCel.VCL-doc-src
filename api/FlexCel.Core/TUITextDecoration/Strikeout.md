@@ -3,7 +3,7 @@ uid: TUITextDecoration.Strikeout
 description: TUITextDecoration.Strikeout
 ---
 
-# TUITextDecoration.Strikeout Property
+# TUITextDecoration\.Strikeout Property
 
 Defines the style of text strikeout\.
 

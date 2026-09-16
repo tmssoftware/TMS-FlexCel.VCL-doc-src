@@ -3,7 +3,7 @@ uid: TTokenCellRange.Sheet1
 description: TTokenCellRange.Sheet1
 ---
 
-# TTokenCellRange.Sheet1 Property
+# TTokenCellRange\.Sheet1 Property
 
 First sheet where the reference points to\. Empty or null if the reference points to the same sheet\.
 

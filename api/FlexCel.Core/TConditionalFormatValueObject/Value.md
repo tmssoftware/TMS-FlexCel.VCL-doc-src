@@ -3,7 +3,7 @@ uid: TConditionalFormatValueObject.Value
 description: TConditionalFormatValueObject.Value
 ---
 
-# TConditionalFormatValueObject.Value Property
+# TConditionalFormatValueObject\.Value Property
 
 Value of the object\.
 

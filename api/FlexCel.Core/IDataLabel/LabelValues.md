@@ -3,7 +3,7 @@ uid: IDataLabel.LabelValues
 description: IDataLabel.LabelValues
 ---
 
-# IDataLabel.LabelValues Property
+# IDataLabel\.LabelValues Property
 
 A list with the actual values for the label, evaluated from the formula at [LabelDefinition](LabelDefinition.md) IMPORTANT NOTE: The values here only are valid if [LabelOptions](LabelOptions.md) indicates a manual DataType\.
 The results can contain TDrawingRichStrings\.

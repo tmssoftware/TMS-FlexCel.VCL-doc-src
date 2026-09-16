@@ -3,7 +3,7 @@ uid: TConditionalFormatDefStandard.HasFillBlock
 description: TConditionalFormatDefStandard.HasFillBlock
 ---
 
-# TConditionalFormatDefStandard.HasFillBlock Property
+# TConditionalFormatDefStandard\.HasFillBlock Property
 
 Returns true if any pattern formatting is applied\.
 

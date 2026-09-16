@@ -3,7 +3,7 @@ uid: TStandardSheetSelector.CssStyleSheetContent
 description: TStandardSheetSelector.CssStyleSheetContent
 ---
 
-# TStandardSheetSelector.CssStyleSheetContent Property
+# TStandardSheetSelector\.CssStyleSheetContent Property
 
 Style to be applied to the sheet content\.
 

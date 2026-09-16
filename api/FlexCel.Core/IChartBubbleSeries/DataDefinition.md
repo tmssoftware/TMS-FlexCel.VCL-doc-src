@@ -3,7 +3,7 @@ uid: IChartBubbleSeries.DataDefinition
 description: IChartBubbleSeries.DataDefinition
 ---
 
-# IChartBubbleSeries.DataDefinition Property
+# IChartBubbleSeries\.DataDefinition Property
 
 Formula defining the bubbles\.
 

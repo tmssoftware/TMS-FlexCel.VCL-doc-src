@@ -3,7 +3,7 @@ uid: IChartTrendline.Forward
 description: IChartTrendline.Forward
 ---
 
-# IChartTrendline.Forward Property
+# IChartTrendline\.Forward Property
 
 The number of categories \(or units on a scatter chart\) that the trendline extends **after** the data for the series\.
 This number must be bigger or equal to 0

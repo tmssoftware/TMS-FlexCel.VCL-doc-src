@@ -31,8 +31,8 @@ A list that contains the Ids and positions of the Excel objects
 
 |Name|Description|
 |---|---|
-|[IncludeCopies](IncludeCopies.md)|If this property is true, all shape ids from the copies made will be stored in the Copies property\.<br />|
 |[Count](Count.md)|Number of objects in the list\.<br />|
+|[IncludeCopies](IncludeCopies.md)|If this property is true, all shape ids from the copies made will be stored in the Copies property\.<br />|
 |[Item\[const index\]](Itemconst-index.md)|Returns position i in the list\.<br />|
 
 

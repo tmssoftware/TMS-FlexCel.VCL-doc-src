@@ -18,17 +18,17 @@ Fill pattern and color for the background of a cell\.
 
 |Name|Description|
 |---|---|
-|[Pattern](Pattern.md)|Fill style\.<br />|
-|[FgColor](FgColor.md)|Color for the foreground of the pattern\. It is used when the pattern is solid, but not when it is automatic\.<br />**Important:** This color is what you need, in the most common case where the pattern is solid\. [BgColor](BgColor.md) is ignored for solid patterns\.<br /><br /><br />This can look counterintuitive, but both FgColor and BgColor are colors for the background of the cell \(the fill pattern\)\.<br />To change the "foreground color" of a cell, you change the font color, not FgColor\.<br />So why are there 2 colors for the background? This is because Excel accepts fill patterns, where for example you might have a fill with a red background and black horizontal lines over it\.<br />Fot that case, BgColor would be red and FgColor will be black\.[...[more]](FgColor.md)|
 |[BgColor](BgColor.md)|Color for the background of the pattern\.  If the pattern is solid it has no effect, but it is used when pattern is automatic\.<br />**Important:** THIS COLOR IS IGNORED FOR SOLID PATTERNS, which are the most common case\. If a pattern is solid you need to use [FgColor](FgColor.md)\.<br />Please read the documentation in [FgColor](FgColor.md) for a more complete explanation on why BgColor is ignored\.<br />|
+|[FgColor](FgColor.md)|Color for the foreground of the pattern\. It is used when the pattern is solid, but not when it is automatic\.<br />**Important:** This color is what you need, in the most common case where the pattern is solid\. [BgColor](BgColor.md) is ignored for solid patterns\.<br /><br /><br />This can look counterintuitive, but both FgColor and BgColor are colors for the background of the cell \(the fill pattern\)\.<br />To change the "foreground color" of a cell, you change the font color, not FgColor\.<br />So why are there 2 colors for the background? This is because Excel accepts fill patterns, where for example you might have a fill with a red background and black horizontal lines over it\.<br />Fot that case, BgColor would be red and FgColor will be black\.[...[more]](FgColor.md)|
+|[Pattern](Pattern.md)|Fill style\.<br />|
 
 
 ## Methods
 
 |Name|Description|
 |---|---|
-|[Create](Create.md)|Creates an empty fill pattern\.<br />|
 |[Clone](Clone.md)|Creates a deep copy of this object\.<br />|
+|[Create](Create.md)|Creates an empty fill pattern\.<br />|
 
 
 ## Operators

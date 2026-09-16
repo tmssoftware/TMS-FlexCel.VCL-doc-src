@@ -3,7 +3,7 @@ uid: IChartTextOptions.Font
 description: IChartTextOptions.Font
 ---
 
-# IChartTextOptions.Font Property
+# IChartTextOptions\.Font Property
 
 Font style for the text\.
 

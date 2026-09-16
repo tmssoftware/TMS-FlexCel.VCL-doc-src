@@ -3,7 +3,7 @@ uid: IDataLabel.PositionZeroBased
 description: IDataLabel.PositionZeroBased
 ---
 
-# IDataLabel.PositionZeroBased Property
+# IDataLabel\.PositionZeroBased Property
 
 Coordinates in percent of the chart area\. Different from [PositionXls](PositionXls.md) this value has no margin attached\.
 In old xls files, this value might not be set\. If set, it should always be used instead of [PositionXls](PositionXls.md)\.

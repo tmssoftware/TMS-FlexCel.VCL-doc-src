@@ -3,7 +3,7 @@ uid: TReportTag.ParamDelim
 description: TReportTag.ParamDelim
 ---
 
-# TReportTag.ParamDelim Property
+# TReportTag\.ParamDelim Property
 
 Function delimiter\. \(for example: "\<\#if\(xx ; yy ; zz\)>
 

@@ -3,7 +3,7 @@ uid: TXlsFile.PrintToFit
 description: TXlsFile.PrintToFit
 ---
 
-# TXlsFile.PrintToFit Property
+# TXlsFile\.PrintToFit Property
 
 If true, sheet will be configured to fit on [TExcelFile.PrintNumberOfHorizontalPages](../../FlexCel.Core/TExcelFile/PrintNumberOfHorizontalPages.md) x [TExcelFile.PrintNumberOfVerticalPages](../../FlexCel.Core/TExcelFile/PrintNumberOfVerticalPages.md)\.
 

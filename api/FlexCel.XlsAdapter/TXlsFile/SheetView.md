@@ -3,7 +3,7 @@ uid: TXlsFile.SheetView
 description: TXlsFile.SheetView
 ---
 
-# TXlsFile.SheetView Property
+# TXlsFile\.SheetView Property
 
 Returns and sets the page view mode with their corresponding zooms\. Note that changing the zoom here changes [TExcelFile.SheetZoom](../../FlexCel.Core/TExcelFile/SheetZoom.md) This property can work in different windows depending on the value of [TExcelFile.ActiveWindow](../../FlexCel.Core/TExcelFile/ActiveWindow.md)
 

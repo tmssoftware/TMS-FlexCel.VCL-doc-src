@@ -3,7 +3,7 @@ uid: IBaseImageProperties.Macro
 description: IBaseImageProperties.Macro
 ---
 
-# IBaseImageProperties.Macro Property
+# IBaseImageProperties\.Macro Property
 
 Macro attached to the image\.
 

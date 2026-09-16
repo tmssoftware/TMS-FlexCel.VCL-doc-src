@@ -3,7 +3,7 @@ uid: IConditionalFormatStandardDefRule.FormatDef
 description: IConditionalFormatStandardDefRule.FormatDef
 ---
 
-# IConditionalFormatStandardDefRule.FormatDef Property
+# IConditionalFormatStandardDefRule\.FormatDef Property
 
 Format to apply when the rule evaluates to true\.
 

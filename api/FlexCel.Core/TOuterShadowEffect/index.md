@@ -35,15 +35,15 @@ An outer shadow effect\.
 
 |Name|Description|
 |---|---|
-|[ShadowColor](ShadowColor.md)|Color for the shadow\.<br />|
 |[BlurRadius](BlurRadius.md)|Blur radius\.<br />|
-|[Distance](Distance.md)|Distance of the shadow\.<br />|
 |[Direction](Direction.md)|Rotation of the shadow\.<br />|
+|[Distance](Distance.md)|Distance of the shadow\.<br />|
 |[HorizontalScaling&#8203;Factor](HorizontalScalingFactor.md)|Horizontal scaling factor\. Negative scaling causes a flip\.<br />|
-|[VerticalScaling&#8203;Factor](VerticalScalingFactor.md)|Vertical scaling factor\. Negative scaling causes a flip\.<br />|
 |[HorizontalSkew](HorizontalSkew.md)|Horizontal skew angle\.<br />|
-|[VerticalSkew](VerticalSkew.md)|Vertical skew angle\.<br />|
-|[ShadowAlignment](ShadowAlignment.md)|Shadow Alignment\.<br />|
 |[RotateWithShape](RotateWithShape.md)|If true, the effect rotates with the shape\.<br />|
+|[ShadowAlignment](ShadowAlignment.md)|Shadow Alignment\.<br />|
+|[ShadowColor](ShadowColor.md)|Color for the shadow\.<br />|
+|[VerticalScaling&#8203;Factor](VerticalScalingFactor.md)|Vertical scaling factor\. Negative scaling causes a flip\.<br />|
+|[VerticalSkew](VerticalSkew.md)|Vertical skew angle\.<br />|
 
 

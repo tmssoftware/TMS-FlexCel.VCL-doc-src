@@ -19,11 +19,11 @@ Printer specific settings\. It is a byte array with a Win32 DEVMODE struct\.
 |Name|Description|
 |---|---|
 |[Create](Create.md)|Creates a new instance of a TPrinterDriver&#8203;Settings class, with a COPY of aData|
-|[GetData](GetData.md)|The current printer data as a byte stream\. The first 2 bytes are the operating system \(0=windows\) and the rest is a Win32 DEVMODE struct\.<br />|
 |[Equals](Equals.md)|Returns true if two instances have the same data\.<br />|
+|[GetData](GetData.md)|The current printer data as a byte stream\. The first 2 bytes are the operating system \(0=windows\) and the rest is a Win32 DEVMODE struct\.<br />|
 |[GetHashCode](GetHashCode.md)|Returns the hashcode for this instance\.<br />|
-|[IsNull](IsNull.md)|Returns true if the record doesn't have a defined value\.<br />|
 |[HasValue](HasValue.md)|Returns true if the record has a defined value\. This is the inverse of [IsNull](IsNull.md)|
+|[IsNull](IsNull.md)|Returns true if the record doesn't have a defined value\.<br />|
 
 
 ## Operators

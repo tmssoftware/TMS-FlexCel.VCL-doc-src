@@ -3,7 +3,7 @@ uid: TTokenCellAddress.ExternalBookName
 description: TTokenCellAddress.ExternalBookName
 ---
 
-# TTokenCellAddress.ExternalBookName Property
+# TTokenCellAddress\.ExternalBookName Property
 
 File where the reference points to, when this is a reference to other file\. Empty or null if the reference is to the same file\.
 

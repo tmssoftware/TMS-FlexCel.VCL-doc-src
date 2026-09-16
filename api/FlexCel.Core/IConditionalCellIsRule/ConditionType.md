@@ -3,7 +3,7 @@ uid: IConditionalCellIsRule.ConditionType
 description: IConditionalCellIsRule.ConditionType
 ---
 
-# IConditionalCellIsRule.ConditionType Property
+# IConditionalCellIsRule\.ConditionType Property
 
 Condition to apply for the rule\.
 

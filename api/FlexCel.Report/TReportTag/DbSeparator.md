@@ -3,7 +3,7 @@ uid: TReportTag.DbSeparator
 description: TReportTag.DbSeparator
 ---
 
-# TReportTag.DbSeparator Property
+# TReportTag\.DbSeparator Property
 
 "\."
 

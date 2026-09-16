@@ -3,7 +3,7 @@ uid: TUserTableEventArgs.TableName
 description: TUserTableEventArgs.TableName
 ---
 
-# TUserTableEventArgs.TableName Property
+# TUserTableEventArgs\.TableName Property
 
 The value written on the cell "Table name" on the config sheet\. You can use it as an extra parameter\.
 

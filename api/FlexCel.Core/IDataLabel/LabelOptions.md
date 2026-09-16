@@ -3,7 +3,7 @@ uid: IDataLabel.LabelOptions
 description: IDataLabel.LabelOptions
 ---
 
-# IDataLabel.LabelOptions Property
+# IDataLabel\.LabelOptions Property
 
 Data options for the label\.
 

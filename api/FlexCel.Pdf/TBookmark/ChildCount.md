@@ -3,7 +3,7 @@ uid: TBookmark.ChildCount
 description: TBookmark.ChildCount
 ---
 
-# TBookmark.ChildCount Property
+# TBookmark\.ChildCount Property
 
 Returns the number of children of this bookmark\.
 

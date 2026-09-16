@@ -3,7 +3,7 @@ uid: IShapeProperties.TextHorizontalOverflow
 description: IShapeProperties.TextHorizontalOverflow
 ---
 
-# IShapeProperties.TextHorizontalOverflow Property
+# IShapeProperties\.TextHorizontalOverflow Property
 
 Gets or sets how the text overflows the shape horizontally\. Note that the checkbox in Excel "Allow text to overflow shape" sets both this property and [TextVerticalOverflow](TextVerticalOverflow.md)
 

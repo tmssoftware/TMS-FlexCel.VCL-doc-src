@@ -18,12 +18,12 @@ Sheet margin for printing, in inches\.
 
 |Name|Description|
 |---|---|
-|[Left](Left.md)|Left Margin in inches\.<br />|
-|[Top](Top.md)|Top Margin in inches\.<br />|
-|[Right](Right.md)|Right Margin in inches\.<br />|
 |[Bottom](Bottom.md)|Bottom Margin in inches\.<br />|
-|[Header](Header.md)|Header Margin in inches\. Space for the header at top of page, it is taken from Top margin\.<br />|
 |[Footer](Footer.md)|Footer Margin in inches\. Space for the footer at bottom of page, it is taken from Bottom margin\.<br />|
+|[Header](Header.md)|Header Margin in inches\. Space for the header at top of page, it is taken from Top margin\.<br />|
+|[Left](Left.md)|Left Margin in inches\.<br />|
+|[Right](Right.md)|Right Margin in inches\.<br />|
+|[Top](Top.md)|Top Margin in inches\.<br />|
 
 
 ## Methods

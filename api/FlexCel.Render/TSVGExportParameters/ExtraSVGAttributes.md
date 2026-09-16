@@ -3,7 +3,7 @@ uid: TSVGExportParameters.ExtraSVGAttributes
 description: TSVGExportParameters.ExtraSVGAttributes
 ---
 
-# TSVGExportParameters.ExtraSVGAttributes Property
+# TSVGExportParameters\.ExtraSVGAttributes Property
 
 Extra attributes that will be added to the \<svg> definition\. Keep it null to not add any extra attribute\.
 

@@ -3,7 +3,7 @@ uid: TDrawingTextRun.Text
 description: TDrawingTextRun.Text
 ---
 
-# TDrawingTextRun.Text Property
+# TDrawingTextRun\.Text Property
 
 String that this text run holds\. If this run holds a field, the text should be ignored\.
 

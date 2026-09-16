@@ -3,7 +3,7 @@ uid: TColorTransform.ColorTransformType
 description: TColorTransform.ColorTransformType
 ---
 
-# TColorTransform.ColorTransformType Property
+# TColorTransform\.ColorTransformType Property
 
 Type of transformation to be applied\.
 

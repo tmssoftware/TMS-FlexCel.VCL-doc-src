@@ -3,7 +3,7 @@ uid: IThemeColorScheme.Name
 description: IThemeColorScheme.Name
 ---
 
-# IThemeColorScheme.Name Property
+# IThemeColorScheme\.Name Property
 
 Name of the color definition\. This will be shown in Excel UI\.
 

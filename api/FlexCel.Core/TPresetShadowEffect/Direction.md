@@ -3,7 +3,7 @@ uid: TPresetShadowEffect.Direction
 description: TPresetShadowEffect.Direction
 ---
 
-# TPresetShadowEffect.Direction Property
+# TPresetShadowEffect\.Direction Property
 
 Rotation of the shadow\.
 

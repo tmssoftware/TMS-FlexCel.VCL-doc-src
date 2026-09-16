@@ -3,7 +3,7 @@ uid: TFlexCelImgExport.Resolution
 description: TFlexCelImgExport.Resolution
 ---
 
-# TFlexCelImgExport.Resolution Property
+# TFlexCelImgExport\.Resolution Property
 
 "The default resolution on pixels per inch for the rendered images\. For the screen, this is 96\."
 

@@ -3,7 +3,7 @@ uid: TFlexCelPdfExport.PageLayoutDisplay
 description: TFlexCelPdfExport.PageLayoutDisplay
 ---
 
-# TFlexCelPdfExport.PageLayoutDisplay Property
+# TFlexCelPdfExport\.PageLayoutDisplay Property
 
 Sets the default page display layout when opening the document\.
 

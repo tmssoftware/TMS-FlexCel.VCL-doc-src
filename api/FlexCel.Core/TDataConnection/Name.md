@@ -3,7 +3,7 @@ uid: TDataConnection.Name
 description: TDataConnection.Name
 ---
 
-# TDataConnection.Name Property
+# TDataConnection\.Name Property
 
 Specifies the name of the connection\. Each connection shall have a unique name\.
 

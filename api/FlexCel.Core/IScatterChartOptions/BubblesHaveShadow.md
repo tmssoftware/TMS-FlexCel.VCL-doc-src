@@ -3,7 +3,7 @@ uid: IScatterChartOptions.BubblesHaveShadow
 description: IScatterChartOptions.BubblesHaveShadow
 ---
 
-# IScatterChartOptions.BubblesHaveShadow Property
+# IScatterChartOptions\.BubblesHaveShadow Property
 
 True if the bubbles have shadows\.
 

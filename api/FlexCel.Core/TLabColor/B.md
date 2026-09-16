@@ -3,7 +3,7 @@ uid: TLabColor.B
 description: TLabColor.B
 ---
 
-# TLabColor.B Property
+# TLabColor\.B Property
 
 Blue component in the RGB space\.
 

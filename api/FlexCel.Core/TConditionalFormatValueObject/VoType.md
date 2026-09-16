@@ -3,7 +3,7 @@ uid: TConditionalFormatValueObject.VoType
 description: TConditionalFormatValueObject.VoType
 ---
 
-# TConditionalFormatValueObject.VoType Property
+# TConditionalFormatValueObject\.VoType Property
 
 Type of value object\.
 

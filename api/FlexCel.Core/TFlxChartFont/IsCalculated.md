@@ -3,7 +3,7 @@ uid: TFlxChartFont.IsCalculated
 description: TFlxChartFont.IsCalculated
 ---
 
-# TFlxChartFont.IsCalculated Property
+# TFlxChartFont\.IsCalculated Property
 
 If true, this font was calculated from defaults, and didn't had a real value in the file\.
 If the font is calculated, then you shouldn't set it when setting a font\.

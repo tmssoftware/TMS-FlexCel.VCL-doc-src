@@ -3,7 +3,7 @@ uid: TFlexCelReport.Canceled
 description: TFlexCelReport.Canceled
 ---
 
-# TFlexCelReport.Canceled Property
+# TFlexCelReport\.Canceled Property
 
 If true the report has been canceled with [Cancel](Cancel.md) method\.
 You can't set this variable to false, and setting it true is the same as calling [Cancel](Cancel.md)\.

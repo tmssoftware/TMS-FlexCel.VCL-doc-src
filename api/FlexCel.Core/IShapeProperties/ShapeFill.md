@@ -3,7 +3,7 @@ uid: IShapeProperties.ShapeFill
 description: IShapeProperties.ShapeFill
 ---
 
-# IShapeProperties.ShapeFill Property
+# IShapeProperties\.ShapeFill Property
 
 Fill of the shape, for xlsx shapes \(even those which are saved in xls files\)\. This property has a more complete description of the fill style than the one you can get by querying [ShapeOptions](ShapeOptions.md), but will be null for xls files saved by Excel 2003 or earlier\.
 

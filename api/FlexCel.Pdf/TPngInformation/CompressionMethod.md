@@ -3,7 +3,7 @@ uid: TPngInformation.CompressionMethod
 description: TPngInformation.CompressionMethod
 ---
 
-# TPngInformation.CompressionMethod Property
+# TPngInformation\.CompressionMethod Property
 
 Png Compression method \(See png reference for more information\)
 

@@ -3,7 +3,7 @@ uid: TOuterShadowEffect.BlurRadius
 description: TOuterShadowEffect.BlurRadius
 ---
 
-# TOuterShadowEffect.BlurRadius Property
+# TOuterShadowEffect\.BlurRadius Property
 
 Blur radius\.
 

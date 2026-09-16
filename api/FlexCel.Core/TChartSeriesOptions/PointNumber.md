@@ -3,7 +3,7 @@ uid: TChartSeriesOptions.PointNumber
 description: TChartSeriesOptions.PointNumber
 ---
 
-# TChartSeriesOptions.PointNumber Property
+# TChartSeriesOptions\.PointNumber Property
 
 Point number where this options apply\. \-1 means that the options apply for the whole series\.
 

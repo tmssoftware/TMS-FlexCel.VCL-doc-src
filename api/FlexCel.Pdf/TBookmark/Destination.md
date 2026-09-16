@@ -3,7 +3,7 @@ uid: TBookmark.Destination
 description: TBookmark.Destination
 ---
 
-# TBookmark.Destination Property
+# TBookmark\.Destination Property
 
 Page where the bookmark points to\.
 

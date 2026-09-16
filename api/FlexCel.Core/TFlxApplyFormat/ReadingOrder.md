@@ -3,7 +3,7 @@ uid: TFlxApplyFormat.ReadingOrder
 description: TFlxApplyFormat.ReadingOrder
 ---
 
-# TFlxApplyFormat.ReadingOrder Property
+# TFlxApplyFormat\.ReadingOrder Property
 
 Reading order\.
 

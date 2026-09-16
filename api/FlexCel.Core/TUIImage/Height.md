@@ -3,7 +3,7 @@ uid: TUIImage.Height
 description: TUIImage.Height
 ---
 
-# TUIImage.Height Property
+# TUIImage\.Height Property
 
 Height of the image in device\-dependent pixels\.
 

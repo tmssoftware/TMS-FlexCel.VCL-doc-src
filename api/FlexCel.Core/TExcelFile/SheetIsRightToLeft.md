@@ -3,7 +3,7 @@ uid: TExcelFile.SheetIsRightToLeft
 description: TExcelFile.SheetIsRightToLeft
 ---
 
-# TExcelFile.SheetIsRightToLeft Property
+# TExcelFile\.SheetIsRightToLeft Property
 
 If true then the sheet goes from right to left, with A1 starting at the top right of the page\. You can also set this option with [SheetOptions](SheetOptions.md)
 

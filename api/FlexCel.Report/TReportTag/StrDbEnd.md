@@ -3,7 +3,7 @@ uid: TReportTag.StrDbEnd
 description: TReportTag.StrDbEnd
 ---
 
-# TReportTag.StrDbEnd Property
+# TReportTag\.StrDbEnd Property
 
 "\]"
 

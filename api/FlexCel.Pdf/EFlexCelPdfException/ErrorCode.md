@@ -3,7 +3,7 @@ uid: EFlexCelPdfException.ErrorCode
 description: EFlexCelPdfException.ErrorCode
 ---
 
-# EFlexCelPdfException.ErrorCode Property
+# EFlexCelPdfException\.ErrorCode Property
 
 Error code on the Exception\.
 

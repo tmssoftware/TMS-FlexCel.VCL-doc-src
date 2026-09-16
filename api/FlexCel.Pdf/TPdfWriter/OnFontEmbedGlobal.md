@@ -3,7 +3,7 @@ uid: TPdfWriter.OnFontEmbedGlobal
 description: TPdfWriter.OnFontEmbedGlobal
 ---
 
-# TPdfWriter.OnFontEmbedGlobal Event
+# TPdfWriter\.OnFontEmbedGlobal Event
 
 Use this event if you want to manually specify which fonts to embed into the pdf document for the full application\.
 Note that if you assign [OnFontEmbed](OnFontEmbed.md) for a particular object instance it will be used instead\.
@@ -13,7 +13,7 @@ Note that if you assign [OnFontEmbed](OnFontEmbed.md) for a particular object in
 
 **Unit:** [FlexCel.Pdf](../index.md)
 
-<pre><code class="lang-delphi hljs">property <a href="../TPdfWriter/index.md">TPdfWriter</a>.OnFontEmbedGlobal: TFontEmbedEventHandler</code></pre>
+<pre><code class="lang-delphi hljs">property <a href="../TPdfWriter/index.md">TPdfWriter</a>.OnFontEmbedGlobal: <a href="../TFontEmbedEventHandler.md">TFontEmbedEventHandler</a></code></pre>
 
 ## See also
 

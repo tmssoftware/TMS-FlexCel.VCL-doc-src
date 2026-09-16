@@ -3,7 +3,7 @@ uid: TDataValidationInfo.ExplicitList
 description: TDataValidationInfo.ExplicitList
 ---
 
-# TDataValidationInfo.ExplicitList Property
+# TDataValidationInfo\.ExplicitList Property
 
 If true, [FirstFormula](FirstFormula.md) contains a list of values\.
 In this case, Formula1 **must** be a formula of the type: ="string", where string is a list of values separated by Character\(0\)\.

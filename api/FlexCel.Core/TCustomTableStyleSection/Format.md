@@ -3,7 +3,7 @@ uid: TCustomTableStyleSection.Format
 description: TCustomTableStyleSection.Format
 ---
 
-# TCustomTableStyleSection.Format Property
+# TCustomTableStyleSection\.Format Property
 
 Format that will be applied to this section of the table\.
 

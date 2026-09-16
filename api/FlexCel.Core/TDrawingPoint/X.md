@@ -3,7 +3,7 @@ uid: TDrawingPoint.X
 description: TDrawingPoint.X
 ---
 
-# TDrawingPoint.X Property
+# TDrawingPoint\.X Property
 
 X coordinate\.
 

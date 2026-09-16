@@ -3,7 +3,7 @@ uid: TTokenWhitespace.WhitespaceCount
 description: TTokenWhitespace.WhitespaceCount
 ---
 
-# TTokenWhitespace.WhitespaceCount Property
+# TTokenWhitespace\.WhitespaceCount Property
 
 Number of whitespace characters in this token\.
 

@@ -3,7 +3,7 @@ uid: TFlexCelSVGExport.Compress
 description: TFlexCelSVGExport.Compress
 ---
 
-# TFlexCelSVGExport.Compress Property
+# TFlexCelSVGExport\.Compress Property
 
 When true, the pdf file will be compressed\.
 

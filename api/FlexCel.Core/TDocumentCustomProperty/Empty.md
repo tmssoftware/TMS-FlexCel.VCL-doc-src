@@ -3,7 +3,7 @@ uid: TDocumentCustomProperty.Empty
 description: TDocumentCustomProperty.Empty
 ---
 
-# TDocumentCustomProperty.Empty Property
+# TDocumentCustomProperty\.Empty Property
 
 Returns an empty property
 

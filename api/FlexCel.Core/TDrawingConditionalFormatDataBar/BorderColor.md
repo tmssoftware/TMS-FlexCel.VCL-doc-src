@@ -3,7 +3,7 @@ uid: TDrawingConditionalFormatDataBar.BorderColor
 description: TDrawingConditionalFormatDataBar.BorderColor
 ---
 
-# TDrawingConditionalFormatDataBar.BorderColor Property
+# TDrawingConditionalFormatDataBar\.BorderColor Property
 
 Border color for the databar\. TUIColor\.Empty means no border\.
 

@@ -27,7 +27,7 @@ See Ms kb Q175261
 
 ## Returns
 
-Image on raw format\.
+Image in raw format\.
 
 ## See also
 

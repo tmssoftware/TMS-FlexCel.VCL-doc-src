@@ -3,7 +3,7 @@ uid: TFlexCelPreviewer.PageShadowSize
 description: TFlexCelPreviewer.PageShadowSize
 ---
 
-# TFlexCelPreviewer.PageShadowSize Property
+# TFlexCelPreviewer\.PageShadowSize Property
 
 Shadow size for the pages in the preview\. Set it to 0 to disable shadows\.
 

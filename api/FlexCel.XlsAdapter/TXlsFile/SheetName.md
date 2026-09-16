@@ -3,7 +3,7 @@ uid: TXlsFile.SheetName
 description: TXlsFile.SheetName
 ---
 
-# TXlsFile.SheetName Property
+# TXlsFile\.SheetName Property
 
 Reads and changes the name of the active sheet\. To switch to another sheet by its name, use [TExcelFile.ActiveSheetByName](../../FlexCel.Core/TExcelFile/ActiveSheetByName.md)
 

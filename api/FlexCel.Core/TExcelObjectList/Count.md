@@ -3,7 +3,7 @@ uid: TExcelObjectList.Count
 description: TExcelObjectList.Count
 ---
 
-# TExcelObjectList.Count Property
+# TExcelObjectList\.Count Property
 
 Number of objects in the list\.
 

@@ -3,7 +3,7 @@ uid: TTokenRelativeCellAddress.RowOffset
 description: TTokenRelativeCellAddress.RowOffset
 ---
 
-# TTokenRelativeCellAddress.RowOffset Property
+# TTokenRelativeCellAddress\.RowOffset Property
 
 The number of rows after or before the current row\. It might be negative\.
 

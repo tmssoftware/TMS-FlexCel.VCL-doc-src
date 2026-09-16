@@ -3,7 +3,7 @@ uid: TFlexCelPdfExport.CurrentPage
 description: TFlexCelPdfExport.CurrentPage
 ---
 
-# TFlexCelPdfExport.CurrentPage Property
+# TFlexCelPdfExport\.CurrentPage Property
 
 Returns the next page that we are going to print\.
 

@@ -3,7 +3,7 @@ uid: TThemeFont.EastAsian
 description: TThemeFont.EastAsian
 ---
 
-# TThemeFont.EastAsian Property
+# TThemeFont\.EastAsian Property
 
 This element specifies that an East Asian font be used for a specific run of text\. This font is specified with a  typeface attribute much like the others but is specifically classified as an East Asian font\.
 

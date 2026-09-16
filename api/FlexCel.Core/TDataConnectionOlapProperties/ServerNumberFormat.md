@@ -3,7 +3,7 @@ uid: TDataConnectionOlapProperties.ServerNumberFormat
 description: TDataConnectionOlapProperties.ServerNumberFormat
 ---
 
-# TDataConnectionOlapProperties.ServerNumberFormat Property
+# TDataConnectionOlapProperties\.ServerNumberFormat Property
 
 When true, a PivotTable based on OLAP source should format the data and aggregate cells in the PivotTable view using the number format from the OLAP source\.When false, OLAP server number formats are ignored, and standard formatting rules within the worksheet are followed\.
 

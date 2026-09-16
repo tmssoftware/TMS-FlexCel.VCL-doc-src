@@ -3,7 +3,7 @@ uid: TFlexCelPreviewer.PageBorderStyle
 description: TFlexCelPreviewer.PageBorderStyle
 ---
 
-# TFlexCelPreviewer.PageBorderStyle Property
+# TFlexCelPreviewer\.PageBorderStyle Property
 
 Border style for the pages in the preview\.
 

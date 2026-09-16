@@ -3,7 +3,7 @@ uid: TExcelFile.SheetCount
 description: TExcelFile.SheetCount
 ---
 
-# TExcelFile.SheetCount Property
+# TExcelFile\.SheetCount Property
 
 The number of sheets on the file\.
 

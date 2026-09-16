@@ -3,7 +3,7 @@ uid: TExcelFile.ActiveSheet
 description: TExcelFile.ActiveSheet
 ---
 
-# TExcelFile.ActiveSheet Property
+# TExcelFile\.ActiveSheet Property
 
 The Sheet where we are working on, 1\-based\(First sheet is 1, not 0\)\.
 Always set this property before working on a file\.

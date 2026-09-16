@@ -3,7 +3,7 @@ uid: TFlxConsts.MaxRowHeight
 description: TFlxConsts.MaxRowHeight
 ---
 
-# TFlxConsts.MaxRowHeight Property
+# TFlxConsts\.MaxRowHeight Property
 
 The maximum height you can set in a row, multiplied by 20\.
 This is \(409 \* 20 \+ 10\) and means a maximum row height of 409\.5\. Excel says the maximum is 409, but you can enter up to 409\.5

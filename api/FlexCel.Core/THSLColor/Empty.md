@@ -3,7 +3,7 @@ uid: THSLColor.Empty
 description: THSLColor.Empty
 ---
 
-# THSLColor.Empty Property
+# THSLColor\.Empty Property
 
 Returns an empty color\.
 

@@ -3,7 +3,7 @@ uid: TTokenCellRange.Row2
 description: TTokenCellRange.Row2
 ---
 
-# TTokenCellRange.Row2 Property
+# TTokenCellRange\.Row2 Property
 
 Last row of the range \(1 based\)\.
 

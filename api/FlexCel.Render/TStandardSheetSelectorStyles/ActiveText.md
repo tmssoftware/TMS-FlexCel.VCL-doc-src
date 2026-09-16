@@ -3,7 +3,7 @@ uid: TStandardSheetSelectorStyles.ActiveText
 description: TStandardSheetSelectorStyles.ActiveText
 ---
 
-# TStandardSheetSelectorStyles.ActiveText Property
+# TStandardSheetSelectorStyles\.ActiveText Property
 
 Style to be applied to the text of the selected tab\.
 

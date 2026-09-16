@@ -3,7 +3,7 @@ uid: IEffectProperties.HasEffects
 description: IEffectProperties.HasEffects
 ---
 
-# IEffectProperties.HasEffects Property
+# IEffectProperties\.HasEffects Property
 
 Returns true if there are any effects\.
 

@@ -3,7 +3,7 @@ uid: TAdaptativeFormats.IsEmpty
 description: TAdaptativeFormats.IsEmpty
 ---
 
-# TAdaptativeFormats.IsEmpty Property
+# TAdaptativeFormats\.IsEmpty Property
 
 Returns true if this class has no adaptative formats\.
 

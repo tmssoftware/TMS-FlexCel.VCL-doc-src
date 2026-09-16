@@ -3,7 +3,7 @@ uid: TDataConnectionTextImportProperties.FileType
 description: TDataConnectionTextImportProperties.FileType
 ---
 
-# TDataConnectionTextImportProperties.FileType Property
+# TDataConnectionTextImportProperties\.FileType Property
 
 Ignorable attribute\. Determines the kind of character set to use during import\.
 Only one of FileType and CharacterSet or CodePage shall be specified\.

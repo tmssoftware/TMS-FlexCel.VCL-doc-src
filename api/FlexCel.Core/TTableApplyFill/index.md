@@ -35,9 +35,9 @@ Determines which parts of the pattern will be applied in the table\.
 
 |Name|Description|
 |---|---|
-|[Pattern](Pattern.md)|Fill style\.<br />|
-|[FgColor](FgColor.md)|Color for the foreground of the pattern\.<br />|
 |[BgColor](BgColor.md)|Color for the background of the pattern\.  If the pattern is solid, has no effect\.<br />|
+|[FgColor](FgColor.md)|Color for the foreground of the pattern\.<br />|
 |[IsEmpty](IsEmpty.md)|Returns true if the format does not apply any setting\.<br />|
+|[Pattern](Pattern.md)|Fill style\.<br />|
 
 

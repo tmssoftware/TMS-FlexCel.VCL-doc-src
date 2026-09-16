@@ -3,7 +3,7 @@ uid: TSVGExportParameters.Workbook
 description: TSVGExportParameters.Workbook
 ---
 
-# TSVGExportParameters.Workbook Property
+# TSVGExportParameters\.Workbook Property
 
 Excel file that we are exporting\. Note that this is a LightClone\(\) of the original ExcelFile that was passed to the export, and might have a different active sheet\. If you need to access the file from the export action,  use this parameter and not the original ExcelFile\.
 

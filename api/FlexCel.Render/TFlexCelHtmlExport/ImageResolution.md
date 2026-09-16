@@ -3,7 +3,7 @@ uid: TFlexCelHtmlExport.ImageResolution
 description: TFlexCelHtmlExport.ImageResolution
 ---
 
-# TFlexCelHtmlExport.ImageResolution Property
+# TFlexCelHtmlExport\.ImageResolution Property
 
 Resolution for the exported images\. The bigger the resolution, the bigger the image size and quality\. Use 96 for standard screen resolution\.
 

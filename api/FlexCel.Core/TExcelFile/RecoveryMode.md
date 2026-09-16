@@ -3,7 +3,7 @@ uid: TExcelFile.RecoveryMode
 description: TExcelFile.RecoveryMode
 ---
 
-# TExcelFile.RecoveryMode Property
+# TExcelFile\.RecoveryMode Property
 
 When this property is set to true, FlexCel will try to open corrupt files ignoring most of what can be ignored\.
 Note that **FlexCel is not a recovery tool** and that this property might be able or not to open a corrupt file\.

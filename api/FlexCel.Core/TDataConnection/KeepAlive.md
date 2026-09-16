@@ -3,7 +3,7 @@ uid: TDataConnection.KeepAlive
 description: TDataConnection.KeepAlive
 ---
 
-# TDataConnection.KeepAlive Property
+# TDataConnection\.KeepAlive Property
 
 True when the spreadsheet application should make efforts to keep the connection open\.When false, the application should close the connection after retrieving the information\.
 

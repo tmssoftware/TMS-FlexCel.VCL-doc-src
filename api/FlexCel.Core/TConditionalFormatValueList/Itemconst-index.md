@@ -3,7 +3,7 @@ uid: TConditionalFormatValueList.Item[const_index]
 description: TConditionalFormatValueList.Item[const index]
 ---
 
-# TConditionalFormatValueList.Item[const index] Property
+# TConditionalFormatValueList\.Item\[const index\] Property
 
 Returns element at position index\.
 

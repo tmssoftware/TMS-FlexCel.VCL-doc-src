@@ -3,7 +3,7 @@ uid: ILineStyle.TailArrow
 description: ILineStyle.TailArrow
 ---
 
-# ILineStyle.TailArrow Property
+# ILineStyle\.TailArrow Property
 
 Tail arrow if it has one\. If null, default from the theme will be used\.
 

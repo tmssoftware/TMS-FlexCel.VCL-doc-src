@@ -3,7 +3,7 @@ uid: TImplementedFunction.MinArgCount
 description: TImplementedFunction.MinArgCount
 ---
 
-# TImplementedFunction.MinArgCount Property
+# TImplementedFunction\.MinArgCount Property
 
 Minimum argument count for the function\.
 

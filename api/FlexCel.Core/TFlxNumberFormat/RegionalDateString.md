@@ -3,7 +3,7 @@ uid: TFlxNumberFormat.RegionalDateString
 description: TFlxNumberFormat.RegionalDateString
 ---
 
-# TFlxNumberFormat.RegionalDateString Property
+# TFlxNumberFormat\.RegionalDateString Property
 
 Returns the string used on a standard date on the current locale
 

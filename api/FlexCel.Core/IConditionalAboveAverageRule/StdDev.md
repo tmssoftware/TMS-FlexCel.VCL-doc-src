@@ -3,7 +3,7 @@ uid: IConditionalAboveAverageRule.StdDev
 description: IConditionalAboveAverageRule.StdDev
 ---
 
-# IConditionalAboveAverageRule.StdDev Property
+# IConditionalAboveAverageRule\.StdDev Property
 
 The number of standard deviations to include above or below the average\.
 

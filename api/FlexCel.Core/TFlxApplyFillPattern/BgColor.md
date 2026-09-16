@@ -3,7 +3,7 @@ uid: TFlxApplyFillPattern.BgColor
 description: TFlxApplyFillPattern.BgColor
 ---
 
-# TFlxApplyFillPattern.BgColor Property
+# TFlxApplyFillPattern\.BgColor Property
 
 Color for the background of the pattern\.  If the pattern is solid, has no effect\.
 

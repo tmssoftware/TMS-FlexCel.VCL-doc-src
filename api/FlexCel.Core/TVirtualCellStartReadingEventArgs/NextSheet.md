@@ -3,7 +3,7 @@ uid: TVirtualCellStartReadingEventArgs.NextSheet
 description: TVirtualCellStartReadingEventArgs.NextSheet
 ---
 
-# TVirtualCellStartReadingEventArgs.NextSheet Property
+# TVirtualCellStartReadingEventArgs\.NextSheet Property
 
 This is the next sheet that will be read by FlexCel\. You can change it to start reading the file by a different sheet, or set it to empty or null to finish reading the file\.
 

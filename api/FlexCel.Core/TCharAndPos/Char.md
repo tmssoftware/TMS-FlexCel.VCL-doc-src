@@ -3,7 +3,7 @@ uid: TCharAndPos.Char
 description: TCharAndPos.Char
 ---
 
-# TCharAndPos.Char Property
+# TCharAndPos\.Char Property
 
 Character that should go at position\. Note that if this is a surrogate pair \(UTF32\) the string might have 2 UTF16 characters\.
 

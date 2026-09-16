@@ -3,7 +3,7 @@ uid: TXmlMapMap.PreserveSortAFLayout
 description: TXmlMapMap.PreserveSortAFLayout
 ---
 
-# TXmlMapMap.PreserveSortAFLayout Property
+# TXmlMapMap\.PreserveSortAFLayout Property
 
 Indicates if to keep filters on tables\.
 

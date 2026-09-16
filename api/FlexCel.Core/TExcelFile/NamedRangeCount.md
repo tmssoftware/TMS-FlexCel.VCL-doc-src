@@ -3,7 +3,7 @@ uid: TExcelFile.NamedRangeCount
 description: TExcelFile.NamedRangeCount
 ---
 
-# TExcelFile.NamedRangeCount Property
+# TExcelFile\.NamedRangeCount Property
 
 The count of all named ranges on the file\.
 

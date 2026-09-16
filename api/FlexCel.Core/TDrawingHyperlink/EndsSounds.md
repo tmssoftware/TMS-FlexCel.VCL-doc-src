@@ -3,7 +3,7 @@ uid: TDrawingHyperlink.EndsSounds
 description: TDrawingHyperlink.EndsSounds
 ---
 
-# TDrawingHyperlink.EndsSounds Property
+# TDrawingHyperlink\.EndsSounds Property
 
 If true, any sound currently playing will be stopped when you click the link\.
 

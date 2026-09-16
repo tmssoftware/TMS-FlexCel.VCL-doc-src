@@ -3,7 +3,7 @@ uid: TXlsxChart.PlotArea
 description: TXlsxChart.PlotArea
 ---
 
-# TXlsxChart.PlotArea Property
+# TXlsxChart\.PlotArea Property
 
 Returns or sets the plot area definition for the chart\. Note: Setting the plot area only works in xlsx files\.
 

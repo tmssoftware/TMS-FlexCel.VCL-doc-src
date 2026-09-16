@@ -3,7 +3,7 @@ uid: ARGB.IsEmpty
 description: ARGB.IsEmpty
 ---
 
-# ARGB.IsEmpty Property
+# ARGB\.IsEmpty Property
 
 Returns true if this color is the same as [TUIColor.Empty](../TUIColor/Empty.md)
 

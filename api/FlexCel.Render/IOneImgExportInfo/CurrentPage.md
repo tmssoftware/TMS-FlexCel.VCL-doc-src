@@ -3,7 +3,7 @@ uid: IOneImgExportInfo.CurrentPage
 description: IOneImgExportInfo.CurrentPage
 ---
 
-# IOneImgExportInfo.CurrentPage Property
+# IOneImgExportInfo\.CurrentPage Property
 
 Last page printed on this sheet\.
 

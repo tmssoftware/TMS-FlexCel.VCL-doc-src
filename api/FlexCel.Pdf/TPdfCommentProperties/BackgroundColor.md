@@ -3,7 +3,7 @@ uid: TPdfCommentProperties.BackgroundColor
 description: TPdfCommentProperties.BackgroundColor
 ---
 
-# TPdfCommentProperties.BackgroundColor Property
+# TPdfCommentProperties\.BackgroundColor Property
 
 Background color for the comment\. Only visible if [CommentType](CommentType.md) is NOT Text
 

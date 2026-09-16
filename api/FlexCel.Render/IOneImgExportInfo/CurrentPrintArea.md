@@ -3,7 +3,7 @@ uid: IOneImgExportInfo.CurrentPrintArea
 description: IOneImgExportInfo.CurrentPrintArea
 ---
 
-# IOneImgExportInfo.CurrentPrintArea Property
+# IOneImgExportInfo\.CurrentPrintArea Property
 
 Area that is currently being printed\. A print area might consist in many independent areas\.
 

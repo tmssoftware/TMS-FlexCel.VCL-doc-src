@@ -3,7 +3,7 @@ uid: TAxisRangeOptions.ReverseCategories
 description: TAxisRangeOptions.ReverseCategories
 ---
 
-# TAxisRangeOptions.ReverseCategories Property
+# TAxisRangeOptions\.ReverseCategories Property
 
 True if categories should be printed in reverse order\.
 

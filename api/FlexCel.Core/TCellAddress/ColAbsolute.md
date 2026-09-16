@@ -3,7 +3,7 @@ uid: TCellAddress.ColAbsolute
 description: TCellAddress.ColAbsolute
 ---
 
-# TCellAddress.ColAbsolute Property
+# TCellAddress\.ColAbsolute Property
 
 True if the column is an absolute reference \(as in $A5\)
 

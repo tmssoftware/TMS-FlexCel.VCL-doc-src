@@ -3,7 +3,7 @@ uid: TNamedRangeExportEventArgs.Sheet
 description: TNamedRangeExportEventArgs.Sheet
 ---
 
-# TNamedRangeExportEventArgs.Sheet Property
+# TNamedRangeExportEventArgs\.Sheet Property
 
 Sheet index \(1 based\) of the html cell we are exporting\.
 

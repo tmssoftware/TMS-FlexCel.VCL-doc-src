@@ -3,7 +3,7 @@ uid: TExcelFile.HideZeroValues
 description: TExcelFile.HideZeroValues
 ---
 
-# TExcelFile.HideZeroValues Property
+# TExcelFile\.HideZeroValues Property
 
 When true number 0 will be shown as empty\. You can also set this option with [SheetOptions](SheetOptions.md) This property can work in different windows depending on the value of [ActiveWindow](ActiveWindow.md)
 

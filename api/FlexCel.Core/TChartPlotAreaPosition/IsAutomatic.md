@@ -3,7 +3,7 @@ uid: TChartPlotAreaPosition.IsAutomatic
 description: TChartPlotAreaPosition.IsAutomatic
 ---
 
-# TChartPlotAreaPosition.IsAutomatic Property
+# TChartPlotAreaPosition\.IsAutomatic Property
 
 If true, then the rectangle is calculated on the fly, and the value of [Rectangle](Rectangle.md) has no meaning\.
 

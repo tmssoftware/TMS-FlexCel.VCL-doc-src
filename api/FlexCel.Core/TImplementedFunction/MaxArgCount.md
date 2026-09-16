@@ -3,7 +3,7 @@ uid: TImplementedFunction.MaxArgCount
 description: TImplementedFunction.MaxArgCount
 ---
 
-# TImplementedFunction.MaxArgCount Property
+# TImplementedFunction\.MaxArgCount Property
 
 Maximum argument count for the function\.
 

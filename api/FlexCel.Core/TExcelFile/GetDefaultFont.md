@@ -3,7 +3,7 @@ uid: TExcelFile.GetDefaultFont
 description: TExcelFile.GetDefaultFont
 ---
 
-# TExcelFile.GetDefaultFont Property
+# TExcelFile\.GetDefaultFont Property
 
 Returns Excel standard font for an empty cell\.
 

@@ -3,7 +3,7 @@ uid: TXlsFile.PageHeader
 description: TXlsFile.PageHeader
 ---
 
-# TXlsFile.PageHeader Property
+# TXlsFile\.PageHeader Property
 
 Page header on the active sheet\.
 **Note that this property sets the same header for the all the pages\.** In Excel 2007 or newer you can set a different header for the first page, or odd/even pages\. If you want to control these options, see [TExcelFile.GetPageHeaderAndFooter](../../FlexCel.Core/TExcelFile/GetPageHeaderAndFooter.md) and [TExcelFile.SetPageHeaderAndFooter](../../FlexCel.Core/TExcelFile/SetPageHeaderAndFooter.md)\.

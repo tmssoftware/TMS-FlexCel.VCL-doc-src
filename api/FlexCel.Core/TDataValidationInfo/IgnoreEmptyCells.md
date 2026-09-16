@@ -3,7 +3,7 @@ uid: TDataValidationInfo.IgnoreEmptyCells
 description: TDataValidationInfo.IgnoreEmptyCells
 ---
 
-# TDataValidationInfo.IgnoreEmptyCells Property
+# TDataValidationInfo\.IgnoreEmptyCells Property
 
 If true Empty cells will not trigger data validation errors\.
 

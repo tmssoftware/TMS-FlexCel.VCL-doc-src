@@ -3,7 +3,7 @@ uid: IChartSeriesFillOptions.InvertedFill
 description: IChartSeriesFillOptions.InvertedFill
 ---
 
-# IChartSeriesFillOptions.InvertedFill Property
+# IChartSeriesFillOptions\.InvertedFill Property
 
 Fill style for the negative bars in bar charts, when "invert if negative" is checked\.
 

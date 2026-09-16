@@ -3,7 +3,7 @@ uid: TDrawingRelativeRect.Height
 description: TDrawingRelativeRect.Height
 ---
 
-# TDrawingRelativeRect.Height Property
+# TDrawingRelativeRect\.Height Property
 
 Bottom \- Top
 

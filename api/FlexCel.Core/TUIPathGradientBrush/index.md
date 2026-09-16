@@ -26,12 +26,12 @@ A platform\-independent Path gradient implementation\.
 
 |Name|Description|
 |---|---|
-|[Rectangle](Rectangle.md)|Rectangle that defines the gradient\.<br />|
-|[TransformElements](TransformElements.md)|Transform matrix\.<br />|
-|[IsRectangular](IsRectangular.md)|If true, this gradient is rectangular, else it is radial\.<br />|
-|[InterpolationColors](InterpolationColors.md)|Colors that define the gradient\.<br />|
-|[CenterPoint](CenterPoint.md)|Center of the gradient\.<br />|
 |[CenterColor](CenterColor.md)|Color for the center of the gradient\.<br />|
+|[CenterPoint](CenterPoint.md)|Center of the gradient\.<br />|
+|[InterpolationColors](InterpolationColors.md)|Colors that define the gradient\.<br />|
+|[IsRectangular](IsRectangular.md)|If true, this gradient is rectangular, else it is radial\.<br />|
+|[Rectangle](Rectangle.md)|Rectangle that defines the gradient\.<br />|
 |[SurroundColor](SurroundColor.md)|Colors on the ouside of the path\.<br />|
+|[TransformElements](TransformElements.md)|Transform matrix\.<br />|
 
 

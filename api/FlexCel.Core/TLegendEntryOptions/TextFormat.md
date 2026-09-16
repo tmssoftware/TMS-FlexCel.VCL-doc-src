@@ -3,7 +3,7 @@ uid: TLegendEntryOptions.TextFormat
 description: TLegendEntryOptions.TextFormat
 ---
 
-# TLegendEntryOptions.TextFormat Property
+# TLegendEntryOptions\.TextFormat Property
 
 Font to use on this particular entry\. If null, the default font for the legend box should be used\.
 

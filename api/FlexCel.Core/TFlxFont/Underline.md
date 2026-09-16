@@ -3,7 +3,7 @@ uid: TFlxFont.Underline
 description: TFlxFont.Underline
 ---
 
-# TFlxFont.Underline Property
+# TFlxFont\.Underline Property
 
 Underline type\.
 

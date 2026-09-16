@@ -3,7 +3,7 @@ uid: TConditionalFormatDefIconSet.Reverse
 description: TConditionalFormatDefIconSet.Reverse
 ---
 
-# TConditionalFormatDefIconSet.Reverse Property
+# TConditionalFormatDefIconSet\.Reverse Property
 
 If true the icons will be reversed\.
 

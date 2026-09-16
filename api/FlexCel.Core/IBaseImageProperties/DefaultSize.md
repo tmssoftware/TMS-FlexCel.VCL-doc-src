@@ -3,7 +3,7 @@ uid: IBaseImageProperties.DefaultSize
 description: IBaseImageProperties.DefaultSize
 ---
 
-# IBaseImageProperties.DefaultSize Property
+# IBaseImageProperties\.DefaultSize Property
 
 If true, the application is expected to choose the default size of the object\.
 

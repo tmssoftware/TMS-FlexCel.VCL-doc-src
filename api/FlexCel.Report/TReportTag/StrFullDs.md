@@ -3,7 +3,7 @@ uid: TReportTag.StrFullDs
 description: TReportTag.StrFullDs
 ---
 
-# TReportTag.StrFullDs Property
+# TReportTag\.StrFullDs Property
 
 "\*"
 

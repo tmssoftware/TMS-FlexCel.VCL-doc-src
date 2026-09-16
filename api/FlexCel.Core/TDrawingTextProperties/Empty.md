@@ -3,7 +3,7 @@ uid: TDrawingTextProperties.Empty
 description: TDrawingTextProperties.Empty
 ---
 
-# TDrawingTextProperties.Empty Property
+# TDrawingTextProperties\.Empty Property
 
 Returns the text attributes with the default values\.
 

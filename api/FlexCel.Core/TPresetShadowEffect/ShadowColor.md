@@ -3,7 +3,7 @@ uid: TPresetShadowEffect.ShadowColor
 description: TPresetShadowEffect.ShadowColor
 ---
 
-# TPresetShadowEffect.ShadowColor Property
+# TPresetShadowEffect\.ShadowColor Property
 
 Color for the shadow\.
 

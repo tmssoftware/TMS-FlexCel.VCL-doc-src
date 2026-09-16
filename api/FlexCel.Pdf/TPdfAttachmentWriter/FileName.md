@@ -3,7 +3,7 @@ uid: TPdfAttachmentWriter.FileName
 description: TPdfAttachmentWriter.FileName
 ---
 
-# TPdfAttachmentWriter.FileName Property
+# TPdfAttachmentWriter\.FileName Property
 
 Gets the name of the file\.
 

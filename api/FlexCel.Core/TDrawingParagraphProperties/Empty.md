@@ -3,7 +3,7 @@ uid: TDrawingParagraphProperties.Empty
 description: TDrawingParagraphProperties.Empty
 ---
 
-# TDrawingParagraphProperties.Empty Property
+# TDrawingParagraphProperties\.Empty Property
 
 Returns a paragraph with the default values\.
 

@@ -3,7 +3,7 @@ uid: ILineStyle.PenAlign
 description: ILineStyle.PenAlign
 ---
 
-# ILineStyle.PenAlign Property
+# ILineStyle\.PenAlign Property
 
 Specifies the alignment to be used for the underline stroke\. If null, default from the theme will be used\.
 

@@ -3,7 +3,7 @@ uid: TAxisTickOptions.LabelFill
 description: TAxisTickOptions.LabelFill
 ---
 
-# TAxisTickOptions.LabelFill Property
+# TAxisTickOptions\.LabelFill Property
 
 Background color of the text of labels in this axis\.
 

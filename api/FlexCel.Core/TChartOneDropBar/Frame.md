@@ -3,7 +3,7 @@ uid: TChartOneDropBar.Frame
 description: TChartOneDropBar.Frame
 ---
 
-# TChartOneDropBar.Frame Property
+# TChartOneDropBar\.Frame Property
 
 Properties for the drop bar\.
 

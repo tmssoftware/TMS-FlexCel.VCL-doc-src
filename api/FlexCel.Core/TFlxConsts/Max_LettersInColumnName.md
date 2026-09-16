@@ -3,7 +3,7 @@ uid: TFlxConsts.Max_LettersInColumnName
 description: TFlxConsts.Max_LettersInColumnName
 ---
 
-# TFlxConsts.Max_LettersInColumnName Property
+# TFlxConsts\.Max\_LettersInColumnName Property
 
 Number of letters in a column name\. This is 2 in xls97 \(columns go up to IV\) and 3 in xls2007 \(columns go up to XFD\)
 

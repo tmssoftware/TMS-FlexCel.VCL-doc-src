@@ -3,7 +3,7 @@ uid: TDrawingCoordinate.Emu
 description: TDrawingCoordinate.Emu
 ---
 
-# TDrawingCoordinate.Emu Property
+# TDrawingCoordinate\.Emu Property
 
 Value of the coordinate in EMUs \(English Metric Units\)
 

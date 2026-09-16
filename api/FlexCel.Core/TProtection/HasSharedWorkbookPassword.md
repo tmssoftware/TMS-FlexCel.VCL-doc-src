@@ -3,7 +3,7 @@ uid: TProtection.HasSharedWorkbookPassword
 description: TProtection.HasSharedWorkbookPassword
 ---
 
-# TProtection.HasSharedWorkbookPassword Property
+# TProtection\.HasSharedWorkbookPassword Property
 
 Returns true if the change history is protected with a password\.
 

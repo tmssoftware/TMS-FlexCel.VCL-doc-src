@@ -3,7 +3,7 @@ uid: TUnsupportedFormulaList.Item[const_index]
 description: TUnsupportedFormulaList.Item[const index]
 ---
 
-# TUnsupportedFormulaList.Item[const index] Property
+# TUnsupportedFormulaList\.Item\[const index\] Property
 
 Returns the items at position index\.
 

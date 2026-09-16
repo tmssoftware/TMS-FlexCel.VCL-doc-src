@@ -3,7 +3,7 @@ uid: TEffectList.Blur
 description: TEffectList.Blur
 ---
 
-# TEffectList.Blur Property
+# TEffectList\.Blur Property
 
 Blur effect\.
 

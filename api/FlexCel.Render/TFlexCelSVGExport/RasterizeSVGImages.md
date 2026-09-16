@@ -3,7 +3,7 @@ uid: TFlexCelSVGExport.RasterizeSVGImages
 description: TFlexCelSVGExport.RasterizeSVGImages
 ---
 
-# TFlexCelSVGExport.RasterizeSVGImages Property
+# TFlexCelSVGExport\.RasterizeSVGImages Property
 
 If false \(the default\) then FlexCel will export SVG images inside the Excel file as SVG images inside the generated SVG\.
 If true, FlexCel will convert the SVG images to PNG and embed the PNG inside the SVG\. This might be more accurate specially if the embedded SVG uses fonts that might not be present in the client machine\. See [S V G Files Inside Xlsx Files](xref:SVGFilesInsideXlsxFiles) for more information\.

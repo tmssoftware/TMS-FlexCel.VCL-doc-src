@@ -35,7 +35,7 @@ A fill overlay effect\.
 
 |Name|Description|
 |---|---|
-|[Fill](Fill.md)|Fill used to overlay\.<br />|
 |[Blend](Blend.md)|How the fill blends with the image\.<br />|
+|[Fill](Fill.md)|Fill used to overlay\.<br />|
 
 

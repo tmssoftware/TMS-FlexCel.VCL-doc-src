@@ -3,7 +3,7 @@ uid: THtmlSaveSharingViolationError.FileName
 description: THtmlSaveSharingViolationError.FileName
 ---
 
-# THtmlSaveSharingViolationError.FileName Property
+# THtmlSaveSharingViolationError\.FileName Property
 
 File with the sharing violation\.
 

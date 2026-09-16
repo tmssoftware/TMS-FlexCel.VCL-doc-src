@@ -3,7 +3,7 @@ uid: TExcelFile.PageHeader
 description: TExcelFile.PageHeader
 ---
 
-# TExcelFile.PageHeader Property
+# TExcelFile\.PageHeader Property
 
 Page header on the active sheet\.
 **Note that this property sets the same header for the all the pages\.** In Excel 2007 or newer you can set a different header for the first page, or odd/even pages\. If you want to control these options, see [GetPageHeaderAndFooter](GetPageHeaderAndFooter.md) and [SetPageHeaderAndFooter](SetPageHeaderAndFooter.md)\.

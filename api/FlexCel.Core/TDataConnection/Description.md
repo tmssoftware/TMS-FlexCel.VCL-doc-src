@@ -3,7 +3,7 @@ uid: TDataConnection.Description
 description: TDataConnection.Description
 ---
 
-# TDataConnection.Description Property
+# TDataConnection\.Description Property
 
 Specifies the user description for this connection\.
 

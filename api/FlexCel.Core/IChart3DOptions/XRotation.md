@@ -3,7 +3,7 @@ uid: IChart3DOptions.XRotation
 description: IChart3DOptions.XRotation
 ---
 
-# IChart3DOptions.XRotation Property
+# IChart3DOptions\.XRotation Property
 
 Specifies the amount a 3\-D chart shall be rotated in the X direction in degrees\. Must be between \-90 and 90\.
 

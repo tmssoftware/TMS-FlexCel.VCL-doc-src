@@ -3,7 +3,7 @@ uid: TFlexCelHtmlExportProgress.Row
 description: TFlexCelHtmlExportProgress.Row
 ---
 
-# TFlexCelHtmlExportProgress.Row Property
+# TFlexCelHtmlExportProgress\.Row Property
 
 The row that is being written\.
 

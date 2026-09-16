@@ -3,7 +3,7 @@ uid: TTableColumnDefinition.HeaderRowCellStyle
 description: TTableColumnDefinition.HeaderRowCellStyle
 ---
 
-# TTableColumnDefinition.HeaderRowCellStyle Property
+# TTableColumnDefinition\.HeaderRowCellStyle Property
 
 Style for the header row cell in the column, if it doesn't have a given cell style\.
 This property has more priority than the table header row cell style, but less than the cell style\.

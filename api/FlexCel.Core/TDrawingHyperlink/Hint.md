@@ -3,7 +3,7 @@ uid: TDrawingHyperlink.Hint
 description: TDrawingHyperlink.Hint
 ---
 
-# TDrawingHyperlink.Hint Property
+# TDrawingHyperlink\.Hint Property
 
 Tooltip to show when the user hovers over the hyperlink\.
 

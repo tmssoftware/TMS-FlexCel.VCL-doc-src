@@ -3,7 +3,7 @@ uid: TPngInformation.BitDepth
 description: TPngInformation.BitDepth
 ---
 
-# TPngInformation.BitDepth Property
+# TPngInformation\.BitDepth Property
 
 Bith depth of the image\.
 

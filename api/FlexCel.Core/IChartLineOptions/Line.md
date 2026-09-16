@@ -3,7 +3,7 @@ uid: IChartLineOptions.Line
 description: IChartLineOptions.Line
 ---
 
-# IChartLineOptions.Line Property
+# IChartLineOptions\.Line Property
 
 Line fill\.
 

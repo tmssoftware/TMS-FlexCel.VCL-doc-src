@@ -3,7 +3,7 @@ uid: TExcelFile.CustomTableStyleCount
 description: TExcelFile.CustomTableStyleCount
 ---
 
-# TExcelFile.CustomTableStyleCount Property
+# TExcelFile\.CustomTableStyleCount Property
 
 Returns the number of custom tables styles defined in the workbook\.
 

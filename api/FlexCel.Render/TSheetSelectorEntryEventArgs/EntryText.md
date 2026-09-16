@@ -3,7 +3,7 @@ uid: TSheetSelectorEntryEventArgs.EntryText
 description: TSheetSelectorEntryEventArgs.EntryText
 ---
 
-# TSheetSelectorEntryEventArgs.EntryText Property
+# TSheetSelectorEntryEventArgs\.EntryText Property
 
 Text that will be written in this cell of the selector\.
 

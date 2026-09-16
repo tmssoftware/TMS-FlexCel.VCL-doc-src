@@ -3,7 +3,7 @@ uid: TFlexCelReport.LoadTable
 description: TFlexCelReport.LoadTable
 ---
 
-# TFlexCelReport.LoadTable Event
+# TFlexCelReport\.LoadTable Event
 
 Fires whenever an undefined table is called, allowing to load your own datasets in demand to the report\. For more control, you might use User Tables\. Look at the example for more information\.
 
@@ -12,7 +12,7 @@ Fires whenever an undefined table is called, allowing to load your own datasets 
 
 **Unit:** [FlexCel.Report](../index.md)
 
-<pre><code class="lang-delphi hljs">property <a href="../TFlexCelReport/index.md">TFlexCelReport</a>.LoadTable: TLoadTableEventHandler</code></pre>
+<pre><code class="lang-delphi hljs">property <a href="../TFlexCelReport/index.md">TFlexCelReport</a>.LoadTable: <a href="../TLoadTableEventHandler.md">TLoadTableEventHandler</a></code></pre>
 
 ## Examples
 

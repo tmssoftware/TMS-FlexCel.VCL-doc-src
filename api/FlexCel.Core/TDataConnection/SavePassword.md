@@ -3,7 +3,7 @@ uid: TDataConnection.SavePassword
 description: TDataConnection.SavePassword
 ---
 
-# TDataConnection.SavePassword Property
+# TDataConnection\.SavePassword Property
 
 True if the password is to be saved as part of the connection string
 

@@ -3,7 +3,7 @@ uid: IShapeProperties.ShapeOptions
 description: IShapeProperties.ShapeOptions
 ---
 
-# IShapeProperties.ShapeOptions Property
+# IShapeProperties\.ShapeOptions Property
 
 A lot of personalized settings, like shadow type fill color, line type, etc\.
 

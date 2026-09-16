@@ -3,7 +3,7 @@ uid: TCategoryAxis.Max
 description: TCategoryAxis.Max
 ---
 
-# TCategoryAxis.Max Property
+# TCategoryAxis\.Max Property
 
 Maximum value for the axis, when not set to automatic in [AxisOptions](AxisOptions.md)\.
 

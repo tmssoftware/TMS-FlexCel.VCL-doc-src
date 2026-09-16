@@ -3,7 +3,7 @@ uid: TFlexCelPrintDocument.CurrentPage
 description: TFlexCelPrintDocument.CurrentPage
 ---
 
-# TFlexCelPrintDocument.CurrentPage Property
+# TFlexCelPrintDocument\.CurrentPage Property
 
 Returns the next page that we are going to print\.
 

@@ -3,7 +3,7 @@ uid: TFlxApplyFormat.WrapText
 description: TFlxApplyFormat.WrapText
 ---
 
-# TFlxApplyFormat.WrapText Property
+# TFlxApplyFormat\.WrapText Property
 
 Cell wrap\.
 

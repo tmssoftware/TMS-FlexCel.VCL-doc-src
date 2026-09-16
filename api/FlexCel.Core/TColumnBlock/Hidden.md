@@ -3,7 +3,7 @@ uid: TColumnBlock.Hidden
 description: TColumnBlock.Hidden
 ---
 
-# TColumnBlock.Hidden Property
+# TColumnBlock\.Hidden Property
 
 Returns true if the columns are hidden
 

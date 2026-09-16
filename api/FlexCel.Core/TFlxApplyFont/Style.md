@@ -3,7 +3,7 @@ uid: TFlxApplyFont.Style
 description: TFlxApplyFont.Style
 ---
 
-# TFlxApplyFont.Style Property
+# TFlxApplyFont\.Style Property
 
 Style of the font, such as bold or italics\. Underline is a different option\.
 Note that when true this applies the full style, and sets all values of [StyleEx](StyleEx.md) to true\. [StyleEx](StyleEx.md) can be used for more fine control over what styles are applied\.

@@ -3,7 +3,7 @@ uid: TUIColorBlend.Count
 description: TUIColorBlend.Count
 ---
 
-# TUIColorBlend.Count Property
+# TUIColorBlend\.Count Property
 
 Number of gradient stops in the blend definition\.
 

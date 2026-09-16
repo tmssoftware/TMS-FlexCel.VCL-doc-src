@@ -3,7 +3,7 @@ uid: TFlxConsts.MaxColCount
 description: TFlxConsts.MaxColCount
 ---
 
-# TFlxConsts.MaxColCount Property
+# TFlxConsts\.MaxColCount Property
 
 Returns the maximum number of columns that you can have in a spreadsheet\. This is the same as [Max_Columns](Max_Columns.md) \+ 1\.
 

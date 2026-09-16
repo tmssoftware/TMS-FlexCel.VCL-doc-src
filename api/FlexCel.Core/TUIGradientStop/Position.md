@@ -3,7 +3,7 @@ uid: TUIGradientStop.Position
 description: TUIGradientStop.Position
 ---
 
-# TUIGradientStop.Position Property
+# TUIGradientStop\.Position Property
 
 Position of the stop in the gradient\. Must be between 0 \(start of the gradient\) and 1 \(end of the gradient\)\.
 

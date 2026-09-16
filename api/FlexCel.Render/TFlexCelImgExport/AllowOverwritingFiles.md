@@ -3,7 +3,7 @@ uid: TFlexCelImgExport.AllowOverwritingFiles
 description: TFlexCelImgExport.AllowOverwritingFiles
 ---
 
-# TFlexCelImgExport.AllowOverwritingFiles Property
+# TFlexCelImgExport\.AllowOverwritingFiles Property
 
 Determines if FlexCel will automatically delete existing image files or not\.
 

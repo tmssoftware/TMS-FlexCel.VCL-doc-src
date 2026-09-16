@@ -3,7 +3,7 @@ uid: TFormulaSpan.IsOneCell
 description: TFormulaSpan.IsOneCell
 ---
 
-# TFormulaSpan.IsOneCell Property
+# TFormulaSpan\.IsOneCell Property
 
 Returns true if this formula spans over a single cell\. \(the most usual case\)
 

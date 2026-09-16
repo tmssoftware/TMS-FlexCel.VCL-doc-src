@@ -3,7 +3,7 @@ uid: IChartTextOptions.HAlign
 description: IChartTextOptions.HAlign
 ---
 
-# IChartTextOptions.HAlign Property
+# IChartTextOptions\.HAlign Property
 
 Horizontal alignment for the text\.
 

@@ -3,7 +3,7 @@ uid: TGetBookmarkInformationArgs.CurrentPage
 description: TGetBookmarkInformationArgs.CurrentPage
 ---
 
-# TGetBookmarkInformationArgs.CurrentPage Property
+# TGetBookmarkInformationArgs\.CurrentPage Property
 
 Page currently printing\. 0 means the global bookmark parent of all the sheets\.
 

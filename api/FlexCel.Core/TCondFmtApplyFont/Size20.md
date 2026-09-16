@@ -3,7 +3,7 @@ uid: TCondFmtApplyFont.Size20
 description: TCondFmtApplyFont.Size20
 ---
 
-# TCondFmtApplyFont.Size20 Property
+# TCondFmtApplyFont\.Size20 Property
 
 Size of the font\.
 

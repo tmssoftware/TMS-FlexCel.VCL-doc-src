@@ -3,7 +3,7 @@ uid: TFlexCelImgExport.AfterPaint
 description: TFlexCelImgExport.AfterPaint
 ---
 
-# TFlexCelImgExport.AfterPaint Event
+# TFlexCelImgExport\.AfterPaint Event
 
 Fires after the image has been drawn, allowing to modify it\.
 
@@ -12,7 +12,7 @@ Fires after the image has been drawn, allowing to modify it\.
 
 **Unit:** [FlexCel.Render](../index.md)
 
-<pre><code class="lang-delphi hljs">property <a href="../TFlexCelImgExport/index.md">TFlexCelImgExport</a>.AfterPaint: TPaintEventHandler</code></pre>
+<pre><code class="lang-delphi hljs">property <a href="../TFlexCelImgExport/index.md">TFlexCelImgExport</a>.AfterPaint: <a href="../TPaintEventHandler.md">TPaintEventHandler</a></code></pre>
 
 ## See also
 

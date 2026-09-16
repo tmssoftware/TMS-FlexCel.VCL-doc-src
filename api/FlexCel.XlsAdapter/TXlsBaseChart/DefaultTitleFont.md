@@ -3,7 +3,7 @@ uid: TXlsBaseChart.DefaultTitleFont
 description: TXlsBaseChart.DefaultTitleFont
 ---
 
-# TXlsBaseChart.DefaultTitleFont Property
+# TXlsBaseChart\.DefaultTitleFont Property
 
 Returns the default font for the Title in the chart that do not have a font defined\.
 

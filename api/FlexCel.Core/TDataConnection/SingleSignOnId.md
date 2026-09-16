@@ -3,7 +3,7 @@ uid: TDataConnection.SingleSignOnId
 description: TDataConnection.SingleSignOnId
 ---
 
-# TDataConnection.SingleSignOnId Property
+# TDataConnection\.SingleSignOnId Property
 
 Identifier for Single Sign On \(SSO\) used for authentication between an intermediate spreadsheetML server and the external data source\.
 

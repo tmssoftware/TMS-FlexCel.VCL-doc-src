@@ -3,7 +3,7 @@ uid: TProtection.OpenPassword
 description: TProtection.OpenPassword
 ---
 
-# TProtection.OpenPassword Property
+# TProtection\.OpenPassword Property
 
 Sets the password to open the file\. When set, the file will be encrypted\. On Excel go to Options\->Security to check it\.
 Set this to null to clear it\.

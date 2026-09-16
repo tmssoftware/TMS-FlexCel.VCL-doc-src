@@ -3,7 +3,7 @@ uid: TUIRectangle.Width
 description: TUIRectangle.Width
 ---
 
-# TUIRectangle.Width Property
+# TUIRectangle\.Width Property
 
 Width of the rectangle\.
 

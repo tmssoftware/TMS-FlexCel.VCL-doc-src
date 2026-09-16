@@ -3,7 +3,7 @@ uid: TDataLabelOptions.ShowSeriesName
 description: TDataLabelOptions.ShowSeriesName
 ---
 
-# TDataLabelOptions.ShowSeriesName Property
+# TDataLabelOptions\.ShowSeriesName Property
 
 If true and this label [DataType](DataType.md) is SeriesInfo, this label will display the Series name\.
 

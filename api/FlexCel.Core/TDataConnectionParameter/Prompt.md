@@ -3,7 +3,7 @@ uid: TDataConnectionParameter.Prompt
 description: TDataConnectionParameter.Prompt
 ---
 
-# TDataConnectionParameter.Prompt Property
+# TDataConnectionParameter\.Prompt Property
 
 Prompt string for the parameter\. Presented to the spreadsheet user along with input UI to collect the parameter value before refreshing the external data\.Used only when [ParameterType](ParameterType.md) = prompt\.
 

@@ -3,7 +3,7 @@ uid: TGetFontDataEventArgs.InputFont
 description: TGetFontDataEventArgs.InputFont
 ---
 
-# TGetFontDataEventArgs.InputFont Property
+# TGetFontDataEventArgs\.InputFont Property
 
 The font for which you need to return the data\.
 

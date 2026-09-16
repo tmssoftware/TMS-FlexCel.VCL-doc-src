@@ -3,7 +3,7 @@ uid: TXlsFile.ColCount
 description: TXlsFile.ColCount
 ---
 
-# TXlsFile.ColCount Property
+# TXlsFile\.ColCount Property
 
 Number of columns actually used on the active sheet, including formatted columns\.
 You will normally want to use [TExcelFile.ColCountOnlyData](../../FlexCel.Core/TExcelFile/ColCountOnlyData.md) instead\.

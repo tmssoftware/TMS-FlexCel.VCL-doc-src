@@ -3,7 +3,7 @@ uid: TStandardSheetSelectorStyles.Links
 description: TStandardSheetSelectorStyles.Links
 ---
 
-# TStandardSheetSelectorStyles.Links Property
+# TStandardSheetSelectorStyles\.Links Property
 
 Style to be applied to the links in the unselected tabs\. Note that the active tab does not have a link\.
 

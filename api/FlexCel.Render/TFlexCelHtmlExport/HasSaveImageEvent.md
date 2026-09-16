@@ -3,7 +3,7 @@ uid: TFlexCelHtmlExport.HasSaveImageEvent
 description: TFlexCelHtmlExport.HasSaveImageEvent
 ---
 
-# TFlexCelHtmlExport.HasSaveImageEvent Property
+# TFlexCelHtmlExport\.HasSaveImageEvent Property
 
 Override this property when creating your own [OnSaveImage](OnSaveImage.md) descendant\. This method should return true if there is any event attached to it\.
 

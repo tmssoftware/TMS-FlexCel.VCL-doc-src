@@ -3,7 +3,7 @@ uid: TValueAxis.AxisOptions
 description: TValueAxis.AxisOptions
 ---
 
-# TValueAxis.AxisOptions Property
+# TValueAxis\.AxisOptions Property
 
 Enumerates which of the other options contain valid values or are automatic\.
 

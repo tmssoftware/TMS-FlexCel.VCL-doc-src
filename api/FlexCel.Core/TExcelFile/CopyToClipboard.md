@@ -16,7 +16,7 @@ Copies the active sheet to a clipboard stream, on native and text formats\.
 
 ## Remarks
 
-See the copy and paste demo\.
+See the [Copy And Paste](xref:Copy_And_Paste-Delphi) demo\.
 
 ## Syntax
 
@@ -42,7 +42,7 @@ Copies the active sheet to a clipboard stream, on the format you specify\.
 
 ## Remarks
 
-See the copy and paste demo\.
+See the [Copy And Paste](xref:Copy_And_Paste-Delphi) demo\.
 
 ## Syntax
 

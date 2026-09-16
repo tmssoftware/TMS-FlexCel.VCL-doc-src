@@ -3,7 +3,7 @@ uid: TReportTag.StrFullDelete
 description: TReportTag.StrFullDelete
 ---
 
-# TReportTag.StrFullDelete Property
+# TReportTag\.StrFullDelete Property
 
 "Full"
 

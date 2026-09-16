@@ -3,7 +3,7 @@ uid: TFlexCelPreviewer.TotalPages
 description: TFlexCelPreviewer.TotalPages
 ---
 
-# TFlexCelPreviewer.TotalPages Property
+# TFlexCelPreviewer\.TotalPages Property
 
 Number of pages displaying\.
 

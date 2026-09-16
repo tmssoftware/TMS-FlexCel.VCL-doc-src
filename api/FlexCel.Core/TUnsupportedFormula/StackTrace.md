@@ -3,7 +3,7 @@ uid: TUnsupportedFormula.StackTrace
 description: TUnsupportedFormula.StackTrace
 ---
 
-# TUnsupportedFormula.StackTrace Property
+# TUnsupportedFormula\.StackTrace Property
 
 This property only has a value is the error is [TUnsupportedFormulaErrorType.CircularReference](../TUnsupportedFormulaErrorType.md)\. It contains a list of all the cells that lead to this cell having to recalculate itself\. Note that this stack is limited to the last [TExcelFile.CellStackTraceMaxSize](../TExcelFile/CellStackTraceMaxSize.md) elements to avoid consuming too much memory\.
 

@@ -3,7 +3,7 @@ uid: TFlexCelHtmlExport.HtmlFont
 description: TFlexCelHtmlExport.HtmlFont
 ---
 
-# TFlexCelHtmlExport.HtmlFont Event
+# TFlexCelHtmlExport\.HtmlFont Event
 
 Use this event to customize the fonts used in the exported file\.
 
@@ -12,7 +12,7 @@ Use this event to customize the fonts used in the exported file\.
 
 **Unit:** [FlexCel.Render](../index.md)
 
-<pre><code class="lang-delphi hljs">property <a href="../TFlexCelHtmlExport/index.md">TFlexCelHtmlExport</a>.HtmlFont: THtmlFontEventHandler</code></pre>
+<pre><code class="lang-delphi hljs">property <a href="../TFlexCelHtmlExport/index.md">TFlexCelHtmlExport</a>.HtmlFont: <a href="../../FlexCel.Core/THtmlFontEventHandler.md">THtmlFontEventHandler</a></code></pre>
 
 ## See also
 

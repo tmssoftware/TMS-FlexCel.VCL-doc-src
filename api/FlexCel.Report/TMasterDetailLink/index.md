@@ -33,8 +33,8 @@ A parent table and a parent field used on a master\-detail relationship\.
 
 |Name|Description|
 |---|---|
+|[ChildFieldName](ChildFieldName.md)|Column name on the detail dataset that is related with [ParentField](ParentField.md)|
 |[ParentDataSource](ParentDataSource.md)|A table that is acting as a master on a master detail relationship\.<br />|
 |[ParentField](ParentField.md)|Column index of the key that acts as primary key on the relationship\.<br />|
-|[ChildFieldName](ChildFieldName.md)|Column name on the detail dataset that is related with [ParentField](ParentField.md)|
 
 

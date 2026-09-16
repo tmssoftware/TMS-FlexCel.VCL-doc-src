@@ -3,7 +3,7 @@ uid: IBaseImageProperties.Grayscale
 description: IBaseImageProperties.Grayscale
 ---
 
-# IBaseImageProperties.Grayscale Property
+# IBaseImageProperties\.Grayscale Property
 
 Image should be displayed in grayscale\.
 

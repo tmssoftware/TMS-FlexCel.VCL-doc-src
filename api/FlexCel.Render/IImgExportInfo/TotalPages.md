@@ -3,7 +3,7 @@ uid: IImgExportInfo.TotalPages
 description: IImgExportInfo.TotalPages
 ---
 
-# IImgExportInfo.TotalPages Property
+# IImgExportInfo\.TotalPages Property
 
 Total pages to print for all the sheets\.
 

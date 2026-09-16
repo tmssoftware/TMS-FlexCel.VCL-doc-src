@@ -3,7 +3,7 @@ uid: TReflectionEffect.ShadowAlignment
 description: TReflectionEffect.ShadowAlignment
 ---
 
-# TReflectionEffect.ShadowAlignment Property
+# TReflectionEffect\.ShadowAlignment Property
 
 Shadow Alignment\.
 

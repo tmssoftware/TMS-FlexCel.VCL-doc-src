@@ -3,7 +3,7 @@ uid: IShapeProperties.ObjectPathAbsolute
 description: IShapeProperties.ObjectPathAbsolute
 ---
 
-# IShapeProperties.ObjectPathAbsolute Property
+# IShapeProperties\.ObjectPathAbsolute Property
 
 Use this string to identify the shape when it is not the first on the hierarchy\.
 For Example, imagine you have a Group Shape A with 2 children, B and C\.

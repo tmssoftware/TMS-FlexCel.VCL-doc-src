@@ -3,7 +3,7 @@ uid: TFlexCelHtmlExport.Workbook
 description: TFlexCelHtmlExport.Workbook
 ---
 
-# TFlexCelHtmlExport.Workbook Property
+# TFlexCelHtmlExport\.Workbook Property
 
 The ExcelFile to export\.
 

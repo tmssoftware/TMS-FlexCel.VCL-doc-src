@@ -3,7 +3,7 @@ uid: TPrintPageEventArgs.CurrentPageInSheet
 description: TPrintPageEventArgs.CurrentPageInSheet
 ---
 
-# TPrintPageEventArgs.CurrentPageInSheet Property
+# TPrintPageEventArgs\.CurrentPageInSheet Property
 
 Page currently printing on the sheet printing\.
 

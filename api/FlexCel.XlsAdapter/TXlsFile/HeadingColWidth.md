@@ -3,7 +3,7 @@ uid: TXlsFile.HeadingColWidth
 description: TXlsFile.HeadingColWidth
 ---
 
-# TXlsFile.HeadingColWidth Property
+# TXlsFile\.HeadingColWidth Property
 
 Width that will be used by the added column with row numbers when [TExcelFile.PrintHeadings](../../FlexCel.Core/TExcelFile/PrintHeadings.md) is true\.
 The default value \(0\) means to use an automatic value which is fine if you don't have too many rows to print\.

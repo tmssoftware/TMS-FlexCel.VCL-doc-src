@@ -3,7 +3,7 @@ uid: TPageEventArgs.PdfExport
 description: TPageEventArgs.PdfExport
 ---
 
-# TPageEventArgs.PdfExport Property
+# TPageEventArgs\.PdfExport Property
 
 The FlexCelPdfExport component doing the export\.
 

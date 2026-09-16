@@ -3,7 +3,7 @@ uid: TChartSeriesMiscOptions.SmoothedLines
 description: TChartSeriesMiscOptions.SmoothedLines
 ---
 
-# TChartSeriesMiscOptions.SmoothedLines Property
+# TChartSeriesMiscOptions\.SmoothedLines Property
 
 Lines should be smoothed \(line and scatter charts\)\.
 

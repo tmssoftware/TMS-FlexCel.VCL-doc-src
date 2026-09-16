@@ -3,7 +3,7 @@ uid: IShapeProperties.ObjectPathShapeId
 description: IShapeProperties.ObjectPathShapeId
 ---
 
-# IShapeProperties.ObjectPathShapeId Property
+# IShapeProperties\.ObjectPathShapeId Property
 
 Returns the object path as a shape id\. This is used mostly internally\.
 

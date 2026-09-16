@@ -3,7 +3,7 @@ uid: TXmlMapSchema.Id
 description: TXmlMapSchema.Id
 ---
 
-# TXmlMapSchema.Id Property
+# TXmlMapSchema\.Id Property
 
 Identifies the schema collection used to define a particular XML map object\.
 

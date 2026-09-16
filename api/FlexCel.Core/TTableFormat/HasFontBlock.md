@@ -3,7 +3,7 @@ uid: TTableFormat.HasFontBlock
 description: TTableFormat.HasFontBlock
 ---
 
-# TTableFormat.HasFontBlock Property
+# TTableFormat\.HasFontBlock Property
 
 Returns true if any font formatting is applied
 

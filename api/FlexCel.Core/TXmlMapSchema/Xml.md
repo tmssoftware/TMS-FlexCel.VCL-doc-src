@@ -3,7 +3,7 @@ uid: TXmlMapSchema.Xml
 description: TXmlMapSchema.Xml
 ---
 
-# TXmlMapSchema.Xml Property
+# TXmlMapSchema\.Xml Property
 
 Actual XML defining the schema\.
 

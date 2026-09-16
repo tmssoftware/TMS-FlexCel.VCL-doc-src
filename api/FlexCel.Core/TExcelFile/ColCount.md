@@ -3,7 +3,7 @@ uid: TExcelFile.ColCount
 description: TExcelFile.ColCount
 ---
 
-# TExcelFile.ColCount Property
+# TExcelFile\.ColCount Property
 
 Number of columns actually used on the active sheet, including formatted columns\.
 You will normally want to use [ColCountOnlyData](ColCountOnlyData.md) instead\.

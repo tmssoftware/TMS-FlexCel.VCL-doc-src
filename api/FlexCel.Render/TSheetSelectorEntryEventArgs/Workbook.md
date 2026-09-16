@@ -3,7 +3,7 @@ uid: TSheetSelectorEntryEventArgs.Workbook
 description: TSheetSelectorEntryEventArgs.Workbook
 ---
 
-# TSheetSelectorEntryEventArgs.Workbook Property
+# TSheetSelectorEntryEventArgs\.Workbook Property
 
 ExcelFile we are drawing the sheet selector in, positioned in the sheet that we are rendering\.
 Make sure if you modify ActiveSheet of this instance to restore it back to the original value before exiting the event\.

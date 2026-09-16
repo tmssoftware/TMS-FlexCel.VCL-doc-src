@@ -3,7 +3,7 @@ uid: TAdaptativeFormats.Separators
 description: TAdaptativeFormats.Separators
 ---
 
-# TAdaptativeFormats.Separators Property
+# TAdaptativeFormats\.Separators Property
 
 An array of positions and characters that must be used to pad the string\. In this field you have the the "\_" and "?" numeric format delimiters from Excel\.
 The spaces at the positions in the position array should have the width of the character specified in this field\.

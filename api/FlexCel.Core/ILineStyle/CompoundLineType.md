@@ -3,7 +3,7 @@ uid: ILineStyle.CompoundLineType
 description: ILineStyle.CompoundLineType
 ---
 
-# ILineStyle.CompoundLineType Property
+# ILineStyle\.CompoundLineType Property
 
 Compound line style\. If null, default from the theme will be used\.
 

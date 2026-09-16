@@ -3,7 +3,7 @@ uid: TBookmark.TextColor
 description: TBookmark.TextColor
 ---
 
-# TBookmark.TextColor Property
+# TBookmark\.TextColor Property
 
 Text color for the bookmark entry\.
 

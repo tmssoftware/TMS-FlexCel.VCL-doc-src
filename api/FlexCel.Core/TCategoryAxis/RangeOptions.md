@@ -3,7 +3,7 @@ uid: TCategoryAxis.RangeOptions
 description: TCategoryAxis.RangeOptions
 ---
 
-# TCategoryAxis.RangeOptions Property
+# TCategoryAxis\.RangeOptions Property
 
 Options for the range of this axis\.
 

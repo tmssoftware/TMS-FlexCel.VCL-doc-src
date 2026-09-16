@@ -3,7 +3,7 @@ uid: TPdfWriter.Compress
 description: TPdfWriter.Compress
 ---
 
-# TPdfWriter.Compress Property
+# TPdfWriter\.Compress Property
 
 Set it to true to compress the text on the generated pdf file\.
 

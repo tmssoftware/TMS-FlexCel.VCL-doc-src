@@ -3,7 +3,7 @@ uid: TDataLabelOptions.Deleted
 description: TDataLabelOptions.Deleted
 ---
 
-# TDataLabelOptions.Deleted Property
+# TDataLabelOptions\.Deleted Property
 
 If true, this label has been manually deleted by the user and should not be displayed\.
 

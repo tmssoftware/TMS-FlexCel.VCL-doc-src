@@ -26,8 +26,8 @@ A list of options for the legend on the whole series and for specific data point
 |Name|Description|
 |---|---|
 |[Add](Add.md)|Adds a new option to the list\. If the option is null, nothing will be done\.<br />|
-|[GetValues](GetValues.md)|Gets all the values of the series\.<br />|
 |[GetEnumerator](GetEnumerator.md)|Gets the enumerator for this class\.<br />|
+|[GetValues](GetValues.md)|Gets all the values of the series\.<br />|
 
 
 ## Properties

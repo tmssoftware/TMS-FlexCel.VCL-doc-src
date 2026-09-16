@@ -3,7 +3,7 @@ uid: TExcelFile.PrintXResolution
 description: TExcelFile.PrintXResolution
 ---
 
-# TExcelFile.PrintXResolution Property
+# TExcelFile\.PrintXResolution Property
 
 Horizontal printer resolution on DPI\.
 

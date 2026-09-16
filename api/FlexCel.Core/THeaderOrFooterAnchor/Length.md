@@ -3,7 +3,7 @@ uid: THeaderOrFooterAnchor.Length
 description: THeaderOrFooterAnchor.Length
 ---
 
-# THeaderOrFooterAnchor.Length Property
+# THeaderOrFooterAnchor\.Length Property
 
 Length of the Serialized array\.
 

@@ -3,7 +3,7 @@ uid: IChartSeries.DataValuesHidden
 description: IChartSeries.DataValuesHidden
 ---
 
-# IChartSeries.DataValuesHidden Property
+# IChartSeries\.DataValuesHidden Property
 
 True if all the DataValues are from hidden cells\. When this is true, the length of [DataValues](DataValues.md) is 0\.
 

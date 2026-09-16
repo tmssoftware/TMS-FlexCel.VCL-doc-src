@@ -3,7 +3,7 @@ uid: IShapeProperties.TextHorizontalAlignment
 description: IShapeProperties.TextHorizontalAlignment
 ---
 
-# IShapeProperties.TextHorizontalAlignment Property
+# IShapeProperties\.TextHorizontalAlignment Property
 
 This property gets or sets the horizontal alignment for the text\.
 

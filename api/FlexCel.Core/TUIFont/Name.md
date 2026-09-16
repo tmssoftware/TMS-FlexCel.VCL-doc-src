@@ -3,7 +3,7 @@ uid: TUIFont.Name
 description: TUIFont.Name
 ---
 
-# TUIFont.Name Property
+# TUIFont\.Name Property
 
 Name of the font\.
 

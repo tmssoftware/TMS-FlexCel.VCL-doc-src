@@ -3,7 +3,7 @@ uid: TPdfVisibleSignature.Page
 description: TPdfVisibleSignature.Page
 ---
 
-# TPdfVisibleSignature.Page Property
+# TPdfVisibleSignature\.Page Property
 
 Page where the signature will go\. \(1 based\)\. Use 0 to place the signature at the last page\.
 

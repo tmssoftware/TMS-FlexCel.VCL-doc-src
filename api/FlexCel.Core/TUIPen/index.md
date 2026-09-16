@@ -26,13 +26,13 @@ A pen used to draw into a canvas\.
 |Name|Description|
 |---|---|
 |[Color](Color.md)|Gets or sets the color of the pen\.<br />|
-|[Width](Width.md)|Gets or sets the width of the pen\.<br />|
 |[DashStyle](DashStyle.md)|Gets or sets the style of the pen\.<br />|
+|[HeadArrow](HeadArrow.md)|Defines a start arrow for the lines\.<br />|
 |[LineCap](LineCap.md)|Gets or sets the line cap of the pen\.<br />|
 |[LineJoin](LineJoin.md)|Gets or sets the line join for the pen\.<br />|
 |[MiterLimit](MiterLimit.md)|Gets or sets the miter limit for the pen\.<br />|
-|[HeadArrow](HeadArrow.md)|Defines a start arrow for the lines\.<br />|
 |[TailArrow](TailArrow.md)|Defines a start arrow for the lines\.<br />|
+|[Width](Width.md)|Gets or sets the width of the pen\.<br />|
 |[Zoom100](Zoom100.md)|Zoom used in the page\. This is used to calculate the minimum arrow size\.<br />|
 
 

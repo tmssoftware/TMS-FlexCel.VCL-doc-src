@@ -3,7 +3,7 @@ uid: TDataConnectionTextImportProperties.SourceFile
 description: TDataConnectionTextImportProperties.SourceFile
 ---
 
-# TDataConnectionTextImportProperties.SourceFile Property
+# TDataConnectionTextImportProperties\.SourceFile Property
 
 Path to the text file to use to import external data\. Can be expressed in URI or systemspecific file path notation\.
 

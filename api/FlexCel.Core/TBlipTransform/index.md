@@ -25,8 +25,8 @@ Represents a simple transformation applied to an image\. You should use the desc
 
 |Name|Description|
 |---|---|
-|[CompareStrings](CompareStrings.md)|Compares 2 strings\.<br />|
 |[Clone](Clone.md)|Creates a deep copy of the object\.<br />|
+|[CompareStrings](CompareStrings.md)|Compares 2 strings\.<br />|
 |[CompareTo](CompareTo.md)|Compares two instances\.<br />|
 |[Equals](Equals.md)|Returns true if both objects have the same contents\.<br />|
 |[GetHashCode](GetHashCode.md)|Returns the hashcode of the object\.<br />|

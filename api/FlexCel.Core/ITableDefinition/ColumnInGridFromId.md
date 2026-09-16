@@ -5,7 +5,7 @@ description: ITableDefinition.ColumnInGridFromId
 
 # ITableDefinition\.ColumnInGridFromId Method
 
-Returns the position int the Excel grid for a column id\. So for example if the table starts at column 10 in Excel, and aId is the second column of the table, this method will return 11\. If the id doesn't exists, this method will return \-1\.
+Returns the position in the Excel grid for a column id\. So, for example, if the table starts at column 10 in Excel, and aId is the second column of the table, this method will return 11\. If the id doesn't exist, this method will return \-1\.
 
 
 ## Syntax

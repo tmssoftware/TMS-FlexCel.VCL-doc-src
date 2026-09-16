@@ -3,7 +3,7 @@ uid: TConditionalFormat.Rules
 description: TConditionalFormat.Rules
 ---
 
-# TConditionalFormat.Rules Property
+# TConditionalFormat\.Rules Property
 
 List of rules that will be applied to the cells\.
 

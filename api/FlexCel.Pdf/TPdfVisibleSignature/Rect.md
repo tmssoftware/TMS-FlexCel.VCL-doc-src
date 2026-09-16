@@ -3,7 +3,7 @@ uid: TPdfVisibleSignature.Rect
 description: TPdfVisibleSignature.Rect
 ---
 
-# TPdfVisibleSignature.Rect Property
+# TPdfVisibleSignature\.Rect Property
 
 Rectangle where the signature will go in the page\. It is measured in points \(1/72 of an inch\) from the left lower corner of the page\.
 

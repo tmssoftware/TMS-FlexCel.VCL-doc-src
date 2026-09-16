@@ -3,7 +3,7 @@ uid: TTokenCellRange.Sheet2
 description: TTokenCellRange.Sheet2
 ---
 
-# TTokenCellRange.Sheet2 Property
+# TTokenCellRange\.Sheet2 Property
 
 Second sheet where the reference points to\. Empty or null if the reference points to the same sheet\.
 

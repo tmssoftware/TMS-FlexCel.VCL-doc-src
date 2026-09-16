@@ -25,7 +25,7 @@ Arguments passed in the event\.
 
 |Name|Description|
 |---|---|
-|[SheetNames](SheetNames.md)|A list with all the sheets available in the file\.<br />|
 |[NextSheet](NextSheet.md)|This is the next sheet that will be read by FlexCel\. You can change it to start reading the file by a different sheet, or set it to empty or null to finish reading the file\.<br />|
+|[SheetNames](SheetNames.md)|A list with all the sheets available in the file\.<br />|
 
 

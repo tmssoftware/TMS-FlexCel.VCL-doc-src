@@ -3,7 +3,7 @@ uid: TFlexCelConfig.DpiForImages
 description: TFlexCelConfig.DpiForImages
 ---
 
-# TFlexCelConfig.DpiForImages Property
+# TFlexCelConfig\.DpiForImages Property
 
 Allows you to change the dpi for vector images \(metafiles\) when they are rasterized for converting to pdf / HTML / etc\. Note that this is a static setting and will affect all files\. This setting is the same as TExcelFile\.DpiForImages
 

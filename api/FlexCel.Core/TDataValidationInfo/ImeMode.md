@@ -3,7 +3,7 @@ uid: TDataValidationInfo.ImeMode
 description: TDataValidationInfo.ImeMode
 ---
 
-# TDataValidationInfo.ImeMode Property
+# TDataValidationInfo\.ImeMode Property
 
 The IME \(input method editor\) mode enforced by this data validation\.
 

@@ -3,7 +3,7 @@ uid: TReportTag.StrAlignTop
 description: TReportTag.StrAlignTop
 ---
 
-# TReportTag.StrAlignTop Property
+# TReportTag\.StrAlignTop Property
 
 "Top"
 

@@ -35,17 +35,17 @@ Defines a format of the databars in a conditional format\.
 
 |Name|Description|
 |---|---|
-|[MinLengthValue](MinLengthValue.md)|A condition that specifies the value that corresponds with the minimum length of the databar\.<br />|
-|[MaxLengthValue](MaxLengthValue.md)|A condition that specifies the value that corresponds with the maximum length of the databar\.<br />|
+|[AxisPosition](AxisPosition.md)|Position for the axis\.<br />|
 |[Colors](Colors.md)|Colors that define the databar\.<br />|
-|[MinBarWidth](MinBarWidth.md)|The minimum length of the data bar, as a percentage of the cell width\.<br />|
-|[MaxBarWidth](MaxBarWidth.md)|The maximum length of the data bar, as a percentage of the cell width\.<br />|
-|[ShowValues](ShowValues.md)|If true, we will show the values in the cell where the databar is\.<br />|
+|[Direction](Direction.md)|Direction of the databar\.<br />|
 |[HasBorders](HasBorders.md)|If true the databar has a border\.<br />|
 |[IsGradient](IsGradient.md)|If true the fill will be a gradient, otherwise it will be a solid color\.<br />|
-|[Direction](Direction.md)|Direction of the databar\.<br />|
-|[IsNegativeBar&#8203;Color&#8203;Same&#8203;AsPositive](IsNegativeBarColorSameAsPositive.md)|If true, the negative bars have the same color as the positives\.<br />|
 |[IsNegativeBar&#8203;Border&#8203;Color&#8203;Same&#8203;AsPositive](IsNegativeBarBorderColorSameAsPositive.md)|If true, the borders of the negative bars are the same color as the positives\.<br />|
-|[AxisPosition](AxisPosition.md)|Position for the axis\.<br />|
+|[IsNegativeBar&#8203;Color&#8203;Same&#8203;AsPositive](IsNegativeBarColorSameAsPositive.md)|If true, the negative bars have the same color as the positives\.<br />|
+|[MaxBarWidth](MaxBarWidth.md)|The maximum length of the data bar, as a percentage of the cell width\.<br />|
+|[MaxLengthValue](MaxLengthValue.md)|A condition that specifies the value that corresponds with the maximum length of the databar\.<br />|
+|[MinBarWidth](MinBarWidth.md)|The minimum length of the data bar, as a percentage of the cell width\.<br />|
+|[MinLengthValue](MinLengthValue.md)|A condition that specifies the value that corresponds with the minimum length of the databar\.<br />|
+|[ShowValues](ShowValues.md)|If true, we will show the values in the cell where the databar is\.<br />|
 
 

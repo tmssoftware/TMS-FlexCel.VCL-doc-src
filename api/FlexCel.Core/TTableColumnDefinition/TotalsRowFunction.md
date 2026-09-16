@@ -3,7 +3,7 @@ uid: TTableColumnDefinition.TotalsRowFunction
 description: TTableColumnDefinition.TotalsRowFunction
 ---
 
-# TTableColumnDefinition.TotalsRowFunction Property
+# TTableColumnDefinition\.TotalsRowFunction Property
 
 An enumeration that specifies what function is used to aggregate the data in a column\.
 When set to custom, the value in [TotalsRowFormula](TotalsRowFormula.md) is used instead\.

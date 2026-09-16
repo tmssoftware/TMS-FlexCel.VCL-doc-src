@@ -3,7 +3,7 @@ uid: THyperLink.LinkType
 description: THyperLink.LinkType
 ---
 
-# THyperLink.LinkType Property
+# THyperLink\.LinkType Property
 
 The type of hyperlink: to a local file, to a url, to a cell or to a networked file\.
 

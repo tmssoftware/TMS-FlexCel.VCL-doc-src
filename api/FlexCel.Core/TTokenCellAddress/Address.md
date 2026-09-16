@@ -3,7 +3,7 @@ uid: TTokenCellAddress.Address
 description: TTokenCellAddress.Address
 ---
 
-# TTokenCellAddress.Address Property
+# TTokenCellAddress\.Address Property
 
 Cell address where this reference points to\.
 

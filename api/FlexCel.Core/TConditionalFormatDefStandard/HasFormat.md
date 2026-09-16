@@ -3,7 +3,7 @@ uid: TConditionalFormatDefStandard.HasFormat
 description: TConditionalFormatDefStandard.HasFormat
 ---
 
-# TConditionalFormatDefStandard.HasFormat Property
+# TConditionalFormatDefStandard\.HasFormat Property
 
 Returns true if any format is applied\.
 

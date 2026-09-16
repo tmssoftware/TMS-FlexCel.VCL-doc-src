@@ -3,7 +3,7 @@ uid: TVirtualDataTable.CreatedBy
 description: TVirtualDataTable.CreatedBy
 ---
 
-# TVirtualDataTable.CreatedBy Property
+# TVirtualDataTable\.CreatedBy Property
 
 Returns the table that created this one \(by a filter, distinct, etc\), or null if this table  was not created from another VirtualDataTable\.
 

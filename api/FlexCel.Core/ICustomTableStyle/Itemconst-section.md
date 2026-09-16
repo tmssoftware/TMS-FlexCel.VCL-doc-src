@@ -3,7 +3,7 @@ uid: ICustomTableStyle.Item[const_section]
 description: ICustomTableStyle.Item[const section]
 ---
 
-# ICustomTableStyle.Item[const section] Property
+# ICustomTableStyle\.Item\[const section\] Property
 
 Returns the format for a given section of the table\.
 If the value is null, this means no format is applied to that section\.

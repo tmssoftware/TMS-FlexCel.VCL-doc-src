@@ -3,7 +3,7 @@ uid: TExcelFile.StyleCount
 description: TExcelFile.StyleCount
 ---
 
-# TExcelFile.StyleCount Property
+# TExcelFile\.StyleCount Property
 
 Returns the number of named styles in the file\.
 

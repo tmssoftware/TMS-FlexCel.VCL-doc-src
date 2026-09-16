@@ -35,11 +35,11 @@ This class has the different "Page View" modes that you can choose in Excel, ad 
 
 |Name|Description|
 |---|---|
-|[ViewType](ViewType.md)|Active view mode\.<br />|
-|[ShowWhitespace](ShowWhitespace.md)|If true, when in Page Layout mode Excel will show whitespace between sheets\.<br />|
 |[ShowRulers](ShowRulers.md)|If true, Excel will show rulers when in Page Layout mode\.<br />|
+|[ShowWhitespace](ShowWhitespace.md)|If true, when in Page Layout mode Excel will show whitespace between sheets\.<br />|
+|[ViewType](ViewType.md)|Active view mode\.<br />|
 |[ZoomNormal](ZoomNormal.md)|Zoom for when we are in normal mode\. It must be 0, or a value between 10 and 400\. Zero means to use the default zoom\.<br />|
-|[ZoomPageLayout](ZoomPageLayout.md)|Zoom for when we are in Page Layout mode\. It must be 0, or a value between 10 and 400\. Zero means to use the default zoom\.<br />|
 |[ZoomPageBreakPreview](ZoomPageBreakPreview.md)|Zoom for when we are in Page Break Preview mode\. It must be 0, or a value between 10 and 400\. Zero means to use the default zoom which is 60%% for Excel 2013\.<br />|
+|[ZoomPageLayout](ZoomPageLayout.md)|Zoom for when we are in Page Layout mode\. It must be 0, or a value between 10 and 400\. Zero means to use the default zoom\.<br />|
 
 

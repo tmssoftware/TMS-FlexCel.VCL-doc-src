@@ -3,7 +3,7 @@ uid: TExcelFile.ShowFormulaText
 description: TExcelFile.ShowFormulaText
 ---
 
-# TExcelFile.ShowFormulaText Property
+# TExcelFile\.ShowFormulaText Property
 
 When true, the formula text will be displayed instead of the formula value\. You can also set this option with [SheetOptions](SheetOptions.md) This property can work in different windows depending on the value of [ActiveWindow](ActiveWindow.md)
 

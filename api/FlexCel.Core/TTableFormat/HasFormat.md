@@ -3,7 +3,7 @@ uid: TTableFormat.HasFormat
 description: TTableFormat.HasFormat
 ---
 
-# TTableFormat.HasFormat Property
+# TTableFormat\.HasFormat Property
 
 Returns true if any format is applied\.
 

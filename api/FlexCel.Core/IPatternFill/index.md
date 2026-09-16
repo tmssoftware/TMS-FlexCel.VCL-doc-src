@@ -18,8 +18,8 @@ Shapes are filled with a texture\.
 
 |Name|Description|
 |---|---|
-|[FgColor](FgColor.md)|Foreground color of a pattern fill\.<br />|
 |[BgColor](BgColor.md)|Background color of a Pattern fill\.<br />|
+|[FgColor](FgColor.md)|Foreground color of a pattern fill\.<br />|
 |[Pattern](Pattern.md)|Type of hatching\.<br />|
 
 

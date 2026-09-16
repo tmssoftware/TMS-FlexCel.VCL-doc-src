@@ -3,7 +3,7 @@ uid: TDrawingRelativeRect.Right
 description: TDrawingRelativeRect.Right
 ---
 
-# TDrawingRelativeRect.Right Property
+# TDrawingRelativeRect\.Right Property
 
 Percentage of the right coordinate\. Might be negative\.
 

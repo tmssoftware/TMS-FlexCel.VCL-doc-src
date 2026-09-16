@@ -3,7 +3,7 @@ uid: ICommentProperties.Hidden
 description: ICommentProperties.Hidden
 ---
 
-# ICommentProperties.Hidden Property
+# ICommentProperties\.Hidden Property
 
 If true, the comment box will be hidden \(this is the default\)\.
 

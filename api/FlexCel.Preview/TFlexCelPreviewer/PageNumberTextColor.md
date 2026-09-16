@@ -3,7 +3,7 @@ uid: TFlexCelPreviewer.PageNumberTextColor
 description: TFlexCelPreviewer.PageNumberTextColor
 ---
 
-# TFlexCelPreviewer.PageNumberTextColor Property
+# TFlexCelPreviewer\.PageNumberTextColor Property
 
 Text color for the page number in the thumbnail view\.
 

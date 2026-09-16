@@ -3,7 +3,7 @@ uid: TExcelFile.SheetTabColor
 description: TExcelFile.SheetTabColor
 ---
 
-# TExcelFile.SheetTabColor Property
+# TExcelFile\.SheetTabColor Property
 
 Reads/Writes the color of the current sheet tab\. [TExcelColor.Automatic](../TExcelColor/Automatic.md) to specify no color\.
 

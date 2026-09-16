@@ -3,7 +3,7 @@ uid: TSVGExportParameters.Description
 description: TSVGExportParameters.Description
 ---
 
-# TSVGExportParameters.Description Property
+# TSVGExportParameters\.Description Property
 
 Description to be saved with the image\. If null or empty, the svg image will have no description tag\.
 
